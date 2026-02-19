@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": 0,
-      "place": "The House of Spiders Rooftop",
+      "place": "Tầng Thượng Nhà Nhện",
       "model": "검지아비",
-      "content": "Sweetie."
+      "content": "Con yêu của ta."
     },
     {
       "id": 1,
       "model": "검지아비",
-      "content": "Subjectively speaking, let me say that you are far more beautiful now than you were earlier. But..."
+      "content": "Xét trên phương diện cá nhân, cha phải nói rằng bây giờ con đẹp hơn rất nhiều so với trước kia. Nhưng…"
     },
     {
       "id": 2,
       "model": "검지아비",
-      "content": "... do you have any idea what you just lost... What you just let go?"
+      "content": " … con có biết mình vừa đánh mất điều gì không… Con có biết mình vừa tự tay buông bỏ thứ gì không?"
     },
     {
       "id": 3,
@@ -23,78 +23,78 @@
     },
     {
       "id": 4,
-      "content": "Ryōshū has crawled out from the depths of hell, bringing herself up solely by a spider's thread."
+      "content": "Ryōshū bò ra khỏi vực sâu địa ngục, chỉ tự kéo mình lên bằng một sợi tơ nhện."
     },
     {
       "id": 5,
-      "content": "She emerges, her fingers around the scabbard closed from all that leaves and lives."
+      "content": "Cô bước ra, các ngón tay siết chặt vào bao kiếm, thứ mà đã khép lại mọi sinh linh và sự sống."
     },
     {
       "id": 6,
       "model": "검지아비",
-      "content": "You sent away the most precious thing in the world with your own hands."
+      "content": "Con đã tự tay xua đi thứ quý giá nhất trên đời."
     },
     {
       "id": 7,
       "model": "검지아비",
-      "content": "Everything that made up that child... has now been cut away because of you."
+      "content": "Mọi thứ từng tạo nên đứa trẻ đó… giờ đều đã bị chính con cắt bỏ."
     },
     {
       "id": 8,
       "model": "검지아비",
-      "content": "What you returned here for, what you wished to protect, what you longed to meet again..."
+      "content": "Vì lẽ gì con quay lại, vì điều gì con muốn chở che, và vì ai con mong ngày tái ngộ…"
     },
     {
       "id": 9,
       "model": "검지아비",
-      "content": "All of it is gone now. You have nothing left."
+      "content": "Tất cả giờ đây đều đã biến mất. Con chẳng còn lại gì cả."
     },
     {
       "id": 10,
       "model": "검지아비",
-      "content": "We on the outside, we still remember... But ironically, it was within yourself that it all passed into oblivion."
+      "content": "Những kẻ ngoài cuộc như cha, vẫn hoài ghi nhớ... Nhưng trớ trêu thay, chính trong con, tất cả đã rơi vào quên lãng."
     },
     {
       "id": 11,
       "model": "료슈9장이후노담배",
-      "content": "Right."
+      "content": "Phải."
     },
     {
       "id": 12,
       "model": "료슈9장이후노담배",
-      "content": "I've lost... everything."
+      "content": "Tôi đã mất đi… tất cả."
     },
     {
       "id": 13,
       "model": "단테",
-      "content": "<That's not true, Ryōshū.>"
+      "content": " <Không đúng đâu, Ryōshū.>"
     },
     {
       "id": 14,
       "model": "단테",
-      "content": "<You're still holding it in your hand.>"
+      "content": "<Cô vẫn đang nắm nó trong tay mà.>"
     },
     {
       "id": 15,
-      "content": "Ryōshū slowly opens her fist..."
+      "content": "Ryōshū chậm rãi nới lỏng nắm tay... "
     },
     {
       "id": 16,
-      "content": "... as if she wasn't aware she'd been clenching it."
+      "content": "… như thể chính cô cũng chẳng hề hay biết mình đã ghì chặt nó bấy lâu. "
     },
     {
       "id": 17,
-      "content": "Resting in her palm, the scabbard presses against her skin, its shape and weight filling her senses."
+      "content": "Nằm lặng yên trong lòng bàn tay cô, cái bao kiếm hằn sâu lên da thịt, hình dáng và sức nặng của nó lấp đầy mọi giác quan."
     },
     {
       "id": 18,
       "model": "료슈9장이후노담배",
-      "content": "... The more you treasure something,"
+      "content": " … Càng trân quý thứ gì,"
     },
     {
       "id": 19,
       "model": "료슈9장이후노담배",
-      "content": "the less of it you ought to keep—just enough to fit within your hands."
+      "content": " càng chẳng nên giữ lại nhiều—chỉ cần vừa vặn trong đôi bàn tay là đủ."
     },
     {
       "id": 20,
@@ -104,157 +104,157 @@
     {
       "id": 21,
       "model": "료슈9장이후노담배",
-      "content": "Rien, you of all people..."
+      "content": " Rien, trong số tất cả mọi người"
     },
     {
       "id": 22,
       "model": "료슈9장이후노담배",
-      "content": "You always knew what I was gonna become, didn't you?"
+      "content": "Ông luôn biết tôi sẽ trở thành thứ gì, đúng không?"
     },
     {
       "id": 23,
       "model": "검지아비",
-      "content": "... Yes."
+      "content": "… Phải."
     },
     {
       "id": 24,
       "model": "료슈9장이후노담배",
-      "content": "And had I reached completion..."
+      "content": " Vậy nếu tôi thật sự hoàn thiện…"
     },
     {
       "id": 25,
       "model": "료슈9장이후노담배",
-      "content": "What would <i>you</i> have had left?"
+      "content": "Thì <i>ông</i> còn lại gì?"
     },
     {
       "id": 26,
       "model": "검지아비",
-      "content": "... Who knows."
+      "content": " … Ai mà biết được."
     },
     {
       "id": 27,
       "model": "검지아비",
-      "content": "Only Hermes, who deigns to grace me with the whispers, would know the answer to that."
+      "content": "Chỉ có Hermes, kẻ đoái hoài ban cho ta những lời thầm thì, mới là người thấu rõ ngọn ngành."
     },
     {
       "id": 28,
       "model": "료슈9장이후노담배",
-      "content": "... Is there even a single thing about you..."
+      "content": " … Liệu có cái thứ gì thuộc về ông…"
     },
     {
       "id": 29,
       "model": "료슈9장이후노담배",
-      "content": "... that doesn't come from the Prescripts?"
+      "content": " mà không đến từ Sắc Lệnh không?"
     },
     {
       "id": 30,
       "model": "검지아비",
-      "content": "Hmm... now that you mention it, sweetie..."
+      "content": " Hmm… nghĩ lại thì, con yêu…"
     },
     {
       "id": 31,
       "model": "검지아비",
-      "content": "I suppose there really isn't."
+      "content": "Hình như không có."
     },
     {
       "id": 32,
       "model": "검지아비",
-      "content": "One day, the Prescript told me to change my name,"
+      "content": "Có một ngày, Sắc Lệnh bảo cha đổi tên,"
     },
     {
       "id": 33,
       "model": "검지아비",
-      "content": "so I made a new one."
+      "content": "thế là cha có một cái tên mới."
     },
     {
       "id": 34,
       "model": "검지아비",
-      "content": "One day, the Prescript told me to start a family,"
+      "content": "Có một ngày, Sắc Lệnh bảo cha lập gia đình,"
     },
     {
       "id": 35,
       "model": "검지아비",
-      "content": "so I got married and raised a child."
+      "content": "thế là cha kết hôn và nuôi lớn một đứa trẻ."
     },
     {
       "id": 36,
       "model": "검지아비",
-      "content": "Then another day, the Prescript told me that someone would be killed right before my eyes, and that I was to do nothing but watch it happen."
+      "content": "Rồi có một ngày khác, Sắc Lệnh bảo rằng một người sẽ bị giết ngay trước mắt cha và cha không được làm gì ngoài việc đứng nhìn."
     },
     {
       "id": 37,
       "model": "검지아비",
-      "content": "And so, I waited... without lifting a finger."
+      "content": "Thế nên cha đã chờ… không nhúc nhích lấy một ngón tay."
     },
     {
       "id": 38,
       "model": "검지아비",
-      "content": "Even in their final moments, my wife and child never understood why I simply watched it happen to them."
+      "content": "Ngay cả trong khoảnh khắc cuối cùng của họ, vợ và con của cha cũng không hiểu vì sao cha chỉ đứng đó nhìn mọi sự xảy đến với họ."
     },
     {
       "id": 39,
       "model": "료슈9장이후노담배",
-      "content": "And you just... accepted that?"
+      "content": "Và ông chỉ… chấp nhận điều đó thôi sao?"
     },
     {
       "id": 40,
       "model": "검지아비",
-      "content": "Hmm... Do you think I shouldn't have?"
+      "content": "Hừm… con nghĩ là cha không nên à?"
     },
     {
       "id": 41,
       "model": "검지아비",
-      "content": "Darling, remember that story about a spider that wanted to leave its web?"
+      "content": "Con gái yêu dấu của ta, liệu rằng con có còn nhớ câu chuyện về con nhện muốn rời khỏi tấm lưới của mình không?"
     },
     {
       "id": 42,
       "model": "검지아비",
-      "content": "Unsatisfied with merely gazing upon the sky, it wished to be free of its webs."
+      "content": "Không thể thỏa mãn với việc chỉ ngắm bầu trời, nó khao khát được tự do khỏi tấm lưới của nó."
     },
     {
       "id": 43,
       "model": "검지아비",
-      "content": "Seeing that, a long-lived chrysalis, who was as wise as it was old, told the Spider...."
+      "content": "Thấy vậy, một cái tằm già cõi, với sự thông thái tỉ lệ thuận cùng năm tháng, đã khẽ cất lời cho Con Nhện nghe..."
     },
     {
       "id": 44,
       "model": "검지아비",
-      "content": "... to circle its web 3,000 times. If nothing changes, another 3,000 times. Another set should nothing change still."
+      "content": "… hãy bò quanh tấm lưới 3.000 vòng. Nếu không có gì thay đổi, thì thêm 3.000 vòng nữa. Và tiếp tục như vậy."
     },
     {
       "id": 45,
       "model": "검지아비",
-      "content": "Round and round, the hopeful spider circled its web more times than it could count, yet even after thousands of repetitions... all it saw was the same old web."
+      "content": "Hết vòng này đến vòng khác, con nhện hy vọng bò đến mức không còn đếm nổi… nhưng sau hàng nghìn lần lặp lại… thứ nó thấy vẫn chỉ là tấm lưới cũ kỹ."
     },
     {
       "id": 46,
       "model": "검지아비",
-      "content": "The spider, full of despair, went to confront the chrysalis, who had now metamorphosed into a butterfly. \"I have circled my web countless times,\" it said. \"Why hasn't anything changed?\""
+      "content": "Con nhện, trong tuyệt vọng, nó đến chất vất con tằm, lúc này đã hóa thành bướm. \"Ta đã bò quanh mạng nhện mình vô số lần,\" nó nói. \"Vì sao lại chẳng có gì thay đổi?\""
     },
     {
       "id": 47,
       "model": "검지아비",
-      "content": "Flying off into the distance, the butterfly answered:"
+      "content": " Con bướm bay xa và trả lời:"
     },
     {
       "id": 48,
       "model": "검지아비",
-      "content": "\"Resign yourself to the fact that you are forever bound to the web, and close your heart to the beautiful sky above until it ceases to stir any feelings in you.\""
+      "content": "\"Hãy chấp nhận rằng ngươi vĩnh viễn bị trói buộc vào cái mạng nhện ấy, và khép chặt trái tim mình trước bầu trời đẹp đẽ trên cao, cho đến khi nó không còn khuấy động cảm xúc trong ngươi nữa.\""
     },
     {
       "id": 49,
       "model": "검지아비",
-      "content": "\"That is the only way to be truly free of the web.\""
+      "content": "\"Đó là cách duy nhất để thật sự tự do khỏi cái mạng nhện.\""
     },
     {
       "id": 50,
       "model": "검지아비",
-      "content": "My darling daughter, you'll end up losing everything if you let yourself be shackled by what gives you these feelings—happiness, wrath, sorrow, joy... Because once you get a taste of them, you'll learn the truth that to live is to suffer."
+      "content": "Con gái yêu của cha, nếu con để bản thân bị trói buộc bởi những thứ xúc cảm này—hạnh phúc, phẫn nộ, bi ai, hoan lạc… Bởi một khi đã nếm trải chúng, con sẽ nhận ra chân lý rằng sống, vốn dĩ là khổ đau."
     },
     {
       "id": 51,
       "model": "검지아비",
-      "content": "That is why I must remain in the House of Spiders."
+      "content": "Đó là lý do cha phải ở lại Nhà Nhện."
     }
   ]
 }
