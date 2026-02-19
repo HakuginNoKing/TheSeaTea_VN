@@ -118,7 +118,7 @@
     },
     {
       "id": "resonance",
-      "content": "C.Hưởng"
+      "content": "Res."
     },
     {
       "id": "perfect_resonance",
@@ -462,7 +462,7 @@
     },
     {
       "id": "ability_turn",
-      "content": "Tầng"
+      "content": "Count"
     },
     {
       "id": "ego_erosion",
