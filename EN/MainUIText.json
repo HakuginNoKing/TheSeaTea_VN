@@ -302,7 +302,7 @@
     },
     {
       "id": "mainui_gacha_daliynotice",
-      "content": "Resets each day at {0}:00"
+      "content": "Đặt lại mỗi ngày vào lúc: {0}:00"
     },
     {
       "id": "mainui_gacha_alreadyusedgacha",
