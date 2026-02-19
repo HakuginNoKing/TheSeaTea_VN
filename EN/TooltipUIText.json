@@ -2,23 +2,23 @@
   "dataList": [
     {
       "id": "unit_info_tooltip_status_0",
-      "content": "Max HP"
+      "content": "HP Tối Đa"
     },
     {
       "id": "unit_info_tooltip_status_1",
-      "content": "Speed Range"
+      "content": "Ngưỡng Tốc"
     },
     {
       "id": "unit_info_tooltip_attack_resist_0",
-      "content": "Slash Resistance"
+      "content": "Kháng Chém"
     },
     {
       "id": "unit_info_tooltip_attack_resist_1",
-      "content": "Pierce Resistance"
+      "content": "Kháng Đâm"
     },
     {
       "id": "unit_info_tooltip_attack_resist_2",
-      "content": "Blunt Resistance"
+      "content": "Kháng Đập"
     },
     {
       "id": "unit_info_tooltip_attribute_resist_0",
