@@ -1168,117 +1168,117 @@
     {
       "id": "9SV-BAT17-03",
       "desc": "검지 아비 턴 종료 시, 해금 - I 얻을 때",
-      "dlg": "Wading through a dream, the self nowhere to be found. (無我夢中)"
+      "dlg": "Chìm đắm trong giấc mộng, bản ngã chẳng thấy đâu.   (無我夢中)"
     },
     {
       "id": "9SV-BAT17-04",
       "desc": "검지 아비 턴 종료 시, 해금 - II 얻을 때",
-      "dlg": "Like the Naraka of Avīci and Raurava. (阿鼻叫喚)"
+      "dlg": "Tựa như Địa ngục A-tỳ và Địa ngục Kêu Gào.  (阿鼻叫喚)"
     },
     {
       "id": "9SV-BAT17-05",
       "desc": "검지 아비 턴 종료 시, 해금 - III 얻을 때",
-      "dlg": "Severed and torn until even the form is undone. (支離滅裂)"
+      "dlg": "Bị cắt rời và xé toạc cho đến khi nhân dạng cũng tan tành. (支離滅裂)"
     },
     {
       "id": "9SV-BAT17-07",
       "desc": "검지 아비 료슈와 합을 진행하여 검지 아비가 처음으로 합 승리 시",
-      "dlg": "I know your habits inside and out."
+      "dlg": " Ta nắm rõ mọi thói quen của con mà."
     },
     {
       "id": "9SV-BAT17-08",
       "desc": "검지 아비 료슈와 합을 진행하여 검지 아비가 처음으로 료슈를 흐트러뜨릴 시",
-      "dlg": "Tu es belle à force d'être."
+      "dlg": "Tu es belle à force d'être. (Con đẹp vì con là chính con)"
     },
     {
       "id": "9SV-BAT17-09",
       "desc": "검지 아비 료슈와 합을 진행하여 검지 아비가 처음으로 합 패배 시",
-      "dlg": "Haha. Impressive!"
+      "dlg": "Haha. Ấn tượng lắm!"
     },
     {
       "id": "9SV-BAT17-10",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 0 -> 1 될 때",
-      "dlg": "One."
+      "dlg": "Một."
     },
     {
       "id": "9SV-BAT17-11",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 1 -> 2 될 때",
-      "dlg": "Two."
+      "dlg": "Hai."
     },
     {
       "id": "9SV-BAT17-12",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 2 -> 3 될 때",
-      "dlg": "Trois."
+      "dlg": "Trois (Ba)."
     },
     {
       "id": "9SV-BAT17-13",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 3 -> 4 될 때",
-      "dlg": "Four."
+      "dlg": "Bốn."
     },
     {
       "id": "9SV-BAT17-14",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 4 -> 5 될 때",
-      "dlg": "Five."
+      "dlg": "Năm."
     },
     {
       "id": "9SV-BAT17-15",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 5 -> 6 될 때",
-      "dlg": "Six."
+      "dlg": "Six (Sáu)."
     },
     {
       "id": "9SV-BAT17-16",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 6 -> 7 될 때",
-      "dlg": "Seven. Two to go."
+      "dlg": "Bảy. Còn hai thôi."
     },
     {
       "id": "9SV-BAT17-17",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 7 -> 8 될 때",
-      "dlg": "Eight. One left."
+      "dlg": "Tám. Còn một."
     },
     {
       "id": "9SV-BAT17-18",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 8 -> 9 될 때",
-      "dlg": "Neuf. Executed."
+      "dlg": "Neuf. Hoàn tất."
     },
     {
       "id": "9SV-BAT17-19",
       "desc": "검지 아비 134707 (적당히 강한 스킬 1) 사용 시",
-      "dlg": "\"Lance the heart and hang upside-down.\""
+      "dlg": "\"Đâm xuyên tim và treo ngược lên.\""
     },
     {
       "id": "9SV-BAT17-20",
       "desc": "검지 아비 134708 (적당히 강한 스킬 2) 사용 시",
-      "dlg": "\"Hammer and crush under the weight.\""
+      "dlg": "\"Đập búa và nghiền nát dưới sức nặng.\""
     },
     {
       "id": "9SV-BAT17-21",
       "desc": "검지 아비 134709 (적당히 강한 스킬 3) 사용 시",
-      "dlg": "\"Peck away with a sword and gnaw.\""
+      "dlg": "\"Mổ xẻ bằng kiếm và gặm.\""
     },
     {
       "id": "9SV-BAT17-22",
       "desc": "검지 아비 134711 (Furioso 닮은 스킬 - 1페이즈 강력한 스킬) 처음으로 준비되었을 때, 대사",
-      "dlg": "After all that's happened... This day has come."
+      "dlg": "Sau tất cả những chuyện đã xảy ra… Ngày này cuối cùng cũng đến."
     },
     {
       "id": "9SV-BAT17-23",
       "desc": "검지 아비 134711 (Furioso 닮은 스킬 - 1페이즈 강력한 스킬) 처음 이후로 준비될 때마다, 대사",
-      "dlg": "You know it, don't you, sweetheart? It's pointless to predict my moves."
+      "dlg": "Con biết mà phải không, con yêu? Cố đoán nước đi của ta cũng vô ích thôi."
     },
     {
       "id": "9SV-BAT17-24-01",
       "desc": "검지 아비 134711 (Furioso 닮은 스킬 - 1페이즈 강력한 스킬) 공격 시 대사 1",
-      "dlg": "There is no reason for you to leave, darling. Because you've forgotten everything. You have nothing."
+      "dlg": "Chẳng có lý do gì để con rời đi cả, cục cưng à. Bởi vì con đã quên hết tất cả rồi. Con chẳng còn gì cả."
     },
     {
       "id": "9SV-BAT17-24",
       "desc": "검지 아비 134711 (Furioso 닮은 스킬 - 1페이즈 강력한 스킬) 공격 시 대사 1",
-      "dlg": "There is no reason for you to leave, darling. Because you've forgotten everything. You have nothing."
+      "dlg": "Chẳng có lý do gì để con rời đi cả, cục cưng à. Bởi vì con đã quên hết tất cả rồi. Con chẳng còn gì cả."
     },
     {
       "id": "9SV-BAT17-25",
       "desc": "검지 아비 134711 (Furioso 닮은 스킬 - 1페이즈 강력한 스킬) 공격 시 대사 2",
-      "dlg": "There's only one way out. The same way you came in from—the way home."
+      "dlg": "Chỉ có một lối thoát duy nhất. Chính là lối mà con đã đi vào—đường về nhà."
     },
     {
       "id": "9SV-BAT17-26-1",
@@ -1308,77 +1308,77 @@
     {
       "id": "9SV-BAT17-28",
       "desc": "검지 아비 134807 (적당히 강한 스킬 1) 사용 시",
-      "dlg": "\"Enwrap in long swaths of frozen blood.\""
+      "dlg": "\"Bao bọc trong những dải máu đông dài.\""
     },
     {
       "id": "9SV-BAT17-29",
       "desc": "검지 아비 134808 (적당히 강한 스킬 2) 사용 시",
-      "dlg": "\"Clap without a sound, slash without a voice.\""
+      "dlg": "\"Vỗ tay không tiếng động, chém xuống chẳng thanh âm.\""
     },
     {
       "id": "9SV-BAT17-30",
       "desc": "검지 아비 134809 (적당히 강한 스킬 3) 사용 시",
-      "dlg": "\"With a sharpened blade, cry out like the scent of fallen leaves and the roar of a waterfall.\""
+      "dlg": "\"Với lưỡi kiếm mài sắc, hãy gào thét tựa mùi hương của lá rụng và tiếng gầm của thác đổ.\""
     },
     {
       "id": "9SV-BAT17-31",
       "desc": "검지 아비 134811 (Furioso 닮은 스킬 - 2페이즈 강력한 스킬) 처음으로 준비되었을 때, 대사",
-      "dlg": "No need to wander outside. This is the hell where you should be."
+      "dlg": "Chẳng cần phải lang thang bên ngoài làm gì cả. Đây mới là cái địa ngục nơi con nên thuộc về."
     },
     {
       "id": "9SV-BAT17-32-01",
       "desc": "검지 아비 134811 (Furioso 닮은 스킬 - 2페이즈 강력한 스킬) 처음 이후에 준비될 때마다, 대사",
-      "dlg": "You belong here, in this hell."
+      "dlg": "Con thuộc về nơi đây, trong cái địa ngục này."
     },
     {
       "id": "9SV-BAT17-32",
       "desc": "검지 아비 134811 (Furioso 닮은 스킬 - 2페이즈 강력한 스킬) 처음 이후에 준비될 때마다, 대사",
-      "dlg": "You belong here, in this hell."
+      "dlg": "Con thuộc về nơi đây, trong cái địa ngục này."
     },
     {
       "id": "9SV-BAT17-33",
       "desc": "검지 아비 134811 (Furioso 닮은 스킬 - 2페이즈 강력한 스킬) 사용 시 대사 1",
-      "dlg": "A dimwitted fool living a fabricated life. That's what you are. And who I am..."
+      "dlg": "Một kẻ ngu ngốc sống một cuộc đời giả tạo. Đó chính là con. Và cũng là ta..."
     },
     {
       "id": "9SV-BAT17-34",
       "desc": "검지 아비 134811 (Furioso 닮은 스킬 - 2페이즈 강력한 스킬) 사용 시 대사 2",
-      "dlg": "You've come too far to be free. Flee, if you will... but the soldiers of gods will pursue you."
+      "dlg": "Con đã đi quá xa để có thể tự do rồi. Cứ chạy trốn đi, nếu con muốn... nhưng những binh lính của thần linh sẽ truy đuổi con."
     },
     {
       "id": "9SV-BAT17-35-01",
       "desc": "검지 아비 134812 (Furioso 닮은 스킬 - 2페이즈 매우 강력한 스킬) 준비되었을 때, 대사",
-      "dlg": "You cannot cut this off, sweetheart.\n... This isn't something you can break off so easily."
+      "dlg": "Con không thể cắt đứt thứ này đâu, con yêu à. ...Đây không phải là thứ con có thể phá vỡ dễ dàng như vậy."
     },
     {
       "id": "9SV-BAT17-35",
       "desc": "검지 아비 134812 (Furioso 닮은 스킬 - 2페이즈 매우 강력한 스킬) 준비되었을 때, 대사",
-      "dlg": "You cannot cut this off, sweetheart.\n... This isn't something you can break off so easily."
+      "dlg": "Con không thể cắt đứt thứ này đâu, con yêu à. \n...Đây không phải là thứ con có thể phá vỡ dễ dàng như vậy."
     },
     {
       "id": "9SV-BAT17-36-01",
       "desc": "검지 아비 134812 (Furioso 닮은 스킬 - 2페이즈 매우 강력한 스킬) 사용 시 대사 1",
-      "dlg": "Don't resent me so, my darling daughter. That's that, and this is this."
+      "dlg": "Đừng oán hận ta như thế, con gái yêu quý. Chuyện nào ra chuyện nấy."
     },
     {
       "id": "9SV-BAT17-36",
       "desc": "검지 아비 134812 (Furioso 닮은 스킬 - 2페이즈 매우 강력한 스킬) 사용 시 대사 1",
-      "dlg": "Don't resent me so, my darling daughter. That's that, and this is this."
+      "dlg": "Đừng oán hận ta như thế, con gái yêu quý. Chuyện nào ra chuyện nấy."
     },
     {
       "id": "9SV-BAT17-37-01",
       "desc": "검지 아비 134812 (Furioso 닮은 스킬 - 2페이즈 매우 강력한 스킬) 사용 시 대사 2",
-      "dlg": "Peel back the very heavens... and cast aside all that seeks to steal my daughter from me."
+      "dlg": "Bóc tách cả bầu trời... và vứt bỏ tất cả những kẻ đang tìm cách cướp con gái khỏi ta."
     },
     {
       "id": "9SV-BAT17-37",
       "desc": "검지 아비 134812 (Furioso 닮은 스킬 - 2페이즈 매우 강력한 스킬) 사용 시 대사 2",
-      "dlg": "Peel back the very heavens... and cast aside all that seeks to steal my daughter from me."
+      "dlg": "Bóc tách cả bầu trời... và vứt bỏ tất cả những kẻ đang tìm cách cướp con gái khỏi ta."
     },
     {
       "id": "9SV-BAT17-38",
       "desc": "검지 아비 료슈 쓰러뜨리면서 플레이어가 게임 패배할 경우",
-      "dlg": "That is not your fate. Climb out of there, Yoshihide."
+      "dlg": "Đây không phải là định mệnh của con. Leo ra khỏi đó đi, Yoshihide."
     },
     {
       "id": "9SV-BAT99-01",
