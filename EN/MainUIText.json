@@ -54,7 +54,7 @@
     },
     {
       "id": "mainui_stageinfo_exclearcondition",
-      "content": "EX Objectives"
+      "content": "Nhiệm Vụ Đi Kèm"
     },
     {
       "id": "mainui_stageinfo_statinfo",
@@ -218,7 +218,7 @@
     },
     {
       "id": "mainui_proress",
-      "content": "Tiếp Tục"
+      "content": "Tiếp"
     },
     {
       "id": "mainui_stop",
@@ -230,11 +230,11 @@
     },
     {
       "id": "mainui_ego_list",
-      "content": "E.G.O List"
+      "content": "Danh Sách E.G.O"
     },
     {
       "id": "mainui_personality_list",
-      "content": "Identity List"
+      "content": "Danh Sách Nhân Dạng"
     },
     {
       "id": "mainui_acquired_reward",
@@ -290,7 +290,7 @@
     },
     {
       "id": "mainui_support",
-      "content": "Support"
+      "content": "Hỗ Trợ"
     },
     {
       "id": "mainui_gacha_rateinfo",
@@ -298,7 +298,7 @@
     },
     {
       "id": "mainui_gacha_history",
-      "content": "Extraction History"
+      "content": "Lịch Sử Chiết Xuất"
     },
     {
       "id": "mainui_gacha_daliynotice",
@@ -310,11 +310,11 @@
     },
     {
       "id": "mainui_gacha_extract1",
-      "content": "Extract 1"
+      "content": "Chiết Xuất 1 Lần"
     },
     {
       "id": "mainui_gacha_extract10",
-      "content": "Extract 10"
+      "content": "Chiết Xuất 10 Lần"
     },
     {
       "id": "mainui_open_battlepass",
@@ -334,7 +334,7 @@
     },
     {
       "id": "mainui_Change_lobby_illust",
-      "content": "Change Lobby Art"
+      "content": "Đổi Ảnh Nền"
     },
     {
       "id": "mainui_lobby_illust_acquisition_method",
@@ -422,11 +422,11 @@
     },
     {
       "id": "mainui_passive",
-      "content": "Passives"
+      "content": "Nội Tại"
     },
     {
       "id": "mainui_support_passive",
-      "content": "Support"
+      "content": "Hỗ Trợ"
     },
     {
       "id": "mainui_synchronization",
@@ -438,7 +438,7 @@
     },
     {
       "id": "mainui_owned",
-      "content": "Owned"
+      "content": "Đã Sở Hữu"
     },
     {
       "id": "mainui_growth_level_limited",
@@ -566,7 +566,7 @@
     },
     {
       "id": "mainui_move",
-      "content": "Go"
+      "content": "Đi"
     },
     {
       "id": "mainui_move_to_twine_store",
@@ -666,15 +666,15 @@
     },
     {
       "id": "mainui_rewatching-stage-story",
-      "content": "Rewatch Story"
+      "content": "Xem Lại Cốt Truyện"
     },
     {
       "id": "mainui_before_battle",
-      "content": "Pre-battle"
+      "content": "Trước Trận Chiến"
     },
     {
       "id": "mainui_after_battle",
-      "content": "Post-battle"
+      "content": "Sau Trận Chiến"
     },
     {
       "id": "mainui_story",
@@ -710,7 +710,7 @@
     },
     {
       "id": "game_setting",
-      "content": "Config"
+      "content": "Cài Đặt"
     },
     {
       "id": "level",
@@ -738,11 +738,11 @@
     },
     {
       "id": "deal_damage",
-      "content": "Dealt"
+      "content": "Gây"
     },
     {
       "id": "taken_damage",
-      "content": "Taken"
+      "content": "Nhận"
     },
     {
       "id": "user_level_up_notice",
@@ -782,7 +782,7 @@
     },
     {
       "id": "mainui_back",
-      "content": "Trở Lại"
+      "content": "Quay Lại"
     },
     {
       "id": "mainui_quit_game",
@@ -790,11 +790,11 @@
     },
     {
       "id": "mainui_acquisition",
-      "content": "Owned"
+      "content": "Đã Sở Hữu"
     },
     {
       "id": "mainui_not_acquisition",
-      "content": "Unowned"
+      "content": "Chưa Sở Hữu"
     },
     {
       "id": "mainui_no_record",
@@ -818,11 +818,11 @@
     },
     {
       "id": "mainui_participant_count",
-      "content": "Edit Team"
+      "content": "Điều Chỉnh Đội"
     },
     {
       "id": "mainui_edit",
-      "content": "Edit"
+      "content": "Điều Chỉnh"
     },
     {
       "id": "mainui_unlock_condition_by_personality_awaken_level",
@@ -1146,11 +1146,11 @@
     },
     {
       "id": "battle_skip",
-      "content": "Skip Battle"
+      "content": "Bỏ Qua Chiến Đấu"
     },
     {
       "id": "ask_battle_skip",
-      "content": "Would you like to skip the battle?"
+      "content": "Bạn có muốn bỏ qua trận đánh này không?"
     },
     {
       "id": "notice_consumption_multiples",
@@ -1174,7 +1174,7 @@
     },
     {
       "id": "to_window",
-      "content": "To Window"
+      "content": "Về Cửa Sổ"
     },
     {
       "id": "completion",
@@ -1230,7 +1230,7 @@
     },
     {
       "id": "be_in_use",
-      "content": "In Use"
+      "content": "Đang Sử Dụng"
     },
     {
       "id": "season_information",
@@ -1246,7 +1246,7 @@
     },
     {
       "id": "mental_strength",
-      "content": "Sanity"
+      "content": "Tinh Thần"
     },
     {
       "id": "mental_increase_condition",
@@ -1442,7 +1442,7 @@
     },
     {
       "id": "enemy_level",
-      "content": "Enemy Level"
+      "content": "Cấp Kẻ Địch"
     },
     {
       "id": "cannot_enter",
@@ -1470,11 +1470,11 @@
     },
     {
       "id": "level_up",
-      "content": "Level Up"
+      "content": "Tăng Cấp"
     },
     {
       "id": "summary",
-      "content": "Summary"
+      "content": "Tổng Quan"
     },
     {
       "id": "abnormality_part_skill",
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "formation_panel_detail",
-      "content": "Details"
+      "content": "Chi Tiết"
     },
     {
       "id": "ego_cost",
@@ -1498,7 +1498,7 @@
     },
     {
       "id": "enable_count_for_battle",
-      "content": "Participant Limit"
+      "content": "Giới Hạn Tham Chiến"
     },
     {
       "id": "select_for_formation",
@@ -1506,7 +1506,7 @@
     },
     {
       "id": "edit_for_formation",
-      "content": "Edit Team"
+      "content": "Tuỳ Chỉnh Đội Hình"
     },
     {
       "id": "full_participated",
@@ -1518,11 +1518,11 @@
     },
     {
       "id": "clear_reward",
-      "content": "Clear Rewards"
+      "content": "Thưởng Qua Màn"
     },
     {
       "id": "event_information",
-      "content": "Event Info."
+      "content": "T.Tin Sự Kiện"
     },
     {
       "id": "notice_not_on_sales_period",
@@ -1530,7 +1530,7 @@
     },
     {
       "id": "pc_shortcut",
-      "content": "PC Keyboard Shortcuts"
+      "content": "Phím Tắt Bàn Phím (PC)"
     },
     {
       "id": "shortcut_manual_popup_title",
