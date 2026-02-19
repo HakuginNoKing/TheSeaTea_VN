@@ -106,7 +106,7 @@
     },
     {
       "id": "EnemyKill",
-      "name": "[Khi Giết]"
+      "name": "[Khi Diệt]"
     },
     {
       "id": "EnemyKillFail",
@@ -214,11 +214,11 @@
     },
     {
       "id": "CriticalEnemyTargetKillFail",
-      "name": "[Chí Mạng - Giết Địch Thất Bại]"
+      "name": "[Chí Mạng - Diệt Địch Thất Bại]"
     },
     {
       "id": "CriticalEnemyTargetKill",
-      "name": "[Chí Mạng - Giết Địch]"
+      "name": "[Chí Mạng - Diệt Địch]"
     },
     {
       "id": "DefeatDuelAttack",
@@ -226,15 +226,15 @@
     },
     {
       "id": "TargetKillFail",
-      "name": "[Giết Mục Tiêu Thất Bại]"
+      "name": "[Diệt Mục Tiêu Thất Bại]"
     },
     {
       "id": "AllyKill",
-      "name": "[Khi Giết Đồng Minh]"
+      "name": "[Khi Diệt Đồng Minh]"
     },
     {
       "id": "AllyKillFail",
-      "name": "[Khi Giết Đồng Minh Thất Bại]"
+      "name": "[Khi Diệt Đồng Minh Thất Bại]"
     },
     {
       "id": "TabExplain",
