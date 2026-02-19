@@ -2659,7 +2659,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "\"Enwrap 330 times in Long Swaths of Frozen Blood\"",
+          "name": "\"Quấn Chặt 330 Lần Trong Những Dải Máu Đông Dài\"",
           "desc": "(75 - ([KarmaOfIndexAlly] / 2))% chance to produce a Blunt weapon\n- Coins using Blunt weapons deal +10% damage\nIf this Skill is marked with [IndexPrescriptTargetMarkToEnemy], deal +15% damage\n[WhenUse] Convert Coins equal to ([UnlockBuff_Base] stage - 1) into [SuperCoin]s, beginning with the final Coin\n[WhenUse] Gain +1 [Breath] Count",
           "coinlist": [
             {},
@@ -2677,7 +2677,7 @@
         },
         {
           "level": 2,
-          "name": "\"Enwrap 330 times in Long Swaths of Frozen Blood\"",
+          "name": "\"Quấn Chặt 330 Lần Trong Những Dải Máu Đông Dài\"",
           "desc": "(75 - ([KarmaOfIndexAlly] / 2))% chance to produce a Blunt weapon\n- Coins using Blunt weapons deal +10% damage\nIf this Skill is marked with [IndexPrescriptTargetMarkToEnemy], deal +15% damage\n<style=\"highlight\">At 6+ ([Breath] on self + [Sinking] on target), Coin Power +1</style>\n[WhenUse] Convert Coins equal to ([UnlockBuff_Base] stage - 1) into [SuperCoin]s, beginning with the final Coin\n[WhenUse] Gain +<style=\"highlight\">2</style> [Breath] Count",
           "coinlist": [
             {},
@@ -2695,7 +2695,7 @@
         },
         {
           "level": 4,
-          "name": "\"Enwrap 330 times in Long Swaths of Frozen Blood\"",
+          "name": "\"Quấn Chặt 330 Lần Trong Những Dải Máu Đông Dài\"",
           "desc": "(75 - ([KarmaOfIndexAlly] / 2))% chance to produce a Blunt weapon\n- Coins using Blunt weapons deal <style=\"highlight\">+15%</style> damage\nIf this Skill is marked with [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Clash Power +1</style> and deal <style=\"highlight\">+20%</style> damage\n<style=\"highlight\">Coin Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)</style>\n[WhenUse] Convert Coins equal to ([UnlockBuff_Base] stage - 1) into [SuperCoin]s, beginning with the final Coin\n[WhenUse] Gain + 2 [Breath] Count",
           "coinlist": [
             {},
@@ -2718,7 +2718,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "\"Revel with Soundless Applause, Impale in Voiceless Sorrow\"",
+          "name": "\"Hoan Hưởng Giữa Tràng Vỗ Tay Tĩnh Lặng, Xuyên Thấu Trong Nỗi Sầu Vô Ngôn\"",
           "desc": "(75 - ([KarmaOfIndexAlly] / 2))% chance to produce a Pierce weapon\n- Coins using Pierce weapons deal +10% damage\nIf this Skill is marked with [IndexPrescriptTargetMarkToEnemy], Clash Power +1\n[WhenUse] Convert Coins equal to ([UnlockBuff_Base] stage) into [SuperCoin]s, beginning with the final Coin\n[WhenUse] Gain 3 [Breath]",
           "coinlist": [
             {},
@@ -2743,7 +2743,7 @@
         },
         {
           "level": 2,
-          "name": "\"Revel with Soundless Applause, Impale in Voiceless Sorrow\"",
+          "name": "\"Hoan Hưởng Giữa Tràng Vỗ Tay Tĩnh Lặng, Xuyên Thấu Trong Nỗi Sầu Vô Ngôn\"",
           "desc": "(75 - ([KarmaOfIndexAlly] / 2))% chance to produce a Pierce weapon\n- Coins using Pierce weapons deal +10% damage\nIf this Skill is marked with [IndexPrescriptTargetMarkToEnemy], Clash Power +1\n<style=\"highlight\">At 6+ ([Breath] on self + [Sinking] on target), Coin Power +1</style>\n[WhenUse] Convert Coins equal to ([UnlockBuff_Base] stage) into [SuperCoin]s, beginning with the final Coin\n[WhenUse] Gain 3 [Breath]",
           "coinlist": [
             {},
@@ -2768,7 +2768,7 @@
         },
         {
           "level": 4,
-          "name": "\"Revel with Soundless Applause, Impale in Voiceless Sorrow\"",
+          "name": "\"Hoan Hưởng Giữa Tràng Vỗ Tay Tĩnh Lặng, Xuyên Thấu Trong Nỗi Sầu Vô Ngôn\"",
           "desc": "(75 - ([KarmaOfIndexAlly] / 2))% chance to produce a Pierce weapon\n- Coins using Pierce weapons deal <style=\"highlight\">+15%</style> damage\nIf this Skill is marked with [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Final Power +1</style>\n<style=\"highlight\">Coin Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)</style>\n[WhenUse] Convert Coins equal to ([UnlockBuff_Base] stage) into [SuperCoin]s, beginning with the final Coin\n[WhenUse] Gain 3 [Breath]",
           "coinlist": [
             {},
@@ -2798,7 +2798,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "\"Raise and Laugh the Blade, Cry the Waterfall Like the Scent of Fallen Leaves\"",
+          "name": "\"Nâng Kiếm Tiếu Ngạo, Tuôn Lệ Thác Đổ Tựa Hương Lá Úa Tàn\"",
           "desc": "Turn Start: At 9 [StackYisangSpecialSkill], change this Skill to 'Furioso-Replica' (once per turn)\n- Prioritizes the Skill on the leftmost Slot's bottom row on the Dashboard\n- [BeforeUse] At less than 9 [StackYisangSpecialSkill], use as Skill 3\n(75 - ([KarmaOfIndexAlly] / 2))% chance to produce a Slash weapon\n- Coins using Slash weapons deal +12.5% damage\nIf this Skill is marked with [IndexPrescriptTargetMarkToEnemy], deal +10% damage\nAt 6+ ([Breath] on self + [Sinking] on target), Coin Power +1\n[WhenUse] Convert Coins equal to ([UnlockBuff_Base] stage) into [SuperCoin]s, beginning with the final Coin\n[WhenUse] Gain +3 [Breath] Count",
           "coinlist": [
             {},
@@ -2833,7 +2833,7 @@
         },
         {
           "level": 4,
-          "name": "\"Raise and Laugh the Blade, Cry the Waterfall Like the Scent of Fallen Leaves\"",
+          "name": "\"Nâng Kiếm Tiếu Ngạo, Tuôn Lệ Thác Đổ Tựa Hương Lá Úa Tàn\"",
           "desc": "Turn Start: At 9 [StackYisangSpecialSkill], change this Skill to 'Furioso-Replica' (once per turn)\n- Prioritizes the Skill on the leftmost Slot's bottom row on the Dashboard\n- [BeforeUse] At less than 9 [StackYisangSpecialSkill], use as Skill 3\n(75 - ([KarmaOfIndexAlly] / 2))% chance to produce a Slash weapon\n- Coins using Slash weapons deal <style=\"highlight\">+25%</style> damage\nIf this Skill is marked with [IndexPrescriptTargetMarkToEnemy], deal <style=\"highlight\">+20%</style> damage\n<style=\"highlight\">Coin Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)</style>\n[WhenUse] Convert Coins equal to ([UnlockBuff_Base] stage <style=\"highlight\">+ 1</style>) into [SuperCoin]s, beginning with the final Coin\n[WhenUse] Gain +3 [Breath] Count\n<style=\"highlight\">- Gain additional [Breath] equal to ([UnlockBuff_Base] stage)</style>",
           "coinlist": [
             {},
@@ -2873,7 +2873,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "By Unpredictable Whim",
+          "name": "<Theo Ý Hứng Thất Thường",
           "desc": "[StartBattle] Gain +2 [Breath] Count (once per turn)\n[OnSucceedEvade] Gain 1 [Breath] (2 times per turn)\n[EndBattle] At below [UnlockBuffAlly_2], activate the following effects (once per Encounter):\n- Gain [UnlockBuffAlly_2]\n- If [BlessingOfIndexPrescriptAlly] Stack is less than 6, raise the Stack to 6\n- Gain 5 [KarmaOfIndexAlly] at the start of the next turn for every [BlessingOfIndexPrescriptAlly] gained via the effect above",
           "coinlist": [
             {}
@@ -2881,7 +2881,7 @@
         },
         {
           "level": 4,
-          "name": "By Unpredictable Whim",
+          "name": "Theo Ý Hứng Thất Thường",
           "desc": "<style=\"highlight\">At [UnlockBuffAlly_3], Coin Power +2</style>\n[StartBattle] Gain +2 [Breath] Count (once per turn)\n[OnSucceedEvade] Gain <style=\"highlight\">2</style> [Breath] (2 times per turn)\n[EndBattle] At below [UnlockBuffAlly_2], activate the following effects (once per Encounter):\n- Gain [UnlockBuffAlly_2]\n- If [BlessingOfIndexPrescriptAlly] Stack is less than 6, raise the Stack to 6\n- Gain 5 [KarmaOfIndexAlly] at the start of the next turn for every [BlessingOfIndexPrescriptAlly] gained via the effect above",
           "coinlist": [
             {}
