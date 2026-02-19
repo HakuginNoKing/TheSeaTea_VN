@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "resist_weak",
-      "content": "Fatal"
+      "content": "Trọng Yếu"
     },
     {
       "id": "resist_vulnerable",
-      "content": "Weak"
+      "content": "Yếu"
     },
     {
       "id": "resist_normal",
-      "content": "Normal"
+      "content": "Thường"
     },
     {
       "id": "resist_endure",
