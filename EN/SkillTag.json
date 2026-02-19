@@ -6,7 +6,7 @@
     },
     {
       "id": "WhenUse",
-      "name": "[Khi Dùng]"
+      "name": "[Khi Sử Dụng]"
     },
     {
       "id": "WinDuel",
@@ -146,7 +146,7 @@
     },
     {
       "id": "WinDuelAttackHead",
-      "name": "[Đọ Sức Thành Công - Xu Ngửa]"
+      "name": "[Đọ Sức Thành Công - Tung Đòn Xu Ngửa]"
     },
     {
       "id": "WinDuelAttack",
@@ -154,7 +154,7 @@
     },
     {
       "id": "CriticalActivated",
-      "name": "[Khi Chí Mạng]"
+      "name": "[Chí Mạng]"
     },
     {
       "id": "CriticalEndSkill",
@@ -162,7 +162,7 @@
     },
     {
       "id": "CantChangeTarget",
-      "name": "[Target Fixed]"
+      "name": "[Khoá Mục Tiêu]"
     },
     {
       "id": "TurnStartBattle",
@@ -194,15 +194,15 @@
     },
     {
       "id": "DuelCounter",
-      "name": "[Clashable Counter]"
+      "name": "[Phản Đòn - Đọ Sức]"
     },
     {
       "id": "CantBreak",
-      "name": "[Unbreakable Coin]"
+      "name": "[Xu Không Thể Vỡ]"
     },
     {
       "id": "DuelGuard",
-      "name": "[Clashable Guard]"
+      "name": "[Phòng Thủ - Đọ Sức]"
     },
     {
       "id": "WhenUseEvade",
@@ -210,7 +210,7 @@
     },
     {
       "id": "EndCoin",
-      "name": "[After Current Coin Attack]"
+      "name": "[Sau Khi Lật Xu]"
     },
     {
       "id": "CriticalEnemyTargetKillFail",
@@ -230,11 +230,11 @@
     },
     {
       "id": "AllyKill",
-      "name": "[Khi Diệt Đồng Minh]"
+      "name": "[Diệt Đồng Minh]"
     },
     {
       "id": "AllyKillFail",
-      "name": "[Khi Diệt Đồng Minh Thất Bại]"
+      "name": "[Diệt Đồng Minh Thất Bại]"
     },
     {
       "id": "TabExplain",
@@ -242,7 +242,7 @@
     },
     {
       "id": "UnBrokenCoinOnSucceedAttack",
-      "name": "[On Hit without Cracking]"
+      "name": "[Tung Đòn - Không Vỡ]"
     },
     {
       "id": "BeforeHit",
