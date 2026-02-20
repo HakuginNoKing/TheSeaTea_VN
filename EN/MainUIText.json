@@ -50,11 +50,11 @@
     },
     {
       "id": "mainui_stageinfo_enemyinfo",
-      "content": "Thông Tin Kẻ Địch"
+      "content": "Thông Tin \nKẻ Địch"
     },
     {
       "id": "mainui_stageinfo_exclearcondition",
-      "content": "Nhiệm Vụ Đi Kèm"
+      "content": "Nhiệm Vụ \nĐi Kèm"
     },
     {
       "id": "mainui_stageinfo_statinfo",
@@ -102,7 +102,7 @@
     },
     {
       "id": "mainui_sinners_startbattle",
-      "content": "Khai Chiến!"
+      "content": "Xuất Trận!"
     },
     {
       "id": "mainui_common_personality",
