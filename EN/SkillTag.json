@@ -86,11 +86,11 @@
     },
     {
       "id": "OnSucceedAttackHead",
-      "name": "[Trúng Đòn - Xu Ngửa]"
+      "name": "[Tung Đòn - Xu Ngửa]"
     },
     {
       "id": "OnSucceedAttackTail",
-      "name": "[Trúng Đòn - Xu Úp]"
+      "name": "[Tung Đòn - Xu Úp]"
     },
     {
       "id": "OnSucceedEvade",
