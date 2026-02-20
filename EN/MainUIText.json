@@ -58,7 +58,7 @@
     },
     {
       "id": "mainui_stageinfo_statinfo",
-      "content": "Status"
+      "content": "Chỉ Số"
     },
     {
       "id": "mainui_stageinfo_resistinfo",
@@ -98,7 +98,7 @@
     },
     {
       "id": "mainui_sinners_participant",
-      "content": "Select Participants"
+      "content": "Chọn Thành Viên"
     },
     {
       "id": "mainui_sinners_startbattle",
@@ -154,7 +154,7 @@
     },
     {
       "id": "mainui_battleresult_return",
-      "content": "Trở Về"
+      "content": "Trả Về"
     },
     {
       "id": "mainui_battleresult_hint",
@@ -178,19 +178,19 @@
     },
     {
       "id": "mainui_grade",
-      "content": "Stage {0}"
+      "content": "Màn {0}"
     },
     {
       "id": "mainui_floor",
-      "content": "Floor {0}"
+      "content": "Tầng {0}"
     },
     {
       "id": "mainui_main_enkephalin_Box",
-      "content": "Enkephalin Box"
+      "content": "Hộp Enkephalin"
     },
     {
       "id": "mainui_main_own_count",
-      "content": "Owned"
+      "content": "Đã Sở Hữu"
     },
     {
       "id": "mainui_mirror_entrance_entry",
@@ -238,7 +238,7 @@
     },
     {
       "id": "mainui_acquired_reward",
-      "content": "Rewards Acquired"
+      "content": "Phần Thưởng Nhận Được"
     },
     {
       "id": "mainui_dungeon_finished",
@@ -294,7 +294,7 @@
     },
     {
       "id": "mainui_gacha_rateinfo",
-      "content": "Probabilities"
+      "content": "Tỉ Lệ"
     },
     {
       "id": "mainui_gacha_history",
@@ -326,7 +326,7 @@
     },
     {
       "id": "mainui_type",
-      "content": "Type"
+      "content": "Loại"
     },
     {
       "id": "mainui_level_unit",
@@ -450,11 +450,11 @@
     },
     {
       "id": "mainui_mailbox_receive_all",
-      "content": "Claim All"
+      "content": "Nhận Hết"
     },
     {
       "id": "mainui_mailbox_receive_history",
-      "content": "History"
+      "content": "Lịch Sử"
     },
     {
       "id": "mainui_remain_days",
@@ -462,7 +462,7 @@
     },
     {
       "id": "mainui_mail_remains_count",
-      "content": "Inbox"
+      "content": "Hộp Thư"
     },
     {
       "id": "mainui_mail_warning",
@@ -474,11 +474,11 @@
     },
     {
       "id": "main_information",
-      "content": "Info"
+      "content": "Thông Tin"
     },
     {
       "id": "main_until",
-      "content": "Expiry"
+      "content": "Hết Hạn"
     },
     {
       "id": "mainui_synchronization_grade",
@@ -758,11 +758,11 @@
     },
     {
       "id": "gacha_extract_multiple",
-      "content": "Extract {0}"
+      "content": "Chiết Xuất {0} Lần"
     },
     {
       "id": "number_of_times",
-      "content": "Time(s)"
+      "content": "Lần(s)"
     },
     {
       "id": "number_of_remain_extract_times",
@@ -810,11 +810,11 @@
     },
     {
       "id": "mainui_open_after_clear",
-      "content": "Clear Ch. {0} to Unlock"
+      "content": "Hoàn thành Chương {0} để mở khóa"
     },
     {
       "id": "mainui_organization_sharp",
-      "content": "Team #{0}"
+      "content": "Đội #{0}"
     },
     {
       "id": "mainui_participant_count",
@@ -826,7 +826,7 @@
     },
     {
       "id": "mainui_unlock_condition_by_personality_awaken_level",
-      "content": "Unlocked at Tier {0}"
+      "content": "Mở khóa ở Bậc {0}"
     },
     {
       "id": "skill_growth_value",
@@ -862,15 +862,15 @@
     },
     {
       "id": "list",
-      "content": "List"
+      "content": "Danh Sách"
     },
     {
       "id": "rank",
-      "content": "Rarity"
+      "content": "Độ Hiếm"
     },
     {
       "id": "probability",
-      "content": "Odds"
+      "content": "Tỉ Lệ"
     },
     {
       "id": "gacha_rate_label",
@@ -958,7 +958,7 @@
     },
     {
       "id": "loading_battlehint",
-      "content": "Combat Tips"
+      "content": "Mẹo Chiến Đấu"
     },
     {
       "id": "status_up",
@@ -1006,15 +1006,15 @@
     },
     {
       "id": "inventory_category_all",
-      "content": "All"
+      "content": "Tất Cả"
     },
     {
       "id": "inventory_category_normal",
-      "content": "Basic"
+      "content": "Cơ Bản"
     },
     {
       "id": "inventory_category_consumable",
-      "content": "Consumables"
+      "content": "Vật Tiêu Hao"
     },
     {
       "id": "inventory_category_pieces",
@@ -1022,39 +1022,39 @@
     },
     {
       "id": "enkephalin_injection_complete",
-      "content": "Enkephalin Charged"
+      "content": "Đã hồi Enkephalin"
     },
     {
       "id": "purchase_impossible",
-      "content": "Cannot Purchase"
+      "content": "Không Thể Mua"
     },
     {
       "id": "notice_not_enough_pieces",
-      "content": "※ Not enough Egoshards."
+      "content": "※ Không Đủ Egoshards."
     },
     {
       "id": "buy_personaliy",
-      "content": "Purchase Identity"
+      "content": "Mua Nhân Dạng"
     },
     {
       "id": "buy_ego",
-      "content": "Purchase E.G.O"
+      "content": "Mua E.G.O"
     },
     {
       "id": "not_enough_pieces",
-      "content": "Not enough Egoshards"
+      "content": "Không Đủ Egoshards"
     },
     {
       "id": "basis",
-      "content": "Basic"
+      "content": "Cơ Bản"
     },
     {
       "id": "skip_tutorial",
-      "content": "Skip Tutorial"
+      "content": "Bỏ Qua Hướng Dẫn"
     },
     {
       "id": "skip_tutorial_description",
-      "content": "Are you sure you want to skip the tutorial?"
+      "content": "Bạn có chắc muốn bỏ qua hướng dẫn không?"
     },
     {
       "id": "min_speed_upgrade",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": "mailbox",
-      "content": "Mailbox"
+      "content": "Hòm Thư"
     },
     {
       "id": "remain_days_label",
@@ -1078,7 +1078,7 @@
     },
     {
       "id": "extract_again",
-      "content": "Extract Again"
+      "content": "Chiết Xuất Lại"
     },
     {
       "id": "ego_gift",
@@ -1086,27 +1086,27 @@
     },
     {
       "id": "classification",
-      "content": "Category"
+      "content": "Danh Mục"
     },
     {
       "id": "quantity",
-      "content": "Quantity"
+      "content": "Số Lượng"
     },
     {
       "id": "appearance_probability",
-      "content": "Rate"
+      "content": "Tỉ Lệ Xuất Hiện"
     },
     {
       "id": "Individual_appearance_probability",
-      "content": "Individual Rate"
+      "content": "Tỉ Lệ Riêng Biệt"
     },
     {
       "id": "notice_sold_out",
-      "content": "Out of Stock"
+      "content": "Hết Hàng"
     },
     {
       "id": "select_piece",
-      "content": "Choose Egoshard"
+      "content": "Chọn Egoshard"
     },
     {
       "id": "mail_item_warning",
@@ -1122,23 +1122,23 @@
     },
     {
       "id": "gacha_rate_detail",
-      "content": "Detailed Rates"
+      "content": "Chi Tiết Tỉ Lệ"
     },
     {
       "id": "gacha_alarm_title",
-      "content": "Proceeding with Extraction"
+      "content": "Tiến Hành Chiết Xuất"
     },
     {
       "id": "clear_specific_stage",
-      "content": "Clear {0}"
+      "content": "Hoàn thành màn {0}"
     },
     {
       "id": "clear_main_chapter_stage",
-      "content": "Clear Ch. {0}"
+      "content": "Hoàn thành Chương {0}"
     },
     {
       "id": "ingredients",
-      "content": "Items"
+      "content": "Vật Phẩm"
     },
     {
       "id": "remote_download_return_title",
@@ -1178,7 +1178,7 @@
     },
     {
       "id": "completion",
-      "content": "Complete"
+      "content": "Hoàn Thành"
     },
     {
       "id": "event_in_progress",
@@ -1210,7 +1210,7 @@
     },
     {
       "id": "acquired_quantity",
-      "content": "Amount"
+      "content": "Số Lượng Nhận Được"
     },
     {
       "id": "name_of_currencies",
@@ -1222,11 +1222,11 @@
     },
     {
       "id": "used_once",
-      "content": "One Use"
+      "content": "Dùng 1 Lần"
     },
     {
       "id": "probability_details",
-      "content": "Probabilities"
+      "content": "Tỉ Lệ Xác Suất"
     },
     {
       "id": "be_in_use",
@@ -1410,7 +1410,7 @@
     },
     {
       "id": "formation_force_participation_on",
-      "content": "Fixed"
+      "content": "Bắt Buộc Tham Chiến"
     },
     {
       "id": "formation_force_participation_off",
@@ -1430,15 +1430,15 @@
     },
     {
       "id": "attack_level",
-      "content": "Offense Level"
+      "content": "Cấp Tấn Công"
     },
     {
       "id": "defense_level",
-      "content": "Defense Level"
+      "content": "Cấp Phòng Thủ"
     },
     {
       "id": "personality_level",
-      "content": "Identity Level"
+      "content": "Cấp Danh Tính"
     },
     {
       "id": "enemy_level",
@@ -1446,11 +1446,11 @@
     },
     {
       "id": "cannot_enter",
-      "content": "Cannot Enter"
+      "content": "Không Thể Vào"
     },
     {
       "id": "lack_of_item_amount",
-      "content": "Not enough {0}"
+      "content": "Không Đủ {0}"
     },
     {
       "id": "required_count",
@@ -1510,7 +1510,7 @@
     },
     {
       "id": "full_participated",
-      "content": "Max Participants"
+      "content": "Tối Đa Thành Viên Tham Chiến"
     },
     {
       "id": "select_for_delete_participation",
@@ -1630,19 +1630,19 @@
     },
     {
       "id": "remains",
-      "content": "Remaining"
+      "content": "Còn Lại"
     },
     {
       "id": "everyday",
-      "content": "Daily"
+      "content": "Hàng Ngày"
     },
     {
       "id": "for_n_days",
-      "content": "{0} Days"
+      "content": "Trong {0} Ngày"
     },
     {
       "id": "all_personalities",
-      "content": "All Identities"
+      "content": "Tất Cả Nhân Dạng"
     },
     {
       "id": "leap_up_ticket_title",
@@ -1662,7 +1662,7 @@
     },
     {
       "id": "leap_up_confim_title",
-      "content": "Select Identity"
+      "content": "Lựa Chọn Nhân Dạng"
     },
     {
       "id": "leap_up_confim_main",
@@ -1750,7 +1750,7 @@
     },
     {
       "id": "formation_ask_clear_selection",
-      "content": "Reset Deployment Order?"
+      "content": "Đặt Lại Thứ Tự Tham Chiến?"
     },
     {
       "id": "item_owned_count",
@@ -1814,11 +1814,11 @@
     },
     {
       "id": "select_all",
-      "content": "Select All"
+      "content": "Chọn Tất Cả"
     },
     {
       "id": "deselect_all",
-      "content": "Deselect All"
+      "content": "Bỏ Chọn Tất Cả"
     },
     {
       "id": "story_voice_setting_ui_title",
@@ -1974,7 +1974,7 @@
     },
     {
       "id": "mainui_settings_stage_continue",
-      "content": "Continue"
+      "content": "Tiếp Tục"
     },
     {
       "id": "defence_skill_with_index",
@@ -2014,7 +2014,7 @@
     },
     {
       "id": "assistant_level",
-      "content": "Character Level"
+      "content": "Cấp Nhân Vật"
     }
   ]
 }
