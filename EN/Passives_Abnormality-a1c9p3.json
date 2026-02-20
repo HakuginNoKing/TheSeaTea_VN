@@ -500,7 +500,7 @@
     },
     {
       "id": 132224,
-      "name": "The Final Battle",
+      "name": "Trận Chiến Cuối Cùng",
       "desc": "In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage and apply the following effects (once per Encounter):\n- Heal max HP and remove all removable negative effects from this unit\n- For this Encounter, gain 1 [Vulnerable] and fix [TimeEntangleUnstable] to 1. Take (# of current turn x 10) fixed damage at the end of every turn\n- Afterward, end turn and the attack pattern becomes empowered",
       "flavor": "\"You have been made to forget all, and I to remember all.\""
     }
