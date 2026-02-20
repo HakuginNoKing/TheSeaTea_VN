@@ -14,7 +14,7 @@
     },
     {
       "id": "BeforeAttack",
-      "name": "[Trước Đòn Đánh]"
+      "name": "[Trước Khi Tấn Công]"
     },
     {
       "id": "Wide",
@@ -86,11 +86,11 @@
     },
     {
       "id": "OnSucceedAttackHead",
-      "name": "[Trúng Đòn Xu Ngửa]"
+      "name": "[Trúng Đòn - Xu Ngửa]"
     },
     {
       "id": "OnSucceedAttackTail",
-      "name": "[Trúng Đòn Xu Úp]"
+      "name": "[Trúng Đòn - Xu Úp]"
     },
     {
       "id": "OnSucceedEvade",
@@ -190,7 +190,7 @@
     },
     {
       "id": "BeforeUse",
-      "name": "[Trước Khi Sử Dụng]"
+      "name": "[Trước Khi Dùng]"
     },
     {
       "id": "DuelCounter",
