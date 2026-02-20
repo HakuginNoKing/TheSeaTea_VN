@@ -10,15 +10,15 @@
     },
     {
       "id": "unit_info_tooltip_attack_resist_0",
-      "content": "Kháng Chém"
+      "content": "Kháng ST Chém"
     },
     {
       "id": "unit_info_tooltip_attack_resist_1",
-      "content": "Kháng Đâm"
+      "content": "Kháng ST Đâm"
     },
     {
       "id": "unit_info_tooltip_attack_resist_2",
-      "content": "Kháng Đập"
+      "content": "Kháng ST Đập"
     },
     {
       "id": "unit_info_tooltip_attribute_resist_0",
