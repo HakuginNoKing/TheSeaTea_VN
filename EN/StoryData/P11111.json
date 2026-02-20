@@ -2,328 +2,328 @@
   "dataList": [
     {
       "id": 0,
-      "content": "The child is already so busy, so early in the morning."
+      "content": "Đứa trẻ đã bận rộn từ sớm."
     },
     {
       "id": 1,
-      "content": "Browsing through several layers of fabric, cutting them into shapes, and sewing them in various elaborate patterns with a needle as thick as her fingers."
+      "content": "Cô lật giở từng lớp vải, cắt thành hình, rồi khâu chúng lại thành những họa tiết cầu kỳ bằng cây kim to gần bằng ngón tay mình."
     },
     {
       "id": 2,
-      "content": "And after the busyness passes, she stands in one spot and stares intently at something."
+      "content": "Và khi mọi công việc tạm lắng xuống, cô đứng im tại chỗ, chăm chú nhìn vào thứ gì đó."
     },
     {
       "id": 3,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "Hm... This seems slightly off-balance."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Hừm… Cân bằng có vẻ hơi lệch một chút."
     },
     {
       "id": 4,
-      "content": "The child quickly sewed together a whole party dress and placed it on a mannequin."
+      "content": "Đứa trẻ nhanh chóng hoàn thiện một chiếc váy dạ hội và mặc nó lên ma-nơ-canh."
     },
     {
       "id": 5,
-      "content": "It looked downright dazzling from a glance, but... perhaps there was something that the child found unsatisfying."
+      "content": "Thoạt nhìn, nó lộng lẫy đến choáng ngợp… nhưng có lẽ vẫn có điều gì đó khiến đứa trẻ không vừa ý."
     },
     {
       "id": 6,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
-      "content": "On a block again?"
+      "title": "Công Chúa xứ La Mancha",
+      "content": "Lại kẹt ở đây nữa à?"
     },
     {
       "id": 7,
-      "content": "A high-pitched click-clack of heels cuts into the quiet, heavy atmosphere of the tailor's room..."
+      "content": "Âm thanh lóc cóc cao vút của đôi giày gót vang lên, xé toang bầu không khí nặng nề và tĩnh lặng trong căn phòng may vá..."
     },
     {
       "id": 8,
-      "content": "... and a large shadow comes up to the child before coming to a stop."
+      "content": "... và một cái bóng lớn tiến lại gần đứa trẻ, dừng ngay trước mặt cô."
     },
     {
       "id": 9,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "Must you keep that parasol unfurled indoors as well? It blurs the colors on my artwork."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Cô nhất thiết phải bung dù ngay cả khi ở trong nhà sao? Ánh phản chiếu từ nó làm mờ sắc màu trên tác phẩm của ta."
     },
     {
       "id": 10,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
-      "content": "Didn't ya know? Sunlight is not the only enemy of maintaining smooth skin. Your harsh lighting doesn't help."
+      "title": "Công Chúa xứ La Mancha",
+      "content": "Chưa nghe à? Ánh sáng mặt trời đâu phải kẻ thù duy nhất của làn da mịn màng. Ánh đèn gắt gao của cô cũng chẳng khá hơn."
     },
     {
       "id": 11,
-      "content": "The other child was garbed in a garish purple dress and carried a large parasol with her. She replies, but doesn't look terribly interested."
+      "content": "Đứa trẻ kia khoác một chiếc váy tím lòe loẹt, tay cầm cây dù lớn. Cô trả lời, nhưng không có vẻ gì là quan tâm lắm."
     },
     {
       "id": 12,
-      "content": "She did not raise her head even once from her nails to look at the child, clearly uninterested in anything else that wasn't her."
+      "content": "Chẳng buồn ngẩng đầu lên khỏi những ngón tay đang được chăm chút tỉ mỉ, rõ ràng cô chẳng quan tâm đến điều gì ngoài chính mình."
     },
     {
       "id": 13,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "... Hmph. I won't deny that."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "... Hừm. Ta không phủ nhận điều đó."
     },
     {
       "id": 14,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "So, what brings you to the tailor's room? Isn't the Parade beginning soon?"
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Vậy, sao cô lại đến phòng may? Cuộc Diễu Hành sắp bắt đầu rồi kia mà."
     },
     {
       "id": 15,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
-      "content": "Well, that's exactly why I'm here."
+      "title": "Công Chúa xứ La Mancha",
+      "content": "Chính vì thế nên ta mới đến đây đấy."
     },
     {
       "id": 16,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "Okay, which still does not answer my question."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Và điều đó vẫn chẳng giải thích được gì cả."
     },
     {
       "id": 17,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
-      "content": "You're gonna start moping and getting mad if I tell ya that I've been having some... problems with the dress you made."
+      "title": "Công Chúa xứ La Mancha",
+      "content": "Nếu ta nói là ta đang gặp chút… vấn đề với bộ váy cô làm thì cô sẽ bắt đầu càu nhàu cho xem."
     },
     {
       "id": 18,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "Problems?!"
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Vấn đề á?!"
     },
     {
       "id": 19,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
+      "title": "Công Chúa xứ La Mancha",
       "content": "Haah."
     },
     {
       "id": 20,
-      "content": "The child, with her nails painted purple as well, let out a small sigh. She could already see how the rest of this conversation was going to go."
+      "content": "Đứa trẻ với móng tay được sơn tím khẽ thở dài. Cô có thể đoán trước cuộc trò chuyện này sẽ đi đến đâu."
     },
     {
       "id": 21,
-      "content": "... But she could hardly bring herself to attend the Parade in an imperfect costume, so unfit for the occasion."
+      "content": "... Nhưng cô chẳng thể đến Cuộc Diễu Hành trong một bộ váy không hoàn hảo, không xứng đáng với buổi lễ."
     },
     {
       "id": 22,
-      "content": "So, unfortunately, she was left without a choice. She had to visit the tailor's room."
+      "content": "Vì thế, cô không còn lựa chọn nào khác ngoài việc phải đến gặp thợ may."
     },
     {
       "id": 23,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "That is simply impossible! I measure and review every single thread that passes through my hands; not to mention that your costume was the one I put my utmost—"
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Điều đó là không thể! Ta đo từng sợi chỉ, xem xét từng đường khâu bằng chính tay mình; huống hồ bộ váy của cô là—"
     },
     {
       "id": 24,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
-      "content": "It's gotten loose down here."
+      "title": "Công Chúa xứ La Mancha",
+      "content": "Nó bị rộng ở chỗ này này."
     },
     {
       "id": 25,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
-      "content": "I lost weight. Not your fault, okay?"
+      "title": "Công Chúa xứ La Mancha",
+      "content": "Ta bị sụt cân. Không phải lỗi của cô đâu, được chứ?"
     },
     {
       "id": 26,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "Wha—"
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Cái—"
     },
     {
       "id": 27,
-      "content": "The child hurriedly approached her with a tape measure."
+      "content": "Đứa trẻ vội tiến đến với thước dây trên tay."
     },
     {
       "id": 28,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "It's... true? Have you been skipping your meals...?"
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Là… thật sao? Cô bỏ bữa à…?"
     },
     {
       "id": 29,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
-      "content": "If by 'meals' you're referring to hemobars that taste like bricks... then no. 'Course not."
+      "title": "Công Chúa xứ La Mancha",
+      "content": "Nếu “bữa ăn” cô nói là mấy thanh hemobar khô cứng như gạch… thì không. Dĩ nhiên là không rồi."
     },
     {
       "id": 30,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "... Well, on the brighter side, this may be a chance to give a stylistic lift to that dress."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "… Ừm, nhìn theo hướng tích cực thì có lẽ đây là cơ hội để nâng tầm phong cách cho bộ váy."
     },
     {
       "id": 31,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "But I worry that your beautiful face may grow sunken."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Nhưng ta e khuôn mặt xinh đẹp của cô sẽ hốc hác đi mất."
     },
     {
       "id": 32,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
-      "content": "Then I'll leave that up for you to deal with. It's your job to make me look cute, after all."
+      "title": "Công Chúa xứ La Mancha",
+      "content": "Vậy thì chỗ này cứ để cô xử lý. Làm ta trông xinh là việc của cô mà."
     },
     {
       "id": 33,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
-      "content": "How about a beautiful mask for me?"
+      "title": "Công Chúa xứ La Mancha",
+      "content": "Hay là may cho ta một chiếc mặt nạ thật đẹp đi?"
     },
     {
       "id": 34,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "... I suppose I can do that."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "… Cũng được."
     },
     {
       "id": 35,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "I agree that it is getting increasingly difficult to subsist on hemobars, given our recent... meal."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Tôi đồng ý là giờ đây thật khó để sống chỉ bằng mấy thanh hemobar đó, nhất là sau… bữa ăn vừa rồi."
     },
     {
       "id": 36,
-      "content": "The child thinks back to the 'banquet', muttering to herself."
+      "content": "Đứa trẻ nhớ lại “bữa tiệc” đó, khẽ lẩm bẩm."
     },
     {
       "id": 37,
-      "content": "The child and her Family... hadn't had a real meal like that in a long, long time."
+      "content": "Cô và Gia Đình của mình… đã rất lâu rồi không được ăn một bữa thật sự như thế."
     },
     {
       "id": 38,
-      "content": "They had to convince a human, a guest here at La Manchaland..."
+      "content": "Họ đã phải dụ dỗ một con người, vị khách ghé thăm La Manchaland này..."
     },
     {
       "id": 39,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "Long did I assume that we were cursed to look hideous without masks... It seems that I was wrong."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Ta từng nghĩ rằng chúng ta bị nguyền rủa, rằng nếu không đeo mặt nạ thì sẽ trở nên ghê tởm… nhưng có lẽ ta đã sai."
     },
     {
       "id": 40,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "The sheer flavor was one thing, but... I could hardly believe how we managed to go so long without a proper meal."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Hương vị ấy, thật tuyệt vời… ta chẳng thể tin nổi sao mình có thể sống từng ấy thời gian mà không có một bữa ăn đúng nghĩa."
     },
     {
       "id": 41,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
-      "content": "Mm... it certainly was a pleasant banquet."
+      "title": "Công Chúa xứ La Mancha",
+      "content": "Ừm… Quả là một buổi tiệc dễ chịu."
     },
     {
       "id": 42,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
-      "content": "I see that your tailor's scissors have grown as well, thanks to the blood."
+      "title": "Công Chúa xứ La Mancha",
+      "content": "Ta thấy kéo may của cô cũng bén hơn rồi đấy, nhờ vào máu đó."
     },
     {
       "id": 43,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "Heh, that's why these scissors work so well now."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Hừ, vì thế mà giờ nó cắt mượt đến vậy."
     },
     {
       "id": 44,
-      "content": "For a moment, the pair seemed to be reminiscing a certain shared memory together..."
+      "content": "Trong giây lát, cả hai cùng hồi tưởng về ký ức chung..."
     },
     {
       "id": 45,
-      "content": "... before gritting their teeth."
+      "content": "... rồi nghiến răng lại."
     },
     {
       "id": 46,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "I don't suppose... Father will be returning anytime soon."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Ta không cho rằng… Cha sẽ sớm quay lại đâu."
     },
     {
       "id": 47,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "From that adventure... for the helm."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "Từ chuyến phiêu lưu đó… để tìm chiếc mũ."
     },
     {
       "id": 48,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
-      "content": "Well, his powers are unparalleled and ineffable. Let's try not to make any hasty guesses."
+      "title": "Công Chúa xứ La Mancha",
+      "content": "Ông ấy có sức mạnh không ai sánh được. Tốt nhất là đừng vội kết luận gì cả."
     },
     {
       "id": 49,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
-      "content": "Still, I guess the whole point in his eyes was that he wanted to go on an adventure like humans do, without his powers as a Bloodfiend, I suppose..."
+      "title": "Công Chúa xứ La Mancha",
+      "content": "Nhưng ta đoán, với ông ấy, điều quan trọng là được ra đi như một con người, một cuộc phiêu lưu không mang sức mạnh của Huyết Quỷ, ta cho là vậy…"
     },
     {
       "id": 50,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "... At least for now, yes."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "… Ừ, ít nhất là bây giờ."
     },
     {
       "id": 51,
       "model": "로쟈",
       "teller": "???",
-      "title": "The Princess of La Manchaland",
-      "content": "Yeah. And once he returns... you know what to do, right?"
+      "title": "Công Chúa xứ La Mancha",
+      "content": "Phải. Và khi ông ấy trở về… cô biết phải làm gì rồi, đúng không?"
     },
     {
       "id": 52,
       "model": "오티스",
       "teller": "Outis",
-      "title": "The Barber of La Manchaland",
-      "content": "……."
+      "title": "Thợ Cạo xứ La Mancha",
+      "content": "……"
     },
     {
       "id": 53,
-      "content": "Heavy silence fell upon them, but they both read in the eyes of one another a certain agreement."
+      "content": "Sự im lặng nặng nề bao trùm lấy cả hai, nhưng trong ánh mắt họ là cùng một điều được thừa nhận."
     },
     {
       "id": 54,
-      "content": "A certain agreement to enact a plan... a plan so terrifying, that they couldn't even bring themselves to speak of it."
+      "content": "Một thỏa thuận không cần lời… một kế hoạch khủng khiếp đến mức chính họ cũng chẳng dám nói ra."
     }
   ]
 }
