@@ -2,51 +2,51 @@
   "dataList": [
     {
       "id": "very-high",
-      "content": "Dominating"
+      "content": "Áp Đảo"
     },
     {
       "id": "high",
-      "content": "Favored"
+      "content": "Lợi Thế"
     },
     {
       "id": "normal",
-      "content": "Neutral"
+      "content": "Cân Bằng"
     },
     {
       "id": "low",
-      "content": "Struggling"
+      "content": "Chật Vật"
     },
     {
       "id": "very-low",
-      "content": "Hopeless"
+      "content": "Vô Vọng"
     },
     {
       "id": "impossible",
-      "content": "Unselectable"
+      "content": "Không Thể Chọn"
     },
     {
       "id": "event-very-high",
-      "content": "Very High"
+      "content": "Rất Cao"
     },
     {
       "id": "event-high",
-      "content": "High"
+      "content": "Cao"
     },
     {
       "id": "event-normal",
-      "content": "Normal"
+      "content": "Bình Thường"
     },
     {
       "id": "event-low",
-      "content": "Low"
+      "content": "Thấp"
     },
     {
       "id": "event-very-low",
-      "content": "Very Low"
+      "content": "Rất Thấp"
     },
     {
       "id": "event-impossible",
-      "content": "Unselectable"
+      "content": "Không Thể Chọn"
     }
   ]
 }
