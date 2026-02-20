@@ -1579,13 +1579,13 @@
     },
     {
       "id": "CanDuelGuard",
-      "name": "Clashable Guard",
+      "name": "Phòng Thủ - Đọ Sức",
       "desc": "- On Clash Win: raise the target's Stagger Threshold by this unit's final Clash Power.\n- On Clash Lose: when hit, reduce the attacker's final Skill Power by this unit's Final Power.\n- On Clash Lose: does not gain Final Power from the following sources: Resonance and the Level disparity against the Attack Skill",
       "summary": ""
     },
     {
       "id": "SuperCoin",
-      "name": "Unbreakable Coin",
+      "name": "Xu Không Thể Vỡ",
       "desc": "- This coin does not break upon Clash Lose.\n- If an Attack Skill has this Coin, attack with this Coin after getting hit.\n- Upon Clash Lose, fix the Coin Power of the unbroken Coin to 1",
       "summary": ""
     },
