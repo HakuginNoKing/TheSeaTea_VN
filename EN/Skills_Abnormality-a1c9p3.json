@@ -3208,7 +3208,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slam Down with Weight, Topple the Body",
+          "name": "Giáng Trọng Lượng Xuống, Đánh Đổ Thân Thể",
           "desc": "Final Power +1 for every [UnlockBuff_Base] stage (max 2)\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +20% damage\n- Non-Blunt weapons deal -10% damage\n[WhenUse] Gain +1 [Breath] Count",
           "coinlist": [
             {},
@@ -3228,7 +3228,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lay Vertical The End, Insert Up to the Wick",
+          "name": "Dựng Thẳng Hồi Kết, Tận Cán Đâm Xuyên",
           "desc": "Final Power +1 for every [UnlockBuff_Base] stage (max 2)\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +20% damage\n- Non-Pierce weapons deal -10% damage\n[WhenUse] Gain +1 [Breath] Count",
           "coinlist": [
             {
@@ -3254,7 +3254,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lay the Blade on its Side, Slice Like a Severed Breath",
+          "name": "Đặt Ngang Lưỡi Kiếm, Cắt Gọn Tựa Hơi Tàn",
           "desc": "Final Power +1 for every [UnlockBuff_Base] stage (max 2)\nThe following effects activate depending on the weapon's Attack Type\n- Slash weapons deal +20% damage\n- Non-Slash weapons deal -10% damage\n[WhenUse] Gain +1 [Breath] Count",
           "coinlist": [
             {
@@ -3280,7 +3280,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swing to Fell, Have it Meet the Ground",
+          "name": "Vung Đánh Đốn Hạ, Dìm Xuống Đất Đen",
           "desc": "Final Power +1 for every [UnlockBuff_Base] stage (max 2)\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +30% damage\n- Non-Blunt weapons deal -15% damage\n[StartBattle] Gain the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the final Coin to [SuperCoin]\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, lower user's Stagger Threshold by 10\n[WhenUse] Gain 2 [Breath]",
           "coinlist": [
             {},
@@ -3310,7 +3310,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Aim Toward a Point, Let it Echo Within",
+          "name": "Nhắm Thẳng Yếu Điểm, Vang Vọng Tâm Can",
           "desc": "Final Power +1 for every [UnlockBuff_Base] stage (max 2)\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +30% damage\n- Non-Pierce weapons deal -15% damage\n[StartBattle] Gain the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the final Coin to [SuperCoin]\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, inflict 1 [ResultReduction] next turn\n[WhenUse] Gain 2 [Breath]",
           "coinlist": [
             {
@@ -3346,7 +3346,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carve at a Low Slant, Peel What Remains",
+          "name": "Xẻ Vát Tầm Thấp, Bóc Tách Tàn Dư",
           "desc": "Final Power +1 for every [UnlockBuff_Base] stage (max 2)\nThe following effects activate depending on the weapon's Attack Type\n- Slash weapons deal +30% damage\n- Non-Slash weapons deal -15% damage\n[StartBattle] Gain the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the final Coin to [SuperCoin]\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, gain 1 [ResultEnhancement] next turn\n[WhenUse] Gain 2 [Breath]",
           "coinlist": [
             {
@@ -3382,7 +3382,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Destroy the Sound, Crush Flat the Thought",
+          "name": "Hủy Diệt Thanh Âm, Nghiền Nát Suy Nghĩ",
           "desc": "Can Clash with this Skill regardless of Speed\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +50% damage\n- Non-Blunt weapons deal -25% damage\n[StartBattle] Gain the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the 3rd and 4th Coins to [SuperCoin]s\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, raise target's Stagger Threshold by 15\n[WhenUse] Gain 2 [Breath] and +2 [Breath] Count",
           "coinlist": [
             {
@@ -3422,7 +3422,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab the Silence's Heart, Penetrate the Memory",
+          "name": "Đâm Thấu Tâm Tĩnh Mịch, Xuyên Phá Miền Ký Ức",
           "desc": "Can Clash with this Skill regardless of Speed\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +50% damage\n- Non-Pierce weapons deal -25% damage\n[StartBattle] Gain the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the 3rd and 4th Coins to [SuperCoin]s\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, gain 1 [AttackDmgUp] next turn\n[WhenUse] Gain 2 [Breath] and +2 [Breath] Count",
           "coinlist": [
             {
@@ -3462,7 +3462,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "With Tempered Secret, Cut the Form",
+          "name": "Tôi Rèn Bí Mật, Chém Bỏ Hình Hài",
           "desc": "Can Clash with this Skill regardless of Speed\nThe following effects activate depending on the weapon's Attack Type\n- Slash weapons deal +50% damage\n- Non-Slash weapons deal -25% damage\n[StartBattle] Gain the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the final Coin to [SuperCoin]\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, Final Power +2\n[WhenUse] Gain 2 [Breath] and +2 [Breath] Count",
           "coinlist": [
             {
@@ -3560,7 +3560,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slam Down with Weight, Topple the Body",
+          "name": "Giáng Trọng Lượng Xuống, Đánh Đổ Thân Thể",
           "desc": "Blunt weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Blunt weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Blunt weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +30% damage\n- Non-Blunt weapons deal -15% damage\n[WhenUse] Gain 1 [Breath] and +1 [Breath] Count",
           "coinlist": [
             {},
@@ -3583,7 +3583,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lay Vertical The End, Insert Up to the Wick",
+          "name": "Dựng Thẳng Hồi Kết, Tận Cán Đâm Xuyên",
           "desc": "Pierce weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Pierce weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Pierce weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +30% damage\n- Non-Pierce weapons deal -15% damage\n[WhenUse] Gain 1 [Breath] and +1 [Breath] Count",
           "coinlist": [
             {
@@ -3615,7 +3615,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lay the Blade on its Side, Slice Like a Severed Breath",
+          "name": "Đặt Ngang Lưỡi Kiếm, Cắt Gọn Tựa Hơi Tàn",
           "desc": "Slash weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Slash weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Slash weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Slash weapons deal +30% damage\n- Non-Slash weapons deal -15% damage\n[WhenUse] Gain 1 [Breath] and +1 [Breath] Count",
           "coinlist": [
             {
@@ -3647,7 +3647,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swing to Fell, Have it Meet the Ground",
+          "name": "Vung Đánh Đốn Hạ, Dìm Xuống Đất Đen",
           "desc": "Blunt weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Blunt weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Blunt weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +40% damage\n- Non-Blunt weapons deal -20% damage\n[WhenUse] Gain 2 [Breath] and +1 [Breath] Count\n[WinDuel] Lower user's Stagger Threshold by 15\n- At 75+ [KarmaOfIndexRien_2Phase], this effect does not activate",
           "coinlist": [
             {},
@@ -3680,7 +3680,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Aim Toward a Point, Let it Echo Within",
+          "name": "Nhắm Thẳng Yếu Điểm, Vang Vọng Tâm Can",
           "desc": "Pierce weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Pierce weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Pierce weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +40% damage\n- Non-Pierce weapons deal -20% damage\n[WhenUse] Gain 2 [Breath] and +1 [Breath] Count\n[WinDuel] Inflict 2 [ResultReduction] next turn\n- At 75+ [KarmaOfIndexRien_2Phase], this effect does not activate",
           "coinlist": [
             {
@@ -3719,7 +3719,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carve at a Low Slant, Peel What Remains",
+          "name": "Xẻ Vát Tầm Thấp, Bóc Tách Tàn Dư",
           "desc": "Slash weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Slash weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Slash weapons appear even less frequently\nFinal Power +1 for every [UnlockBuff_Base] stage (max 3)\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +40% damage\n- Non-Pierce weapons deal -20% damage\n[WhenUse] Gain 2 [Breath] and +1 [Breath] Count\n[WinDuel] Gain 2 [ResultEnhancement] next turn\n- At 75+ [KarmaOfIndexRien_2Phase], this effect does not activate",
           "coinlist": [
             {
@@ -3758,7 +3758,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Destroy the Sound, Crush Flat the Thought",
+          "name": "Hủy Diệt Thanh Âm, Nghiền Nát Suy Nghĩ",
           "desc": "Can Clash with this Skill regardless of Speed\nIf this unit has [BlackNightmare]:\n- Convert all Coins to [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>When clashing against a non-Blunt Skill or a non-Ryōshū unit</u></b></mark></color>, Coin Power +2 and deal +50% damage\n- On Clash Lose against a Blunt Skill or Ryōshū:\n  - Coin Power -2 and deal -50% damage\n  - Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n\nBlunt weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Blunt weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Blunt weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +60% damage\n- Non-Blunt weapons deal -30% damage\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count\n[WinDuel] Raise target's Stagger Threshold by 25\n- At 150+ [KarmaOfIndexRien_2Phase], this effect does not activate",
           "coinlist": [
             {
@@ -3804,7 +3804,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab the Heart of Silence, Penetrate the Memory",
+          "name": "Đâm Thấu Tâm Tĩnh Mịch, Xuyên Phá Miền Ký Ức",
           "desc": "Can Clash with this Skill regardless of Speed\nIf this unit has [BlackNightmare]:\n- Convert all Coins to [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>When clashing against a non-Pierce Skill or a non-Ryōshū unit</u></b></mark></color>, Coin Power +2 and deal +50% damage\n- On Clash Lose against a Pierce Skill or Ryōshū:\n  - Coin Power -2 and deal -50% damage\n  - Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n\nPierce weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Pierce weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Pierce weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +60% damage\n- Non-Pierce weapons deal -30% damage\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count\n[WinDuel] Gain 2 [AttackDmgUp] next turn\n- At 150+ [KarmaOfIndexRien_2Phase], this effect does not activate",
           "coinlist": [
             {
@@ -3850,7 +3850,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "With Tempered Secret, Sever the Form",
+          "name": "Tôi Rèn Bí Mật, Chém Bỏ Hình Hài",
           "desc": "Can Clash with this Skill regardless of Speed\nIf this unit has [BlackNightmare]:\n- Convert all Coins to [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>When clashing against a non-Slash Skill or a non-Ryōshū unit</u></b></mark></color>, Coin Power +2 and deal +50% damage\n- On Clash Lose against a Slash Skill or Ryōshū:\n  - Coin Power -2 and deal -50% damage\n  - Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n\nSlash weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Slash weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Slash weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Slash weapons deal +60% damage\n- Non-Slash weapons deal -30% damage\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count\n[WinDuel] Final Power +3\n- At 150+ [KarmaOfIndexRien_2Phase], this effect does not activate",
           "coinlist": [
             {
@@ -3896,7 +3896,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Remember This, Sweetheart? Only You Can Clash Against This Move.",
+          "name": "Nhớ Chứ, Con Yêu? Chỉ Có Con Mới Đọ Sức Được Với Chiêu Này.",
           "desc": "<color=#ff6000><mark=#ff000040><b><u>Only Ryōshū can Clash against this Skill</u></b></mark></color>\n- Ryōshū can Clash with this Skill regardless of Speed\nOn Unopposed Attack, Coin Power +2 and deal +50% damage\n\n[DefeatDuel]\n- Coin Power -2 and deal -50% damage\n- Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n\n[EndBattle] <color=#ff6000><mark=#ff000040><b><u>If this unit lost the Clash, gain 1 [BurningWoundRien]</u></b></mark></color>\n- If all 3 Skills with [BlackNightmare]-related unique effects lost the Clash this turn, gain 2 [BurningWoundRien] instead",
           "coinlist": [
             {
