@@ -56,28 +56,28 @@
     },
     {
       "id": "UnlockBuff_1",
-      "name": "Unlock - I",
+      "name": "Khai Mở - I",
       "desc": "- Offense Level +1, Defense Level +1\n- Combat End: Heal 15 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuff_2",
-      "name": "Unlock - II",
+      "name": "Khai Mở - II",
       "desc": "- Offense Level +2, Defense Level +2\n- Combat End: Heal 30 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuff_3",
-      "name": "Unlock - III",
+      "name": "Khai Mở - III",
       "desc": "- Offense Level +3, Defense Level +3\n- Combat End: Heal 45 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "KarmaOfIndexStudent",
-      "name": "Karmic Consequence",
+      "name": "Hệ Quả Nghiệp Chướng",
       "desc": "- Turn Start:\n· Gain 1 Defense Level Down for every 10 Stacks\n· Gain 1 Fragile for every 20 Stacks\n- Max Stack: 100",
       "summary": "",
       "undefined": "-",
@@ -331,7 +331,7 @@
     },
     {
       "id": "UnlockBuff_Base",
-      "name": "Unlock",
+      "name": "Khai Mở",
       "desc": "- Gain this effect when over certain Grace of the Prescript Stack\n- Effect stage increases based on Grace of the Prescript Stack\n- Max: Stage 3",
       "summary": "",
       "undefined": "-"
