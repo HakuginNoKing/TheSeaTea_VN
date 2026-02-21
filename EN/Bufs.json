@@ -2136,8 +2136,8 @@
     },
     {
       "id": "SuperCoin",
-      "name": "Xu Không Thể Vỡ",
-      "desc": "- Xu này sẽ không vỡ khi Đọ Sức Thất Bại\n- Nếu như có Kỹ Năng Tấn Công có xu này, tiến hành tấn công bằng xu này sau khi bị trúng đòn.\n- Khi Đọ Sức Thất Bại, Khóa Coin Power của Xu Không Thể Vỡ này thành 1",
+      "name": "Xu Không Thể Nứt",
+      "desc": "- Xu này sẽ không nứt khi Đọ Sức Thất Bại\n- Nếu như Kỹ Năng Tấn Công có xu này, tiến hành tấn công bằng xu này sau khi bị trúng đòn.\n- Khi Đọ Sức Thất Bại, Khóa Coin Power của Xu Không Thể Nứt này thành 1",
       "summary": ""
     },
     {
