@@ -158,7 +158,7 @@
     },
     {
       "id": "CriticalEndSkill",
-      "name": "[Kết Đòn Chí Mạng]"
+      "name": "[Kết Đòn - Chí Mạng]"
     },
     {
       "id": "CantChangeTarget",
@@ -178,7 +178,7 @@
     },
     {
       "id": "StartBattle_Force",
-      "name": "<color=#93f13e>[Bắt Đầu Chiến Đấu]</color>"
+      "name": "<color=#93f13e>[Khai Chiến]</color>"
     },
     {
       "id": "TargetKill",
@@ -202,7 +202,7 @@
     },
     {
       "id": "DuelGuard",
-      "name": "[Phòng Thủ - Đọ Sức]"
+      "name": "[Đỡ Đòn - Đọ Sức]"
     },
     {
       "id": "WhenUseEvade",
@@ -242,7 +242,7 @@
     },
     {
       "id": "UnBrokenCoinOnSucceedAttack",
-      "name": "[Tung Đòn - Không Vỡ]"
+      "name": "[Tung Đòn - Không Nứt]"
     },
     {
       "id": "BeforeHit",
