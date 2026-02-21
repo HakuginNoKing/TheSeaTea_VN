@@ -10,19 +10,19 @@
     },
     {
       "id": "resist_normal",
-      "content": "  Thường"
+      "content": "Thường"
     },
     {
       "id": "resist_endure",
-      "content": "Endure"
+      "content": "Chống Chịu"
     },
     {
       "id": "resist_resist",
-      "content": "Ineff."
+      "content": "Vô Hiệu"
     },
     {
       "id": "resist_immune",
-      "content": "Immune"
+      "content": "Miễn Nhiễm"
     }
   ]
 }
