@@ -3347,7 +3347,7 @@
         {
           "level": 1,
           "name": "Xẻ Vát Tầm Thấp, Bóc Tách Tàn Dư",
-          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đao gây +30% sát thương\n- Vũ Khí khác dạng Đao gây -15% sát thương\n[StartBattle] Nhận các hiệu ứng dưới đây (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, gắn 1 [ResultEnhancement] vào lượt tiếp theo\n[WhenUse] Nhận 2 [Breath]",
+          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đao gây +30% sát thương\n- Vũ Khí khác dạng Đao gây -15% sát thương\n[StartBattle] Nhận các hiệu ứng dưới đây (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, Nhận 1 [ResultEnhancement] vào lượt tiếp theo\n[WhenUse] Nhận 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
