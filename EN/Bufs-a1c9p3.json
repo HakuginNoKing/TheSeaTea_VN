@@ -727,35 +727,35 @@
     {
       "id": "UnlockBuff_Rien1",
       "name": "Khai Mở - I",
-      "desc": "- Offense Level +1, Defense Level +1\n- Combat End: Heal 10 SP",
+      "desc": "- Cấp Tấn Công +1, Cấp Phòng Thủ +1\n- Kết Thúc Giao Tranh: Hồi 10 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuff_Rien2",
       "name": "Khai Mở - II",
-      "desc": "- Offense Level +2, Defense Level +2\n- Combat End: Heal 20 SP",
+      "desc": "- Cấp Tấn Công +2, Cấp Phòng Thủ +2\n- Kết Thúc Giao Tranh: Hồi 20 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuff_Rien3",
       "name": "Khai Mở - III",
-      "desc": "- Offense Level +3, Defense Level +3\n- Combat End: Heal 30 SP",
+      "desc": "- Cấp Tấn Công +3, Cấp Phòng Thủ +3\n- Kết Thúc Giao Tranh: Hồi 30 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "KarmaOfIndexRien",
       "name": "Hệ Quả Nghiệp Chướng",
-      "desc": "- Turn Start:\n· Gain 1 Defense Level Down for every 10 Stack\n· Gain 1 Fragile for every 20 Stack\n· Gain 1 Clash Power Down for every 40 Stack\n- Max Stack: 100",
+      "desc": "- Bắt Đầu Lượt:\n· Nhận 1 Defense Level Down cho mỗi 10 Tầng\n· Nhận 1 Fragile cho mỗi 20 Tầng\n· Nhận 1 Clash Power Down cho mỗi 40 Tầng\n- Số Tầng Tối Đa: 100",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "KarmaOfIndexRien_2Phase",
       "name": "Hệ Quả Nghiệp Chướng [Fortuna]",
-      "desc": "- Turn Start:\n· Gain 1 Defense Level Down for every 10 Stack\n· Gain 1 Fragile for every 20 Stack\n· Gain 1 Clash Power Down for every 40 Stack\n- Max Stack: 200",
+      "desc": "- Bắt Đầu Lượt:\n· Nhận 1 Defense Level Down cho mỗi 10 Tầng\n· Nhận 1 Fragile cho mỗi 20 Tầng\n· Nhận 1 Clash Power Down cho mỗi 40 Tầng\n- Số Tầng Tối Đa: 200",
       "summary": "",
       "undefined": "-",
       "flavor": "O Fortúna velut luna status variabilis. \n(Hỡi Số Phận, tựa như ánh trăng, luôn đổi thay khôn lường.)"
@@ -763,7 +763,7 @@
     {
       "id": "BurningWoundRien_Mask",
       "name": "Mặt Nạ Của Rien",
-      "desc": "- Offense Level -5, Defense Level -5\n- For every Stack, take +5% damage from Skills that inflict Burn or Bleed (includes Potency, Count, and Unique variants)\n· If the Skill inflicts both Burn and Bleed, take +7.5% damage for every Stack instead\n- Max Stack: 1",
+      "desc": "- Cấp Tấn Công -5, Cấp Phòng Thủ -5\n- Với mỗi Tầng, nhận +5% sát thương từ các Kỹ Năng có gắn Burn hoặc Bleed (bao gồm Potency, Count và các dạng đặc biệt)\n· Nếu Kỹ Năng đó có gắn cả Burn lẫn Bleed, thay vào đó nhận 7,5% sát thương với mỗi Tầng\n- Số Tầng Tối Đa: 1",
       "summary": "",
       "undefined": "-",
       "flavor": "\"Ta che nó đi bởi lẽ việc nhìn vào thôi cũng gây đau đớn.\""
@@ -771,14 +771,14 @@
     {
       "id": "BurningWoundRien",
       "name": "Vết Thương Sôi Sục",
-      "desc": "- Offense Level -5, Defense Level -5\n- Turn Start: Gain +1 Burn Count and +1 Bleed Count for every Stack\n- For every Stack, take +10% damage from Skills that inflict Burn or Bleed (includes Potency, Count, and Unique variants)\n· If the Skill inflicts both Burn and Bleed, take +15% damage for every Stack instead\n- Max Stack: 5",
+      "desc": "- Cấp Tấn Công -5, Cấp Phòng Thủ -5\n- Bắt Đầu Lượt: Nhận +1 Tầng Burn và +1 Tầng Bleed với mỗi Tầng\n- Với mỗi Tầng, nhận +10% sát thương từ các Kỹ Năng có gắn Burn hoặc Bleed (bao gồm Potency, Count và các dạng đặc biệt)\n· Nếu Kỹ Năng đó có gắn cả Burn lẫn Bleed, thay vào đó nhận 15% sát thương với mỗi Tầng\n- Số Tầng Tối Đa: 5",
       "summary": "",
       "undefined": "-",
       "flavor": "Khi ở gần thanh kiếm, vết thương sẽ toác miệng trở lại, và da thịt vốn đã nguội lạnh sẽ bùng cháy thêm lần nữa."
     },
     {
       "id": "Shin_Rien",
-      "name": "Shin (心) - Rien",
+      "name": "Tâm (心) - Rien",
       "desc": "- Turn Start: Based on the missing HP on this unit...\n· Gain 1 Damage Up for every 15% missing HP (max 5)\n· Gain 1 Attack Power Up for every 40% missing HP (max 2)\n- Gain +1 more Poise Potency and Count from this unit's Skills\n- If this unit's SP is higher than the target's, deal +1% damage for every 2 SP difference (max 30%)",
       "summary": "",
       "undefined": "-"
