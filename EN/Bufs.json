@@ -2130,7 +2130,7 @@
     },
     {
       "id": "CanDuelGuard",
-      "name": "Clashable Guard",
+      "name": "Đỡ Đòn - Đọ Sức",
       "desc": "- On Clash Win: raise the target's Stagger Threshold by this unit's final Clash Power.\n- On Clash Lose: when hit, reduce the attacker's final Skill Power by this unit's Final Power.\n- On Clash Lose: does not gain Final Power from the following sources: Resonance and the Level disparity against the Attack Skill",
       "summary": ""
     },
@@ -3198,7 +3198,7 @@
     },
     {
       "id": "IndexPrescriptYi_0",
-      "name": "Prescript: [Device] I",
+      "name": "Sắc Lệnh [Máy Nhắn] I",
       "desc": "Use a Skill marked with Mark of the Prescript or hit a target with a marked Skill.\n\n- Turn Start: Gain this effect when this unit has no Unlock\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 3",
       "summary": "",
       "undefined": "-",
@@ -3206,7 +3206,7 @@
     },
     {
       "id": "IndexPrescriptYi_1",
-      "name": "Prescript: [Device] II",
+      "name": "Sắc Lệnh [Máy Nhắn] II",
       "desc": "Hit a target with a Skill marked with Mark of the Prescript.\n\n- Turn Start: Gain this effect if this unit has Unlock - I\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 6",
       "summary": "",
       "undefined": "-",
@@ -3214,7 +3214,7 @@
     },
     {
       "id": "IndexPrescriptYi_2",
-      "name": "Prescript: [Device] III",
+      "name": "Sắc Lệnh [Máy Nhắn] III",
       "desc": "Gain Procuration [Hermes]. Repeat this Prescript until Procuration [Hermes] reaches 9 Stacks.\n\n- Turn Start: Gain this effect if this unit has Unlock - II\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 9",
       "summary": "",
       "undefined": "-",
@@ -3222,7 +3222,7 @@
     },
     {
       "id": "IndexPrescriptYi_3",
-      "name": "Prescript: [Device] IV",
+      "name": "Sắc Lệnh [Máy Nhắn] IV",
       "desc": "Eliminate all enemies before the next Prescript arrives.\n\n- Turn Start: Gain this effect if this unit has Unlock - III",
       "summary": "",
       "undefined": "-",
@@ -3230,7 +3230,7 @@
     },
     {
       "id": "StackYisangSpecialSkill",
-      "name": "Procuration [Hermes]",
+      "name": "Thừa Hành [Hermes]",
       "desc": "- Turn Start: At 9 Stack, a powerful Skill becomes available\n- Can be gained up to (Unlock stage + 2) Stack per turn\n- Max Stack: 9\n· At below Unlock - II, this effect's maximum Stack is limited to 8",
       "summary": "",
       "undefined": "-",
@@ -3238,7 +3238,7 @@
     },
     {
       "id": "Shin_IndexFingerYisang",
-      "name": "Shin (心) - Fate",
+      "name": "Tâm (心) - Định Mệnh",
       "desc": "- Min & Max Speed +1\n- Gain +1 more Poise Potency and Count from Base Skills\n- If this unit's SP is higher than the target's, deal +1% damage for every 3 SP difference (max 15%; units without SP are considered to be at 0 SP)",
       "summary": "",
       "undefined": "-",
@@ -3254,7 +3254,7 @@
     },
     {
       "id": "BurningWoundYisang",
-      "name": "Sizzling Wound",
+      "name": "Vết Thương Sôi Sục",
       "desc": "- Offense Level +3, Defense Level -3\n- Take -25% damage from Unopposed Attacks\n- Turn Start: Gain 1 Burn and 1 Bleed\n- Deal +15% damage with Base Attack Skill's Unbreakable Coins",
       "summary": "",
       "undefined": "-",
@@ -3262,7 +3262,7 @@
     },
     {
       "id": "BlackNightmareYisang",
-      "name": "Indulgence in Prescripts",
+      "name": "Đắm Chìm Trong Sắc Lệnh",
       "desc": "- Min & Max Speed +5\n- Apply the following effects to 'Furioso-Replica':\n· On Hit, inflict +1 more Sinking Potency and gain +1 more Poise Potency\n· On Hit, inflict +3 Sinking Count (once per target)\n· Deal +30% damage\n- Expires at Turn End",
       "summary": "",
       "undefined": "-",
@@ -3270,7 +3270,7 @@
     },
     {
       "id": "YisangWeapon01Hatchet",
-      "name": "When hacking through the ribs with a hatchet...",
+      "name": "Khi bổ toạc lồng ngực bằng một chiếc rìu...",
       "desc": "- This Coin deals Blunt damage\n- On Hit without Cracking, gain 2 Poise",
       "summary": "",
       "undefined": "-",
@@ -3278,7 +3278,7 @@
     },
     {
       "id": "YisangWeapon02Stiletto",
-      "name": "When penetrating the lungs with a stiletto...",
+      "name": "Khi đâm xuyên buồng phổi bằng một cây stiletto...",
       "desc": "- This Coin deals Pierce damage\n- On Hit without Cracking, inflict 2 Sinking",
       "summary": "",
       "undefined": "-",
@@ -3286,7 +3286,7 @@
     },
     {
       "id": "YisangWeapon03Greatsword",
-      "name": "When cleaving through the shoulder and the skull with a bastard sword...",
+      "name": "Khi chém phăng qua vai và sọ bằng một thanh kiếm lai...",
       "desc": "- This Coin deals Slash damage\n- This Coin deals +5% damage\n- On Hit without Cracking, gain 1 Offense Level Up next turn (2 times per turn)",
       "summary": "",
       "undefined": "-",
@@ -3294,7 +3294,7 @@
     },
     {
       "id": "YisangWeapon04Rapier",
-      "name": "When punching 10 or more holes in the torso with a rapier...",
+      "name": "Khi đục 10 lỗ hoặc nhiều hơn trên thân bằng một cây rapier...",
       "desc": "- This Coin deals Pierce damage\n- This Coin deals +5% damage\n- On Hit without Cracking, inflict 1 Defense Level Down next turn (2 times per turn)",
       "summary": "",
       "undefined": "-",
@@ -3302,7 +3302,7 @@
     },
     {
       "id": "YisangWeapon05Sledgehammer",
-      "name": "When caving in the back of the skull with a hammer...",
+      "name": "Khi đập lún phía sau hộp sọ bằng một chiếc búa...",
       "desc": "- This Coin deals Blunt damage\n- This Coin deals +5% damage\n- On Hit without Cracking, raise target's Stagger Threshold by 3",
       "summary": "",
       "undefined": "-",
@@ -3310,7 +3310,7 @@
     },
     {
       "id": "YisangWeapon06Ultragreatsword",
-      "name": "When rending the body with a great sword...",
+      "name": "Khi xé toạc cơ thể bằng một thanh đại kiếm...",
       "desc": "- This Coin deals Slash damage\n- This Coin deals +15% damage\n- On Hit without Cracking, inflict 1 Slash Fragility until next turn (2 times per turn)",
       "summary": "",
       "undefined": "-",
@@ -3318,7 +3318,7 @@
     },
     {
       "id": "YisangWeapon07Lance",
-      "name": "When boring a 20-inch hole with a lance...",
+      "name": "Khi khoan một cái lỗ 20 inch bằng một ngọn thương...",
       "desc": "- This Coin deals Pierce damage\n- This Coin deals +15% damage\n- On Hit without Cracking, inflict 1 Pierce Fragility until next turn (2 times per turn)",
       "summary": "",
       "undefined": "-",
@@ -3326,7 +3326,7 @@
     },
     {
       "id": "YisangWeapon08Chain",
-      "name": "When ripping the flesh to ten thousand strips with a whip...",
+      "name": "Khi quất nát da thịt thành mười ngàn mảnh vụn bằng một sợi roi....",
       "desc": "- This Coin deals Blunt damage\n- This Coin deals +15% damage\n- On Hit without Cracking, inflict 1 Blunt Fragility until next turn (2 times per turn)",
       "summary": "",
       "undefined": "-",
@@ -3334,7 +3334,7 @@
     },
     {
       "id": "YisangWeapon09Scythe",
-      "name": "When lacerating through space itself with a scythe, like a certain someone...",
+      "name": "Khi rạch nát chính không gian bằng một chiếc lưỡi hái, giống như một người nào đó...",
       "desc": "- This Coin deals Slash damage\n- This Coin deals +30% damage\n- On Hit without Cracking, it hits a guaranteed Crit",
       "summary": "",
       "undefined": "-",
@@ -3342,7 +3342,7 @@
     },
     {
       "id": "SatisfyingEsteemNeeds",
-      "name": "Desire for Acknowledgement Sated",
+      "name": "Thỏa Khao Khát Được Công Nhận",
       "desc": "- Deal +7.5% damage with Skills marked with Mark of the Prescript\n- Deal +7.5% damage against The Prescript's Targets",
       "summary": "",
       "undefined": "-",
