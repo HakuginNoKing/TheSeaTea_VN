@@ -462,7 +462,7 @@
     },
     {
       "id": "ability_turn",
-      "content": "Tầng"
+      "content": "Cộng Dồn"
     },
     {
       "id": "ego_erosion",
@@ -474,11 +474,11 @@
     },
     {
       "id": "status_buff_list",
-      "content": "Effects"
+      "content": "Hiệu Ứng"
     },
     {
       "id": "stack",
-      "content": "Stack"
+      "content": "Tầng"
     },
     {
       "id": "slash_resistance",
@@ -562,7 +562,7 @@
     },
     {
       "id": "targetSlotWeight",
-      "content": "Atk Weight"
+      "content": "Phạm Vi Đòn Đánh"
     },
     {
       "id": "EGO_ErodeProbability",
