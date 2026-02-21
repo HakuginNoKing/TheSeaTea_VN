@@ -166,7 +166,7 @@
     },
     {
       "id": "death",
-      "content": "DEAD"
+      "content": "CHẾT"
     },
     {
       "id": "slash",
@@ -294,7 +294,7 @@
     },
     {
       "id": "recommend_level",
-      "content": "Ideal LVL"
+      "content": "Cấp Đề Nghị"
     },
     {
       "id": "enemy_info",
@@ -362,7 +362,7 @@
     },
     {
       "id": "areaatk_attack",
-      "content": "AoE Skills"
+      "content": "Kỹ Năng Diện Rộng"
     },
     {
       "id": "enter_battle",
@@ -402,11 +402,11 @@
     },
     {
       "id": "battle_increase_mp",
-      "content": "Sanity Up"
+      "content": "Tăng Tinh Thần"
     },
     {
       "id": "battle_decrease_mp",
-      "content": "Sanity Down"
+      "content": "Giảm Tinh Thần"
     },
     {
       "id": "dungeon_encounter_type_start",
@@ -458,11 +458,11 @@
     },
     {
       "id": "skillinfo_keyword",
-      "content": "Keywords"
+      "content": "Từ Khóa"
     },
     {
       "id": "ability_turn",
-      "content": "Count"
+      "content": "Tầng"
     },
     {
       "id": "ego_erosion",
@@ -470,7 +470,7 @@
     },
     {
       "id": "continuous_turn",
-      "content": "Turns"
+      "content": "Lượt"
     },
     {
       "id": "status_buff_list",
