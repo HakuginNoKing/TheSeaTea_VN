@@ -2719,8 +2719,8 @@
     },
     {
       "id": 1011502,
-      "name": "Sắc Lệnh được giao đến Máy Nhắn",
-      "desc": "Bắt Đầu Lượt:\n- Nhận [IndexPrescriptYi_0] / [IndexPrescriptYi_1] / [IndexPrescriptYi_2] / [IndexPrescriptYi_3] dựa trên Bậc [UnlockBuff_Base] trên bản thân\n- Gắn [PrescriptTargetToEnemy] lên một Kẻ Địch ngẫu nhiên (trong Giao Tranh Tập Trung sẽ gắn lên một Bộ Phận)\n- Gắn [IndexPrescriptTargetMarkToEnemy] lên Kỹ Năng Tấn Công Cơ Bản trên Bảng Điều Khiển của đơn vị này (1 mỗi Ô, Tối đa 2 Kỹ Năng)\n· Khi đạt [UnlockBuffAlly_2]+, hiệu ứng kể trên sẽ ưu tiên Kỹ Năng 3 (ưu tiên Kỹ Năng được Cường Hoá)\n- Tất cả hiệu ứng kể trên và [IndexPrescript_Base_2nd] execution checks do not trigger when this unit is Staggered, Immobilized[TabExplain], in Panic, or in E.G.O Corrosion[TabExplain]",
+      "name": "Sắc Lệnh Được Giao Đến Máy Nhắn",
+      "desc": "Bắt Đầu Lượt:\n- Nhận [IndexPrescriptYi_0] / [IndexPrescriptYi_1] / [IndexPrescriptYi_2] / [IndexPrescriptYi_3] dựa trên Bậc [UnlockBuff_Base] trên bản thân\n- Gắn [IndexPrescriptTargetToEnemy] lên một Kẻ Địch ngẫu nhiên (trong Giao Tranh Tập Trung sẽ gắn lên một Bộ Phận)\n- Gắn [IndexPrescriptTargetMarkToEnemy] lên Kỹ Năng Tấn Công Cơ Bản trên Bảng Điều Khiển của đơn vị này (1 mỗi Ô, Tối đa 2 Kỹ Năng)\n· Khi đạt [UnlockBuffAlly_2]+, hiệu ứng kể trên sẽ ưu tiên Kỹ Năng 3 (ưu tiên Kỹ Năng được Cường Hoá)\n- Tất cả hiệu ứng kể trên và [IndexPrescript_Base_2nd] execution checks do not trigger when this unit is Staggered, Immobilized[TabExplain], in Panic, or in E.G.O Corrosion[TabExplain]",
       "summary": "Upon executing Prescript, heal SP and gain Grace of the Prescript\nUpon failing Prescript, gain Karmic Consequence"
     },
     {
@@ -2749,19 +2749,19 @@
     },
     {
       "id": 1011501,
-      "name": "Mô Phỏng một Cuộc Đời",
+      "name": "Mô Phỏng Một Cuộc Đời",
       "desc": "Các Kỹ Năng có [IndexPrescriptTargetMarkToEnemy] gây +2% sát thương cho mỗi [BlessingOfIndexPrescriptAlly] trên bản thân (Tối đa 16%)\n- Khi đạt 9 [BlessingOfIndexPrescriptAlly], Các Kỹ Năng Cơ Bản thay vào đó sẽ gây +20% sát thương\n\nKhi Tung Đòn bằng [SuperCoin] của Kỹ Năng Tấn Công Cơ Bản, nhận 1 [StackYisangSpecialSkill]\n- Kết Đòn: Nhận [StackYisangSpecialSkill] tương ứng với (Số [SuperCoin] còn lại)",
       "summary": "Deal more damage with Skills marked with Mark of the Prescript based on Grace of the Prescript on self\nOn Hit: Heal SP\nGain [StackYisangSpecialSkill] when certain conditions are met"
     },
     {
       "id": 1011511,
-      "name": "Mô Phỏng một Cuộc Đời",
+      "name": "Mô Phỏng Một Cuộc Đời",
       "desc": "Các Kỹ Năng có [IndexPrescriptTargetMarkToEnemy] gây +2% sát thương cho mỗi [BlessingOfIndexPrescriptAlly] trên bản thân (Tối đa 16%)\n- Khi đạt 9 [BlessingOfIndexPrescriptAlly], Các Kỹ Năng Cơ Bản thay vào đó sẽ gây +20% sát thương\n\nKhi Tung Đòn bằng [SuperCoin] của Kỹ Năng Tấn Công Cơ Bản, nhận 1 [StackYisangSpecialSkill]\n- Kết Đòn: Nhận [StackYisangSpecialSkill] tương ứng với (Số [SuperCoin] còn lại)\n<style=\"highlight\">- Kết Đòn 'Furioso-Replica': Nhận YisangSpecialSkill] vào lượt tiếp theo tương ứng với (Số [SuperCoin] còn lại của Kỹ Năng này / 2) (làm tròn xuống)</style>\n\n<style=\"highlight\">Nếu [StackYisangSpecialSkill] khi Kết Thúc Lượt đạt 9 Tầng, và nếu đơn vị này không có Kỹ Năng 3 trên Bảng Điều Khiển khi bắt đầu lượt tiếp theo, biến đổi một Kỹ Năng Cơ Bản thành Chiêu 3 (ưu tiên Kỹ Năng ở ô dưới cùng hàng dưới bên trái)</style>",
       "summary": "Deal more damage with Skills marked with Mark of the Prescript based on Grace of the Prescript on self\nOn Hit: Heal SP\nGain [StackYisangSpecialSkill] when certain conditions are met"
     },
     {
       "id": 1011521,
-      "name": "Ân Điển của Thần",
+      "name": "Ân Điển Của Thần",
       "desc": "Deal +5% damage with Slash, Pierce, and Blunt Base Attack Skills that are used for the first time by any ally each turn (once per type across all allies)\n- The Index Identities deal +10% damage instead\n- This effect's application is determined Before Attack",
       "summary": "Deal more damage with Slash, Pierce, and Blunt Skills used for the first time this turn"
     }
