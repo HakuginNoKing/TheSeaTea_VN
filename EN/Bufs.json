@@ -2,8 +2,8 @@
   "dataList": [
     {
       "id": "Enhancement",
-      "name": "Attack Power Up",
-      "desc": "Attack Skill Final Power +{0} for this turn.",
+      "name": "Gia Tăng Uy Lực",
+      "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng Tấn Công +{0}.",
       "summary": "ATK Skill Final Power +{0}",
       "undefined": "-"
     },
@@ -30,8 +30,8 @@
     },
     {
       "id": "Binding",
-      "name": "Bind",
-      "desc": "Speed -{0} for this turn.",
+      "name": "Trói Chân",
+      "desc": "Trong lượt này, Tốc Độ -{0}.",
       "summary": "SPD -{0}",
       "undefined": "-"
     },
@@ -117,13 +117,13 @@
     },
     {
       "id": "AttackDmgUp",
-      "name": "Damage Up",
+      "name": "Gia Tăng Sát Thương",
       "desc": "Deal +{0}0% damage with skills this turn. (Max 100%)",
       "summary": "+{0}0% Damage Dealt"
     },
     {
       "id": "DefenseUp",
-      "name": "Defense Level Up",
+      "name": "Gia Tăng Cấp Phòng Thủ",
       "desc": "Defense Level +{0} for this turn.",
       "summary": "Defense Level +{0}"
     },
@@ -258,7 +258,7 @@
     },
     {
       "id": "Inactible",
-      "name": "Immobilized",
+      "name": "Bị Động",
       "desc": "Does not act for this turn.",
       "summary": "Inactive"
     },
@@ -294,7 +294,7 @@
     },
     {
       "id": "Breath",
-      "name": "Poise",
+      "name": "Chí Khí",
       "desc": "Boost critical hit chance by {0}x5% for the next {1} hit(s).",
       "summary": "{0}x5% crit chance"
     },
@@ -2136,8 +2136,8 @@
     },
     {
       "id": "SuperCoin",
-      "name": "Xu Không Thể Nứt",
-      "desc": "- Xu này sẽ không nứt khi Đọ Sức Thất Bại\n- Nếu như Kỹ Năng Tấn Công có xu này, tiến hành tấn công bằng xu này sau khi bị trúng đòn.\n- Khi Đọ Sức Thất Bại, Khóa Coin Power của Xu Không Thể Nứt này thành 1",
+      "name": "Xu Không Thể Vỡ",
+      "desc": "- Xu này sẽ không vỡ khi Đọ Sức Thất Bại\n- Nếu như Kỹ Năng Tấn Công có xu này, tiến hành tấn công bằng xu này sau khi bị trúng đòn.\n- Khi Đọ Sức Thất Bại, Khóa Coin Power của Xu Không Thể Vỡ này thành 1",
       "summary": ""
     },
     {
