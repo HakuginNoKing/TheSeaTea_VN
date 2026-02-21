@@ -150,21 +150,21 @@
     {
       "id": "IndexPrescriptTargetMarkToEnemy",
       "name": "Dấu Ấn Sắc Lệnh",
-      "desc": "- Apply Mark of the Prescript to a Base Attack Skill on this unit's Dashboard",
+      "desc": "- Gắn Dấu Ấn Sắc Lệnh vào một Kỹ Năng Tấn Công Cơ Bản trên Bảng Điều Khiển của đơn vị này",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IndexPrescriptTargetToEnemy",
       "name": "Mục Tiêu Sắc Lệnh",
-      "desc": "- Take +10% damage from The Index units\n- This effect is applied to a single target every turn regardless of the number of The Index units deployed",
+      "desc": "- Nhận +10% sát thương từ các đơn vị Ngón Trỏ\n- Hiệu ứng này chỉ được gắn cho một mục tiêu duy nhất mỗi lượt bất kể số lượng đơn vị Ngón Trỏ tham chiến",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BlessingOfIndexPrescriptAlly",
       "name": "Ý Chỉ Sắc Lệnh",
-      "desc": "- Offense Level +1 for every 3 Stacks\n- Max Stack: 9",
+      "desc": "- Cấp Tấn Công +1 cho mỗi 3 Tầng\n- Số Tầng Tối Đa: 9",
       "summary": "",
       "undefined": "-"
     },
