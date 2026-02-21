@@ -2684,10 +2684,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2696,16 +2696,16 @@
         {
           "level": 4,
           "name": "\"Quấn Chặt 330 Lần Trong Những Dải Máu Đông Dài\"",
-          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% Tỉ lệ tạo ra vũ khí dạng Đập\n- Các xu sử dụng vũ khí dạng Đập gây thêm <style=\"highlight\">+15%</style> sát thương\nNếu Kỹ Năng này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Sức Mạnh Đọ Sức +1</style> và gây thêm <style=\"highlight\">+20%</style> sát thương\n<style=\"highlight\">Sức Mạnh Xu +1 cho mỗi 6 ([Breath] trên bản thân + [Sinking] trên mục tiêu) (Tối đa 2)</style>\n[WhenUse] Biến đổi xu tương ứng với ([UnlockBuff_Base] cấp - 1) thành [SuperCoin], bắt đầu từ xu cuối cùng\n[WhenUse] Nhận + 2 Tầng [Breath] ",
+          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% Tỉ lệ tạo ra vũ khí dạng Đập\n- Các xu sử dụng vũ khí dạng Đập gây thêm <style=\"highlight\">+15%</style> sát thương\nNếu Kỹ Năng này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Clash Power +1</style> và gây thêm <style=\"highlight\">+20%</style> sát thương\n<style=\"highlight\">Coin Power +1 cho mỗi 6 ([Breath] trên bản thân + [Sinking] trên mục tiêu) (Tối đa 2)</style>\n[WhenUse] Biến đổi xu tương ứng với (Bậc [UnlockBuff_Base] - 1) thành [SuperCoin], bắt đầu từ xu cuối cùng\n[WhenUse] Nhận +2 Cộng Dồn [Breath] ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict <style=\"highlight\">2</style> [Sinking]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn <style=\"highlight\">2</style> [Sinking]"
                 }
               ]
             }
@@ -2719,23 +2719,23 @@
         {
           "level": 1,
           "name": "\"Hoan Hưởng Giữa Tràng Vỗ Tay Tĩnh Lặng, Xuyên Thấu Trong Nỗi Sầu Vô Ngôn\"",
-          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% chance to produce a Pierce weapon\n- Coins using Pierce weapons deal +10% damage\nIf this Skill is marked with [IndexPrescriptTargetMarkToEnemy], Clash Power +1\n[WhenUse] Convert Coins equal to ([UnlockBuff_Base] stage) into [SuperCoin]s, beginning with the final Coin\n[WhenUse] Gain 3 [Breath]",
+          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% Tỉ lệ tạo ra Vũ Khí dạng Đâm\n- Các xu sử dụng vũ khí dạng Đâm gây <style=\"highlight\">+10%</style> sát thương\nNếu Kỹ Năng này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Clash Power +1</style>\n[WhenUse] Biến đổi xu tương ứng với (Bậc [UnlockBuff_Base] stage) thành [SuperCoin], bắt đầu từ xu cuối cùng\n[WhenUse] Nhận 3 [Breath]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Nhận +1 Cộng Dồn [Breath]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +1 Cộng Dồn [Sinking]"
                 }
               ]
             }
@@ -2769,23 +2769,23 @@
         {
           "level": 4,
           "name": "\"Hoan Hưởng Giữa Tràng Vỗ Tay Tĩnh Lặng, Xuyên Thấu Trong Nỗi Sầu Vô Ngôn\"",
-          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% chance to produce a Pierce weapon\n- Coins using Pierce weapons deal <style=\"highlight\">+15%</style> damage\nIf this Skill is marked with [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Final Power +1</style>\n<style=\"highlight\">Coin Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)</style>\n[WhenUse] Convert Coins equal to ([UnlockBuff_Base] stage) into [SuperCoin]s, beginning with the final Coin\n[WhenUse] Gain 3 [Breath]",
+          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% Tỉ lệ tạo ra vũ khí dạng Đâm\n- Các xu sử dụng vũ khí dạng Đâm gây <style=\"highlight\">+15%</style> sát thương\nNếu Kỹ Năng này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Final Power +1</style>\n<style=\"highlight\">Coin Power +1 cho mỗi 6 ([Breath] trên bản thân+ [Sinking] trên mục tiêu) (Tối đa 2)</style>\n[WhenUse] Biến đổi xu tương ứng với (Bậc [UnlockBuff_Base] stage) thành [SuperCoin], bắt đầu từ xu cuối cùng\n[WhenUse] Nhận 3 [Breath]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn <style=\"highlight\">3</style> [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">2</style> [Breath] Count"
+                  "desc": "[OnSucceedAttack] Nhận +<style=\"highlight\">2</style> Cộng Dồn [Breath] "
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack]  +1 Cộng Dồn [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2834,33 +2834,33 @@
         {
           "level": 4,
           "name": "\"Nâng Kiếm Tiếu Ngạo, Tuôn Lệ Thác Đổ Tựa Hương Lá Úa Tàn\"",
-          "desc": "Turn Start: At 9 [StackYisangSpecialSkill], change this Skill to 'Furioso-Replica' (once per turn)\n- Prioritizes the Skill on the leftmost Slot's bottom row on the Dashboard\n- [BeforeUse] At less than 9 [StackYisangSpecialSkill], use as Skill 3\n(75 - ([KarmaOfIndexAlly] / 2))% chance to produce a Slash weapon\n- Coins using Slash weapons deal <style=\"highlight\">+25%</style> damage\nIf this Skill is marked with [IndexPrescriptTargetMarkToEnemy], deal <style=\"highlight\">+20%</style> damage\n<style=\"highlight\">Coin Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)</style>\n[WhenUse] Convert Coins equal to ([UnlockBuff_Base] stage <style=\"highlight\">+ 1</style>) into [SuperCoin]s, beginning with the final Coin\n[WhenUse] Gain +3 [Breath] Count\n<style=\"highlight\">- Gain additional [Breath] equal to ([UnlockBuff_Base] stage)</style>",
+          "desc": "Bắt Đầu Lượt: Khi đạt 9 [StackYisangSpecialSkill], biến đổi Kỹ Năng này thành 'Furioso-Replica' (Một lần mỗi lượt)\n- Ưu tiên Kỹ năng ở ô dưới cùng bên trái trên Bảng Điều Khiển.\n- [BeforeUse] Khi có ít hơn 9 [StackYisangSpecialSkill], dùng như Kỹ Năng 3\n(75 - ([KarmaOfIndexAlly] / 2))% Tỉ lệ tạo ra vũ khí dạng Chém\n- Các xu sử dụng vũ khí dạng Chém gây <style=\"highlight\">+25%</style> sát thương\nNếu Kỹ Năng này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], gây <style=\"highlight\">+20%</style> sát thương\n<style=\"highlight\">Coin Power +1 cho mỗi 6 ([Breath] trên bản thân + [Sinking] trên mục tiêu) (Tối đa 2)</style>\n[WhenUse] Biến đổi xu tương ứng với (Bậc [UnlockBuff_Base] <style=\"highlight\">+ 1</style>) trở thành [SuperCoin], bắt đầu từ Xu cuối cùng\n[WhenUse] Nhận +3 Cộng Dồn [Breath]\n<style=\"highlight\">- Nhận thêm [Breath] dựa trên (Bậc [UnlockBuff_Base])</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">3</style> [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận <style=\"highlight\">3</style> Cộng Dồn [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn <style=\"highlight\">3</style> [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal <style=\"highlight\">+20%</style> damage for every [UnlockBuff_Base] stage (max <style=\"highlight\">60%</style>)"
+                  "desc": "Gây <style=\"highlight\">+20%</style> sát thương với mỗi Bậc [UnlockBuff_Base] (max <style=\"highlight\">60%</style>)"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Nhận +1 Cộng Dồn [Breath]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict <style=\"highlight\">+3</style> [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn <style=\"highlight\">+3</style> Cộng Dồn [Sinking]"
                 }
               ]
             }
@@ -2882,7 +2882,7 @@
         {
           "level": 4,
           "name": "Theo Ý Hứng Thất Thường",
-          "desc": "<style=\"highlight\">At [UnlockBuffAlly_3], Coin Power +2</style>\n[StartBattle] Gain +2 [Breath] Count (once per turn)\n[OnSucceedEvade] Gain <style=\"highlight\">2</style> [Breath] (2 times per turn)\n[EndBattle] At below [UnlockBuffAlly_2], activate the following effects (once per Encounter):\n- Gain [UnlockBuffAlly_2]\n- If [BlessingOfIndexPrescriptAlly] Stack is less than 6, raise the Stack to 6\n- Gain 5 [KarmaOfIndexAlly] at the start of the next turn for every [BlessingOfIndexPrescriptAlly] gained via the effect above",
+          "desc": "<style=\"highlight\">Khi đạt Bậc [UnlockBuffAlly_3], Coin Power +2</style>\n[StartBattle] Nhận +2 Cộng Dồn [Breath] (once per turn)\n[OnSucceedEvade] Nhận <style=\"highlight\">2</style> [Breath] (2 Lần mỗi Lượt)\n[EndBattle] Khi dưới Bậc [UnlockBuffAlly_2], kích hoạt các hiệu ứng sau (một lần mỗi Giao Tranh):\n- Nhận [UnlockBuffAlly_2]\n- Nếu có số Tầng [BlessingOfIndexPrescriptAlly] ít hơn 6  , nâng số Tầng lên thành 6\n- Nhận 5 [KarmaOfIndexAlly] vào lượt sau với mỗi [BlessingOfIndexPrescriptAlly] nhận được nhờ hiệu ứng kể trên",
           "coinlist": [
             {}
           ]
@@ -2920,7 +2920,7 @@
         {
           "level": 4,
           "name": "Furioso-Replica",
-          "desc": "[WideAreaRampage]\nOnly 1 copy of this Skill can exist on the Dashboard\nIf this Skill is marked with [IndexPrescriptTargetMarkToEnemy], deal +10% damage\nThis Skill's Coin Power does not change; instead, for every net Coin Power increase, Final Power +5 <style=\"highlight\">and deal +25% damage</style> (this Skill is not affected by [Paralysis])\n<style=\"highlight\">Final Power +1 for every 6 ([Breath] on self + [Sinking] on main target) (max 2)</style>\n[StartBattle]\n- Convert all Coins on this Skill to [SuperCoin]s\n- Inflict 1 [Sinking] or gain 1 [Breath] with every hit of this Skill\n- Does not gain [StackYisangSpecialSkill] for this turn\n[WhenUse]\n- Clash Power +3\n- Gain 3 [Breath] and +3 [Breath] Count\n[EndSkill]\n- Inflict 5 [Combustion], 3 [Binding], and 3 [Vulnerable] next turn to all targets this unit hit\n- Consume all [StackYisangSpecialSkill]",
+          "desc": "[WideAreaRampage]\nChỉ duy nhất 1 bản sao của Kỹ Năng này có thể có trên Bảng Điều Khiển\nNếu Kỹ Năng này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], gây +10% sát thương\nCoin Power của Kỹ Năng này không thay đổi; thay vào đó, với mỗi tổng Coin Power được tăng, Final Power +5 <style=\"highlight\">và gây +25% sát thương</style> (Kỹ Năng này không bị ảnh hưởng bởi [Paralysis])\n<style=\"highlight\">Final Power +1 với mỗi 6 ([Breath] trên bản thân + [Sinking] trên mục tiêu chính) (Tối đa 2)</style>\n[StartBattle]\n- Biến đổi tất cả Xu trên Kỹ Năng này thành [SuperCoin]\n- Gắn 1 [Sinking] hoặc nhận 1 [Breath] với mỗi đòn đánh của Kỹ Năng này\n- Không thể nhận [StackYisangSpecialSkill] trong lượt này\n[WhenUse]\n- Clash Power +3\n- Nhận 3 [Breath] và +3 Cộng Dồn [Breath]\n[EndSkill]\n- Gắn 5 [Combustion], 3 [Binding], và 3 [Vulnerable] vào lượt tiếp theo với mỗi mục tiêu bị đơn vị này đánh trúng\n- Tiêu tốn toàn bộ [StackYisangSpecialSkill]",
           "coinlist": [
             {},
             {},
@@ -2933,13 +2933,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "Weapon assigned to this Coin is fixed as Scythe<style=\"highlight\"></style>"
+                  "desc": "Vũ Khí được đặt cho Xu này chắc chán là Lưỡi Hái<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">Deal +90% Damage on Critical Hit</style>"
+                  "desc": "<style=\"highlight\">Gây +90% sát thương khi Chí Mạng</style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +3 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +3 Cộng Dồn [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             }
