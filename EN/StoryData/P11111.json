@@ -16,7 +16,7 @@
       "id": 3,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Hừm… Cân bằng có vẻ hơi lệch một chút."
     },
     {
@@ -31,7 +31,7 @@
       "id": 6,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Lại kẹt ở đây nữa à?"
     },
     {
@@ -46,14 +46,14 @@
       "id": 9,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Cô nhất thiết phải bung dù ngay cả khi ở trong nhà sao? Ánh phản chiếu từ nó làm mờ sắc màu trên tác phẩm của ta."
     },
     {
       "id": 10,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Chưa nghe à? Ánh sáng mặt trời đâu phải kẻ thù duy nhất của làn da mịn màng. Ánh đèn gắt gao của cô cũng chẳng khá hơn."
     },
     {
@@ -68,49 +68,49 @@
       "id": 13,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "... Hừm. Ta không phủ nhận điều đó."
     },
     {
       "id": 14,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Vậy, sao cô lại đến phòng may? Cuộc Diễu Hành sắp bắt đầu rồi kia mà."
     },
     {
       "id": 15,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Chính vì thế nên ta mới đến đây đấy."
     },
     {
       "id": 16,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Và điều đó vẫn chẳng giải thích được gì cả."
     },
     {
       "id": 17,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Nếu ta nói là ta đang gặp chút… vấn đề với bộ váy cô làm thì cô sẽ bắt đầu càu nhàu cho xem."
     },
     {
       "id": 18,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Vấn đề á?!"
     },
     {
       "id": 19,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Haah."
     },
     {
@@ -129,28 +129,28 @@
       "id": 23,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Điều đó là không thể! Ta đo từng sợi chỉ, xem xét từng đường khâu bằng chính tay mình; huống hồ bộ váy của cô là—"
     },
     {
       "id": 24,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Nó bị rộng ở chỗ này này."
     },
     {
       "id": 25,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Ta bị sụt cân. Không phải lỗi của cô đâu, được chứ?"
     },
     {
       "id": 26,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Cái—"
     },
     {
@@ -161,56 +161,56 @@
       "id": 28,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Là… thật sao? Cô bỏ bữa à…?"
     },
     {
       "id": 29,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Nếu “bữa ăn” cô nói là mấy thanh hemobar khô cứng như gạch… thì không. Dĩ nhiên là không rồi."
     },
     {
       "id": 30,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "… Ừm, nhìn theo hướng tích cực thì có lẽ đây là cơ hội để nâng tầm phong cách cho bộ váy."
     },
     {
       "id": 31,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Nhưng ta e khuôn mặt xinh đẹp của cô sẽ hốc hác đi mất."
     },
     {
       "id": 32,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Vậy thì chỗ này cứ để cô xử lý. Làm ta trông xinh là việc của cô mà."
     },
     {
       "id": 33,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Hay là may cho ta một chiếc mặt nạ thật đẹp đi?"
     },
     {
       "id": 34,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "… Cũng được."
     },
     {
       "id": 35,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Tôi đồng ý là giờ đây thật khó để sống chỉ bằng mấy thanh hemobar đó, nhất là sau… bữa ăn vừa rồi."
     },
     {
@@ -229,35 +229,35 @@
       "id": 39,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Ta từng nghĩ rằng chúng ta bị nguyền rủa, rằng nếu không đeo mặt nạ thì sẽ trở nên ghê tởm… nhưng có lẽ ta đã sai."
     },
     {
       "id": 40,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Hương vị ấy, thật tuyệt vời… ta chẳng thể tin nổi sao mình có thể sống từng ấy thời gian mà không có một bữa ăn đúng nghĩa."
     },
     {
       "id": 41,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Ừm… Quả là một buổi tiệc dễ chịu."
     },
     {
       "id": 42,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Ta thấy kéo may của cô cũng bén hơn rồi đấy, nhờ vào máu đó."
     },
     {
       "id": 43,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Hừ, vì thế mà giờ nó cắt mượt đến vậy."
     },
     {
@@ -272,49 +272,49 @@
       "id": 46,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Ta không cho rằng… Cha sẽ sớm quay lại đâu."
     },
     {
       "id": 47,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "Từ chuyến phiêu lưu đó… để tìm chiếc mũ."
     },
     {
       "id": 48,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Ông ấy có sức mạnh không ai sánh được. Tốt nhất là đừng vội kết luận gì cả."
     },
     {
       "id": 49,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Nhưng ta đoán, với ông ấy, điều quan trọng là được ra đi như một con người, một cuộc phiêu lưu không mang sức mạnh của Huyết Quỷ, ta cho là vậy…"
     },
     {
       "id": 50,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "… Ừ, ít nhất là bây giờ."
     },
     {
       "id": 51,
       "model": "로쟈",
       "teller": "???",
-      "title": "Công Chúa xứ La Mancha",
+      "title": "Công Chúa xứ Mancha",
       "content": "Phải. Và khi ông ấy trở về… cô biết phải làm gì rồi, đúng không?"
     },
     {
       "id": 52,
       "model": "오티스",
       "teller": "Outis",
-      "title": "Thợ Cạo xứ La Mancha",
+      "title": "Thợ Cạo xứ Mancha",
       "content": "……"
     },
     {
