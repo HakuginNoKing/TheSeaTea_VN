@@ -3347,7 +3347,7 @@
         {
           "level": 1,
           "name": "Xẻ Vát Tầm Thấp, Bóc Tách Tàn Dư",
-          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đao gây +30% sát thương\n- Vũ Khí khác dạng Đao gây -15% sát thương\n[StartBattle] Nhận các hiệu ứng dưới đây (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, Nhận 1 [ResultEnhancement] vào lượt tiếp theo\n[WhenUse] Nhận 2 [Breath]",
+          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Chém gây +30% sát thương\n- Vũ Khí khác dạng Chém gây -15% sát thương\n[StartBattle] Nhận các hiệu ứng dưới đây (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, Nhận 1 [ResultEnhancement] vào lượt tiếp theo\n[WhenUse] Nhận 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3529,7 +3529,7 @@
         {
           "level": 1,
           "name": "Furioso-Replica",
-          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Kỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu</u></b></mark></color>\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ \n[WhenUse]\n- Nhận 3 [Breath] và +3 Tầng [Breath] \n- Clash Power +5 (<color=#ff6000><mark=#ff000040><b><u>Lượng Clash Power được tăng sẽ bị giảm đi 1 cho mỗi [KarmaOfIndexRien] trên bản thân, xuống đến 0</u></b></mark></color>)\n[WhenUse] Khi ở 0+ SP, tạo 1 Vọng\n- Gây +40% sát thương; Final Power +4\n\n[WinDuel]\n- Nhận 3 [Breath] và +3 Tầng [Breath]\n- Kết Đòn: Gắn 3 [Laceration], 1 [Binding], và 1 [Vulnerable] vào lượt tiếp theo cho tất cả mục tiêu bị trúng đòn\n[DefeatDuel]\n- Nhận 4 [AttackDmgDown] và 9 [Paralysis]\n- Sát thương gây ra bởi kỹ năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Nếu Kỹ Năng này tạo Vọng, mất 20 SP\n[EndSkill] Kết thúc lượt",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Kỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu</u></b></mark></color>\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ \n[WhenUse]\n- Nhận 3 [Breath] và +3 Tầng [Breath] \n- Clash Power +5 (<color=#ff6000><mark=#ff000040><b><u>Lượng Clash Power được tăng sẽ bị giảm đi 1 cho mỗi [KarmaOfIndexRien] trên bản thân, xuống đến 0</u></b></mark></color>)\n[WhenUse] Khi ở 0+ SP, tạo 1 Vọng\n- Gây +40% sát thương; Final Power +4\n\n[WinDuel]\n- Nhận 3 [Breath] và +3 Tầng [Breath]\n- Kết Đòn: Gắn 3 [Laceration], 1 [Binding], và 1 [Vulnerable] vào lượt tiếp theo cho tất cả mục tiêu bị trúng đòn\n[DefeatDuel]\n- Nhận 4 [AttackDmgDown] và 9 [Paralysis]\n- Sát thương gây ra bởi kỹ năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Nếu Kỹ Năng này tạo Vọng, mất 20 SP\n[EndSkill] Kết Thúc Lượt",
           "coinlist": [
             {
               "coindescs": [
