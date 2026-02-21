@@ -3209,13 +3209,13 @@
         {
           "level": 1,
           "name": "Giáng Trọng Lượng Xuống, Đánh Đổ Thân Thể",
-          "desc": "Final Power +1 for every [UnlockBuff_Base] stage (max 2)\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +20% damage\n- Non-Blunt weapons deal -10% damage\n[WhenUse] Gain +1 [Breath] Count",
+          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa vào loại sát thương của vũ khí:\n- Vũ Khí dạng Đập gây +20% sát thương\n- Vũ Khí khác dạng Đập gây -10% sát thương\n[WhenUse] Nhận +1 Tầng [Breath] ",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
                 }
               ]
             }
@@ -3229,19 +3229,19 @@
         {
           "level": 1,
           "name": "Dựng Thẳng Hồi Kết, Tận Cán Đâm Xuyên",
-          "desc": "Final Power +1 for every [UnlockBuff_Base] stage (max 2)\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +20% damage\n- Non-Pierce weapons deal -10% damage\n[WhenUse] Gain +1 [Breath] Count",
+          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa vào loại sát thương của vũ khí:\n- Vũ Khí dạng Đâm gây +20% sát thương\n- Vũ Khí khác dạng Đâm gây -10% sát thương\n[WhenUse] Nhận +1 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
                 }
               ]
             }
@@ -3255,19 +3255,19 @@
         {
           "level": 1,
           "name": "Đặt Ngang Lưỡi Kiếm, Cắt Gọn Tựa Hơi Tàn",
-          "desc": "Final Power +1 for every [UnlockBuff_Base] stage (max 2)\nThe following effects activate depending on the weapon's Attack Type\n- Slash weapons deal +20% damage\n- Non-Slash weapons deal -10% damage\n[WhenUse] Gain +1 [Breath] Count",
+          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa vào loại sát thương của vũ khí:\n- Vũ Khí dạng Chém gây +20% sát thương\n- Vũ Khí khác dạng Chém gây -10% sát thương\n[WhenUse] Nhận +1 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
                 }
               ]
             }
@@ -3281,23 +3281,23 @@
         {
           "level": 1,
           "name": "Vung Đánh Đốn Hạ, Dìm Xuống Đất Đen",
-          "desc": "Final Power +1 for every [UnlockBuff_Base] stage (max 2)\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +30% damage\n- Non-Blunt weapons deal -15% damage\n[StartBattle] Gain the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the final Coin to [SuperCoin]\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, lower user's Stagger Threshold by 10\n[WhenUse] Gain 2 [Breath]",
+          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đập gây +30% sát thương\n- Vũ Khí khác dạng Đập gây -15% sát thương\n[StartBattle] Nhận các hiệu ứng dưới đây (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, giảm 10 Stagger Threshold của người dùng\n[WhenUse] Nhận 2 [Breath]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +1 Tầng [Sinking]"
                 }
               ]
             }
@@ -3311,29 +3311,29 @@
         {
           "level": 1,
           "name": "Nhắm Thẳng Yếu Điểm, Vang Vọng Tâm Can",
-          "desc": "Final Power +1 for every [UnlockBuff_Base] stage (max 2)\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +30% damage\n- Non-Pierce weapons deal -15% damage\n[StartBattle] Gain the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the final Coin to [SuperCoin]\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, inflict 1 [ResultReduction] next turn\n[WhenUse] Gain 2 [Breath]",
+          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đâm gây +30% sát thương\n- Vũ Khí khác dạng Đâm gây -15% sát thương\n[StartBattle] Nhận các hiệu ứng dưới đây (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, gắn 1 [ResultReduction] vào lượt tiếp theo\n[WhenUse] Nhận 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Gắn +1 Tầng [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +1 Tầng [Sinking]"
                 }
               ]
             }
@@ -3347,29 +3347,29 @@
         {
           "level": 1,
           "name": "Xẻ Vát Tầm Thấp, Bóc Tách Tàn Dư",
-          "desc": "Final Power +1 for every [UnlockBuff_Base] stage (max 2)\nThe following effects activate depending on the weapon's Attack Type\n- Slash weapons deal +30% damage\n- Non-Slash weapons deal -15% damage\n[StartBattle] Gain the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the final Coin to [SuperCoin]\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, gain 1 [ResultEnhancement] next turn\n[WhenUse] Gain 2 [Breath]",
+          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đao gây +30% sát thương\n- Vũ Khí khác dạng Đao gây -15% sát thương\n[StartBattle] Nhận các hiệu ứng dưới đây (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, gắn 1 [ResultEnhancement] vào lượt tiếp theo\n[WhenUse] Nhận 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +1 Tầng [Sinking]"
                 }
               ]
             }
@@ -3383,33 +3383,33 @@
         {
           "level": 1,
           "name": "Hủy Diệt Thanh Âm, Nghiền Nát Suy Nghĩ",
-          "desc": "Can Clash with this Skill regardless of Speed\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +50% damage\n- Non-Blunt weapons deal -25% damage\n[StartBattle] Gain the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the 3rd and 4th Coins to [SuperCoin]s\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, raise target's Stagger Threshold by 15\n[WhenUse] Gain 2 [Breath] and +2 [Breath] Count",
+          "desc": "Có thể Đọ Sức với kỹ năng này bất kể Tốc Độ\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đập gây +50% sát thương\n- Vũ Khí khác dạng Đập gây -25% sát thương\n[StartBattle] Nhận các hiệu ứng sau (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu thứ 3 và 4 thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, tăng Stagger Threshold của mục tiêu thêm 15\n[WhenUse] Nhận 2 [Breath] và +2 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +2 Tầng [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận +2 Tầng [Breath]"
                 }
               ]
             }
@@ -3423,33 +3423,33 @@
         {
           "level": 1,
           "name": "Đâm Thấu Tâm Tĩnh Mịch, Xuyên Phá Miền Ký Ức",
-          "desc": "Can Clash with this Skill regardless of Speed\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +50% damage\n- Non-Pierce weapons deal -25% damage\n[StartBattle] Gain the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the 3rd and 4th Coins to [SuperCoin]s\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, gain 1 [AttackDmgUp] next turn\n[WhenUse] Gain 2 [Breath] and +2 [Breath] Count",
+          "desc": "Có thể Đọ Sức với kỹ năng này bất kể Tốc Độ\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đâm gây +50% sát thương\n- Vũ Khí khác dạng Đâm gây -25% sát thương\n[StartBattle] Nhận các hiệu ứng sau (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu thứ 3 và 4 thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, tăng Stagger Threshold của mục tiêu thêm 15\n[WhenUse] Nhận 2 [Breath] và +2 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +2 Tầng [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận +2 Tầng [Breath]"
                 }
               ]
             }
@@ -3463,33 +3463,33 @@
         {
           "level": 1,
           "name": "Tôi Rèn Bí Mật, Chém Bỏ Hình Hài",
-          "desc": "Can Clash with this Skill regardless of Speed\nThe following effects activate depending on the weapon's Attack Type\n- Slash weapons deal +50% damage\n- Non-Slash weapons deal -25% damage\n[StartBattle] Gain the following effects (effects are cumulative)\n- At [UnlockBuff_Rien2], convert the final Coin to [SuperCoin]\n- At [UnlockBuff_Rien3], on Clash Win with this Skill, Final Power +2\n[WhenUse] Gain 2 [Breath] and +2 [Breath] Count",
+          "desc": "Có thể Đọ Sức với kỹ năng này bất kể Tốc Độ\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Chém gây +50% sát thương\n- Vũ Khí khác dạng Chém gây -25% sát thương\n[StartBattle] Nhận các hiệu ứng sau (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, +2 Final Power\n[WhenUse] Nhận 2 [Breath] và +2 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận +2 Tầng [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +2 Tầng [Sinking]"
                 }
               ]
             }
@@ -3529,7 +3529,7 @@
         {
           "level": 1,
           "name": "Furioso-Replica",
-          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>This Skill does not trigger the target's Defense Skills</u></b></mark></color>\nCan Clash with this Skill regardless of Speed\n[WhenUse]\n- Gain 3 [Breath] and +3 [Breath] Count\n- Clash Power +5 (<color=#ff6000><mark=#ff000040><b><u>Clash Power gained is reduced by 1 for every 10 [KarmaOfIndexRien] on self, down to 0</u></b></mark></color>)\n[WhenUse] At 0+ SP, generate 1 Mang\n- Deal +40% damage; Final Power +4\n\n[WinDuel]\n- Gain 3 [Breath] and +3 [Breath] Count\n- After Attack: Inflict 3 [Laceration], 1 [Binding], and 1 [Vulnerable] next turn to all targets this unit hit\n[DefeatDuel]\n- Gain 4 [AttackDmgDown] and 9 [Paralysis]\n- Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n[EndSkill] If this Skill generated Mang, lose 20 SP\n[EndSkill] End this turn",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Kỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu</u></b></mark></color>\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ \n[WhenUse]\n- Nhận 3 [Breath] và +3 Tầng [Breath] \n- Clash Power +5 (<color=#ff6000><mark=#ff000040><b><u>Lượng Clash Power được tăng sẽ bị giảm đi 1 cho mỗi [KarmaOfIndexRien] trên bản thân, xuống đến 0</u></b></mark></color>)\n[WhenUse] Khi ở 0+ SP, tạo 1 Mang\n- Gây +40% sát thương; Final Power +4\n\n[WinDuel]\n- Nhận 3 [Breath] và +3 Tầng [Breath]\n- Kết Đòn: Gắn 3 [Laceration], 1 [Binding], và 1 [Vulnerable] vào lượt tiếp theo cho tất cả mục tiêu bị trúng đòn\n[DefeatDuel]\n- Nhận 4 [AttackDmgDown] và 9 [Paralysis]\n- Sát thương gây ra bởi kỹ năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Nếu Kỹ Năng này tạo Mang, mất 20 SP\n[EndSkill] Kết thúc lượt",
           "coinlist": [
             {
               "coindescs": [
@@ -3544,10 +3544,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Reuse this Coin (7 times max)</u></b></mark></color>"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tái Sử Dụng xu này (Tối đa 7 lần)</u></b></mark></color>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn 1 [Sinking]"
                 }
               ]
             }
@@ -3561,16 +3561,16 @@
         {
           "level": 1,
           "name": "Giáng Trọng Lượng Xuống, Đánh Đổ Thân Thể",
-          "desc": "Blunt weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Blunt weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Blunt weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +30% damage\n- Non-Blunt weapons deal -15% damage\n[WhenUse] Gain 1 [Breath] and +1 [Breath] Count",
+          "desc": "Vũ Khí dạng Đập sẽ xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng đập sẽ xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đập sẽ xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đập gây +30% sát thương\n- Vũ Khí không phải dạng Đập gây -15% sát thương\n[WhenUse] Nhận 1 [Breath] và +1 Tầng [Breath]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
                 }
               ]
             }
@@ -3584,25 +3584,25 @@
         {
           "level": 1,
           "name": "Dựng Thẳng Hồi Kết, Tận Cán Đâm Xuyên",
-          "desc": "Pierce weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Pierce weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Pierce weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +30% damage\n- Non-Pierce weapons deal -15% damage\n[WhenUse] Gain 1 [Breath] and +1 [Breath] Count",
+          "desc": "Vũ Khí dạng Đâm sẽ xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm sẽ xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm sẽ xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đâm gây +30% sát thương\n- Vũ Khí không phải dạng Đâm gây -15% sát thương\n[WhenUse] Nhận 1 [Breath] và +1 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
                 }
               ]
             }
@@ -3616,25 +3616,25 @@
         {
           "level": 1,
           "name": "Đặt Ngang Lưỡi Kiếm, Cắt Gọn Tựa Hơi Tàn",
-          "desc": "Slash weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Slash weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Slash weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Slash weapons deal +30% damage\n- Non-Slash weapons deal -15% damage\n[WhenUse] Gain 1 [Breath] and +1 [Breath] Count",
+          "desc": "Vũ Khí dạng Chém sẽ xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Chém sẽ xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Chém sẽ xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Chém gây +30% sát thương\n- Vũ Khí không phải dạng Chém gây -15% sát thương\n[WhenUse] Nhận 1 [Breath] và +1 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Gắn +1 Tầng [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
                 }
               ]
             }
@@ -3648,13 +3648,13 @@
         {
           "level": 1,
           "name": "Vung Đánh Đốn Hạ, Dìm Xuống Đất Đen",
-          "desc": "Blunt weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Blunt weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Blunt weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +40% damage\n- Non-Blunt weapons deal -20% damage\n[WhenUse] Gain 2 [Breath] and +1 [Breath] Count\n[WinDuel] Lower user's Stagger Threshold by 15\n- At 75+ [KarmaOfIndexRien_2Phase], this effect does not activate",
+          "desc": "Vũ Khí dạng Đập sẽ xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đập sẽ xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đập sẽ xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đập gây +40% sát thương\n- Vũ Khí không phải dạng Đập gây -20% sát thương\n[WhenUse] Nhận 2 [Breath] và +1 Tầng [Breath]\n[WinDuel] Giảm 15 Stagger Threshold của người dùng\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn 4 [Sinking]"
                 }
               ]
             },
@@ -3664,10 +3664,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +1 Tầng [Sinking]"
                 }
               ]
             }
@@ -3681,19 +3681,19 @@
         {
           "level": 1,
           "name": "Nhắm Thẳng Yếu Điểm, Vang Vọng Tâm Can",
-          "desc": "Pierce weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Pierce weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Pierce weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +40% damage\n- Non-Pierce weapons deal -20% damage\n[WhenUse] Gain 2 [Breath] and +1 [Breath] Count\n[WinDuel] Inflict 2 [ResultReduction] next turn\n- At 75+ [KarmaOfIndexRien_2Phase], this effect does not activate",
+          "desc": "Vũ Khí dạng Đâm sẽ xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm sẽ xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm sẽ xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đâm gây +40% sát thương\n- Vũ Khí không phải dạng Đâm gây -20% sát thương\n[WhenUse] Nhận 2 [Breath] và +1 Tầng [Breath]\n[WinDuel] Gắn 2 [ResultReduction] vào lượt tiếp theo\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Gắn +1 Tầng [Sinking]"
                 }
               ]
             },
@@ -3703,10 +3703,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +1 Tầng [Sinking]"
                 }
               ]
             }
@@ -3720,19 +3720,19 @@
         {
           "level": 1,
           "name": "Xẻ Vát Tầm Thấp, Bóc Tách Tàn Dư",
-          "desc": "Slash weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Slash weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Slash weapons appear even less frequently\nFinal Power +1 for every [UnlockBuff_Base] stage (max 3)\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +40% damage\n- Non-Pierce weapons deal -20% damage\n[WhenUse] Gain 2 [Breath] and +1 [Breath] Count\n[WinDuel] Gain 2 [ResultEnhancement] next turn\n- At 75+ [KarmaOfIndexRien_2Phase], this effect does not activate",
+          "desc": "Vũ Khí dạng Chém sẽ xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Chém sẽ xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Chém sẽ xuất hiện ít hơn nữa\nFinal Power +1 cho mỗi bậc [UnlockBuff_Base] (tối đa 3)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Chém gây +40% sát thương\n- Vũ Khí không phải dạng Chém gây -20% sát thương\n[WhenUse] Nhận 2 [Breath] và +1 Tầng [Breath]\n[WinDuel] Gắn 2 [ResultEnhancement] vào lượt tiếp theo\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Sinking]"
                 }
               ]
             },
@@ -3742,10 +3742,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Nhận +1 Tầng [Breath]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +1 Tầng [Sinking]"
                 }
               ]
             }
@@ -3759,29 +3759,19 @@
         {
           "level": 1,
           "name": "Hủy Diệt Thanh Âm, Nghiền Nát Suy Nghĩ",
-          "desc": "Can Clash with this Skill regardless of Speed\nIf this unit has [BlackNightmare]:\n- Convert all Coins to [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>When clashing against a non-Blunt Skill or a non-Ryōshū unit</u></b></mark></color>, Coin Power +2 and deal +50% damage\n- On Clash Lose against a Blunt Skill or Ryōshū:\n  - Coin Power -2 and deal -50% damage\n  - Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n\nBlunt weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Blunt weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Blunt weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Blunt weapons deal +60% damage\n- Non-Blunt weapons deal -30% damage\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count\n[WinDuel] Raise target's Stagger Threshold by 25\n- At 150+ [KarmaOfIndexRien_2Phase], this effect does not activate",
+          "desc": "Có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ\n Nếu đơn vị này có [BlackNightmare]:\n- Chuyển hóa toàn bộ xu thành [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>Khi Đọ Sức với Kỹ Năng không phải dạng Đập hoặc đơn vị không phải Ryōshū </u></b></mark></color>, Coin Power +2 và gây +50% sát thương\n- Khi Thua Đọ Sức với một Kỹ Năng dạng Đập hoặc Ryōshū:\n  - Coin Power -2 và gây -50% sát thương\n  - Sát thương gây ra bởi Kỹ Năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n\nVũ Khí dạng Đập xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đập xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đập xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đập gây +60% sát thương\n- Vũ Khí không phải dạng Đập gây -30% sát thương\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]\n[WinDuel] Tăng Stagger Threshold của mục tiêu thêm 25\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn 3 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Sinking] Count"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +2 Tầng [Sinking]"
                 }
               ]
             },
@@ -3791,7 +3781,17 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận +2 Tầng [Breath]"
                 }
               ]
             }
@@ -3805,29 +3805,19 @@
         {
           "level": 1,
           "name": "Đâm Thấu Tâm Tĩnh Mịch, Xuyên Phá Miền Ký Ức",
-          "desc": "Can Clash with this Skill regardless of Speed\nIf this unit has [BlackNightmare]:\n- Convert all Coins to [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>When clashing against a non-Pierce Skill or a non-Ryōshū unit</u></b></mark></color>, Coin Power +2 and deal +50% damage\n- On Clash Lose against a Pierce Skill or Ryōshū:\n  - Coin Power -2 and deal -50% damage\n  - Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n\nPierce weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Pierce weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Pierce weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Pierce weapons deal +60% damage\n- Non-Pierce weapons deal -30% damage\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count\n[WinDuel] Gain 2 [AttackDmgUp] next turn\n- At 150+ [KarmaOfIndexRien_2Phase], this effect does not activate",
+          "desc": "Có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ\n Nếu đơn vị này có [BlackNightmare]:\n- Chuyển hóa toàn bộ xu thành [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>Khi Đọ Sức với Kỹ Năng không phải dạng Đâm hoặc đơn vị không phải Ryōshū </u></b></mark></color>, Coin Power +2 và gây +50% sát thương\n- Khi Thua Đọ Sức với một Kỹ Năng dạng Đâm hoặc Ryōshū:\n  - Coin Power -2 và gây -50% sát thương\n  - Sát thương gây ra bởi Kỹ Năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n\nVũ Khí dạng Đâm xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đâm gây +60% sát thương\n- Vũ Khí không phải dạng Đâm gây -30% sát thương\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]\n[WinDuel] Nhận 2 [AttackDmgUp] vào lượt tiếp theo\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn 3 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 3 [Breath]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[SuperCoin]"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 3 [Breath]"
                 }
               ]
             },
@@ -3837,7 +3827,17 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain +2 [Breath] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +2 Tầng [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận +2 Tầng [Breath]"
                 }
               ]
             }
@@ -3851,19 +3851,19 @@
         {
           "level": 1,
           "name": "Tôi Rèn Bí Mật, Chém Bỏ Hình Hài",
-          "desc": "Can Clash with this Skill regardless of Speed\nIf this unit has [BlackNightmare]:\n- Convert all Coins to [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>When clashing against a non-Slash Skill or a non-Ryōshū unit</u></b></mark></color>, Coin Power +2 and deal +50% damage\n- On Clash Lose against a Slash Skill or Ryōshū:\n  - Coin Power -2 and deal -50% damage\n  - Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n\nSlash weapons appear more frequently\n- At 75+ [KarmaOfIndexRien_2Phase], Slash weapons appear less frequently\n- At 150+ [KarmaOfIndexRien_2Phase], Slash weapons appear even less frequently\nThe following effects activate depending on the weapon's Attack Type\n- Slash weapons deal +60% damage\n- Non-Slash weapons deal -30% damage\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count\n[WinDuel] Final Power +3\n- At 150+ [KarmaOfIndexRien_2Phase], this effect does not activate",
+          "desc": "Có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ\n Nếu đơn vị này có [BlackNightmare]:\n- Chuyển hóa toàn bộ xu thành [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>Khi Đọ Sức với Kỹ Năng không phải dạng Đâm hoặc đơn vị không phải Ryōshū </u></b></mark></color>, Coin Power +2 và gây +50% sát thương\n- Khi Thua Đọ Sức với một Kỹ Năng dạng Đâm hoặc Ryōshū:\n  - Coin Power -2 và gây -50% sát thương\n  - Sát thương gây ra bởi Kỹ Năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n\nVũ Khí dạng Đâm xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đâm gây +60% sát thương\n- Vũ Khí không phải dạng Đâm gây -30% sát thương\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]\n[WinDuel] Final Power +3\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận 3 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain +3 [Breath] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Nhận +3 Tầng [Breath]"
                 }
               ]
             },
@@ -3897,7 +3897,7 @@
         {
           "level": 1,
           "name": "Nhớ Chứ, Con Yêu? Chỉ Có Con Mới Đọ Sức Được Với Chiêu Này.",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>Only Ryōshū can Clash against this Skill</u></b></mark></color>\n- Ryōshū can Clash with this Skill regardless of Speed\nOn Unopposed Attack, Coin Power +2 and deal +50% damage\n\n[DefeatDuel]\n- Coin Power -2 and deal -50% damage\n- Damage dealt by this Skill cannot Stagger the target; On Hit, does not activate [Sinking] on target\n\n[EndBattle] <color=#ff6000><mark=#ff000040><b><u>If this unit lost the Clash, gain 1 [BurningWoundRien]</u></b></mark></color>\n- If all 3 Skills with [BlackNightmare]-related unique effects lost the Clash this turn, gain 2 [BurningWoundRien] instead",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Chỉ có Ryōshū mới có thể Đọ Sức với Kỹ Năng này</u></b></mark></color>\n- Ryōshū có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ\nKhi Tấn Công Một Chiều, Coin Power +2 và gây +50% sát thương\n\n[DefeatDuel]\n- Coin Power -2 và gây -50% sát thương\n- Sát thương gây ra bởi Kỹ Năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n\n[EndBattle] <color=#ff6000><mark=#ff000040><b><u>Nếu đơn vị này Đọ Sức thua, nhận 1 [BurningWoundRien]</u></b></mark></color>\n- Nếu tất cả 3 Kỹ Năng có hiệu ứng đặc biệt liên quan đến [BlackNightmare] đều thua Đọ Sức trong vòng này, thay vào đó nhận 2 [BurningWoundRien]",
           "coinlist": [
             {
               "coindescs": [
