@@ -2136,8 +2136,8 @@
     },
     {
       "id": "SuperCoin",
-      "name": "Unbreakable Coin",
-      "desc": "- This coin does not break upon Clash Lose.\n- If an Attack Skill has this Coin, attack with this Coin after getting hit.\n- Upon Clash Lose, fix the Coin Power of the unbroken Coin to 1",
+      "name": "Xu Không Thể Vỡ",
+      "desc": "- Xu này sẽ không vỡ khi Đọ Sức Thất Bại\n- Nếu như có Kỹ Năng Tấn Công có xu này, tiến hành tấn công bằng xu này sau khi bị trúng đòn.\n- Khi Đọ Sức Thất Bại, Khóa Coin Power của Xu Không Thể Vỡ này thành 1",
       "summary": ""
     },
     {
