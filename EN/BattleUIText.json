@@ -26,11 +26,11 @@
     },
     {
       "id": "creature_destroy_notice",
-      "content": "Part Broken"
+      "content": "B.Phận bị Phá Huỷ"
     },
     {
       "id": "oneside_attack",
-      "content": "Unopposed"
+      "content": "Một Chiều"
     },
     {
       "id": "guard",
@@ -38,11 +38,11 @@
     },
     {
       "id": "power",
-      "content": "Uy Lực"
+      "content": "Giá Trị"
     },
     {
       "id": "require",
-      "content": "Req."
+      "content": "Cần"
     },
     {
       "id": "battle_log_atk_hp",
@@ -106,7 +106,7 @@
     },
     {
       "id": "info_button_skill",
-      "content": "Kỹ Năng "
+      "content": "Chiêu "
     },
     {
       "id": "info_button_awakenskill",
@@ -118,7 +118,7 @@
     },
     {
       "id": "resonance",
-      "content": "Res."
+      "content": "C.Hưởng"
     },
     {
       "id": "perfect_resonance",
@@ -706,7 +706,7 @@
     },
     {
       "id": "battle_operation_counter",
-      "content": "Power Counter"
+      "content": "Phản Đòn - Đọ Sức"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_0",
@@ -754,7 +754,7 @@
     },
     {
       "id": "battle_operation_defense",
-      "content": "Power Guard"
+      "content": "Đỡ Đòn - Đọ Sức"
     },
     {
       "id": "battle_operation_defense_TextTypo",
