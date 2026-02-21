@@ -2,76 +2,76 @@
   "dataList": [
     {
       "id": "IndexPrescriptTargetToPersonality",
-      "name": "The Prescript's Target - The Index",
+      "name": "Mục Tiêu Sắc Lệnh - Ngón Trỏ",
       "desc": "Skill Power -2 against and take +20% damage from The Index enemies",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BlessingOfIndexPrescriptEnemy",
-      "name": "Grace of the Prescript",
+      "name": "Ý Chỉ Sắc Lệnh",
       "desc": "- Offense Level +1 for every 3 Stack\n- Max Stack: 9",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IndexPrescript_Base_2nd",
-      "name": "Prescript",
-      "desc": "Receive Prescript: [Device] under specific conditions",
+      "name": "Sắc Lệnh",
+      "desc": "Nhận Sắc Lệnh [Máy Nhắn] dưới điều kiện nhất định",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+      "flavor": "Các Sắc Lệnh được chuyển giao bằng nhiều phương thức, vật trung gian của chúng được định đoạt với tính tuyệt đối tựa như lời tiên tri của thần linh. Những kẻ tiếp nhận chúng không có quyền năng gì trong việc quyết định cách chúng đến."
     },
     {
       "id": "IndexPrescriptStudent_0",
-      "name": "Prescript: [Device] I",
-      "desc": "Attack and hit a Prescript's Target.\n\n- Turn Start: Gain this effect when this unit has no Unlock\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 3",
+      "name": "Sắc Lệnh: [Máy Nhắn] I",
+      "desc": "Tấn công và đánh trúng Mục Tiêu Sắc Lệnh.\n\n- Bắt Đầu Lượt: Nhận hiệu ứng này khi đơn vị này không có Khai Mở\n- Số Tầng Tối Đa của Ý Chỉ Sắc Lệnh đối với Sắc Lệnh này là 3",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+      "flavor": "Các Sắc Lệnh được chuyển giao bằng nhiều phương thức, vật trung gian của chúng được định đoạt với tính tuyệt đối tựa như lời tiên tri của thần linh. Những kẻ tiếp nhận chúng không có quyền năng gì trong việc quyết định cách chúng đến."
     },
     {
       "id": "IndexPrescriptStudent_1",
-      "name": "Prescript: [Device] II",
-      "desc": "Hit a Prescript's Target with the Skill equipped in the first Slot, or eliminate a random target.\n\n- Turn Start: Gain this effect if this unit has Unlock - I\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 6",
+      "name": "Sắc Lệnh: [Máy Nhắn] II",
+      "desc": "Tấn công và đánh trúng Mục Tiêu Sắc Lệnh bằng Kỹ Năng được trang bị ở Vị Trí Đầu Tiên, hoặc tiêu diệt một mục tiêu ngẫu nhiên.\n\n- Bắt Đầu Lượt: Nhận hiệu ứng này nếu đơn vị này có Khai Mở - I\n- Số Tầng Tối Đa của Ý Chỉ Sắc Lệnh đối với Sắc Lệnh này là 6",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+      "flavor": "Các Sắc Lệnh được chuyển giao bằng nhiều phương thức, vật trung gian của chúng được định đoạt với tính tuyệt đối tựa như lời tiên tri của thần linh. Những kẻ tiếp nhận chúng không có quyền năng gì trong việc quyết định cách chúng đến."
     },
     {
       "id": "IndexPrescriptStudent_2",
-      "name": "Prescript: [Device] III",
-      "desc": "Stagger or eliminate a random target.\n\n- Turn Start: Gain this effect if this unit has Unlock - II\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 9",
+      "name": "Sắc Lệnh: [Máy Nhắn] III",
+      "desc": "Gây Choáng hoặc tiêu diệt một mục tiêu ngẫu nhiên.\n\n- Bắt Đầu Lượt: Nhận hiệu ứng này nếu đơn vị này có Khai Mở - II\n- Số Tầng Tối Đa của Ý Chỉ Sắc Lệnh đối với Sắc Lệnh này là 9",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+      "flavor": "Các Sắc Lệnh được chuyển giao bằng nhiều phương thức, vật trung gian của chúng được định đoạt với tính tuyệt đối tựa như lời tiên tri của thần linh. Những kẻ tiếp nhận chúng không có quyền năng gì trong việc quyết định cách chúng đến."
     },
     {
       "id": "IndexPrescriptStudent_3",
-      "name": "Prescript: [Device] IV",
-      "desc": "Eliminate all obstacles before the next Prescript arrives.\n\n- Turn Start: Gain this effect if this unit has Unlock - III",
+      "name": "Sắc Lệnh: [Máy Nhắn] IV",
+      "desc": "Tiêu diệt tất cả các chướng ngại trước khi Sắc Lệnh tiếp theo đến.\n\n- Bắt Đầu Lượt: Nhận hiệu ứng này nếu đơn vị này có Khai Mở - III",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+      "flavor": "Các Sắc Lệnh được chuyển giao bằng nhiều phương thức, vật trung gian của chúng được định đoạt với tính tuyệt đối tựa như lời tiên tri của thần linh. Những kẻ tiếp nhận chúng không có quyền năng gì trong việc quyết định cách chúng đến."
     },
     {
       "id": "UnlockBuff_1",
       "name": "Khai Mở - I",
-      "desc": "- Offense Level +1, Defense Level +1\n- Combat End: Heal 15 SP",
+      "desc": "- Cấp Tấn Công +1, Cấp Phòng Thủ +1\n- Kết Thúc Giao Tranh: Hồi 15 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuff_2",
       "name": "Khai Mở - II",
-      "desc": "- Offense Level +2, Defense Level +2\n- Combat End: Heal 30 SP",
+      "desc": "- Cấp Tấn Công +2, Cấp Phòng Thủ +2\n- Kết Thúc Giao Tranh: Hồi 30 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuff_3",
       "name": "Khai Mở - III",
-      "desc": "- Offense Level +3, Defense Level +3\n- Combat End: Heal 45 SP",
+      "desc": "- Cấp Tấn Công +3, Cấp Phòng Thủ +3\n- Kết Thúc Giao Tranh: Hồi 45 SP",
       "summary": "",
       "undefined": "-"
     },
@@ -332,28 +332,28 @@
     {
       "id": "UnlockBuff_Base",
       "name": "Khai Mở",
-      "desc": "- Gain this effect when over certain Grace of the Prescript Stack\n- Effect stage increases based on Grace of the Prescript Stack\n- Max: Stage 3",
+      "desc": "- Nhận Hiệu Ứng này khi có số tầng Ý Chỉ Sắc Lệnh nhất định\n- Số Bậc của hiệu ứng tăng dựa theo số tầng Ý Chỉ Sắc Lệnh\n- Tối đa: Bậc 3",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuffAlly_1",
-      "name": "Unlock - I",
-      "desc": "- Defense Level +1\n- Combat End: Heal 5 SP",
+      "name": "Khai Mở - I",
+      "desc": "- Cấp Phòng Thủ +1\n- Kết Thúc Giao Tranh: Hồi 5 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuffAlly_2",
-      "name": "Unlock - II",
-      "desc": "- Defense Level +2\n- Combat End: Heal 10 SP",
+      "name": "Khai Mở - II",
+      "desc": "- Cấp Phòng Thủ +2\n- Kết Thúc Giao Tranh: Hồi 10 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuffAlly_3",
-      "name": "Unlock - III",
-      "desc": "- Defense Level +3\n- Combat End: Heal 15 SP",
+      "name": "Khai Mở - III",
+      "desc": "- Cấp Phòng Thủ +3\n- Kết Thúc Giao Tranh: Hồi 15 SP",
       "summary": "",
       "undefined": "-"
     },
