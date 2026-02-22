@@ -92,7 +92,7 @@
     },
     {
       "id": "Charge",
-      "name": "Charge",
+      "name": "Năng Lượng",
       "desc": "Resource used by certain skills for additional effects. Its Count can go up to 20. Count lowers by 1 at the end of each turn.\n\n<color=#1aece7>Total Count consumed: {2}</color>",
       "summary": "Specific Skill Resource",
       "undefined": "-"
