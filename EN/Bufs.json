@@ -287,8 +287,8 @@
       "summary": "{0} fixed HP damage"
     },
     {
-      "id": "Trầm Luân",
-      "name": "Sinking",
+      "id": "Sinking",
+      "name": "Trầm Luân",
       "desc": "The next {1} time(s) the unit is hit, take {0} fixed SP damage. (Units with no Sanity take Gloom damage.)",
       "summary": "{0} Sinking DMG"
     },
