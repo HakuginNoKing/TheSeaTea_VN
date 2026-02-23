@@ -2762,7 +2762,7 @@
     {
       "id": 1011521,
       "name": "Ân Điển Của Thần",
-      "desc": "Deal +5% damage with Slash, Pierce, and Blunt Base Attack Skills that are used for the first time by any ally each turn (once per type across all allies)\n- The Index Identities deal +10% damage instead\n- This effect's application is determined Before Attack",
+      "desc": "Gây +5% sát thương đối với các Chiêu Tấn Công Cơ Bản dạng Chém, Đập, Đâm được sử dụng lần đầu tiên bởi bất kỳ đồng minh nào trong mỗi lượt (một lần mỗi loại giữa các đồng minh)\n- Nhân Dạng Ngón Trỏ thay vào đó gây +10% sát thương\n- Hiệu ứng này được áp dụng Trước Khi Tấn Công",
       "summary": "Deal more damage with Slash, Pierce, and Blunt Skills used for the first time this turn"
     }
   ]
