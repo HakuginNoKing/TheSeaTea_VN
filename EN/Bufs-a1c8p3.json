@@ -2,37 +2,37 @@
   "dataList": [
     {
       "id": "Bothersome",
-      "name": "Severing Slash [切斬]",
+      "name": "Thiết Trảm [切斬]",
       "desc": "- The target's Slash Resistance counts as 'Weak'(1.5). (does not activate against targets with 1.5 or higher Slash Resistance)\n- Expires at Turn End",
       "summary": ""
     },
     {
       "id": "VibrationIgnition",
-      "name": "Tremor - Scorch",
+      "name": "Chấn Động - Thiêu Đốt",
       "desc": "- On Tremor Burst, take Wrath Damage equal to (sum of Tremor Potency and Burn Potency / 2), and lose 1 Burn Count\n- When hit by Skills that trigger Tremor Burst, raise this unit's Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": ""
     },
     {
       "id": "BulletPropellant",
-      "name": "Tigermark Round",
+      "name": "Hổ Ấn Đạn",
       "desc": "- Unique Ammo\n- Spent by certain Skills\n- Max Stack: 6",
       "summary": ""
     },
     {
       "id": "BulletPropellantSpecial",
-      "name": "Savage Tigermark Round",
+      "name": "Cuồng Hổ Ấn Đạn",
       "desc": "- Unique Ammo\n- Spent by certain Skills (actives the same way as Tigermark Round does)\n- The Potency and the Count of this effect are \"Loaded Ammo\" and \"Remaining Ammo\", respectively\n· Max Potency (Loaded Ammo): 6\n- Coins that spent this Ammo deal +30% damage, and inflict double the normal amount of Burn Potency and Count\n- When all Loaded Ammo and Remaining Ammo are spent, converts back to Tigermark Round",
       "summary": ""
     },
     {
       "id": "Prey",
-      "name": "Prey",
+      "name": "Con Mồi",
       "desc": "- In a Clash with an enemy, Clash Power -5\n- Combat Start:\n· If this unit equipped an Attack Skill, deal -50% damage against Lei Heng with Attack Skills\n· If this unit equipped a Defense Skill, take -75% damage from Lei Heng\n- If this unit wins a Clash against Lei Heng while under this effect, gain 3 of the least-owned E.G.O Resources\n- Expires at Turn End; this unit heals 10 SP",
       "summary": ""
     },
     {
       "id": "Complacency",
-      "name": "Overheat",
+      "name": "Quá Nhiệt",
       "desc": "- Max Stack: 5\n- Turn Start: gain Clash Power Down and Fragile equal to the Stack\n- Expires at Turn End",
       "summary": ""
     },
@@ -44,26 +44,26 @@
     },
     {
       "id": "RestoredBattleSense",
-      "name": "Extreme Strength [極力]",
+      "name": "Đỉnh Lực[極力]",
       "desc": "- Max Stack: 50\n- Counts as \"Inner Strength\". Consumed by certain Skills; at Turn End, heal SP equal to the Stack consumed by the end of the turn.\n- Gain 2 Stack with every Clash (max 10 per Skill). On Clash Lose, lose the Stacks gained from the said Clash\n- Gain 3 Stack when hitting with an Unopposed Attack (max 15 per Skill)\n- Turn End: next turn, gain Haste based on the total Stack consumed this turn (1 Haste per 25 Stack, max 5)\n\n- Total Stacks Consumed: {0}",
       "summary": ""
     },
     {
       "id": "Irritation",
-      "name": "Tiantui Star [天退星]",
+      "name": "Thiên Toái Tinh [天退星]",
       "desc": "- Turn Start: gain 1 Damage Up and 1 Power Up for every 20% missing HP on self (max 3 each)\n- Inflict +2 more Tremor Potency with this unit's Skills\n- If this unit's Speed is faster than the target's by 3 or more, deal +(Speed difference x 5)% damage (max 20%)\n- Convert the final Coin of 'Triple Slash - Burst' to an Unbreakable Coin\n- This buff changes into Shin (心) - Tiantui Star [天退星] when using a specific pattern",
       "summary": ""
     },
     {
       "id": "HugeIrritation",
-      "name": "Shin (心) - Tiantui Star [天退星]",
+      "name": "Tâm (心) - Thiên Thoái Tinh [天退星]",
       "desc": "- Turn Start: gain 1 Damage Up and 1 Power Up for every 15% missing HP on self (max 5 each)\n- Inflict +3 more Tremor Potency and +1 more Tremor Count with this unit's Skills\n- If this unit's Speed is faster than the target's by 3 or more, deal +(Speed difference x 5)% damage (max 20%)\n- Convert the final Coins of 'Double Slash - Blast' and 'Triple Slash - Burst' to Unbreakable Coins",
       "summary": ""
     },
     {
       "id": "ReloadKeepAmmo",
-      "name": "Reload - Tactical",
-      "desc": "- Restore this unit's Ammo to its maximum capacity (does not discard any remaining Ammo)",
+      "name": "Nạp Đạn - Chiến Thuật",
+      "desc": "- Nạp lại số Đạn của đơn vị này lên mức tối đa (không bỏ đi số Đạn còn lại)",
       "summary": ""
     },
     {
