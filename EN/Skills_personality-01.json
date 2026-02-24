@@ -2696,7 +2696,7 @@
         {
           "level": 4,
           "name": "\"Quấn Chặt 330 Lần Trong Những Dải Máu Đông Dài\"",
-          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% Tỉ lệ tạo ra vũ khí dạng Đập\n- Các xu sử dụng vũ khí dạng Đập gây thêm <style=\"highlight\">+15%</style> sát thương\nNếu Chiêu này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Uy Lực Đọ Sức +1</style> và gây thêm <style=\"highlight\">+20%</style> sát thương\n<style=\"highlight\">Uy Lực Xu +1 cho mỗi 6 ([Breath] trên bản thân + [Sinking] trên mục tiêu) (Tối đa 2)</style>\n[WhenUse] Biến đổi xu tương ứng với (Bậc [UnlockBuff_Base] - 1) thành [SuperCoin], bắt đầu từ xu cuối cùng\n[WhenUse] Nhận +2 Cộng Dồn [Breath] ",
+          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% Tỉ lệ tạo ra vũ khí dạng Đập\n- Các xu sử dụng vũ khí dạng Đập gây thêm <style=\"highlight\">+15%</style> sát thương\nNếu Kỹ Năng này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Uy Lực Đọ Sức +1</style> và gây thêm <style=\"highlight\">+20%</style> sát thương\n<style=\"highlight\">Uy Lực Xu +1 cho mỗi 6 ([Breath] trên bản thân + [Sinking] trên mục tiêu) (Tối đa 2)</style>\n[WhenUse] Biến đổi xu tương ứng với (Bậc [UnlockBuff_Base] - 1) thành [SuperCoin], bắt đầu từ xu cuối cùng\n[WhenUse] Nhận +2 Cộng Dồn [Breath] ",
           "coinlist": [
             {},
             {
@@ -2719,7 +2719,7 @@
         {
           "level": 1,
           "name": "\"Hoan Hưởng Giữa Tràng Vỗ Tay Tĩnh Lặng, Xuyên Thấu Trong Nỗi Sầu Vô Ngôn\"",
-          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% Tỉ lệ tạo ra Vũ Khí dạng Đâm\n- Các xu sử dụng vũ khí dạng Đâm gây <style=\"highlight\">+10%</style> sát thương\nNếu Chiêu này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Clash Power +1</style>\n[WhenUse] Biến đổi xu tương ứng với (Bậc [UnlockBuff_Base] stage) thành [SuperCoin], bắt đầu từ xu cuối cùng\n[WhenUse] Nhận 3 [Breath]",
+          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% Tỉ lệ tạo ra Vũ Khí dạng Đâm\n- Các xu sử dụng vũ khí dạng Đâm gây <style=\"highlight\">+10%</style> sát thương\nNếu Kỹ Năng này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Clash Power +1</style>\n[WhenUse] Biến đổi xu tương ứng với (Bậc [UnlockBuff_Base] stage) thành [SuperCoin], bắt đầu từ xu cuối cùng\n[WhenUse] Nhận 3 [Breath]",
           "coinlist": [
             {},
             {
@@ -2769,7 +2769,7 @@
         {
           "level": 4,
           "name": "\"Hoan Hưởng Giữa Tràng Vỗ Tay Tĩnh Lặng, Xuyên Thấu Trong Nỗi Sầu Vô Ngôn\"",
-          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% Tỉ lệ tạo ra vũ khí dạng Đâm\n- Các xu sử dụng vũ khí dạng Đâm gây <style=\"highlight\">+15%</style> sát thương\nNếu Chiêu này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Uy Lực Sau Cùng +1</style>\n<style=\"highlight\">Uy Lực Xu +1 cho mỗi 6 ([Breath] trên bản thân+ [Sinking] trên mục tiêu) (Tối đa 2)</style>\n[WhenUse] Biến đổi xu tương ứng với (Bậc [UnlockBuff_Base]) thành [SuperCoin], bắt đầu từ xu cuối cùng\n[WhenUse] Nhận 3 [Breath]",
+          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% Tỉ lệ tạo ra vũ khí dạng Đâm\n- Các xu sử dụng vũ khí dạng Đâm gây <style=\"highlight\">+15%</style> sát thương\nNếu Kỹ Năng này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], <style=\"highlight\">Uy Lực Sau Cùng +1</style>\n<style=\"highlight\">Uy Lực Xu +1 cho mỗi 6 ([Breath] trên bản thân+ [Sinking] trên mục tiêu) (Tối đa 2)</style>\n[WhenUse] Biến đổi xu tương ứng với (Bậc [UnlockBuff_Base]) thành [SuperCoin], bắt đầu từ xu cuối cùng\n[WhenUse] Nhận 3 [Breath]",
           "coinlist": [
             {},
             {
@@ -2834,7 +2834,7 @@
         {
           "level": 4,
           "name": "\"Nâng Kiếm Tiếu Ngạo, Tuôn Lệ Thác Đổ Tựa Hương Lá Úa Tàn\"",
-          "desc": "Bắt Đầu Lượt: Khi đạt 9 [StackYisangSpecialSkill], biến đổi Chiêu này thành 'Furioso-Replica' (Một lần mỗi lượt)\n- Ưu tiên Chiêu ở ô dưới cùng bên trái trên Bảng Điều Khiển.\n- [BeforeUse] Khi có ít hơn 9 [StackYisangSpecialSkill], dùng như Chiêu 3\n(75 - ([KarmaOfIndexAlly] / 2))% Tỉ lệ tạo ra vũ khí dạng Chém\n- Các xu sử dụng vũ khí dạng Chém gây <style=\"highlight\">+25%</style> sát thương\nNếu Chiêu này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], gây <style=\"highlight\">+20%</style> sát thương\n<style=\"highlight\">Uy Lực Xu +1 cho mỗi 6 ([Breath] trên bản thân + [Sinking] trên mục tiêu) (Tối đa 2)</style>\n[WhenUse] Biến đổi xu tương ứng với (Bậc [UnlockBuff_Base] <style=\"highlight\">+ 1</style>) trở thành [SuperCoin], bắt đầu từ Xu cuối cùng\n[WhenUse] Nhận +3 Cộng Dồn [Breath]\n<style=\"highlight\">- Nhận thêm [Breath] dựa trên (Bậc [UnlockBuff_Base])</style>",
+          "desc": "Bắt Đầu Lượt: Khi đạt 9 [StackYisangSpecialSkill], biến đổi Kỹ Năng này thành 'Furioso-Replica' (Một lần mỗi lượt)\n- Ưu tiên Kỹ Năng ở ô dưới cùng bên trái trên Bảng Điều Khiển.\n- [BeforeUse] Khi có ít hơn 9 [StackYisangSpecialSkill], dùng như Kỹ Năng 3\n(75 - ([KarmaOfIndexAlly] / 2))% Tỉ lệ tạo ra vũ khí dạng Chém\n- Các xu sử dụng vũ khí dạng Chém gây <style=\"highlight\">+25%</style> sát thương\nNếu Kỹ Năng này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], gây <style=\"highlight\">+20%</style> sát thương\n<style=\"highlight\">Uy Lực Xu +1 cho mỗi 6 ([Breath] trên bản thân + [Sinking] trên mục tiêu) (Tối đa 2)</style>\n[WhenUse] Biến đổi xu tương ứng với (Bậc [UnlockBuff_Base] <style=\"highlight\">+ 1</style>) trở thành [SuperCoin], bắt đầu từ Xu cuối cùng\n[WhenUse] Nhận +3 Cộng Dồn [Breath]\n<style=\"highlight\">- Nhận thêm [Breath] dựa trên (Bậc [UnlockBuff_Base])</style>",
           "coinlist": [
             {},
             {
@@ -2920,7 +2920,7 @@
         {
           "level": 4,
           "name": "Furioso-Replica",
-          "desc": "[WideAreaRampage]\nChỉ duy nhất 1 bản sao của Chiêu này có thể có trên Bảng Điều Khiển\nNếu Chiêu này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], gây +10% sát thương\nUy Lực Xu của Chiêu này không thay đổi; thay vào đó, với mỗi tổng Uy Lực Xu được tăng, Uy Lực Sau Cùng +5 <style=\"highlight\">và gây +25% sát thương</style> (Chiêu này không bị ảnh hưởng bởi [Paralysis])\n<style=\"highlight\">Uy Lực Sau Cùng +1 với mỗi 6 ([Breath] trên bản thân + [Sinking] trên mục tiêu chính) (Tối đa 2)</style>\n[StartBattle]\n- Biến đổi tất cả Xu trên Chiêu này thành [SuperCoin]\n- Gắn 1 [Sinking] hoặc nhận 1 [Breath] với mỗi đòn đánh của Chiêu này\n- Không thể nhận [StackYisangSpecialSkill] trong lượt này\n[WhenUse]\n- Uy Lực Đọ Sức +3\n- Nhận 3 [Breath] và +3 Cộng Dồn [Breath]\n[EndSkill]\n- Gắn 5 [Combustion], 3 [Binding], và 3 [Vulnerable] vào lượt tiếp theo với mỗi mục tiêu bị đơn vị này đánh trúng\n- Tiêu tốn toàn bộ [StackYisangSpecialSkill]",
+          "desc": "[WideAreaRampage]\nChỉ duy nhất 1 bản sao của Kỹ Năng này có thể có trên Bảng Điều Khiển\nNếu Kỹ Năng này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], gây +10% sát thương\nUy Lực Xu của Kỹ Năng này không thay đổi; thay vào đó, với mỗi tổng Uy Lực Xu được tăng, Uy Lực Sau Cùng +5 <style=\"highlight\">và gây +25% sát thương</style> (Kỹ Năng này không bị ảnh hưởng bởi [Paralysis])\n<style=\"highlight\">Uy Lực Sau Cùng +1 với mỗi 6 ([Breath] trên bản thân + [Sinking] trên mục tiêu chính) (Tối đa 2)</style>\n[StartBattle]\n- Biến đổi tất cả Xu trên Kỹ Năng này thành [SuperCoin]\n- Gắn 1 [Sinking] hoặc nhận 1 [Breath] với mỗi đòn đánh của Kỹ Năng này\n- Không thể nhận [StackYisangSpecialSkill] trong lượt này\n[WhenUse]\n- Uy Lực Đọ Sức +3\n- Nhận 3 [Breath] và +3 Cộng Dồn [Breath]\n[EndSkill]\n- Gắn 5 [Combustion], 3 [Binding], và 3 [Vulnerable] vào lượt tiếp theo với mỗi mục tiêu bị đơn vị này đánh trúng\n- Tiêu tốn toàn bộ [StackYisangSpecialSkill]",
           "coinlist": [
             {},
             {},
