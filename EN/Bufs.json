@@ -1679,8 +1679,8 @@
     },
     {
       "id": "VibrationExplosion",
-      "name": "Tremor Burst",
-      "desc": "Raise target's Stagger Threshold by Tremor Potency on target"
+      "name": "Chấn Động",
+      "desc": "Nâng Ngưỡng Choáng của mục tiêu bằng với Giá Trị Chấn Động có trên mục tiêu"
     },
     {
       "id": "OneOnOneDuel",
