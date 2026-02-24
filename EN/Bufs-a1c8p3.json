@@ -38,8 +38,8 @@
     },
     {
       "id": "BattleSense",
-      "name": "Inner Strength [底力]",
-      "desc": "- Max Stack: 25\n- Consumed by certain Skills; at Turn End, heal SP equal to the Stack consumed by the end of the turn\n- Gain 1 Stack with every Clash (max 5 per Skill). On Clash Lose, lose the Stacks gained from the said Clash\n- Gain 2 Stack when hitting with an Unopposed Attack (max 10 per Skill)\n- Turn End: next turn, gain Haste based on the total Stack consumed this turn (1 Haste per 25 Stack; max 2)\n- Gains a different buff when using a specific pattern\n\n- Total Stacks Consumed: {0}",
+      "name": "Để Lực [底力]",
+      "desc": "- Số Tầng tối đa: 25\n- Tiêu hao bởi các Kỹ Năng nhất định; khi Kết Thúc Lượt, hồi SP tương đương với số Tầng đã tiêu hao trong lượt đó\n- Nhận 1 Tầng cho mỗi lần Đọ Sức (tối đa 5 Tầng cho mỗi Kỹ Năng). Khi Đọ Sức Thất Bại, mất toàn bộ số Tầng nhận được từ lần Đọ Sức kể trên\n- Nhận 2 Tầng khi đánh trúng bằng các đòn Tấn Công Một Chiều (tối đa 10 Tầng cho mỗi Kỹ Năng)\n- Kết Thúc Lượt: nhận Tăng Tốc dựa trên số Tầng đã tiêu hao trong lượt này vào lượt tiếp theo (1 Tăng Tốc mỗi 25 Tầng; tối đa 2)\n- Nhận một hiệu ứng có lợi khi sử dụng một hinh thái cụ thể\n\n- Tổng Số Tầng Đã Tiêu Thụ: {0}",
       "summary": ""
     },
     {
