@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Double Slash",
-          "desc": "Final Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)",
+          "name": "Song Trảm Kích",
+          "desc": "Uy Lực Cuối Cùng +1 cho mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (Tối đa 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Vibration]"
                 }
               ]
             }
@@ -31,27 +31,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Triple Slash",
-          "desc": "Final Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)",
+          "name": "Tam Trảm Kích",
+          "desc": "Uy Lực Cuối Cùng +1 cho mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (Tối đa 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +2 Cộng Dồn [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 1 [Vibration] và +2 Cộng Dồn [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó giảm 1 Cộng Dồn [Vibration] trên mục tiêu"
                 }
               ]
             }
@@ -64,26 +64,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Double Slash - Blast [爆]",
-          "desc": "Final Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 4)\n[DefeatDuel] Lose 1 [BulletPropellant]",
+          "name": "Song Trảm Kích - Bạo [爆]",
+          "desc": "Uy Lực Cuối Cùng +1 cho mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (Tối đa 4)\n[DefeatDuel] Mất 1 [BulletPropellant]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "Tiêu hao 1 [BulletPropellant]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Combustion] và +2 Cộng Dồn [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Vibration] và +2 Cộng Dồn [Vibration]"
                 }
               ]
             }
@@ -96,39 +96,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Triple Slash - Blast [爆]",
-          "desc": "Final Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 4)\n[DefeatDuel] Lose 1 [BulletPropellant]",
+          "name": "Tam Trảm Kích - Bạo [爆]",
+          "desc": "Uy Lực Cuối Cùng +1 cho mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (Tối đa 4)\n[DefeatDuel] Mất 1 [BulletPropellant]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +2 Cộng Dồn [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "Tiêu hao 1 [BulletPropellant]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Combustion] và +2 Cộng Dồn [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration] và +2 Cộng Dồn [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "Tiêu hao 1 [BulletPropellant]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Combustion] và +2 Cộng Dồn [Combustion]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [VibrationExplosion] 2 lần; sau đó giảm 2 Cộng Dồn [Vibration] trên mục tiêu"
                 }
               ]
             }
@@ -141,8 +141,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blasting Shatterslash [爆碎斬]",
-          "desc": "Prioritizes targets with [Prey]\nCan clash with this Skill regardless of Speed\nCoin Power +1 for every 6 ([Combustion] + [Vibration]) on target (max 3)\n[DefeatDuel] Lose 10 SP",
+          "name": "Bạo Toái Trảm [爆碎斬]",
+          "desc": "Ưu tiên mục tiêu với [Prey]\nCó thể Đọ Sức với Kĩ Năng này bất kể Tốc Độ\nUy Lực Xu +1 với mỗi 6 ([Combustion] + [Vibration]) trên mục tiêu (Tối đa 3)\n[DefeatDuel] Mất 10 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -150,16 +150,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "Tiêu hao 1 [BulletPropellant]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Vibration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 4 [Vibration] and +4 [Vibration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn 4 [Vibration] và +4 Cộng Dồn [Vibration]"
                 }
               ]
             },
@@ -169,16 +169,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "Tiêu hao 1 [BulletPropellant]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn +3 Cộng Dồn [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +3 Cộng Dồn [Vibration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Chuyển hóa [Switch_Vibration] thành [VibrationIgnition]"
                 }
               ]
             },
@@ -188,16 +188,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "Tiêu hao 1 [BulletPropellant]"
                 },
                 {
-                  "desc": "If this unit spent [BulletPropellant] due to this Coin's effect, deal +50% damage"
+                  "desc": "Nếu đơn vị này tiêu hao [BulletPropellant] bởi hiệu ứng của Xu này, gây thêm 50% sát thương"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +3 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Combustion] và +3 Cộng Dồn [Combustion]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [VibrationExplosion] 2 lần; sau đó giảm 2 Cộng Dồn [Vibration] trên mục tiêu"
                 }
               ]
             }
@@ -210,8 +210,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tanglecleaver [快刀亂麻]",
-          "desc": "Prioritizes targets with [Prey]\nCan Clash with this Skill regardless of Speed; this unit does not become Staggered before it uses this Skill\n[WhenUse] Consume all [BattleSense] Stack on self. If this unit consumed...\n- ... 10+ Stack , gain Atk Weight +1 for every 10 Stack consumed (max 2)\n- ... 25 Stack, Final Power +1 for every 4 ([Combustion] + [Vibration]) on the main target (max 5)\n[DefeatDuel] Gain 4 [ResultReduction]\n[DefeatDuel] Gain 1 [Paralysis]\n[DefeatDuel] Deal -80% damage; this Skill's damage cannot Stagger the target; inflict only half the Potency and Count for both [Combustion] and [Vibration] inflicted by this Skill (unless raised by other effects)\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)\n[EndSkill] Ends this turn",
+          "name": "Khoái Đao Loạn Ma [快刀亂麻]",
+          "desc": "Ưu tiên mục tiêu với [Prey]\nCó thể Đọ Sức với Kĩ Năng này bất kể Tốc Độ; đơn vị này sẽ không thể bị Choáng trước khi sử dụng Kỹ Năng này\n[WhenUse] Tiêu hao toàn bộ Tầng [BattleSense] trên bản thân. If this unit consumed...\n- ... 10+ Stack , gain Atk Weight +1 for every 10 Stack consumed (max 2)\n- ... 25 Stack, Final Power +1 for every 4 ([Combustion] + [Vibration]) on the main target (max 5)\n[DefeatDuel] Gain 4 [ResultReduction]\n[DefeatDuel] Gain 1 [Paralysis]\n[DefeatDuel] Deal -80% damage; this Skill's damage cannot Stagger the target; inflict only half the Potency and Count for both [Combustion] and [Vibration] inflicted by this Skill (unless raised by other effects)\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)\n[EndSkill] Ends this turn",
           "coinlist": [
             {
               "coindescs": [
