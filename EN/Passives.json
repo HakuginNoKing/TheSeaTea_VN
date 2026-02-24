@@ -2720,8 +2720,8 @@
     {
       "id": 1011502,
       "name": "Sắc Lệnh Được Giao Đến Máy Nhắn",
-      "desc": "Bắt Đầu Lượt:\n- Nhận [IndexPrescriptYi_0] / [IndexPrescriptYi_1] / [IndexPrescriptYi_2] / [IndexPrescriptYi_3] dựa trên Bậc [UnlockBuff_Base] trên bản thân\n- Gắn [IndexPrescriptTargetToEnemy] lên một Kẻ Địch ngẫu nhiên (trong Giao Tranh Tập Trung sẽ gắn lên một Bộ Phận)\n- Gắn [IndexPrescriptTargetMarkToEnemy] lên Chiêu Tấn Công Cơ Bản trên Bảng Điều Khiển của đơn vị này (1 mỗi ô, Tối đa 2 Chiêu)\n· Khi đạt [UnlockBuffAlly_2]+, hiệu ứng kể trên sẽ ưu tiên Chiêu 3 (ưu tiên Chiêu được Cường Hoá)\n- Tất cả hiệu ứng kể trên và [IndexPrescript_Base_2nd] execution checks do not trigger when this unit is Staggered, Immobilized[TabExplain], in Panic, or in E.G.O Corrosion[TabExplain]",
-      "summary": "Upon executing Prescript, heal SP and gain Grace of the Prescript\nUpon failing Prescript, gain Karmic Consequence"
+      "desc": "Bắt Đầu Lượt:\n- Nhận [IndexPrescriptYi_0] / [IndexPrescriptYi_1] / [IndexPrescriptYi_2] / [IndexPrescriptYi_3] dựa trên Bậc [UnlockBuff_Base] trên bản thân\n- Gắn [IndexPrescriptTargetToEnemy] lên một Kẻ Địch ngẫu nhiên (trong Giao Tranh Tập Trung sẽ gắn lên một Bộ Phận)\n- Gắn [IndexPrescriptTargetMarkToEnemy] lên Chiêu Tấn Công Cơ Bản trên Bảng Điều Khiển của đơn vị này (1 mỗi ô, Tối đa 2 Chiêu)\n· Khi đạt [UnlockBuffAlly_2]+, hiệu ứng kể trên sẽ ưu tiên Chiêu 3 (ưu tiên Chiêu được Cường Hoá)\n- Tất cả hiệu ứng kể trên và [IndexPrescript_Base_2nd] xác nhận thực thi không kích hoạt khi đơn vị này bị Choáng, Bất Động [TabExplain], trong trạng thái Hoảng Loạn, hoặc bị E.G.O Ăn Mòn [TabExplain]",
+      "summary": "Khi thực thi Sắc Lệnh, hồi SP và nhận Ý Chỉ Sắc Lệnh\nkhi không thể thực thi Sắc Lệnh, nhận Hệ Quả Nghiệp Chướng"
     },
     {
       "id": 1011503,
@@ -2751,19 +2751,19 @@
       "id": 1011501,
       "name": "Mô Phỏng Một Cuộc Đời",
       "desc": "Các Chiêu có [IndexPrescriptTargetMarkToEnemy] gây +2% sát thương cho mỗi [BlessingOfIndexPrescriptAlly] trên bản thân (Tối đa 16%)\n- Khi đạt 9 [BlessingOfIndexPrescriptAlly], Các Chiêu Cơ Bản thay vào đó sẽ gây +20% sát thương\n\nKhi Tung Đòn bằng [SuperCoin] của Chiêu Tấn Công Cơ Bản, nhận 1 [StackYisangSpecialSkill]\n- Kết Đòn: Nhận [StackYisangSpecialSkill] tương ứng với (Số [SuperCoin] còn lại)",
-      "summary": "Deal more damage with Skills marked with Mark of the Prescript based on Grace of the Prescript on self\nOn Hit: Heal SP\nGain [StackYisangSpecialSkill] when certain conditions are met"
+      "summary": "Gây thêm sát thương với các Kỹ Năng có Dấu Ấn Sắc Lệnh dựa trên số Tầng Ý Chỉ Sắc Lệnh trên bản thân\nTung Đòn: hồi SP\nNhận [StackYisangSpecialSkill] khi thỏa mãn điều kiện nhất định"
     },
     {
       "id": 1011511,
       "name": "Mô Phỏng Một Cuộc Đời",
-      "desc": "Các Chiêu có [IndexPrescriptTargetMarkToEnemy] gây +2% sát thương cho mỗi [BlessingOfIndexPrescriptAlly] trên bản thân (Tối đa 16%)\n- Khi đạt 9 [BlessingOfIndexPrescriptAlly], Các Chiêu Cơ Bản thay vào đó sẽ gây +20% sát thương\n\nKhi Tung Đòn bằng [SuperCoin] của Chiêu Tấn Công Cơ Bản, nhận 1 [StackYisangSpecialSkill]\n- Kết Đòn: Nhận [StackYisangSpecialSkill] tương ứng với (Số [SuperCoin] còn lại)\n<style=\"highlight\">- Kết Đòn 'Furioso-Replica': Nhận YisangSpecialSkill] vào lượt tiếp theo tương ứng với (Số [SuperCoin] còn lại của Chiêu này / 2) (làm tròn xuống)</style>\n\n<style=\"highlight\">Nếu [StackYisangSpecialSkill] khi Kết Thúc Lượt đạt 9 Tầng, và nếu đơn vị này không có Chiêu 3 trên Bảng Điều Khiển khi bắt đầu lượt tiếp theo, biến đổi một Chiêu Cơ Bản thành Chiêu 3 (ưu tiên Chiêu ở ô dưới cùng hàng dưới bên trái)</style>",
-      "summary": "Deal more damage with Skills marked with Mark of the Prescript based on Grace of the Prescript on self\nOn Hit: Heal SP\nGain [StackYisangSpecialSkill] when certain conditions are met"
+      "desc": "Các Chiêu có [IndexPrescriptTargetMarkToEnemy] gây +2% sát thương cho mỗi [BlessingOfIndexPrescriptAlly] trên bản thân (Tối đa 16%)\n- Khi đạt 9 [BlessingOfIndexPrescriptAlly], Các Chiêu Cơ Bản thay vào đó sẽ gây +20% sát thương\n\nKhi Tung Đòn bằng [SuperCoin] của Chiêu Tấn Công Cơ Bản, nhận 1 [StackYisangSpecialSkill]\n- Kết Đòn: Nhận [StackYisangSpecialSkill] tương ứng với (Số [SuperCoin] còn lại)\n<style=\"highlight\">- Kết Đòn 'Furioso-Replica': Nhận [StackYisangSpecialSkill] vào lượt tiếp theo tương ứng với (Số [SuperCoin] còn lại của Chiêu này / 2) (làm tròn xuống)</style>\n\n<style=\"highlight\">Nếu [StackYisangSpecialSkill] khi Kết Thúc Lượt đạt 9 Tầng, và nếu đơn vị này không có Chiêu 3 trên Bảng Điều Khiển khi bắt đầu lượt tiếp theo, biến đổi một Chiêu Cơ Bản thành Chiêu 3 (ưu tiên Chiêu ở ô dưới cùng hàng dưới bên trái)</style>",
+      "summary": "Gây thêm sát thương với các Kỹ Năng có Dấu Ấn Sắc Lệnh dựa trên số Tầng Ý Chỉ Sắc Lệnh trên bản thân\nTung Đòn: hồi SP\nNhận [StackYisangSpecialSkill] khi thỏa mãn điều kiện nhất định"
     },
     {
       "id": 1011521,
       "name": "Ân Điển Của Thần",
       "desc": "Gây +5% sát thương đối với các Chiêu Tấn Công Cơ Bản dạng Chém, Đập, Đâm được sử dụng lần đầu tiên bởi bất kỳ đồng minh nào trong mỗi lượt (một lần mỗi loại giữa các đồng minh)\n- Nhân Dạng Ngón Trỏ thay vào đó gây +10% sát thương\n- Hiệu ứng này được áp dụng Trước Khi Tấn Công",
-      "summary": "Deal more damage with Slash, Pierce, and Blunt Skills used for the first time this turn"
+      "summary": "Gây thêm sát thương với các Kỹ Năng Chém, Đâm, và Đập được sử dụng lần đầu tiên trong mỗi lượt"
     }
   ]
 }
