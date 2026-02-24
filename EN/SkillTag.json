@@ -18,7 +18,7 @@
     },
     {
       "id": "Wide",
-      "name": "[AoE]"
+      "name": "[Tấn Công Diện Rộng]"
     },
     {
       "id": "nxPostLine",
@@ -122,7 +122,7 @@
     },
     {
       "id": "CriticalOnSucceedAttack",
-      "name": "[Chí Mạng]"
+      "name": "[Bạo Kích]"
     },
     {
       "id": "StartDuel",
@@ -154,11 +154,11 @@
     },
     {
       "id": "CriticalActivated",
-      "name": "[Chí Mạng]"
+      "name": "[Bạo Kích]"
     },
     {
       "id": "CriticalEndSkill",
-      "name": "[Kết Đòn - Chí Mạng]"
+      "name": "[Kết Đòn - Bạo Kích]"
     },
     {
       "id": "CantChangeTarget",
@@ -186,7 +186,7 @@
     },
     {
       "id": "CriticalTargetKill",
-      "name": "[Chí Mạng - Diệt Địch]"
+      "name": "[Bạo Kích - Diệt Địch]"
     },
     {
       "id": "BeforeUse",
@@ -214,11 +214,11 @@
     },
     {
       "id": "CriticalEnemyTargetKillFail",
-      "name": "[Chí Mạng - Diệt Địch Thất Bại]"
+      "name": "[Bạo Kích - Diệt Địch Thất Bại]"
     },
     {
       "id": "CriticalEnemyTargetKill",
-      "name": "[Chí Mạng - Diệt Địch]"
+      "name": "[Bạo Kích - Diệt Địch]"
     },
     {
       "id": "DefeatDuelAttack",
@@ -258,7 +258,7 @@
     },
     {
       "id": "CriticalOnSucceedAttackHead",
-      "name": "[Chí Mạng - Xu Ngửa]"
+      "name": "[Bạo Kích - Xu Ngửa]"
     },
     {
       "id": "OnStartCoin",
