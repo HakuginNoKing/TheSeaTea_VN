@@ -2,24 +2,24 @@
   "dataList": [
     {
       "id": 0,
-      "place": "The House of Spiders Rooftop",
+      "place": "Tầng Thượng Nhà Nhện",
       "model": "검지아비2",
-      "content": "There was no reason to... treat this wound."
+      "content": "Chẳng có lý do gì để… xử lý vết thương này cả."
     },
     {
       "id": 1,
       "model": "검지아비2",
-      "content": "It was sure to burn again once you returned home anyway..."
+      "content": "Dù sao thì khi con trở về nhà, nó cũng sẽ lại bỏng rát thôi…"
     },
     {
       "id": 2,
       "model": "검지아비2",
-      "content": "May as well get used to it, right?"
+      "content": "Chi bằng quen dần với nó, phải chứ?"
     },
     {
       "id": 3,
       "model": "료슈",
-      "content": "You talk... as if I'm gonna choose to stay."
+      "content": "Ông nói… cứ như thể tôi sẽ chọn ở lại vậy."
     },
     {
       "id": 4,
@@ -29,12 +29,12 @@
     {
       "id": 5,
       "model": "검지아비2",
-      "content": "Sweetie, all would be well if you'd just stay. The House of Spiders doesn't have to disappear."
+      "content": "Con gái yêu dấu của ta à, mọi chuyện đã có thể ổn thỏa, chỉ cần con chịu ở lại. Nhà Nhện đâu nhất thiết phải biến mất."
     },
     {
       "id": 6,
       "model": "검지아비2",
-      "content": "So please... don't leave."
+      "content": "Vậy nên làm ơn… đừng rời đi nhé."
     }
   ]
 }

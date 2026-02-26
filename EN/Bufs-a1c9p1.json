@@ -149,28 +149,28 @@
     },
     {
       "id": "IndexPrescriptTargetMarkToEnemy",
-      "name": "Mark of the Prescript",
-      "desc": "- Apply Mark of the Prescript to a Base Attack Skill on this unit's Dashboard",
+      "name": "Dấu Ấn Sắc Lệnh",
+      "desc": "- Gắn Dấu Ấn Sắc Lệnh vào một Kỹ Năng Tấn Công Cơ Bản trên Bảng Điều Khiển của đơn vị này",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IndexPrescriptTargetToEnemy",
-      "name": "The Prescript's Target",
-      "desc": "- Take +10% damage from The Index units\n- This effect is applied to a single target every turn regardless of the number of The Index units deployed",
+      "name": "Mục Tiêu Sắc Lệnh",
+      "desc": "- Nhận +10% sát thương từ các đơn vị Ngón Trỏ\n- Hiệu ứng này chỉ được gắn cho một mục tiêu duy nhất mỗi lượt bất kể số lượng đơn vị Ngón Trỏ tham chiến",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BlessingOfIndexPrescriptAlly",
-      "name": "Grace of the Prescript",
-      "desc": "- Offense Level +1 for every 3 Stacks\n- Max Stack: 9",
+      "name": "Ý Chỉ Sắc Lệnh",
+      "desc": "- Cấp Tấn Công +1 cho mỗi 3 Tầng\n- Số Tầng Tối Đa: 9",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IndexPrescript_Base",
-      "name": "Prescript",
+      "name": "Sắc Lệnh",
       "desc": "- Receive 'Prescript: [Paper Slip]' under specific conditions",
       "summary": "",
       "undefined": "-",
@@ -210,8 +210,8 @@
     },
     {
       "id": "KarmaOfIndexAlly",
-      "name": "Karmic Consequence",
-      "desc": "- Turn Start:\n· Gain 1 Defense Level Down for every 10 Stacks\n· Gain 1 Fragile for every 20 Stacks\n- Max Stack: 100\n",
+      "name": "Hệ Quả Nghiệp Chướng",
+      "desc": "- Bắt Đầu Lượt\n· Nhận 1 Defense Level Down cho mỗi 10 Tầng\n· Nhận 1 Fragile cho mỗi 20 Tầng\n- Số Tầng Tối Đa: 100\n",
       "summary": "",
       "undefined": "-",
       "flavor": "Receive the Prescript and undertake it. Its execution is etched as karma, drawn into a ceaseless cycle that circles back to the hand of its executor."

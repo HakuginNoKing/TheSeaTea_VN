@@ -2,8 +2,8 @@
   "dataList": [
     {
       "id": "Enhancement",
-      "name": "Attack Power Up",
-      "desc": "Attack Skill Final Power +{0} for this turn.",
+      "name": "Gia Tăng Uy Lực",
+      "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng Tấn Công +{0}.",
       "summary": "ATK Skill Final Power +{0}",
       "undefined": "-"
     },
@@ -30,8 +30,8 @@
     },
     {
       "id": "Binding",
-      "name": "Bind",
-      "desc": "Speed -{0} for this turn.",
+      "name": "Trói Chân",
+      "desc": "Trong lượt này, Tốc Độ -{0}.",
       "summary": "SPD -{0}",
       "undefined": "-"
     },
@@ -92,7 +92,7 @@
     },
     {
       "id": "Charge",
-      "name": "Charge",
+      "name": "Năng Lượng",
       "desc": "Resource used by certain skills for additional effects. Its Count can go up to 20. Count lowers by 1 at the end of each turn.\n\n<color=#1aece7>Total Count consumed: {2}</color>",
       "summary": "Specific Skill Resource",
       "undefined": "-"
@@ -117,13 +117,13 @@
     },
     {
       "id": "AttackDmgUp",
-      "name": "Damage Up",
+      "name": "Gia Tăng Sát Thương",
       "desc": "Deal +{0}0% damage with skills this turn. (Max 100%)",
       "summary": "+{0}0% Damage Dealt"
     },
     {
       "id": "DefenseUp",
-      "name": "Defense Level Up",
+      "name": "Gia Tăng Cấp Phòng Thủ",
       "desc": "Defense Level +{0} for this turn.",
       "summary": "Defense Level +{0}"
     },
@@ -258,43 +258,43 @@
     },
     {
       "id": "Inactible",
-      "name": "Immobilized",
+      "name": "Bị Động",
       "desc": "Does not act for this turn.",
       "summary": "Inactive"
     },
     {
       "id": "Combustion",
-      "name": "Burn",
+      "name": "Thiêu Đốt",
       "desc": "Turn End: Take {0} fixed damage. Lasts {1} turn(s).",
       "summary": "{0} fixed HP damage"
     },
     {
       "id": "Laceration",
-      "name": "Bleed",
+      "name": "Xuất Huyết",
       "desc": "The next {1} time(s) this unit tosses an attack skill Coin, take {0} fixed damage.",
       "summary": "{0} fixed HP damage"
     },
     {
       "id": "Vibration",
-      "name": "Tremor",
+      "name": "Chấn Động",
       "desc": "When hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by {0}. Lasts {1} turn(s).",
       "summary": "Raise Stagger Threshold by {0}"
     },
     {
       "id": "Burst",
-      "name": "Rupture",
+      "name": "Phá Liệt",
       "desc": "The next {1} time(s) the unit is hit, take {0} fixed damage.",
       "summary": "{0} fixed HP damage"
     },
     {
       "id": "Sinking",
-      "name": "Sinking",
+      "name": "Trầm Luân",
       "desc": "The next {1} time(s) the unit is hit, take {0} fixed SP damage. (Units with no Sanity take Gloom damage.)",
       "summary": "{0} Sinking DMG"
     },
     {
       "id": "Breath",
-      "name": "Poise",
+      "name": "Điềm Tĩnh",
       "desc": "Boost critical hit chance by {0}x5% for the next {1} hit(s).",
       "summary": "{0}x5% crit chance"
     },
@@ -1679,8 +1679,8 @@
     },
     {
       "id": "VibrationExplosion",
-      "name": "Tremor Burst",
-      "desc": "Raise target's Stagger Threshold by Tremor Potency on target"
+      "name": "Chấn Động",
+      "desc": "Nâng Ngưỡng Choáng của mục tiêu bằng với Giá Trị Chấn Động có trên mục tiêu"
     },
     {
       "id": "OneOnOneDuel",
@@ -1968,13 +1968,13 @@
     },
     {
       "id": "GazePersonality",
-      "name": "Gaze of Contempt",
+      "name": "Ánh Nhìn Khinh Miệt",
       "desc": "- Max Value: 7\n- Deal +7% damage for every Gaze of Contempt\n- Turn End: this effect expires\n- Turn End: At 7 Gaze of Contempt value, convert it to Contempt of the Gaze next turn instead of expiring",
       "summary": ""
     },
     {
       "id": "ContemptPersonality",
-      "name": "Contempt of the Gaze",
+      "name": "Sự Khinh Miệt Từ Ánh Mắt",
       "desc": "- Gain 7 Protection\n- Gain 7 Damage Down\n- One of this unit's Skill Slots gains +20 Aggro\n- Cannot gain Gaze of Contempt as long as Contempt of the Gaze is active\n- Turn End: this effect expires",
       "summary": ""
     },
@@ -1992,7 +1992,7 @@
     },
     {
       "id": "ChargeLoad",
-      "name": "Load",
+      "name": "Nạp",
       "desc": "- Max Value: 6\n- Attack Skills that consumed Charge Count: deal +({0} x 2.5)% damage (max 15%)\n- If the affected unit is a W Corp. employee, deal +({0} x 5)% damage instead. (max 30%)\n- Turn End: this effect expires",
       "summary": ""
     },
@@ -2053,7 +2053,7 @@
     },
     {
       "id": "Coffin",
-      "name": "Coffin",
+      "name": "Quan Tài",
       "desc": "- Max Value: 10\n- At Turn End:\n  - Gain 2 Damage Up next turn for every 3 Value (max 6)\n  - Raise minimum Speed by 1 next turn for every 4 Value (max 2)\n  - Gain 1 Clash Power Up next turn for every 5 Value (max 2)",
       "summary": ""
     },
@@ -2124,20 +2124,20 @@
     },
     {
       "id": "DefensiveStance",
-      "name": "Defensive Stance",
+      "name": "Thế Phòng Thủ",
       "desc": "- Max Value: 2\n- This effect does not compound in potency; stacking it only extends its duration.\n- Reduced by 1 at Turn End\n- When a unit gains this effect, gain the following effects next turn:\n  · Fix this unit's Speed to its minimum value\n  · Gain 5 Defense Level Up\n  · Each of this unit's Slots gain +(10 / this unit's # of Slots) Aggro\n  · When chaining Skills, this unit can draw enemies' attack toward this unit regardless of Speed (Focused Encounters only)\n  · Upon Clash Win, trigger Tremor Burst\n  · Cannot be Staggered by damage",
       "summary": ""
     },
     {
       "id": "CanDuelGuard",
-      "name": "Clashable Guard",
+      "name": "Đỡ Đòn - Đọ Sức",
       "desc": "- On Clash Win: raise the target's Stagger Threshold by this unit's final Clash Power.\n- On Clash Lose: when hit, reduce the attacker's final Skill Power by this unit's Final Power.\n- On Clash Lose: does not gain Final Power from the following sources: Resonance and the Level disparity against the Attack Skill",
       "summary": ""
     },
     {
       "id": "SuperCoin",
-      "name": "Unbreakable Coin",
-      "desc": "- This coin does not break upon Clash Lose.\n- If an Attack Skill has this Coin, attack with this Coin after getting hit.\n- Upon Clash Lose, fix the Coin Power of the unbroken Coin to 1",
+      "name": "Xu Không Thể Vỡ",
+      "desc": "- Xu này sẽ không vỡ khi Đọ Sức Thất Bại\n- Nếu như Kỹ Năng Tấn Công có xu này, tiến hành tấn công bằng xu này sau khi bị trúng đòn.\n- Khi Đọ Sức Thất Bại, Khóa Coin Power của Xu Không Thể Vỡ này thành 1",
       "summary": ""
     },
     {
@@ -2233,7 +2233,7 @@
     },
     {
       "id": "VibrationSpring",
-      "name": "Tremor - Clockwinding",
+      "name": "Chấn Động - Lên Cót",
       "desc": "- Max Speed + 2\n- Consume Tremor Count on self to inflict 1 more of Tremor Potency or Count when inflicting them with this unit's Skill or Coin effects\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": "Max Speed +2\nConsume Tremor Count on self to inflict +1 more Tremor Potency and Count",
       "undefined": "-"
@@ -2253,25 +2253,25 @@
     },
     {
       "id": "SwirlingBloodPersonality",
-      "name": "Shimmering【Bloodfiend】",
+      "name": "Hào Quang【Huyết Quỷ】",
       "desc": "- Max Stack: 50\n- As long as this effect exists, all Bleed damage taken by the Shield HP is converted to Bloodfeast.\n- Gain Shield HP equal to the Stack at the moment of its application\n- Expires at Turn End",
       "summary": ""
     },
     {
       "id": "BloodArmorPersonalityFirst",
-      "name": "Hardblood",
+      "name": "Huyết Đông",
       "desc": "- Max Stack: 10\n- Stage 1 Hardblood\n- At 10+ Hardblood, converts to Hardblood II.\n- At 20+ Hardblood, converts to Hardblood III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Hardblood does not drop below 1.\n- Raise Min & Max Speed values by 1 for every 10 Hardblood\n- At Hardblood II, gain 1 Offense Level Up based on the Stack\n- At Hardblood III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
       "summary": ""
     },
     {
       "id": "BloodArmorPersonalitySecond",
-      "name": "Hardblood II",
+      "name": "Huyết Đông II",
       "desc": "- Max Stack: 20\n- Stage 2 Hardblood\n- Turn Start: gain 1 Offense Level Up for every 5 Stack\n- Raise Min & Max Speed values by 1\n- At 10+ Hardblood, converts to Hardblood II.\n- At 20+ Hardblood, converts to Hardblood III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Hardblood does not drop below 1.\n- At Hardblood II, gain 1 Offense Level Up based on the Stack\n- At Hardblood III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
       "summary": ""
     },
     {
       "id": "BloodArmorPersonalityThird",
-      "name": "Hardblood III",
+      "name": "Huyết Đông III",
       "desc": "- Max Stack: 30\n- Stage 3 Hardblood\n- Turn Start: gain 1 Offense Level Up and 1 Defense Level Up for every 5 Stack\n- Raise Min & Max Speed values by 2\n- At 10+ Hardblood, converts to Hardblood II.\n- At 20+ Hardblood, converts to Hardblood III.\n- Reverts to the previous Stage when the Stack drops below the requirements.\n- Hardblood does not drop below 1.\n- At Hardblood II, gain 1 Offense Level Up based on the Stack\n- At Hardblood III, gain 1 Offense Level Up and 1 Defense Level Up based on the Stack",
       "summary": ""
     },
@@ -2323,13 +2323,13 @@
     },
     {
       "id": "CoveringFire",
-      "name": "Target Spotted",
+      "name": "Phát Hiện Mục Tiêu",
       "desc": "If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with its Skill 2 against the same enemy Unit A attacked with its Skill. Activates at Unit A's Attack End.\n- The Skill used due to this effect does not affect Unit B's upcoming Skills list."
     },
     {
       "id": "FullReload",
-      "name": "Reload",
-      "desc": "Lose all currently owned Ammo, and reload it back to full"
+      "name": "Nạp Đạn",
+      "desc": "Mất hết số Đạn hiện đang có, sau đó nạp đầy Đạn"
     },
     {
       "id": "Bullet_LogicAtelier",
@@ -2339,16 +2339,16 @@
     {
       "id": "Retreat_FullStop",
       "name": "Overwatch Assignment",
-      "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (excluding forced Staggers; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)"
+      "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)"
     },
     {
       "id": "LogicAtelierAM",
-      "name": "Concentration【Sniper】",
-      "desc": "- Max Stack: 4\n- Turn End: gain 1 Stack"
+      "name": "Ngắm Bắn【Xạ Thủ】",
+      "desc": "- Tối đa: 4\n- Kết Thúc Lượt: nhận 1"
     },
     {
       "id": "MeleeCover",
-      "name": "Melee Support",
+      "name": "Hỗ Trợ Cận Chiến",
       "desc": "- If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with the 'Melee Support' Skill against the same enemy that attacked Unit A. Activates at Unit A's Skill End.\n- The Skill used due to the 'Melee Support' effect does not affect Unit B's upcoming Skills list."
     },
     {
@@ -3198,7 +3198,7 @@
     },
     {
       "id": "IndexPrescriptYi_0",
-      "name": "Prescript: [Device] I",
+      "name": "Sắc Lệnh [Máy Nhắn] I",
       "desc": "Use a Skill marked with Mark of the Prescript or hit a target with a marked Skill.\n\n- Turn Start: Gain this effect when this unit has no Unlock\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 3",
       "summary": "",
       "undefined": "-",
@@ -3206,7 +3206,7 @@
     },
     {
       "id": "IndexPrescriptYi_1",
-      "name": "Prescript: [Device] II",
+      "name": "Sắc Lệnh [Máy Nhắn] II",
       "desc": "Hit a target with a Skill marked with Mark of the Prescript.\n\n- Turn Start: Gain this effect if this unit has Unlock - I\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 6",
       "summary": "",
       "undefined": "-",
@@ -3214,7 +3214,7 @@
     },
     {
       "id": "IndexPrescriptYi_2",
-      "name": "Prescript: [Device] III",
+      "name": "Sắc Lệnh [Máy Nhắn] III",
       "desc": "Gain Procuration [Hermes]. Repeat this Prescript until Procuration [Hermes] reaches 9 Stacks.\n\n- Turn Start: Gain this effect if this unit has Unlock - II\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 9",
       "summary": "",
       "undefined": "-",
@@ -3222,7 +3222,7 @@
     },
     {
       "id": "IndexPrescriptYi_3",
-      "name": "Prescript: [Device] IV",
+      "name": "Sắc Lệnh [Máy Nhắn] IV",
       "desc": "Eliminate all enemies before the next Prescript arrives.\n\n- Turn Start: Gain this effect if this unit has Unlock - III",
       "summary": "",
       "undefined": "-",
@@ -3230,7 +3230,7 @@
     },
     {
       "id": "StackYisangSpecialSkill",
-      "name": "Procuration [Hermes]",
+      "name": "Thừa Hành [Hermes]",
       "desc": "- Turn Start: At 9 Stack, a powerful Skill becomes available\n- Can be gained up to (Unlock stage + 2) Stack per turn\n- Max Stack: 9\n· At below Unlock - II, this effect's maximum Stack is limited to 8",
       "summary": "",
       "undefined": "-",
@@ -3238,7 +3238,7 @@
     },
     {
       "id": "Shin_IndexFingerYisang",
-      "name": "Shin (心) - Fate",
+      "name": "Tâm (心) - Định Mệnh",
       "desc": "- Min & Max Speed +1\n- Gain +1 more Poise Potency and Count from Base Skills\n- If this unit's SP is higher than the target's, deal +1% damage for every 3 SP difference (max 15%; units without SP are considered to be at 0 SP)",
       "summary": "",
       "undefined": "-",
@@ -3254,7 +3254,7 @@
     },
     {
       "id": "BurningWoundYisang",
-      "name": "Sizzling Wound",
+      "name": "Vết Thương Sôi Sục",
       "desc": "- Offense Level +3, Defense Level -3\n- Take -25% damage from Unopposed Attacks\n- Turn Start: Gain 1 Burn and 1 Bleed\n- Deal +15% damage with Base Attack Skill's Unbreakable Coins",
       "summary": "",
       "undefined": "-",
@@ -3262,7 +3262,7 @@
     },
     {
       "id": "BlackNightmareYisang",
-      "name": "Indulgence in Prescripts",
+      "name": "Đắm Chìm Trong Sắc Lệnh",
       "desc": "- Min & Max Speed +5\n- Apply the following effects to 'Furioso-Replica':\n· On Hit, inflict +1 more Sinking Potency and gain +1 more Poise Potency\n· On Hit, inflict +3 Sinking Count (once per target)\n· Deal +30% damage\n- Expires at Turn End",
       "summary": "",
       "undefined": "-",
@@ -3270,7 +3270,7 @@
     },
     {
       "id": "YisangWeapon01Hatchet",
-      "name": "When hacking through the ribs with a hatchet...",
+      "name": "Khi bổ toạc lồng ngực bằng một chiếc rìu...",
       "desc": "- This Coin deals Blunt damage\n- On Hit without Cracking, gain 2 Poise",
       "summary": "",
       "undefined": "-",
@@ -3278,7 +3278,7 @@
     },
     {
       "id": "YisangWeapon02Stiletto",
-      "name": "When penetrating the lungs with a stiletto...",
+      "name": "Khi đâm xuyên buồng phổi bằng một cây stiletto...",
       "desc": "- This Coin deals Pierce damage\n- On Hit without Cracking, inflict 2 Sinking",
       "summary": "",
       "undefined": "-",
@@ -3286,7 +3286,7 @@
     },
     {
       "id": "YisangWeapon03Greatsword",
-      "name": "When cleaving through the shoulder and the skull with a bastard sword...",
+      "name": "Khi chém phăng qua vai và sọ bằng một thanh kiếm lai...",
       "desc": "- This Coin deals Slash damage\n- This Coin deals +5% damage\n- On Hit without Cracking, gain 1 Offense Level Up next turn (2 times per turn)",
       "summary": "",
       "undefined": "-",
@@ -3294,7 +3294,7 @@
     },
     {
       "id": "YisangWeapon04Rapier",
-      "name": "When punching 10 or more holes in the torso with a rapier...",
+      "name": "Khi đục 10 lỗ hoặc nhiều hơn trên thân bằng một cây rapier...",
       "desc": "- This Coin deals Pierce damage\n- This Coin deals +5% damage\n- On Hit without Cracking, inflict 1 Defense Level Down next turn (2 times per turn)",
       "summary": "",
       "undefined": "-",
@@ -3302,7 +3302,7 @@
     },
     {
       "id": "YisangWeapon05Sledgehammer",
-      "name": "When caving in the back of the skull with a hammer...",
+      "name": "Khi đập lún phía sau hộp sọ bằng một chiếc búa...",
       "desc": "- This Coin deals Blunt damage\n- This Coin deals +5% damage\n- On Hit without Cracking, raise target's Stagger Threshold by 3",
       "summary": "",
       "undefined": "-",
@@ -3310,7 +3310,7 @@
     },
     {
       "id": "YisangWeapon06Ultragreatsword",
-      "name": "When rending the body with a great sword...",
+      "name": "Khi xé toạc cơ thể bằng một thanh đại kiếm...",
       "desc": "- This Coin deals Slash damage\n- This Coin deals +15% damage\n- On Hit without Cracking, inflict 1 Slash Fragility until next turn (2 times per turn)",
       "summary": "",
       "undefined": "-",
@@ -3318,7 +3318,7 @@
     },
     {
       "id": "YisangWeapon07Lance",
-      "name": "When boring a 20-inch hole with a lance...",
+      "name": "Khi khoan một cái lỗ 20 inch bằng một ngọn thương...",
       "desc": "- This Coin deals Pierce damage\n- This Coin deals +15% damage\n- On Hit without Cracking, inflict 1 Pierce Fragility until next turn (2 times per turn)",
       "summary": "",
       "undefined": "-",
@@ -3326,7 +3326,7 @@
     },
     {
       "id": "YisangWeapon08Chain",
-      "name": "When ripping the flesh to ten thousand strips with a whip...",
+      "name": "Khi quất nát da thịt thành mười ngàn mảnh vụn bằng một sợi roi....",
       "desc": "- This Coin deals Blunt damage\n- This Coin deals +15% damage\n- On Hit without Cracking, inflict 1 Blunt Fragility until next turn (2 times per turn)",
       "summary": "",
       "undefined": "-",
@@ -3334,7 +3334,7 @@
     },
     {
       "id": "YisangWeapon09Scythe",
-      "name": "When lacerating through space itself with a scythe, like a certain someone...",
+      "name": "Khi rạch nát chính không gian bằng một chiếc lưỡi hái, giống như một người nào đó...",
       "desc": "- This Coin deals Slash damage\n- This Coin deals +30% damage\n- On Hit without Cracking, it hits a guaranteed Crit",
       "summary": "",
       "undefined": "-",
@@ -3342,7 +3342,7 @@
     },
     {
       "id": "SatisfyingEsteemNeeds",
-      "name": "Desire for Acknowledgement Sated",
+      "name": "Thỏa Khao Khát Được Công Nhận",
       "desc": "- Deal +7.5% damage with Skills marked with Mark of the Prescript\n- Deal +7.5% damage against The Prescript's Targets",
       "summary": "",
       "undefined": "-",

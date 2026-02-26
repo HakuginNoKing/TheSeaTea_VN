@@ -446,61 +446,61 @@
     },
     {
       "id": 134701,
-      "name": "Rien, The Index Nursefather",
+      "name": "Rien, Cha Đỡ Đầu Ngón Trỏ",
       "desc": "<color=#ff6000><mark=#ff000040><b><u>Take -50% damage from Unopposed Attacks</u></b></mark></color>\nTake -50% damage from [Vibration], [Burst], and [Sinking]\nWhen healing SP from [UnlockBuff_Base], if this unit's SP is below 0, heal up to 0 SP\n\nEncounter Start: Gain [BurningWoundRien_Mask]\n\nAt 55% HP, gain a new pattern\n- Remove all effects other than those exclusive to this unit\n- Reset [StackRienSpecialSkill] Stack to 0",
-      "flavor": "I waited for \"the moment\" as the Prescript told me to.\nEven after my darling daughter left, I waited.\n\nAnd after a while, I was contacted by Limbus Company, and saw that the Backdoor was open.\nThat's when the device beeped and let me know that it was finally time to bring my daughter home."
+      "flavor": "Ta đã đợi  \"khoảnh khắc ấy\" đúng như Sắc Lệnh đã bảo.\nNgay cả sau khi cô con gái yêu quý của ta rời đi, ta vẫn đợi.\n\nVà sau một hồi lâu, Công Ty Limbus liên lạc với ta, và ta thấy cánh Cửa Sau đã mở.\nĐó là lúc máy nhắn kêu bíp và báo cho ta biết rằng cuối cùng cũng đã đến lúc đưa con gái về nhà."
     },
     {
       "id": 134702,
-      "name": "Oracle Device [Caduceus]",
+      "name": "Máy Nhắn Tiên Tri [Caduceus]",
       "desc": "<color=#ff6000><mark=#ff000040><b><u>A random weapon is assigned to every Coin. Each weapon has a unique effect.</u></b></mark></color>\n- [RienWeapon01Hatchet]\n- [RienWeapon02Stiletto]\n- [RienWeapon03Greatsword]\n- [RienWeapon04Rapier]\n- [RienWeapon05Sledgehammer]\n- [RienWeapon06Ultragreatsword]\n- [RienWeapon07Lance]\n- [RienWeapon08Chain]\n- [RienWeapon09Scythe]\n\nWhen using an Attack Skill, gain 1 [StackRienSpecialSkill] (max 9)\n- Can be gained once per Skill; does not gain Stack from the same Skill twice\n\n<color=#ff6000><mark=#ff000040><b><u>Turn Start: At 9 [StackRienSpecialSkill] Stacks, use a powerful Skill</u></b></mark></color>\n- Attack End: After using the powerful Skill for the first time, gain [Shin_Rien]\n- Reset the per-Skill [StackRienSpecialSkill] cap\n- Min & Max Speed +25\n- Turn End: Gain 1 [Vulnerable] and 2 [ResultReduction] next turn\n\nTurn 5 Start: At less than 9 [StackRienSpecialSkill], bring its Stack to 9; then, gain (Stack gained x 5) [KarmaOfIndexRien]\n- Then, activate this effect every 4 turns",
-      "flavor": "A vial of what looks like liquid metal capable of changing its shape and mass, its qualities almost like those of Singularities, swishes inside the Device.\nThe form the fluid takes is contingent on the Prescript the Device receives. The weapons it produces depend on the information regarding the target and the time limit given to carry out the assassination.\nOne day, as he received a dagger too small for the task, he elected to wait until it produced a different weapon. However, despite the approaching deadline, it refused to provide him a proper weapon; he had no choice but to kill his target with a fork."
+      "flavor": "Một cái lọ chứa thứ trông như kim loại lỏng có khả năng thay đổi hình dạng và khối lượng, tính chất của nó gần giống như các Dị Biến, đang sóng sánh bên trong Máy Nhắn. \nHình dạng mà chất lỏng này biến đổi phụ thuộc vào Sắc Lệnh mà Máy Nhắn nhận được. Những vũ khí nó tạo ra dựa trên thông tin về mục tiêu và giới hạn thời gian được đưa ra để thực hiện vụ ám sát. \nMột ngày nọ, khi nhận được một con dao găm quá nhỏ để làm nhiệm vụ, hắn đã chọn cách chờ đợi cho đến khi nó tạo ra một vũ khí khác. Tuy nhiên, bất chấp hạn chót đang đến gần, nó kiên quyết không cung cấp cho hắn một vũ khí tử tế; hắn chẳng còn lựa chọn nào khác ngoài việc giết mục tiêu của mình bằng một cái nĩa."
     },
     {
       "id": 134703,
-      "name": "Will of the Prescript",
+      "name": "Ý Chí Của Sắc Lệnh",
       "desc": "Turn Start:\n- Gain [IndexPrescript_Base_2nd] based on [UnlockBuff_Base] stage on self\n- Apply [IndexPrescriptTargetToPersonality] against a random non-Ryōshū Sinner, and prioritize attacking them\n<color=#ff6000><mark=#ff000040><b><u>- When using a Skill against [IndexPrescriptTargetToPersonality], convert all Coins on that Skill to [SuperCoin]s</u></b></mark></color>\n· If [IndexPrescriptTargetToPersonality] is killed, or if this unit can no longer attack that target, <color=#ff6000><mark=#ff000040><b><u>use the remaining Skills against a random non-Ryōshū Sinner (prioritizes targets with the least current HP)</u></b></mark></color>\n· When all other Sinners are killed, apply it to Ryōshū\n\nDeal +2.5% damage against [IndexPrescriptTargetToPersonality] for every [BlessingOfIndexPrescriptEnemy] (max 20%)\n- At 9 [BlessingOfIndexPrescriptEnemy], deal +30% damage against all targets",
-      "flavor": "Do you wish me to raise a family?\n\n\"It must've been fate that brought us together. To think that I'd ever meet a husband like you...\""
+      "flavor": "Ngài muốn con gầy dựng một gia đình sao?\n\n\"Hẳn là định mệnh đã đưa chúng ta đến bên nhau. Không ngờ rằng em lại gặp được một người chồng như anh...\""
     },
     {
       "id": 134704,
-      "name": "Undertake Prescript",
+      "name": "Lãnh Nhận Sắc Lệnh",
       "desc": "Turn End: If [IndexPrescript_Base_2nd] was executed this turn, heal 10 SP and gain 3 [BlessingOfIndexPrescriptEnemy] (once per turn)\n\n<color=#ff6000><mark=#ff000040><b><u>Turn End: If [IndexPrescript_Base_2nd] was not executed this turn, gain 8 [KarmaOfIndexRien], and the Sinner who had [IndexPrescriptTargetToPersonality] gains 1 [ParryingResultUp] next turn</u></b></mark></color>\n- If this unit does not have [UnlockBuff_Base], gain 1 [BlessingOfIndexPrescriptEnemy] at Turn End\n- At 9 [BlessingOfIndexPrescriptEnemy], does not gain [KarmaOfIndexRien]",
-      "flavor": "Do you wish me to lose my family?\n\n\"Honey, I gotta take a quick trip up north today.\"\n\"Ah, also—hey, buddy. I'm expecting a package this afternoon, so would you be a dear and pick it up for me, sweetheart?\""
+      "flavor": "Ngài muốn con đánh mất gia đình mình sao?\n\n\"Em yêu, hôm nay anh phải đi công tác về phương bắc.\"\n\"À, còn nữa—này bé con. Chiều nay cha có một bưu kiện được gửi đến, phiền con nhận giúp cha nhé, cục cưng?\""
     },
     {
       "id": 134705,
-      "name": "Unlock",
+      "name": "Khai Mở",
       "desc": "Turn End: At 3/6/9 [BlessingOfIndexPrescriptEnemy] or at 95%-/85%-/75%- HP,- Gain [UnlockBuff_Rien1]/[UnlockBuff_Rien2]/[UnlockBuff_Rien3]\n\nTurn 1 End: At lower than [UnlockBuff_Base] stage 1, gain [UnlockBuff_Rien1]\nTurn 4 End: At lower than [UnlockBuff_Base] stage 2, gain [UnlockBuff_Rien2]\n\nWhen [UnlockBuff_Base] is activated due to HP or Turn conditionals:\n- At less than 3/6/9 [BlessingOfIndexPrescriptEnemy] Stack, raise them to 3/6/9\nGain 10 [KarmaOfIndexRien] at the next Turn Start for every Stack gained",
-      "flavor": "\"Following the Prescripts is to unlock what is locked.\""
+      "flavor": "\"Tuân theo Sắc Lệnh chính là mở khóa những điều đang bị khóa kín.\""
     },
     {
       "id": 134801,
-      "name": "Rien, the Father [Imitation]",
+      "name": "Rien, Người Cha [Mô Phỏng]",
       "desc": "<color=#ff6000><mark=#ff000040><b><u>Take -75% damage from Unopposed Attacks</u></b></mark></color>\nTake -75% damage from [Vibration], [Burst], and [Sinking]\nWhen healing SP from [UnlockBuff_Base], if this unit's SP is below 15, heal up to 15 SP\n\nWhen this unit enters a new phase at 55% HP, gain the following effects:\n- Remove all effects other than those exclusive to this unit\n- Reset [StackRienSpecialSkill] Stack to 0\n- Gain [IndexPrescript_RienSecondPhase]\n- Convert [BurningWoundRien_Mask] to [BurningWoundRien]\n- Convert [KarmaOfIndexRien] to [KarmaOfIndexRien_2Phase]; then gain 10 Stacks of that effect\n- If this unit does not have [Shin_Rien], immediately gain that effect\n\nAt 25% or lower HP, gain a new pattern and greatly enhance a certain Skill",
-      "flavor": "Once, he harbored a suspicion that he was being shaped into an imitation of someone; he doubted the Will and nearly defied it, for he did not know whom he was to mimic. Only when it was too late did he understand its intent and come to accept the Prescript's will.\nOnly then was the false father completed."
+      "flavor": "Đã có lúc, hắn nuôi một mối nghi ngờ rằng bản thân đang bị uốn nắn thành một bản mô phỏng của một kẻ nào đó; hắn đã nghi ngờ Ý Chí và suýt chút nữa đã chống lại nó, bởi hắn không biết mình đang phải bắt chước kẻ nào. Chỉ đến khi mọi sự đã quá muộn màng, hắn mới thấu hiểu ý đồ của nó và đi đến chấp nhận ý chí của Sắc Lệnh.\nChỉ khi đó, người cha giả tạo mới được hoàn thiện."
     },
     {
       "id": 134802,
-      "name": "Oracle Device [Caduceus] - Full Unlock",
+      "name": "Máy Nhắn Tiên Tri [Caduceus] – Khai Mở Hoàn Toàn",
       "desc": "<color=#ff6000><mark=#ff000040><b><u>A random weapon is assigned to every Coin. Each weapon has a unique effect.</u></b></mark></color>\n- [RienWeapon01Hatchet2phase]\n- [RienWeapon02Stiletto2phase]\n- [RienWeapon03Greatsword2phase]\n- [RienWeapon04Rapier2phase]\n- [RienWeapon05Sledgehammer2phase]\n- [RienWeapon06Ultragreatsword2phase]\n- [RienWeapon07Lance2phase]\n- [RienWeapon08Chain2phase]\n- [RienWeapon09Scythe2phase]\n\nWhen using an Attack Skill, gain 1 [StackRienSpecialSkill] (max 9)\n- Can be gained once per Skill; does not gain Stack from the same Skill twice\n- Does not gain Stack from a Skill used only in a special pattern\n\nTurn Start: At 9 [StackRienSpecialSkill] Stacks, use a powerful Skill\n- Reset the per-Skill [StackRienSpecialSkill] cap\n- Min & Max Speed +25\n- Turn End: Gain 2 [Vulnerable] and 3 [ResultReduction] next turn\n\nActivate the following, starting from the turn in which the phase changed\n- Every 4 turns, at less than 9 [StackRienSpecialSkill], bring its Stack to 9; then, gain (Stack gained x 5) [KarmaOfIndexRien_2Phase]",
-      "flavor": "An unparalleled weapon and a curse bestowed by Hermes, a god of the City whose Prescripts are distributed by radio waves."
+      "flavor": "Một vũ khí độc nhất vô nhị và cũng là một lời nguyền được ban tặng bởi Hermes, một vị thần của Thành Phố với những Sắc Lệnh được phân phát qua sóng vô tuyến."
     },
     {
       "id": 134803,
-      "name": "Will of the Prescript",
+      "name": "Ý Chí Của Sắc Lệnh",
       "desc": "Turn Start:\n- Apply [IndexPrescriptTargetToPersonality] against a random non-Ryōshū Sinner, and prioritize attacking them\n<color=#ff6000><mark=#ff000040><b><u>- When using a Skill against [IndexPrescriptTargetToPersonality], convert all Coins on that Skill to [SuperCoin]s</u></b></mark></color>\n· If [IndexPrescriptTargetToPersonality] is killed, or if this unit can no longer attack that target, <color=#ff6000><mark=#ff000040><b><u>use the remaining Skills against a random non-Ryōshū Sinner (prioritizes targets with the least current HP, unless they have 1 HP)</u></b></mark></color>\n· When all other Sinners are killed, apply it to Ryōshū\n- Gain [Protection] equal to [BlessingOfIndexPrescriptEnemy] (max 9)\n<color=#ff6000><mark=#ff000040><b><u>· Lose 1 Stack for every 20 [KarmaOfIndexRien_2Phase]</u></b></mark></color>\n\nDeal +5% damage against [IndexPrescriptTargetToPersonality] for every [BlessingOfIndexPrescriptEnemy] (max 40%)\n- At 9 [BlessingOfIndexPrescriptEnemy], deal +50% damage against all targets\n\nStarting from the first turn after the phase change, activate the following effects:\n- Gain [BlackNightmare] every 2 turns.\n- When gaining [BlackNightmare], if this unit has fewer than 9 [StackRienSpecialSkill] Stack, activate a unique pattern",
-      "flavor": "I raised a family.\n\n\"You're not supposed to be here right now.\"\n\"My work is still much underway, and I'd like to carve them up in peace so they can attain the most exquisite beauty I can sculpt.\"\n\"... Don't tell me, are you here to defy the Prescript?\""
+      "flavor": "Con đã gầy dựng một gia đình.\n\n\"Ngươi đáng ra không nên ở đây lúc này.\"\n\"Công việc của ta vẫn còn đang dang dở lắm, và ta muốn được lóc thịt chúng trong yên bình để chúng có thể đạt đến vẻ đẹp tinh xảo nhất mà ta có thể điêu khắc nên.\"\n\"... Đừng nói với ta là, ngươi đến đây để chống lại Sắc Lệnh đấy nhé?\""
     },
     {
       "id": 134804,
-      "name": "Undertake Prescript",
+      "name": "Lãnh Nhận Sắc Lệnh",
       "desc": "Turn End: If [IndexPrescript_Base_2nd] was executed this turn, heal 15 SP and gain 1 [BlessingOfIndexPrescriptEnemy] (once per turn)\n\n<color=#ff6000><mark=#ff000040><b><u>Turn End: If [IndexPrescript_Base_2nd] was not executed this turn, gain 10 [KarmaOfIndexRien_2Phase], lose 1 [BlessingOfIndexPrescriptEnemy], and the Sinner who had [IndexPrescriptTargetToPersonality] gains 2 [ParryingResultUp] next turn</u></b></mark></color>\n- If this unit used a powerful Skill this turn, gain 15 [KarmaOfIndexRien_2Phase] and lose 3 [BlessingOfIndexPrescriptEnemy] instead",
-      "flavor": "I... lost my family.\n\n\"Don't go...\"\n\"Don't go... Not... like this... Daddy... Please... help us...\""
+      "flavor": "Con... đã mất đi gia đình mình.\n\n\"Đừng đi mà...\"\n\"DĐừng đi... Đừng... như vậy... Papa... Làm ơn... cứu chúng con...\""
     },
     {
       "id": 132224,
-      "name": "The Final Battle",
+      "name": "Trận Chiến Cuối Cùng",
       "desc": "In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage and apply the following effects (once per Encounter):\n- Heal max HP and remove all removable negative effects from this unit\n- For this Encounter, gain 1 [Vulnerable] and fix [TimeEntangleUnstable] to 1. Take (# of current turn x 10) fixed damage at the end of every turn\n- Afterward, end turn and the attack pattern becomes empowered",
       "flavor": "\"You have been made to forget all, and I to remember all.\""
     }

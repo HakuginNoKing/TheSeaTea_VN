@@ -2,23 +2,23 @@
   "dataList": [
     {
       "id": "OnSucceedAttack",
-      "name": "[On Hit]"
+      "name": "[Tung Đòn]"
     },
     {
       "id": "WhenUse",
-      "name": "[On Use]"
+      "name": "[Khi Dùng]"
     },
     {
       "id": "WinDuel",
-      "name": "[Clash Win]"
+      "name": "[Đọ Sức Thành Công]"
     },
     {
       "id": "BeforeAttack",
-      "name": "[Before Attack]"
+      "name": "[Trước Khi Tấn Công]"
     },
     {
       "id": "Wide",
-      "name": "[AoE]"
+      "name": "[Tấn Công Diện Rộng]"
     },
     {
       "id": "nxPostLine",
@@ -34,7 +34,7 @@
     },
     {
       "id": "CantIdentify",
-      "name": "[Indiscriminate]"
+      "name": "[Không Phân Biệt]"
     },
     {
       "id": "CRIMSON",
@@ -74,27 +74,27 @@
     },
     {
       "id": "EndSkill",
-      "name": "[Attack End]"
+      "name": "[Kết Đòn]"
     },
     {
       "id": "StartBattle",
-      "name": "[Combat Start]"
+      "name": "[Khai Chiến]"
     },
     {
       "id": "DefeatDuel",
-      "name": "[Clash Lose]"
+      "name": "[Đọ Sức Thất Bại]"
     },
     {
       "id": "OnSucceedAttackHead",
-      "name": "[Heads Hit]"
+      "name": "[Tung Đòn - Xu Ngửa]"
     },
     {
       "id": "OnSucceedAttackTail",
-      "name": "[Tails Hit]"
+      "name": "[Tung Đòn - Xu Úp]"
     },
     {
       "id": "OnSucceedEvade",
-      "name": "[On Evade]"
+      "name": "[Khi Né]"
     },
     {
       "id": "AlwaysUse",
@@ -102,139 +102,139 @@
     },
     {
       "id": "CantDuel",
-      "name": "[Unclashable]"
+      "name": "[Không Thể Đọ Sức]"
     },
     {
       "id": "EnemyKill",
-      "name": "[On Kill]"
+      "name": "[Khi Diệt]"
     },
     {
       "id": "EnemyKillFail",
-      "name": "[Failed Kill]"
+      "name": "[Diệt Địch Thất Bại]"
     },
     {
       "id": "ReUse",
-      "name": "[On Reuse]"
+      "name": "[Tái Sử Dụng]"
     },
     {
       "id": "ReUseOnSucceedAttackHead",
-      "name": "[Reuse - Heads Hit]"
+      "name": "[Tái Sử Dụng - Tung Đòn Xu Ngửa]"
     },
     {
       "id": "CriticalOnSucceedAttack",
-      "name": "[On Crit]"
+      "name": "[Bạo Kích]"
     },
     {
       "id": "StartDuel",
-      "name": "[Clash Start]"
+      "name": "[Bắt Đầu Đọ Sức]"
     },
     {
       "id": "EndBattle",
-      "name": "[Turn End]"
+      "name": "[Kết Thúc Lượt]"
     },
     {
       "id": "OnDefeatEvade",
-      "name": "[Failed Evade]"
+      "name": "[Né Thất Bại]"
     },
     {
       "id": "EndSkillHead",
-      "name": "[Heads Attack End]"
+      "name": "[Kết Đòn - Xu Ngửa]"
     },
     {
       "id": "EndSkillTail",
-      "name": "[Tails Attack End]"
+      "name": "[Kết Đòn - Xu Úp]"
     },
     {
       "id": "WinDuelAttackHead",
-      "name": "[Heads Hit after Clash Win]"
+      "name": "[Đọ Sức Thành Công - Tung Đòn Xu Ngửa]"
     },
     {
       "id": "WinDuelAttack",
-      "name": "[Hit after Clash Win]"
+      "name": "[Đọ Sức Thành Công - Tung Đòn]"
     },
     {
       "id": "CriticalActivated",
-      "name": "[On Crit]"
+      "name": "[Bạo Kích]"
     },
     {
       "id": "CriticalEndSkill",
-      "name": "[Crit Attack End]"
+      "name": "[Kết Đòn - Bạo Kích]"
     },
     {
       "id": "CantChangeTarget",
-      "name": "[Target Fixed]"
+      "name": "[Khoá Mục Tiêu]"
     },
     {
       "id": "TurnStartBattle",
-      "name": "[Turn Start]"
+      "name": "[Bắt Đầu Lượt]"
     },
     {
       "id": "EndSkillAll",
-      "name": "[Skill End]"
+      "name": "[Kết Thúc Kỹ Năng]"
     },
     {
       "id": "WhenUse_Force",
-      "name": "<color=#26cfff>[On Use]</color>"
+      "name": "<color=#26cfff>[Khi Dùng]</color>"
     },
     {
       "id": "StartBattle_Force",
-      "name": "<color=#93f13e>[Combat Start]</color>"
+      "name": "<color=#93f13e>[Khai Chiến]</color>"
     },
     {
       "id": "TargetKill",
-      "name": "[On Target Kill]"
+      "name": "[Diệt Địch]"
     },
     {
       "id": "CriticalTargetKill",
-      "name": "[On Crit Kill]"
+      "name": "[Bạo Kích - Diệt Địch]"
     },
     {
       "id": "BeforeUse",
-      "name": "[Before Use]"
+      "name": "[Trước Khi Dùng]"
     },
     {
       "id": "DuelCounter",
-      "name": "[Clashable Counter]"
+      "name": "[Phản Đòn - Đọ Sức]"
     },
     {
       "id": "CantBreak",
-      "name": "[Unbreakable Coin]"
+      "name": "[Xu Không Thể Vỡ]"
     },
     {
       "id": "DuelGuard",
-      "name": "[Clashable Guard]"
+      "name": "[Đỡ Đòn - Đọ Sức]"
     },
     {
       "id": "WhenUseEvade",
-      "name": "[On Evade Use]"
+      "name": "[Khi Dùng Kỹ Năng Né]"
     },
     {
       "id": "EndCoin",
-      "name": "[After Current Coin Attack]"
+      "name": "[Sau Khi Lật Xu]"
     },
     {
       "id": "CriticalEnemyTargetKillFail",
-      "name": "[On Crit Kill Fail Against Enemy]"
+      "name": "[Bạo Kích - Diệt Địch Thất Bại]"
     },
     {
       "id": "CriticalEnemyTargetKill",
-      "name": "[On Crit Kill Against Enemy]"
+      "name": "[Bạo Kích - Diệt Địch]"
     },
     {
       "id": "DefeatDuelAttack",
-      "name": "[Hit after Clash Lose]"
+      "name": "[Đọ Sức Thất Bại - Tung Đòn]"
     },
     {
       "id": "TargetKillFail",
-      "name": "[On Target Kill Fail]"
+      "name": "[Diệt Mục Tiêu Thất Bại]"
     },
     {
       "id": "AllyKill",
-      "name": "[On Ally Kill]"
+      "name": "[Diệt Đồng Minh]"
     },
     {
       "id": "AllyKillFail",
-      "name": "[On Ally Kill Fail]"
+      "name": "[Diệt Đồng Minh Thất Bại]"
     },
     {
       "id": "TabExplain",
@@ -242,31 +242,31 @@
     },
     {
       "id": "UnBrokenCoinOnSucceedAttack",
-      "name": "[On Hit without Cracking]"
+      "name": "[Tung Đòn - Không Nứt]"
     },
     {
       "id": "BeforeHit",
-      "name": "[Before Getting Hit]"
+      "name": "[Trước Khi Trúng Đòn]"
     },
     {
       "id": "OnDirectAttack",
-      "name": "[On Unopposed Attack]"
+      "name": "[Tấn Công Một Chiều]"
     },
     {
       "id": "ReUseOnSucceedAttack",
-      "name": "[Reuse - On Hit]"
+      "name": "[Tái Sử Dụng - Tung Đòn]"
     },
     {
       "id": "CriticalOnSucceedAttackHead",
-      "name": "[On Crit - Heads Hit]"
+      "name": "[Bạo Kích - Xu Ngửa]"
     },
     {
       "id": "OnStartCoin",
-      "name": "[Coin Start]"
+      "name": "[Bắt Đầu Lật Xu]"
     },
     {
       "id": "BeforeBehavior",
-      "name": "[Before Action]"
+      "name": "[Trước Khi Hành Động]"
     }
   ]
 }

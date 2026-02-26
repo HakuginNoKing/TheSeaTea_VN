@@ -2,63 +2,63 @@
   "dataList": [
     {
       "id": 0,
-      "place": "A Beach, Once Upon a Time",
+      "place": "Bờ Biển, Một Ngày Nọ",
       "model": "뤼엔딸",
-      "content": "Dad, why do sea waves keep crying?"
+      "content": "Cha ơi, sao sóng biển cứ khóc vậy ạ?"
     },
     {
       "id": 1,
       "model": "검지아비",
-      "content": "Because they're sad that they're knocking over the sand castles."
+      "content": "Vì chúng buồn khi phá hỏng những lâu đài cát."
     },
     {
       "id": 2,
       "model": "뤼엔딸",
-      "content": "Then they should just not knock them over."
+      "content": "Vậy thì đừng phá nữa là được mà."
     },
     {
       "id": 3,
       "model": "검지아비",
-      "content": "Waves move with the winds. When the wind blows, the high and low tides can't help but knock down everything in their path."
+      "content": "Những con sóng chuyển động theo gió. Khi gió thổi, thủy triều lên xuống không thể không cuốn đổ mọi thứ trên đường đi."
     },
     {
       "id": 4,
       "model": "뤼엔딸",
-      "content": "Then why not just... push back when the wind blows?"
+      "content": " Vậy sao không… đẩy ngược lại khi gió thổi?"
     },
     {
       "id": 5,
       "model": "검지아비",
-      "content": "Think about it this way, darling."
+      "content": "Nghĩ thế này nhé, con yêu."
     },
     {
       "id": 6,
       "model": "검지아비",
-      "content": "The waves... built those sand castles only because the wind pulled them in."
+      "content": "Những con sóng… chỉ xây được lâu đài cát vì gió đã kéo chúng vào bờ."
     },
     {
       "id": 7,
       "model": "검지아비",
-      "content": "And now, the wind is pushing them to bring the castles down."
+      "content": "Và giờ, cũng chính gió đẩy chúng đi để phá hủy những lâu đài ấy."
     },
     {
       "id": 8,
       "model": "검지아비",
-      "content": "So the waves really have no reason to feel sad."
+      "content": "Vậy nên sóng thật ra không có lý do gì để buồn cả."
     },
     {
       "id": 9,
       "model": "뤼엔딸",
-      "content": "Then, Dad..."
+      "content": " Vậy thì… cha ơi…"
     },
     {
       "id": 10,
       "model": "뤼엔딸",
-      "content": "... when will they be happy?"
+      "content": "… khi nào chúng sẽ hạnh phúc ạ?"
     },
     {
       "id": 11,
-      "place": "Corridor of the Index, Past",
+      "place": "Hành lang của Ngón Trỏ, Trong Quá Khứ",
       "model": "과거료슈1"
     },
     {
@@ -69,53 +69,53 @@
     {
       "id": 13,
       "model": "검지아비",
-      "content": "Well... Let's take our time finding that out, shall we?"
+      "content": " Ừm… ta cứ từ từ tìm câu trả lời nhé, được chứ?"
     },
     {
       "id": 14,
       "model": "검지아비",
-      "content": "We can save the ending... for later."
+      "content": "Ta hãy dành lại đoạn kết này… cho mai sau nhé."
     },
     {
       "id": 15,
       "model": "검지아비",
-      "content": "We'll read all these endings together once you grow up and become as old as Daddy."
+      "content": "Khi con lớn lên và già như cha thì cha sẽ đọc hết mọi cái kết ấy cùng con."
     },
     {
       "id": 16,
       "model": "과거료슈1",
-      "content": "... Okay."
+      "content": "… Dạ vâng ạ."
     },
     {
       "id": 17,
       "model": "과거료슈1",
-      "content": "Then you gotta read to me every day."
+      "content": "Vậy cha phải đọc cho con nghe mỗi ngày nhé."
     },
     {
       "id": 18,
       "model": "과거료슈1",
-      "content": "Pinky promise!"
+      "content": " Hứa móc tay!"
     },
     {
       "id": 19,
-      "place": "The House of Spiders Rooftop",
+      "place": "Tầng Thượng Nhà Nhện",
       "model": "검지아비3",
-      "content": "... I hear the waves."
+      "content": "… Cha đã nghe thấy tiếng những con sóng vỗ."
     },
     {
       "id": 20,
       "model": "료슈9장이후노담배",
-      "content": "... How do they sound?"
+      "content": "… Chúng nghe thế nào?"
     },
     {
       "id": 21,
       "model": "검지아비3",
-      "content": "... ly."
+      "content": "... đơn."
     },
     {
       "id": 22,
       "model": "검지아비3",
-      "content": "They sound lonely."
+      "content": " … Chúng nghe thật cô đơn."
     }
   ]
 }

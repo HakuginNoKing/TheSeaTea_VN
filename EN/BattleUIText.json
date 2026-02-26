@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "battle_battleunit_guard",
-      "content": "Guard"
+      "content": "Phòng Thủ"
     },
     {
       "id": "popup_message_ego_seat_lack",
@@ -14,35 +14,35 @@
     },
     {
       "id": "option_title",
-      "content": "Settings"
+      "content": "Cài Đặt"
     },
     {
       "id": "option_btn_exit",
-      "content": "Exit Stage"
+      "content": "Thoát"
     },
     {
       "id": "option_btn_statistical",
-      "content": "Battle Data"
+      "content": "Dữ Liệu Chiến Đấu"
     },
     {
       "id": "creature_destroy_notice",
-      "content": "Part Broken"
+      "content": "B.Phận bị Phá Huỷ"
     },
     {
       "id": "oneside_attack",
-      "content": "Unopposed"
+      "content": "Một Chiều"
     },
     {
       "id": "guard",
-      "content": "Guard"
+      "content": "Phòng Thủ"
     },
     {
       "id": "power",
-      "content": "Potency"
+      "content": "Giá Trị"
     },
     {
       "id": "require",
-      "content": "Req."
+      "content": "Cần"
     },
     {
       "id": "battle_log_atk_hp",
@@ -102,11 +102,11 @@
     },
     {
       "id": "info_button_detailinfo",
-      "content": "Details"
+      "content": "Thông Tin"
     },
     {
       "id": "info_button_skill",
-      "content": "Skill"
+      "content": "Kỹ Năng "
     },
     {
       "id": "info_button_awakenskill",
@@ -118,15 +118,15 @@
     },
     {
       "id": "resonance",
-      "content": "Res"
+      "content": "C.Hưởng"
     },
     {
       "id": "perfect_resonance",
-      "content": "A-Res"
+      "content": "C.Hưởng\nTuyệt Đối"
     },
     {
       "id": "break",
-      "content": "STAGGER"
+      "content": "CHOÁNG"
     },
     {
       "id": "mental_break",
@@ -138,19 +138,19 @@
     },
     {
       "id": "panic",
-      "content": "Panic"
+      "content": "Hoảng Loạn"
     },
     {
       "id": "status",
-      "content": "Status"
+      "content": "Trạng Thái"
     },
     {
       "id": "status_abnormal",
-      "content": "Effects"
+      "content": "Hiệu Ứng"
     },
     {
       "id": "immunity_information",
-      "content": "Resistances"
+      "content": "Kháng"
     },
     {
       "id": "awaken_ego_skill",
@@ -166,35 +166,35 @@
     },
     {
       "id": "death",
-      "content": "DEAD"
+      "content": "CHẾT"
     },
     {
       "id": "slash",
-      "content": "Slash"
+      "content": "Chém"
     },
     {
       "id": "penetrate",
-      "content": "Pierce"
+      "content": "Đâm"
     },
     {
       "id": "hit",
-      "content": "Blunt"
+      "content": "Đập"
     },
     {
       "id": "action_disable",
-      "content": "Immobile"
+      "content": "Bất Động"
     },
     {
       "id": "ab_event_select_character",
-      "content": "Select Sinner"
+      "content": "Lựa Chọn Tội Nhân"
     },
     {
       "id": "ab_event_select_desc",
-      "content": "Info"
+      "content": "Thông Tin"
     },
     {
       "id": "ab_event_rate",
-      "content": "Success Rate"
+      "content": "Tỉ Lệ Thành Công"
     },
     {
       "id": "formet_event_rate",
@@ -202,7 +202,7 @@
     },
     {
       "id": "ab_event_decision",
-      "content": "Commence"
+      "content": "Tiến Hành"
     },
     {
       "id": "ab_event_need",
@@ -210,7 +210,7 @@
     },
     {
       "id": "ab_battle_resume",
-      "content": "Resume Battle"
+      "content": "Tiếp Tục"
     },
     {
       "id": "info_button_choice_log",
@@ -218,7 +218,7 @@
     },
     {
       "id": "info_button_story",
-      "content": "Story"
+      "content": "Cốt Truyện"
     },
     {
       "id": "info_button_ego",
@@ -226,7 +226,7 @@
     },
     {
       "id": "dungeon_encounter_start",
-      "content": "Start"
+      "content": "Bắt Đầu"
     },
     {
       "id": "dungeon_encounter_battle",
@@ -242,7 +242,7 @@
     },
     {
       "id": "dungeon_encounter_event",
-      "content": "Event"
+      "content": "Sự Kiện"
     },
     {
       "id": "dungeon_encounter_save",
@@ -254,15 +254,15 @@
     },
     {
       "id": "bottom_winrate",
-      "content": "Win Rate"
+      "content": "Tỉ Lệ Thắng"
     },
     {
       "id": "bottom_dmg",
-      "content": "Damage"
+      "content": "Sát Thương"
     },
     {
       "id": "ab_event_next",
-      "content": "Proceed"
+      "content": "Tiếp Tục"
     },
     {
       "id": "explanatory",
@@ -278,11 +278,11 @@
     },
     {
       "id": "selection",
-      "content": "Choices"
+      "content": "Lựa Chọn"
     },
     {
       "id": "result",
-      "content": "Result"
+      "content": "Kết Quả"
     },
     {
       "id": "choice_total_rate",
@@ -290,23 +290,23 @@
     },
     {
       "id": "enter",
-      "content": "Enter"
+      "content": "Vào"
     },
     {
       "id": "recommend_level",
-      "content": "Ideal LVL"
+      "content": "Cấp Đề Nghị"
     },
     {
       "id": "enemy_info",
-      "content": "Enemy Info"
+      "content": "Thông Tin Kẻ Địch"
     },
     {
       "id": "enter_clear_requirement",
-      "content": "Extra Objective"
+      "content": "Nhiệm Vụ Đi Kèm"
     },
     {
       "id": "choice_event_resume",
-      "content": "Continue"
+      "content": "Tiếp Tục"
     },
     {
       "id": "crime_state_judgment",
@@ -358,11 +358,11 @@
     },
     {
       "id": "action_choice_event_result_example_resume",
-      "content": "Continue"
+      "content": "Tiếp Tục"
     },
     {
       "id": "areaatk_attack",
-      "content": "AoE Skills"
+      "content": "Kỹ Năng Diện Rộng"
     },
     {
       "id": "enter_battle",
@@ -378,11 +378,11 @@
     },
     {
       "id": "skillinfo_passivetitle",
-      "content": "Passives"
+      "content": "Nội Tại"
     },
     {
       "id": "skillinfo_coinabilitytitle",
-      "content": "Skill Effects"
+      "content": "Hiệu Ứng KN"
     },
     {
       "id": "dungeon_save_desc",
@@ -390,27 +390,27 @@
     },
     {
       "id": "battle_battleunit_evade",
-      "content": "Evade"
+      "content": "Né"
     },
     {
       "id": "battle_battleunit_counter",
-      "content": "Counter"
+      "content": "Phản Đòn"
     },
     {
       "id": "battle_operation_defence",
-      "content": "Defense"
+      "content": "Phòng Thủ"
     },
     {
       "id": "battle_increase_mp",
-      "content": "Sanity Up"
+      "content": "Tăng Tinh Thần"
     },
     {
       "id": "battle_decrease_mp",
-      "content": "Sanity Down"
+      "content": "Giảm Tinh Thần"
     },
     {
       "id": "dungeon_encounter_type_start",
-      "content": "Start"
+      "content": "Bắt Đầu"
     },
     {
       "id": "dungeon_encounter_type_battle",
@@ -438,7 +438,7 @@
     },
     {
       "id": "battle_mp",
-      "content": "Sanity"
+      "content": "Tinh Thần"
     },
     {
       "id": "abnormality_part_hp",
@@ -458,11 +458,11 @@
     },
     {
       "id": "skillinfo_keyword",
-      "content": "Keywords"
+      "content": "Từ Khóa"
     },
     {
       "id": "ability_turn",
-      "content": "Count"
+      "content": "Cộng Dồn"
     },
     {
       "id": "ego_erosion",
@@ -470,27 +470,27 @@
     },
     {
       "id": "continuous_turn",
-      "content": "Turns"
+      "content": "Lượt"
     },
     {
       "id": "status_buff_list",
-      "content": "Effects"
+      "content": "Hiệu Ứng"
     },
     {
       "id": "stack",
-      "content": "Stack"
+      "content": "Tầng"
     },
     {
       "id": "slash_resistance",
-      "content": "Slash Res."
+      "content": "Kháng ST Chém"
     },
     {
       "id": "penetrate_resistance",
-      "content": "Pierce Res."
+      "content": "Kháng ST Đâm"
     },
     {
       "id": "hit_resistance",
-      "content": "Blunt Res."
+      "content": "Kháng ST Đập"
     },
     {
       "id": "Lack_Buff",
@@ -502,15 +502,15 @@
     },
     {
       "id": "destroyable",
-      "content": "Destructible"
+      "content": "Có Thể Phá Hủy"
     },
     {
       "id": "resumption",
-      "content": "Resume"
+      "content": "Tiếp Tục"
     },
     {
       "id": "stage_GiveUp",
-      "content": "Give Up"
+      "content": "Bỏ Cuộc"
     },
     {
       "id": "show_skillTool",
@@ -530,7 +530,7 @@
     },
     {
       "id": "oneside_defense",
-      "content": "One-sided Guard"
+      "content": "Phòng Thủ Một Chiều"
     },
     {
       "id": "cantIdentify",
@@ -562,7 +562,7 @@
     },
     {
       "id": "targetSlotWeight",
-      "content": "Atk Weight"
+      "content": "Phạm Vi Đòn Đánh"
     },
     {
       "id": "EGO_ErodeProbability",
@@ -574,7 +574,7 @@
     },
     {
       "id": "EGOSelectUI_DetailInfo",
-      "content": "Details"
+      "content": "Thông Tin"
     },
     {
       "id": "ab_part_destroyable",
@@ -706,7 +706,7 @@
     },
     {
       "id": "battle_operation_counter",
-      "content": "Power Counter"
+      "content": "Phản Đòn - Đọ Sức"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_0",
@@ -754,7 +754,7 @@
     },
     {
       "id": "battle_operation_defense",
-      "content": "Power Guard"
+      "content": "Đỡ Đòn - Đọ Sức"
     },
     {
       "id": "battle_operation_defense_TextTypo",

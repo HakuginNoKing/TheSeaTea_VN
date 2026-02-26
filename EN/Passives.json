@@ -2719,51 +2719,51 @@
     },
     {
       "id": 1011502,
-      "name": "Prescript Delivered on a Device",
-      "desc": "Turn Start:\n- Gain [IndexPrescriptYi_0] / [IndexPrescriptYi_1] / [IndexPrescriptYi_2] / [IndexPrescriptYi_3] based on [UnlockBuff_Base] stage on self\n- Inflict [IndexPrescriptTargetToEnemy] to a random enemy (in Focused Encounters, a Part)\n- Apply [IndexPrescriptTargetMarkToEnemy] to Base Attack Skills on this unit's Dashboard (1 per Slot, max 2 Skills)\n· At [UnlockBuffAlly_2]+, the effect above prioritizes Skill 3 (prioritizes empowered Skill)\n- All of the effects above and [IndexPrescript_Base_2nd] execution checks do not trigger when this unit is Staggered, Immobilized[TabExplain], in Panic, or in E.G.O Corrosion[TabExplain]",
-      "summary": "Upon executing Prescript, heal SP and gain Grace of the Prescript\nUpon failing Prescript, gain Karmic Consequence"
+      "name": "Sắc Lệnh Được Giao Đến Máy Nhắn",
+      "desc": "Bắt Đầu Lượt:\n- Nhận [IndexPrescriptYi_0] / [IndexPrescriptYi_1] / [IndexPrescriptYi_2] / [IndexPrescriptYi_3] dựa trên Bậc [UnlockBuff_Base] trên bản thân\n- Gắn [IndexPrescriptTargetToEnemy] lên một Kẻ Địch ngẫu nhiên (trong Giao Tranh Tập Trung sẽ gắn lên một Bộ Phận)\n- Gắn [IndexPrescriptTargetMarkToEnemy] lên Chiêu Tấn Công Cơ Bản trên Bảng Điều Khiển của đơn vị này (1 mỗi ô, Tối đa 2 Chiêu)\n· Khi đạt [UnlockBuffAlly_2]+, hiệu ứng kể trên sẽ ưu tiên Chiêu 3 (ưu tiên Chiêu được Cường Hoá)\n- Tất cả hiệu ứng kể trên và [IndexPrescript_Base_2nd] xác nhận thực thi không kích hoạt khi đơn vị này bị Choáng, Bất Động [TabExplain], trong trạng thái Hoảng Loạn, hoặc bị E.G.O Ăn Mòn [TabExplain]",
+      "summary": "Khi thực thi Sắc Lệnh, hồi SP và nhận Ý Chỉ Sắc Lệnh\nkhi không thể thực thi Sắc Lệnh, nhận Hệ Quả Nghiệp Chướng"
     },
     {
       "id": 1011503,
-      "name": "The Oracle's Proxy / Unlock",
-      "desc": "Turn End: If [IndexPrescript_Base_2nd] was executed this turn at below [UnlockBuffAlly_2], heal 4 SP and gain 1 [BlessingOfIndexPrescriptAlly] (once per turn)\n- When executing [IndexPrescript_Base_2nd], if the main target has [IndexPrescriptTargetToEnemy], heal 8 SP and gain 3 [BlessingOfIndexPrescriptAlly] instead\n\nTurn End: If this unit is at [UnlockBuffAlly_2] and [IndexPrescriptYi_2] was executed this turn, heal 4 SP (once per turn)\n- When executing [IndexPrescript_Base_2nd], if [StackYisangSpecialSkill] has reached 9 Stacks, heal 8 SP and gain 3 [BlessingOfIndexPrescriptAlly]\n\nTurn End: If [IndexPrescript_Base_2nd] was not executed this turn, gain 5 [KarmaOfIndexAlly]\n- At [UnlockBuffAlly_3], does not gain [KarmaOfIndexAlly]\n- If this unit attempted to execute [IndexPrescript_Base_2nd] at Combat Start, but could not target the enemy during the combat phase, does not gain [KarmaOfIndexAlly] at Turn End (applies at below [UnlockBuffAlly_2])\n\nTurn End: At 3/6/9 [BlessingOfIndexPrescriptAlly], gain [UnlockBuffAlly_1]/[UnlockBuffAlly_2]/[UnlockBuffAlly_3]\nTurn Start: At [UnlockBuffAlly_3], gain [Shin_IndexFingerYisang]",
+      "name": "Hành Giả Tiên Tri/Khai Mở",
+      "desc": "Kết Thúc Lượt: Nếu [IndexPrescript_Base_2nd] được thực thi trong lượt này tại Bậc [UnlockBuffAlly_2], hồi 4 SP và nhận 1 [BlessingOfIndexPrescriptAlly] (Một lần mỗi lượt)\n- Khi thực thi [IndexPrescript_Base_2nd], nếu mục tiêu chính có [IndexPrescriptTargetToEnemy], thay vào đó hồi 8 SP và nhận 3 [BlessingOfIndexPrescriptAlly]\n\n Kết Thúc Lượt: Nếu đơn vị này ở Bậc [UnlockBuffAlly_2] và [IndexPrescriptYi_2] được thực thi trong lượt này, Hồi 4 Điểm Tinh Thần (Một lần mỗi lượt)\n- Khi thực thi [IndexPrescript_Base_2nd], nếu [StackYisangSpecialSkill] đạt 9 Tầng, hồi 8 SP và nhận 3 [BlessingOfIndexPrescriptAlly]\n\nKết Thúc Lượt: Nếu [IndexPrescript_Base_2nd] không được thực thi trong lượt này, nhận 5 [KarmaOfIndexAlly]\n- Ở Bậc [UnlockBuffAlly_3] sẽ không nhận [KarmaOfIndexAlly]\n- Nếu đơn vị này có thực thi [IndexPrescript_Base_2nd] ở giai đoạn Khai Chiến, nhưng không thể chỉ điểm kẻ thù ở giai đoạn giao tranh, sẽ không nhận [KarmaOfIndexAlly] khi Kết Thúc Lượt (áp dụng dưới Bậc [UnlockBuffAlly_2])\n\nKết Thúc Lượt: Khi có 3/6/9 [BlessingOfIndexPrescriptAlly], Nhận Bậc [UnlockBuffAlly_1]/[UnlockBuffAlly_2]/[UnlockBuffAlly_3]\nBắt Đầu Lượt: Ở Bậc [UnlockBuffAlly_3], nhận [Shin_IndexFingerYisang]",
       "summary": ""
     },
     {
       "id": 1011504,
-      "name": "The Index Nursefather",
-      "desc": "Upon entering the Encounter for the first time, gain [BurningWoundYisangMask]\n- Turn End: If this unit was Staggered for the first time in this Encounter while under this effect, recover from Stagger (excluding forced Stagger) and convert [BurningWoundYisangMask] to [BurningWoundYisang]\n\nApply [SatisfyingEsteemNeeds] to The Index Proxy - Effloresced E.G.O::Procuration Don Quixote when both units are on the field",
+      "name": "Cha Đỡ Đầu Ngón Trỏ",
+      "desc": "Khi vào Giao Tranh lần đầu tiên, nhận [BurningWoundYisangMask]\n- Kết Thúc Lượt: Nếu đơn vị này bị Choáng lần đầu tiên trong Giao Tranh khi có hiệu ứng kể trên, Phục Hồi khỏi hiệu ứng Choáng (ngoại trừ Bắt Buộc Choáng) và biến đổi [BurningWoundYisangMask] thành [BurningWoundYisang]\n\nGắn [SatisfyingEsteemNeeds] lên The Index Proxy - Effloresced E.G.O::Procuration Don Quixote khi cả hai đơn vị đều ở trên sân",
       "summary": ""
     },
     {
       "id": 1011505,
-      "name": "Oracle Device [Caduceus]",
-      "desc": "A random weapon is assigned to every Coin for Base Attack Skills. Each weapon has a unique effect.\n- [YisangWeapon01Hatchet]\n- [YisangWeapon02Stiletto]\n- [YisangWeapon03Greatsword]\n- [YisangWeapon04Rapier]\n- [YisangWeapon05Sledgehammer]\n- [YisangWeapon06Ultragreatsword]\n- [YisangWeapon07Lance]\n- [YisangWeapon08Chain]\n- [YisangWeapon09Scythe]\n\nGain 1 [StackYisangSpecialSkill] when using Skills with [IndexPrescriptTargetMarkToEnemy]",
-      "summary": "A random weapon is assigned\nGain special effect when using 'Furioso-Replica'"
+      "name": "Máy Nhắn Tiên Tri [Caduceus]",
+      "desc": "Một vũ khí ngẫu nhiên sẽ được chọn cho mỗi Xu của Chiêu Tấn Công Cơ Bản. Mỗi vũ khí sẽ có hiệu ứng riêng biệt.\n- [YisangWeapon01Hatchet]\n- [YisangWeapon02Stiletto]\n- [YisangWeapon03Greatsword]\n- [YisangWeapon04Rapier]\n- [YisangWeapon05Sledgehammer]\n- [YisangWeapon06Ultragreatsword]\n- [YisangWeapon07Lance]\n- [YisangWeapon08Chain]\n- [YisangWeapon09Scythe]\n\nNhận 1 [StackYisangSpecialSkill] khi sử dụng Chiêu có [IndexPrescriptTargetMarkToEnemy]",
+      "summary": "Một vũ khí ngẫu nhiên sẽ được chọn\nNhận hiệu ứng đặc biệt khi sử dụng 'Furioso-Replica'"
     },
     {
       "id": 1011506,
-      "name": "Oracle Device [Caduceus]",
-      "desc": "A random weapon is assigned to every Coin for Base Attack Skills. Each weapon has a unique effect.\n- [YisangWeapon01Hatchet]\n- [YisangWeapon02Stiletto]\n- [YisangWeapon03Greatsword]\n- [YisangWeapon04Rapier]\n- [YisangWeapon05Sledgehammer]\n- [YisangWeapon06Ultragreatsword]\n- [YisangWeapon07Lance]\n- [YisangWeapon08Chain]\n- [YisangWeapon09Scythe]\n\nGain 1 [StackYisangSpecialSkill] when using Skills with [IndexPrescriptTargetMarkToEnemy]\n\n<style=\"highlight\">Convert [BurningWoundYisangMask] to [BurningWoundYisang] at the end of the turn this unit used 'Furioso-Replica' for the first time in this Encounter\n\nTurn Start: If this unit has [BurningWoundYisang] and has 'Furioso-Replica' on the Dashboard, gain [BlackNightmareYisang]</style>",
-      "summary": "A random weapon is assigned\nGain special effect when using 'Furioso-Replica'"
+      "name": "Máy Nhắn Tiên Tri [Caduceus]",
+      "desc": "Một vũ khí ngẫu nhiên sẽ được chọn cho mỗi Xu của Chiêu Tấn Công Cơ Bản. Mỗi vũ khí sẽ có hiệu ứng riêng biệt.\n- [YisangWeapon01Hatchet]\n- [YisangWeapon02Stiletto]\n- [YisangWeapon03Greatsword]\n- [YisangWeapon04Rapier]\n- [YisangWeapon05Sledgehammer]\n- [YisangWeapon06Ultragreatsword]\n- [YisangWeapon07Lance]\n- [YisangWeapon08Chain]\n- [YisangWeapon09Scythe]\n\nNhận 1 [StackYisangSpecialSkill] khi sử dụng Chiêu có [IndexPrescriptTargetMarkToEnemy]\n\n<style=\"highlight\">Biến đổi [BurningWoundYisangMask] thành [BurningWoundYisang] vào cuối lượt, cùng lượt đơn vị này sử dụng 'Furioso-Replica' lần đầu tiên trong Giao Tranh này\n\nBắt Đầu Lượt: Nếu đơn vị này có [BurningWoundYisang] và có 'Furioso-Replica' trên Bảng Điều Khiển, nhận [BlackNightmareYisang]</style>",
+      "summary": "Một vũ khí ngẫu nhiên sẽ được chọn\nNhận hiệu ứng đặc biệt khi sử dụng 'Furioso-Replica'"
     },
     {
       "id": 1011501,
-      "name": "Imitation of a Life",
-      "desc": "Deal +2% damage with Skills marked with [IndexPrescriptTargetMarkToEnemy] for every [BlessingOfIndexPrescriptAlly] on self (max 16%)\n- At 9 [BlessingOfIndexPrescriptAlly], deal +20% damage with Base Skills instead\n\nOn Hit with Base Attack Skill's [SuperCoin]s, gain 1 [StackYisangSpecialSkill]\n- Attack End: Gain [StackYisangSpecialSkill] equal to (# of remaining [SuperCoin]s)",
-      "summary": "Deal more damage with Skills marked with Mark of the Prescript based on Grace of the Prescript on self\nOn Hit: Heal SP\nGain [StackYisangSpecialSkill] when certain conditions are met"
+      "name": "Mô Phỏng Một Cuộc Đời",
+      "desc": "Các Chiêu có [IndexPrescriptTargetMarkToEnemy] gây +2% sát thương cho mỗi [BlessingOfIndexPrescriptAlly] trên bản thân (Tối đa 16%)\n- Khi đạt 9 [BlessingOfIndexPrescriptAlly], Các Chiêu Cơ Bản thay vào đó sẽ gây +20% sát thương\n\nKhi Tung Đòn bằng [SuperCoin] của Chiêu Tấn Công Cơ Bản, nhận 1 [StackYisangSpecialSkill]\n- Kết Đòn: Nhận [StackYisangSpecialSkill] tương ứng với (Số [SuperCoin] còn lại)",
+      "summary": "Gây thêm sát thương với các Kỹ Năng có Dấu Ấn Sắc Lệnh dựa trên số Tầng Ý Chỉ Sắc Lệnh trên bản thân\nTung Đòn: hồi SP\nNhận [StackYisangSpecialSkill] khi thỏa mãn điều kiện nhất định"
     },
     {
       "id": 1011511,
-      "name": "Imitation of a Life",
-      "desc": "Deal +2% damage with Skills marked with [IndexPrescriptTargetMarkToEnemy] for every [BlessingOfIndexPrescriptAlly] on self (max 16%)\n- At 9 [BlessingOfIndexPrescriptAlly], deal +20% damage with Base Skills instead\n\nOn Hit with Base Attack Skill's [SuperCoin]s, gain 1 [StackYisangSpecialSkill]\n- Attack End: Gain [StackYisangSpecialSkill] equal to (# of remaining [SuperCoin]s)\n<style=\"highlight\">- 'Furioso-Replica' Attack End: Gain [StackYisangSpecialSkill] next turn equal to (# of this Skill's remaining [SuperCoin]s / 2) (rounded down)</style>\n\n<style=\"highlight\">If [StackYisangSpecialSkill] reached 9 Stacks this turn at Turn End, and if this unit does not have a Skill 3 on the Dashboard at the start of the next turn, convert a Base Skill to Skill 3 (prioritizes the Skill on the leftmost Slot's bottom row)</style>",
-      "summary": "Deal more damage with Skills marked with Mark of the Prescript based on Grace of the Prescript on self\nOn Hit: Heal SP\nGain [StackYisangSpecialSkill] when certain conditions are met"
+      "name": "Mô Phỏng Một Cuộc Đời",
+      "desc": "Các Chiêu có [IndexPrescriptTargetMarkToEnemy] gây +2% sát thương cho mỗi [BlessingOfIndexPrescriptAlly] trên bản thân (Tối đa 16%)\n- Khi đạt 9 [BlessingOfIndexPrescriptAlly], Các Chiêu Cơ Bản thay vào đó sẽ gây +20% sát thương\n\nKhi Tung Đòn bằng [SuperCoin] của Chiêu Tấn Công Cơ Bản, nhận 1 [StackYisangSpecialSkill]\n- Kết Đòn: Nhận [StackYisangSpecialSkill] tương ứng với (Số [SuperCoin] còn lại)\n<style=\"highlight\">- Kết Đòn 'Furioso-Replica': Nhận [StackYisangSpecialSkill] vào lượt tiếp theo tương ứng với (Số [SuperCoin] còn lại của Chiêu này / 2) (làm tròn xuống)</style>\n\n<style=\"highlight\">Nếu [StackYisangSpecialSkill] khi Kết Thúc Lượt đạt 9 Tầng, và nếu đơn vị này không có Chiêu 3 trên Bảng Điều Khiển khi bắt đầu lượt tiếp theo, biến đổi một Chiêu Cơ Bản thành Chiêu 3 (ưu tiên Chiêu ở ô dưới cùng hàng dưới bên trái)</style>",
+      "summary": "Gây thêm sát thương với các Kỹ Năng có Dấu Ấn Sắc Lệnh dựa trên số Tầng Ý Chỉ Sắc Lệnh trên bản thân\nTung Đòn: hồi SP\nNhận [StackYisangSpecialSkill] khi thỏa mãn điều kiện nhất định"
     },
     {
       "id": 1011521,
-      "name": "Grace of God",
-      "desc": "Deal +5% damage with Slash, Pierce, and Blunt Base Attack Skills that are used for the first time by any ally each turn (once per type across all allies)\n- The Index Identities deal +10% damage instead\n- This effect's application is determined Before Attack",
-      "summary": "Deal more damage with Slash, Pierce, and Blunt Skills used for the first time this turn"
+      "name": "Ân Điển Của Thần",
+      "desc": "Gây +5% sát thương đối với các Chiêu Tấn Công Cơ Bản dạng Chém, Đập, Đâm được sử dụng lần đầu tiên bởi bất kỳ đồng minh nào trong mỗi lượt (một lần mỗi loại giữa các đồng minh)\n- Nhân Dạng Ngón Trỏ thay vào đó gây +10% sát thương\n- Hiệu ứng này được áp dụng Trước Khi Tấn Công",
+      "summary": "Gây thêm sát thương với các Kỹ Năng Chém, Đâm, và Đập được sử dụng lần đầu tiên trong mỗi lượt"
     }
   ]
 }

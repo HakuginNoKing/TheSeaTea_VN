@@ -2,51 +2,51 @@
   "dataList": [
     {
       "id": "unit_info_tooltip_status_0",
-      "content": "Max HP"
+      "content": "HP Tối Đa"
     },
     {
       "id": "unit_info_tooltip_status_1",
-      "content": "Speed Range"
+      "content": "Ngưỡng Tốc"
     },
     {
       "id": "unit_info_tooltip_attack_resist_0",
-      "content": "Slash Resistance"
+      "content": "Kháng ST Chém"
     },
     {
       "id": "unit_info_tooltip_attack_resist_1",
-      "content": "Pierce Resistance"
+      "content": "Kháng ST Đâm"
     },
     {
       "id": "unit_info_tooltip_attack_resist_2",
-      "content": "Blunt Resistance"
+      "content": "Kháng ST Đập"
     },
     {
       "id": "unit_info_tooltip_attribute_resist_0",
-      "content": "Wrath Resistance"
+      "content": "Kháng Wrath"
     },
     {
       "id": "unit_info_tooltip_attribute_resist_1",
-      "content": "Lust Resistance"
+      "content": "Kháng Lust"
     },
     {
       "id": "unit_info_tooltip_attribute_resist_2",
-      "content": "Sloth Resistance"
+      "content": "Kháng Sloth"
     },
     {
       "id": "unit_info_tooltip_attribute_resist_3",
-      "content": "Gluttony Resistance"
+      "content": "Kháng Gluttony"
     },
     {
       "id": "unit_info_tooltip_attribute_resist_4",
-      "content": "Gloom Resistance"
+      "content": "Kháng Gloom"
     },
     {
       "id": "unit_info_tooltip_attribute_resist_5",
-      "content": "Pride Resistance"
+      "content": "Kháng Pride"
     },
     {
       "id": "unit_info_tooltip_attribute_resist_6",
-      "content": "Envy Resistance"
+      "content": "Kháng Envy"
     },
     {
       "id": "unit_info_tooltip_skill_count",
@@ -54,7 +54,7 @@
     },
     {
       "id": "unit_info_tooltip_targetting_count",
-      "content": "Attack Weight"
+      "content": "Phạm Vi Đòn Đánh"
     },
     {
       "id": "unit_info_tooltip_targetting_count_desc",

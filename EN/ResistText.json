@@ -2,27 +2,27 @@
   "dataList": [
     {
       "id": "resist_weak",
-      "content": "Fatal"
+      "content": "Trọng Yếu"
     },
     {
       "id": "resist_vulnerable",
-      "content": "Weak"
+      "content": "Yếu"
     },
     {
       "id": "resist_normal",
-      "content": "Normal"
+      "content": "Bình Thường"
     },
     {
       "id": "resist_endure",
-      "content": "Endure"
+      "content": "Chống Chịu"
     },
     {
       "id": "resist_resist",
-      "content": "Ineff."
+      "content": "Vô Hiệu"
     },
     {
       "id": "resist_immune",
-      "content": "Immune"
+      "content": "Miễn Nhiễm"
     }
   ]
 }
