@@ -9,23 +9,23 @@
     },
     {
       "id": "Agility",
-      "name": "Haste",
-      "desc": "Speed +{0} for this turn.",
-      "summary": "SPD +{0}",
+      "name": "Tăng Tốc",
+      "desc": "Trong lượt này, Tốc Độ +{0}.",
+      "summary": "Tốc +{0}",
       "undefined": "-"
     },
     {
       "id": "Endurance",
-      "name": "Defense Power Up",
-      "desc": "Defense Skill Final Power +{0} for this turn.",
-      "summary": "DEF Skill Final Power +{0}",
+      "name": "Gia Tăng Phòng Thủ",
+      "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng Phòng Thủ +{0}.",
+      "summary": "Uy Lực Sau Cùng Kỹ Năng Phòng Thủ +{0}",
       "undefined": "-"
     },
     {
       "id": "Reduction",
-      "name": "Attack Power Down",
-      "desc": "Attack Skill Final Power -{0} for this turn.",
-      "summary": "ATK Skill Final Power -{0}",
+      "name": "Giảm Uy Lực Tấn Công",
+      "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng Tấn Công -{0}.",
+      "summary": "Uy Lực Sau Cùng Kỹ Năng Tấn Công -{0}",
       "undefined": "-"
     },
     {
@@ -37,14 +37,14 @@
     },
     {
       "id": "Vulnerable",
-      "name": "Fragile",
-      "desc": "Take +{0}0% damage this turn. (Max 100%)",
-      "summary": "+{0}0% Damage Taken",
+      "name": "Mong Manh",
+      "desc": "Trong lượt này, nhận thêm {0}0% sát thương (Tối đa 100%)",
+      "summary": "+{0}0% Sát Thương Nhận Vào",
       "undefined": "-"
     },
     {
       "id": "Taunt",
-      "name": "Taunt",
+      "name": "Khiêu Khích",
       "desc": "",
       "undefined": "-"
     },
@@ -85,7 +85,7 @@
     },
     {
       "id": "EgoErode",
-      "name": "E.G.O Corrosion",
+      "name": "E.G.O Ăn Mòn",
       "desc": "Won’t listen to orders and will only use Corrosion Skills.",
       "summary": "Out of control; uses Corrosion Skills",
       "undefined": "-"
@@ -99,45 +99,45 @@
     },
     {
       "id": "DamageOverTime",
-      "name": "Ongoing Damage",
-      "desc": "Turn Start: Take {0} fixed HP damage.",
-      "summary": "{0} fixed HP damage"
+      "name": "Sát Thương Liên Tục",
+      "desc": "Bắt Đầu Vòng: Nhận {0} sát thương HP cố định.",
+      "summary": "{0} sát thương HP cố định"
     },
     {
       "id": "ResultEnhancement",
-      "name": "Power Up",
-      "desc": "Skill Final Power +{0} for this turn.",
-      "summary": "Skill Final Power +{0}"
+      "name": "Gia Tăng Uy Lực",
+      "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng +{0}.",
+      "summary": "Uy Lực Sau Cùng Kỹ Năng +{0}"
     },
     {
       "id": "Protection",
-      "name": "Protection",
-      "desc": "Take -{0}0% damage this turn. (Max 100%)",
-      "summary": "-{0}0% Damage Taken"
+      "name": "Khiên Bảo Hộ",
+      "desc": "Trong lượt này, giảm {0}0% sát thương nhận vào (Tối đa 100%).",
+      "summary": "-{0}0% Sát Thương Nhận Vào"
     },
     {
       "id": "AttackDmgUp",
       "name": "Gia Tăng Sát Thương",
-      "desc": "Deal +{0}0% damage with skills this turn. (Max 100%)",
-      "summary": "+{0}0% Damage Dealt"
+      "desc": "Trong lượt này, Sát Thương Kỹ Năng +{0}0%. (Max 100%)",
+      "summary": "+{0}0% Sát Thương Gây Ra"
     },
     {
       "id": "DefenseUp",
       "name": "Gia Tăng Cấp Phòng Thủ",
-      "desc": "Defense Level +{0} for this turn.",
-      "summary": "Defense Level +{0}"
+      "desc": "Trong lượt này, Cấp Phòng Thủ +{0}.",
+      "summary": "Cấp Phòng Thủ +{0}"
     },
     {
       "id": "PlusCoinValueUp",
-      "name": "Plus Coin Boost",
-      "desc": "Plus Coin Power +{0} for this turn.",
-      "summary": "Plus Coin Power +{0}"
+      "name": "Xu Dương Tăng",
+      "desc": "Trong lượt này, Uy Lực Xu Dương +{0}.",
+      "summary": "Uy Lực Xu Dương +{0}"
     },
     {
       "id": "MinusCoinValueUp",
-      "name": "Minus Coin Boost",
-      "desc": "Minus Coin Power +{0} for this turn.",
-      "summary": "Minus Coin Power +{0}"
+      "name": "Xu Âm Tăng",
+      "desc": "Trong lượt này, Uy Lực Xu Âm +{0}.",
+      "summary": "Uy Lực Xu Âm +{0}"
     },
     {
       "id": "TimesCoinValueUp",
@@ -147,45 +147,45 @@
     },
     {
       "id": "Disarming",
-      "name": "Defense Power Down",
-      "desc": "Defense Skill Final Power -{0} for this turn.",
-      "summary": "DEF Skill Final Power -{0}"
+      "name": "Giảm Sức Mạnh Phòng Thủ",
+      "desc": "Trong lượt này, Uy Lực Kỹ Năng Phòng Thủ -{0}.",
+      "summary": "Uy Lực Kỹ Năng Phòng Thủ -{0}"
     },
     {
       "id": "ResultReduction",
-      "name": "Power Down",
-      "desc": "Skill Final Power -{0} for this turn.",
-      "summary": "Skill Final Power -{0}"
+      "name": "Giảm Uy Lực",
+      "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng -{0}.",
+      "summary": "Uy Lực Sau Cùng Kỹ Năng -{0}"
     },
     {
       "id": "AttackDmgDown",
-      "name": "Damage Down",
-      "desc": "Deal -{0}0% damage with skills this turn. (Max 100%)",
-      "summary": "-{0}0% Damage Dealt"
+      "name": "Giảm Sát Thương",
+      "desc": "Trong lượt này, Sát Thương Kỹ Năng -{0}0%. (Max 100%)",
+      "summary": "-{0}0% Sát Thương Gây Ra"
     },
     {
       "id": "DefenseDown",
-      "name": "Defense Level Down",
-      "desc": "Defense Level -{0} for this turn.",
-      "summary": "Defense Level -{0}"
+      "name": "Giảm Cấp Phòng Thủ",
+      "desc": "Trong lượt này, Cấp Phòng Thủ -{0}.",
+      "summary": "Cấp Phòng Thủ -{0}"
     },
     {
       "id": "Paralysis",
-      "name": "Paralyze",
-      "desc": "Fix the Power of {0} Coin(s) to 0 for this turn.",
-      "summary": "{0} Coin(s) have 0 Power"
+      "name": "Tê Liệt",
+      "desc": "Trong lượt này, Uy Lực của {0} Xu bị đặt về 0.",
+      "summary": "{0} Xu có Uy Lực 0"
     },
     {
       "id": "PlusCoinValueDown",
-      "name": "Plus Coin Drop",
-      "desc": "Plus Coin Power -{0} for this turn.",
-      "summary": "Plus Coin Power -{0}"
+      "name": "Xu Dương Giảm",
+      "desc": "Trong lượt này, Uy Lực Xu Dương -{0}.",
+      "summary": "Uy Lực Xu Dương -{0}"
     },
     {
       "id": "MinusCoinValueDown",
-      "name": "Minus Coin Drop",
-      "desc": "Minus Coin Power -{0} for this turn.",
-      "summary": "Minus Coin Power -{0}"
+      "name": "Xu Âm Giảm",
+      "desc": "Trong lượt này, Uy Lực Xu Âm -{0}.",
+      "summary": "Uy Lực Xu Âm -{0}"
     },
     {
       "id": "TimesCoinValueDown",
@@ -265,7 +265,7 @@
     {
       "id": "Combustion",
       "name": "Thiêu Đốt",
-      "desc": "Turn End: Take {0} fixed damage. Lasts {1} turn(s).",
+      "desc": "Kết Thúc Lượt: Nhận {0} sát thương cố định. Tồn tại trong {1} lượt.",
       "summary": "{0} fixed HP damage"
     },
     {
