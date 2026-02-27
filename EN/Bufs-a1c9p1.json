@@ -163,7 +163,7 @@
     },
     {
       "id": "BlessingOfIndexPrescriptAlly",
-      "name": "Ý Chỉ Sắc Lệnh",
+      "name": "Ân Điển Của Sắc Lệnh",
       "desc": "- Cấp Tấn Công +1 cho mỗi 3 Tầng\n- Số Tầng Tối Đa: 9",
       "summary": "",
       "undefined": "-"
@@ -211,7 +211,7 @@
     {
       "id": "KarmaOfIndexAlly",
       "name": "Hệ Quả Nghiệp Chướng",
-      "desc": "- Bắt Đầu Lượt\n· Nhận 1 Defense Level Down cho mỗi 10 Tầng\n· Nhận 1 Fragile cho mỗi 20 Tầng\n- Số Tầng Tối Đa: 100\n",
+      "desc": "- Bắt Đầu Lượt\n· Nhận 1 Giảm Cấp Phòng Thủ cho mỗi 10 Hệ Quả Nghiệp Chướng\n· Nhận 1 Mong Manh cho mỗi 20 Hệ Quả Nghiệp Chướng\n- Tối Đa: 100\n",
       "summary": "",
       "undefined": "-",
       "flavor": "Receive the Prescript and undertake it. Its execution is etched as karma, drawn into a ceaseless cycle that circles back to the hand of its executor."
