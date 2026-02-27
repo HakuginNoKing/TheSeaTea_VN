@@ -270,7 +270,7 @@
     },
     {
       "id": "Laceration",
-      "name": "Xuất Huyết",
+      "name": "Chảy Máu",
       "desc": "The next {1} time(s) this unit tosses an attack skill Coin, take {0} fixed damage.",
       "summary": "{0} fixed HP damage"
     },
@@ -282,19 +282,19 @@
     },
     {
       "id": "Burst",
-      "name": "Phá Liệt",
+      "name": "Vỡ Vụn",
       "desc": "The next {1} time(s) the unit is hit, take {0} fixed damage.",
       "summary": "{0} fixed HP damage"
     },
     {
       "id": "Sinking",
-      "name": "Trầm Luân",
+      "name": "Sa Lầy",
       "desc": "The next {1} time(s) the unit is hit, take {0} fixed SP damage. (Units with no Sanity take Gloom damage.)",
       "summary": "{0} Sinking DMG"
     },
     {
       "id": "Breath",
-      "name": "Điềm Tĩnh",
+      "name": "Sắc Bén",
       "desc": "Boost critical hit chance by {0}x5% for the next {1} hit(s).",
       "summary": "{0}x5% crit chance"
     },
