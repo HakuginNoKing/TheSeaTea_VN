@@ -110,15 +110,15 @@
     },
     {
       "id": "info_button_awakenskill",
-      "content": "Awakening"
+      "content": "Thức Tỉnh"
     },
     {
       "id": "info_button_erosionskill",
-      "content": "Corrosion"
+      "content": "Ăn Mòn"
     },
     {
       "id": "resonance",
-      "content": "C.Hưởng"
+      "content": "\nC.Hưởng"
     },
     {
       "id": "perfect_resonance",
@@ -154,11 +154,11 @@
     },
     {
       "id": "awaken_ego_skill",
-      "content": "Awakening"
+      "content": "Thức Tỉnh"
     },
     {
       "id": "erosion_ego_skill",
-      "content": "Corrosion"
+      "content": "Ăn Mòn"
     },
     {
       "id": "turnplace_test_name",
@@ -442,7 +442,7 @@
     },
     {
       "id": "abnormality_part_hp",
-      "content": "Part HP"
+      "content": "HP Bộ Phận"
     },
     {
       "id": "abnormality_research_level",
@@ -454,7 +454,7 @@
     },
     {
       "id": "Insufficient_conditions",
-      "content": "Conditions Unmet"
+      "content": "Điều Kiện Chưa Đạt"
     },
     {
       "id": "skillinfo_keyword",
@@ -466,7 +466,7 @@
     },
     {
       "id": "ego_erosion",
-      "content": "E.G.O Corrosion"
+      "content": "E.G.O Ăn Mòn"
     },
     {
       "id": "continuous_turn",
