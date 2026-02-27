@@ -265,7 +265,7 @@
     {
       "id": "Combustion",
       "name": "Thiêu Đốt",
-      "desc": "Kết Thúc Lượt: Nhận {0} sát thương cố định. Tồn tại trong {1} lượt.",
+      "desc": "Kết Thúc Lượt: Nhận {0} sát thương cố định. Tồn tại trong {1} lượt .",
       "summary": "{0} fixed HP damage"
     },
     {
