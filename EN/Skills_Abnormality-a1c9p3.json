@@ -3209,7 +3209,7 @@
         {
           "level": 1,
           "name": "Giáng Trọng Lượng Xuống, Đánh Đổ Thân Thể",
-          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa vào loại sát thương của vũ khí:\n- Vũ Khí dạng Đập gây +20% sát thương\n- Vũ Khí khác dạng Đập gây -10% sát thương\n[WhenUse] Nhận +1 Tầng [Breath] ",
+          "desc": "Uy Lực Sau Cùng +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa vào loại sát thương của vũ khí:\n- Vũ Khí dạng Đập gây +20% sát thương\n- Vũ Khí khác dạng Đập gây -10% sát thương\n[WhenUse] Nhận +1 Tầng [Breath] ",
           "coinlist": [
             {},
             {
@@ -3229,7 +3229,7 @@
         {
           "level": 1,
           "name": "Dựng Thẳng Hồi Kết, Tận Cán Đâm Xuyên",
-          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa vào loại sát thương của vũ khí:\n- Vũ Khí dạng Đâm gây +20% sát thương\n- Vũ Khí khác dạng Đâm gây -10% sát thương\n[WhenUse] Nhận +1 Tầng [Breath]",
+          "desc": "Uy Lực Sau Cùng +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa vào loại sát thương của vũ khí:\n- Vũ Khí dạng Đâm gây +20% sát thương\n- Vũ Khí khác dạng Đâm gây -10% sát thương\n[WhenUse] Nhận +1 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3255,7 +3255,7 @@
         {
           "level": 1,
           "name": "Đặt Ngang Lưỡi Kiếm, Cắt Gọn Tựa Hơi Tàn",
-          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa vào loại sát thương của vũ khí:\n- Vũ Khí dạng Chém gây +20% sát thương\n- Vũ Khí khác dạng Chém gây -10% sát thương\n[WhenUse] Nhận +1 Tầng [Breath]",
+          "desc": "Uy Lực Sau Cùng +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa vào loại sát thương của vũ khí:\n- Vũ Khí dạng Chém gây +20% sát thương\n- Vũ Khí khác dạng Chém gây -10% sát thương\n[WhenUse] Nhận +1 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3281,7 +3281,7 @@
         {
           "level": 1,
           "name": "Vung Đánh Đốn Hạ, Dìm Xuống Đất Đen",
-          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đập gây +30% sát thương\n- Vũ Khí khác dạng Đập gây -15% sát thương\n[StartBattle] Nhận các hiệu ứng dưới đây (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, giảm 10 Stagger Threshold của người dùng\n[WhenUse] Nhận 2 [Breath]",
+          "desc": "Uy Lực Sau Cùng +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đập gây +30% sát thương\n- Vũ Khí khác dạng Đập gây -15% sát thương\n[StartBattle] Nhận các hiệu ứng dưới đây (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, giảm 10 Ngưỡng Choáng của người sử dụng\n[WhenUse] Nhận 2 [Breath]",
           "coinlist": [
             {},
             {
@@ -3311,7 +3311,7 @@
         {
           "level": 1,
           "name": "Nhắm Thẳng Yếu Điểm, Vang Vọng Tâm Can",
-          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đâm gây +30% sát thương\n- Vũ Khí khác dạng Đâm gây -15% sát thương\n[StartBattle] Nhận các hiệu ứng dưới đây (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, gắn 1 [ResultReduction] vào lượt tiếp theo\n[WhenUse] Nhận 2 [Breath]",
+          "desc": "Uy Lực Sau Cùng +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đâm gây +30% sát thương\n- Vũ Khí khác dạng Đâm gây -15% sát thương\n[StartBattle] Nhận các hiệu ứng dưới đây (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, gắn 1 [ResultReduction] vào lượt tiếp theo\n[WhenUse] Nhận 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3347,7 +3347,7 @@
         {
           "level": 1,
           "name": "Xẻ Vát Tầm Thấp, Bóc Tách Tàn Dư",
-          "desc": "Final Power +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Chém gây +30% sát thương\n- Vũ Khí khác dạng Chém gây -15% sát thương\n[StartBattle] Nhận các hiệu ứng dưới đây (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, Nhận 1 [ResultEnhancement] vào lượt tiếp theo\n[WhenUse] Nhận 2 [Breath]",
+          "desc": "Uy Lực Sau Cùng +1 cho mỗi bậc [UnlockBuff_Base] (Tối đa 2)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Chém gây +30% sát thương\n- Vũ Khí khác dạng Chém gây -15% sát thương\n[StartBattle] Nhận các hiệu ứng dưới đây (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, Nhận 1 [ResultEnhancement] vào lượt tiếp theo\n[WhenUse] Nhận 2 [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3383,7 +3383,7 @@
         {
           "level": 1,
           "name": "Hủy Diệt Thanh Âm, Nghiền Nát Suy Nghĩ",
-          "desc": "Có thể Đọ Sức với kỹ năng này bất kể Tốc Độ\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đập gây +50% sát thương\n- Vũ Khí khác dạng Đập gây -25% sát thương\n[StartBattle] Nhận các hiệu ứng sau (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu thứ 3 và 4 thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, tăng Stagger Threshold của mục tiêu thêm 15\n[WhenUse] Nhận 2 [Breath] và +2 Tầng [Breath]",
+          "desc": "Có thể Đọ Sức với kỹ năng này bất kể Tốc Độ\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đập gây +50% sát thương\n- Vũ Khí khác dạng Đập gây -25% sát thương\n[StartBattle] Nhận các hiệu ứng sau (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu thứ 3 và 4 thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, tăng Ngưỡng Choáng của mục tiêu thêm 15\n[WhenUse] Nhận 2 [Breath] và +2 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3423,7 +3423,7 @@
         {
           "level": 1,
           "name": "Đâm Thấu Tâm Tĩnh Mịch, Xuyên Phá Miền Ký Ức",
-          "desc": "Có thể Đọ Sức với kỹ năng này bất kể Tốc Độ\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đâm gây +50% sát thương\n- Vũ Khí khác dạng Đâm gây -25% sát thương\n[StartBattle] Nhận các hiệu ứng sau (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu thứ 3 và 4 thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, tăng Stagger Threshold của mục tiêu thêm 15\n[WhenUse] Nhận 2 [Breath] và +2 Tầng [Breath]",
+          "desc": "Có thể Đọ Sức với kỹ năng này bất kể Tốc Độ\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Đâm gây +50% sát thương\n- Vũ Khí khác dạng Đâm gây -25% sát thương\n[StartBattle] Nhận các hiệu ứng sau (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu thứ 3 và 4 thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, tăng Ngưỡng Choáng của mục tiêu thêm 15\n[WhenUse] Nhận 2 [Breath] và +2 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3463,7 +3463,7 @@
         {
           "level": 1,
           "name": "Tôi Rèn Bí Mật, Chém Bỏ Hình Hài",
-          "desc": "Có thể Đọ Sức với kỹ năng này bất kể Tốc Độ\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Chém gây +50% sát thương\n- Vũ Khí khác dạng Chém gây -25% sát thương\n[StartBattle] Nhận các hiệu ứng sau (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, +2 Final Power\n[WhenUse] Nhận 2 [Breath] và +2 Tầng [Breath]",
+          "desc": "Có thể Đọ Sức với kỹ năng này bất kể Tốc Độ\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí:\n- Vũ Khí dạng Chém gây +50% sát thương\n- Vũ Khí khác dạng Chém gây -25% sát thương\n[StartBattle] Nhận các hiệu ứng sau (các hiệu ứng có thể cộng dồn)\n- Ở Bậc [UnlockBuff_Rien2], biến đổi xu cuối cùng thành [SuperCoin]\n- Ở Bậc [UnlockBuff_Rien3], khi thắng đọ sức bằng kỹ năng này, Uy Lực Sau Cùng +2\n[WhenUse] Nhận 2 [Breath] và +2 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -3529,7 +3529,7 @@
         {
           "level": 1,
           "name": "Furioso-Replica",
-          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Kỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu</u></b></mark></color>\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ \n[WhenUse]\n- Nhận 3 [Breath] và +3 Tầng [Breath] \n- Clash Power +5 (<color=#ff6000><mark=#ff000040><b><u>Lượng Clash Power được tăng sẽ bị giảm đi 1 cho mỗi [KarmaOfIndexRien] trên bản thân, xuống đến 0</u></b></mark></color>)\n[WhenUse] Khi ở 0+ SP, tạo 1 Vọng\n- Gây +40% sát thương; Final Power +4\n\n[WinDuel]\n- Nhận 3 [Breath] và +3 Tầng [Breath]\n- Kết Đòn: Gắn 3 [Laceration], 1 [Binding], và 1 [Vulnerable] vào lượt tiếp theo cho tất cả mục tiêu bị trúng đòn\n[DefeatDuel]\n- Nhận 4 [AttackDmgDown] và 9 [Paralysis]\n- Sát thương gây ra bởi kỹ năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Nếu Kỹ Năng này tạo Vọng, mất 20 SP\n[EndSkill] Kết Thúc Lượt",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Kỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu</u></b></mark></color>\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ \n[WhenUse]\n- Nhận 3 [Breath] và +3 Tầng [Breath] \n- Uy Lực Đọ Sức +5 (<color=#ff6000><mark=#ff000040><b><u>Lượng Uy Lực Đọ Sức được tăng sẽ bị giảm đi 1 cho mỗi [KarmaOfIndexRien] trên bản thân, xuống đến 0</u></b></mark></color>)\n[WhenUse] Khi ở 0+ SP, tạo 1 Vọng\n- Gây +40% sát thương; Uy Lực Sau Cùng +4\n\n[WinDuel]\n- Nhận 3 [Breath] và +3 Tầng [Breath]\n- Kết Đòn: Gắn 3 [Laceration], 1 [Binding], và 1 [Vulnerable] vào lượt tiếp theo cho tất cả mục tiêu bị trúng đòn\n[DefeatDuel]\n- Nhận 4 [AttackDmgDown] và 9 [Paralysis]\n- Sát thương gây ra bởi kỹ năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Nếu Kỹ Năng này tạo Vọng, mất 20 SP\n[EndSkill] Kết Thúc Lượt",
           "coinlist": [
             {
               "coindescs": [
@@ -3648,7 +3648,7 @@
         {
           "level": 1,
           "name": "Vung Đánh Đốn Hạ, Dìm Xuống Đất Đen",
-          "desc": "Vũ Khí dạng Đập sẽ xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đập sẽ xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đập sẽ xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đập gây +40% sát thương\n- Vũ Khí không phải dạng Đập gây -20% sát thương\n[WhenUse] Nhận 2 [Breath] và +1 Tầng [Breath]\n[WinDuel] Giảm 15 Stagger Threshold của người dùng\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
+          "desc": "Vũ Khí dạng Đập sẽ xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đập sẽ xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đập sẽ xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đập gây +40% sát thương\n- Vũ Khí không phải dạng Đập gây -20% sát thương\n[WhenUse] Nhận 2 [Breath] và +1 Tầng [Breath]\n[WinDuel] Giảm 15 Ngưỡng Choáng của người sử dụng\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
           "coinlist": [
             {},
             {
@@ -3720,7 +3720,7 @@
         {
           "level": 1,
           "name": "Xẻ Vát Tầm Thấp, Bóc Tách Tàn Dư",
-          "desc": "Vũ Khí dạng Chém sẽ xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Chém sẽ xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Chém sẽ xuất hiện ít hơn nữa\nFinal Power +1 cho mỗi bậc [UnlockBuff_Base] (tối đa 3)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Chém gây +40% sát thương\n- Vũ Khí không phải dạng Chém gây -20% sát thương\n[WhenUse] Nhận 2 [Breath] và +1 Tầng [Breath]\n[WinDuel] Gắn 2 [ResultEnhancement] vào lượt tiếp theo\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
+          "desc": "Vũ Khí dạng Chém sẽ xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Chém sẽ xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Chém sẽ xuất hiện ít hơn nữa\nUy Lực Sau Cùng +1 cho mỗi bậc [UnlockBuff_Base] (tối đa 3)\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Chém gây +40% sát thương\n- Vũ Khí không phải dạng Chém gây -20% sát thương\n[WhenUse] Nhận 2 [Breath] và +1 Tầng [Breath]\n[WinDuel] Gắn 2 [ResultEnhancement] vào lượt tiếp theo\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
           "coinlist": [
             {
               "coindescs": [
@@ -3759,7 +3759,7 @@
         {
           "level": 1,
           "name": "Hủy Diệt Thanh Âm, Nghiền Nát Suy Nghĩ",
-          "desc": "Có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ\n Nếu đơn vị này có [BlackNightmare]:\n- Chuyển hóa toàn bộ xu thành [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>Khi Đọ Sức với Kỹ Năng không phải dạng Đập hoặc đơn vị không phải Ryōshū </u></b></mark></color>, Coin Power +2 và gây +50% sát thương\n- Khi Thua Đọ Sức với một Kỹ Năng dạng Đập hoặc Ryōshū:\n  - Coin Power -2 và gây -50% sát thương\n  - Sát thương gây ra bởi Kỹ Năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n\nVũ Khí dạng Đập xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đập xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đập xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đập gây +60% sát thương\n- Vũ Khí không phải dạng Đập gây -30% sát thương\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]\n[WinDuel] Tăng Stagger Threshold của mục tiêu thêm 25\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
+          "desc": "Có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ\n Nếu đơn vị này có [BlackNightmare]:\n- Chuyển hóa toàn bộ xu thành [SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>Khi Đọ Sức với Kỹ Năng không phải dạng Đập hoặc đơn vị không phải Ryōshū </u></b></mark></color>, Uy Lực Xu +2 và gây +50% sát thương\n- Khi Thua Đọ Sức với một Kỹ Năng dạng Đập hoặc Ryōshū:\n  - Uy Lực Xu -2 và gây -50% sát thương\n  - Sát thương gây ra bởi Kỹ Năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n\nVũ Khí dạng Đập xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đập xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đập xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đập gây +60% sát thương\n- Vũ Khí không phải dạng Đập gây -30% sát thương\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]\n[WinDuel] Tăng Ngưỡng Choáng của mục tiêu thêm 25\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
           "coinlist": [
             {
               "coindescs": [
@@ -3805,7 +3805,7 @@
         {
           "level": 1,
           "name": "Đâm Thấu Tâm Tĩnh Mịch, Xuyên Phá Miền Ký Ức",
-          "desc": "Có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ\n Nếu đơn vị này có [BlackNightmare]:\n- Chuyển hóa toàn bộ xu thành [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>Khi Đọ Sức với Kỹ Năng không phải dạng Đâm hoặc đơn vị không phải Ryōshū </u></b></mark></color>, Coin Power +2 và gây +50% sát thương\n- Khi Thua Đọ Sức với một Kỹ Năng dạng Đâm hoặc Ryōshū:\n  - Coin Power -2 và gây -50% sát thương\n  - Sát thương gây ra bởi Kỹ Năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n\nVũ Khí dạng Đâm xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đâm gây +60% sát thương\n- Vũ Khí không phải dạng Đâm gây -30% sát thương\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]\n[WinDuel] Nhận 2 [AttackDmgUp] vào lượt tiếp theo\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
+          "desc": "Có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ\n Nếu đơn vị này có [BlackNightmare]:\n- Chuyển hóa toàn bộ xu thành [SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>Khi Đọ Sức với Kỹ Năng không phải dạng Đâm hoặc đơn vị không phải Ryōshū </u></b></mark></color>, Uy Lực Xu +2 và gây +50% sát thương\n- Khi Thua Đọ Sức với một Kỹ Năng dạng Đâm hoặc Ryōshū:\n  - Uy Lực Xu -2 và gây -50% sát thương\n  - Sát thương gây ra bởi Kỹ Năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n\nVũ Khí dạng Đâm xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đâm gây +60% sát thương\n- Vũ Khí không phải dạng Đâm gây -30% sát thương\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]\n[WinDuel] Nhận 2 [AttackDmgUp] vào lượt tiếp theo\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
           "coinlist": [
             {
               "coindescs": [
@@ -3851,7 +3851,7 @@
         {
           "level": 1,
           "name": "Tôi Rèn Bí Mật, Chém Bỏ Hình Hài",
-          "desc": "Có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ\n Nếu đơn vị này có [BlackNightmare]:\n- Chuyển hóa toàn bộ xu thành [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>Khi Đọ Sức với Kỹ Năng không phải dạng Đâm hoặc đơn vị không phải Ryōshū </u></b></mark></color>, Coin Power +2 và gây +50% sát thương\n- Khi Thua Đọ Sức với một Kỹ Năng dạng Đâm hoặc Ryōshū:\n  - Coin Power -2 và gây -50% sát thương\n  - Sát thương gây ra bởi Kỹ Năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n\nVũ Khí dạng Đâm xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đâm gây +60% sát thương\n- Vũ Khí không phải dạng Đâm gây -30% sát thương\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]\n[WinDuel] Final Power +3\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
+          "desc": "Có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ\n Nếu đơn vị này có [BlackNightmare]:\n- Chuyển hóa toàn bộ xu thành [SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>Khi Đọ Sức với Kỹ Năng không phải dạng Đâm hoặc đơn vị không phải Ryōshū </u></b></mark></color>, Coin Power +2 và gây +50% sát thương\n- Khi Thua Đọ Sức với một Kỹ Năng dạng Đâm hoặc Ryōshū:\n  - Coin Power -2 và gây -50% sát thương\n  - Sát thương gây ra bởi Kỹ Năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n\nVũ Khí dạng Đâm xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đâm gây +60% sát thương\n- Vũ Khí không phải dạng Đâm gây -30% sát thương\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]\n[WinDuel] Final Power +3\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
           "coinlist": [
             {
               "coindescs": [

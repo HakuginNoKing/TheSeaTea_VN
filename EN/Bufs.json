@@ -4,7 +4,7 @@
       "id": "Enhancement",
       "name": "Gia Tăng Uy Lực",
       "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng Tấn Công +{0}.",
-      "summary": "ATK Skill Final Power +{0}",
+      "summary": "Uy Lực Sau Cùng KN Tấn Công +{0}",
       "undefined": "-"
     },
     {
@@ -18,7 +18,7 @@
       "id": "Endurance",
       "name": "Gia Tăng Phòng Thủ",
       "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng Phòng Thủ +{0}.",
-      "summary": "Uy Lực Sau Cùng Kỹ Năng Phòng Thủ +{0}",
+      "summary": "Uy Lực Sau Cùng KN Phòng Thủ +{0}",
       "undefined": "-"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "id": "Vulnerable",
-      "name": "Mong Manh",
+      "name": "Suy Yếu",
       "desc": "Trong lượt này, nhận thêm {0}0% sát thương (Tối đa 100%)",
       "summary": "+{0}0% Sát Thương Nhận Vào",
       "undefined": "-"
@@ -155,12 +155,12 @@
       "id": "ResultReduction",
       "name": "Giảm Uy Lực",
       "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng -{0}.",
-      "summary": "Uy Lực Sau Cùng Kỹ Năng -{0}"
+      "summary": "Uy Lực Sau Cùng KN -{0}"
     },
     {
       "id": "AttackDmgDown",
       "name": "Giảm Sát Thương",
-      "desc": "Trong lượt này, Sát Thương Kỹ Năng -{0}0%. (Max 100%)",
+      "desc": "Trong lượt này, Sát Thương KN -{0}0%. (Max 100%)",
       "summary": "-{0}0% Sát Thương Gây Ra"
     },
     {
