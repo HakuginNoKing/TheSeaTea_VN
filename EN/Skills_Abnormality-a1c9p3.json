@@ -3851,7 +3851,7 @@
         {
           "level": 1,
           "name": "Tôi Rèn Bí Mật, Chém Bỏ Hình Hài",
-          "desc": "Có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ\n Nếu đơn vị này có [BlackNightmare]:\n- Chuyển hóa toàn bộ xu thành [SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>Khi Đọ Sức với Kỹ Năng không phải dạng Đâm hoặc đơn vị không phải Ryōshū </u></b></mark></color>, Coin Power +2 và gây +50% sát thương\n- Khi Thua Đọ Sức với một Kỹ Năng dạng Đâm hoặc Ryōshū:\n  - Coin Power -2 và gây -50% sát thương\n  - Sát thương gây ra bởi Kỹ Năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n\nVũ Khí dạng Đâm xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đâm gây +60% sát thương\n- Vũ Khí không phải dạng Đâm gây -30% sát thương\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]\n[WinDuel] Final Power +3\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
+          "desc": "Có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ\n Nếu đơn vị này có [BlackNightmare]:\n- Chuyển hóa toàn bộ xu thành [SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>Khi Đọ Sức với Kỹ Năng không phải dạng Đâm hoặc đơn vị không phải Ryōshū </u></b></mark></color>, Uy Lực Xu +2 và gây +50% sát thương\n- Khi Thua Đọ Sức với một Kỹ Năng dạng Đâm hoặc Ryōshū:\n  - Uy Lực Xu -2 và gây -50% sát thương\n  - Sát thương gây ra bởi Kỹ Năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n\nVũ Khí dạng Đâm xuất hiện nhiều hơn\n- Ở mốc 75+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], Vũ Khí dạng Đâm xuất hiện ít hơn nữa\nCác hiệu ứng sau sẽ kích hoạt dựa trên loại sát thương của vũ khí\n- Vũ Khí dạng Đâm gây +60% sát thương\n- Vũ Khí không phải dạng Đâm gây -30% sát thương\n[WhenUse] Nhận 3 [Breath] và +2 Tầng [Breath]\n[WinDuel] Uy Lực Sau Cùng +3\n- Ở mốc 150+ [KarmaOfIndexRien_2Phase], hiệu ứng này sẽ không kích hoạt",
           "coinlist": [
             {
               "coindescs": [
@@ -3873,7 +3873,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Sinking]"
                 }
               ]
             },
@@ -3883,7 +3883,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +2 Tầng [Sinking]"
                 }
               ]
             }
@@ -3897,7 +3897,7 @@
         {
           "level": 1,
           "name": "Nhớ Chứ, Con Yêu? Chỉ Có Con Mới Đọ Sức Được Với Chiêu Này.",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>Chỉ có Ryōshū mới có thể Đọ Sức với Kỹ Năng này</u></b></mark></color>\n- Ryōshū có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ\nKhi Tấn Công Một Chiều, Coin Power +2 và gây +50% sát thương\n\n[DefeatDuel]\n- Coin Power -2 và gây -50% sát thương\n- Sát thương gây ra bởi Kỹ Năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n\n[EndBattle] <color=#ff6000><mark=#ff000040><b><u>Nếu đơn vị này Đọ Sức thua, nhận 1 [BurningWoundRien]</u></b></mark></color>\n- Nếu tất cả 3 Kỹ Năng có hiệu ứng đặc biệt liên quan đến [BlackNightmare] đều Đọ Sức thua trong lượt này, thay vào đó nhận 2 [BurningWoundRien]",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Chỉ có Ryōshū mới có thể Đọ Sức với Kỹ Năng này</u></b></mark></color>\n- Ryōshū có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ\nKhi Tấn Công Một Chiều, Uy Lực Xu +2 và gây +50% sát thương\n\n[DefeatDuel]\n- Uy Lực Xu -2 và gây -50% sát thương\n- Sát thương gây ra bởi Kỹ Năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n\n[EndBattle] <color=#ff6000><mark=#ff000040><b><u>Nếu đơn vị này Đọ Sức thua, nhận 1 [BurningWoundRien]</u></b></mark></color>\n- Nếu tất cả 3 Kỹ Năng có hiệu ứng đặc biệt liên quan đến [BlackNightmare] đều Đọ Sức thua trong lượt này, thay vào đó nhận 2 [BurningWoundRien]",
           "coinlist": [
             {
               "coindescs": [
@@ -3939,7 +3939,7 @@
         {
           "level": 1,
           "name": "Furioso [Crescendo]",
-          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Kỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu</u></b></mark></color>\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ \n[WhenUse]\n- Nhận 6 [Breath] và +6 Tầng [Breath] \n- Clash Power +10 (<color=#ff6000><mark=#ff000040><b><u>Lượng Clash Power được tăng sẽ bị giảm đi 1 cho mỗi 20 [KarmaOfIndexRien] trên bản thân, xuống đến 0</u></b></mark></color>)\n[WhenUse] Khi ở 0+ SP, tạo 2 Vọng\n- Gây +70% sát thương; Final Power +6\n\n[WinDuel]\n- Kết Đòn: Gắn 4 [Laceration], 2 [Binding], và 2 [Vulnerable] vào lượt tiếp theo cho tất cả mục tiêu bị trúng đòn\n[DefeatDuel]\n- Nhận 6 [AttackDmgDown] và 9 [Paralysis]\n- Sát thương gây ra bởi kỹ năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Nếu Kỹ Năng này tạo Vọng, mất 25 SP\n[EndSkill] Kết thúc lượt",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Kỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu</u></b></mark></color>\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ \n[WhenUse]\n- Nhận 6 [Breath] và +6 Tầng [Breath] \n- Uy Lực Xu +10 (<color=#ff6000><mark=#ff000040><b><u>Lượng Uy Lực Xu được tăng sẽ bị giảm đi 1 cho mỗi 20 [KarmaOfIndexRien] trên bản thân, xuống đến 0</u></b></mark></color>)\n[WhenUse] Khi ở 0+ SP, tạo 2 Vọng\n- Gây +70% sát thương; Uy Lực Sau Cùng +6\n\n[WinDuel]\n- Kết Đòn: Gắn 4 [Laceration], 2 [Binding], và 2 [Vulnerable] vào lượt tiếp theo cho tất cả mục tiêu bị trúng đòn\n[DefeatDuel]\n- Nhận 6 [AttackDmgDown] và 9 [Paralysis]\n- Sát thương gây ra bởi kỹ năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Nếu Kỹ Năng này tạo Vọng, mất 25 SP\n[EndSkill] Kết thúc lượt",
           "coinlist": [
             {
               "coindescs": [
@@ -3971,7 +3971,7 @@
         {
           "level": 1,
           "name": "Furioso [Lacrimosa-Crescendo]",
-          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Kỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu</u></b></mark></color>\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ \n<color=#ff6000><mark=#ff000040><b><u>- Khi Đọ Sức với E.G.O Cơ Bản của Ryōshū, Clash Power -20</u></b></mark></color>\n\n[WhenUse]\n- Nhận 9 [Breath] và +9 Tầng [Breath] \n- Clash Power +15 (Lượng Clash Power được tăng sẽ bị giảm đi 1 cho mỗi 20 [KarmaOfIndexRien_2Phase] trên bản thân)\n[WhenUse] Khi ở 0+ SP, tạo 3 Vọng\n- Gây +100% sát thương; Final Power +12\n\n[WinDuel]\n- Kết Đòn: Gắn 5 [Laceration], 3 [Binding], và 3 [Vulnerable] vào lượt tiếp theo cho tất cả mục tiêu bị trúng đòn\n[DefeatDuel]\n- Nhận 8 [AttackDmgDown] và 9 [Paralysis]\n- Sát thương gây ra bởi kỹ năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Nếu Kỹ Năng này tạo Vọng, mất 30 SP\n[EndSkill] Kết thúc lượt",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Kỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu</u></b></mark></color>\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ \n<color=#ff6000><mark=#ff000040><b><u>- Khi Đọ Sức với E.G.O Cơ Bản của Ryōshū, Uy Lực Đọ Sức -20</u></b></mark></color>\n\n[WhenUse]\n- Nhận 9 [Breath] và +9 Tầng [Breath] \n- Uy Lực Đọ Sức +15 (Lượng Uy Lực Đọ Sức được tăng sẽ bị giảm đi 1 cho mỗi 20 [KarmaOfIndexRien_2Phase] trên bản thân)\n[WhenUse] Khi ở 0+ SP, tạo 3 Vọng\n- Gây +100% sát thương; Uy Lực Sau Cùng +12\n\n[WinDuel]\n- Kết Đòn: Gắn 5 [Laceration], 3 [Binding], và 3 [Vulnerable] vào lượt tiếp theo cho tất cả mục tiêu bị trúng đòn\n[DefeatDuel]\n- Nhận 8 [AttackDmgDown] và 9 [Paralysis]\n- Sát thương gây ra bởi kỹ năng này không thể gây Choáng cho mục tiêu; Khi tung đòn sẽ không kích hoạt [Sinking] trên mục tiêu\n[EndSkill] Nếu Kỹ Năng này tạo Vọng, mất 30 SP\n[EndSkill] Kết thúc lượt",
           "coinlist": [
             {
               "coindescs": [
