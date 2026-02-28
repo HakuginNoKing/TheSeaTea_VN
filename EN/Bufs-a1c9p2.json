@@ -3,14 +3,14 @@
     {
       "id": "IndexPrescriptTargetToPersonality",
       "name": "Mục Tiêu Sắc Lệnh - Ngón Trỏ",
-      "desc": "Skill Power -2 against and take +20% damage from The Index enemies",
+      "desc": "Uy Lực Kỹ Năng -2 và +20% sát thương nhận phải từ các kẻ địch thuộc Ngón Trỏ",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BlessingOfIndexPrescriptEnemy",
-      "name": "Ý Chỉ Sắc Lệnh",
-      "desc": "- Offense Level +1 for every 3 Stack\n- Max Stack: 9",
+      "name": "Ân Điển của Sắc Lệnh",
+      "desc": "- Cấp Tấn Công +1 với mỗi 3 Ân Điển của Sắc Lệnh\n- Số Ân Điển tối đa: 9",
       "summary": "",
       "undefined": "-"
     },
