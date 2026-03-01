@@ -548,22 +548,22 @@
     {
       "id": "9SV-BAT8-BR4-1",
       "desc": "엄지 아비 4스킬",
-      "dlg": "Fuck off!"
+      "dlg": "Cút!"
     },
     {
       "id": "9SV-BAT8-BR4-2",
       "desc": "엄지 아비 4스킬",
-      "dlg": "Feeling confident today? Then parry this, asshole."
+      "dlg": "Nay tự tin gớm nhỉ? Thế đỡ cái này đi, thằng lồn."
     },
     {
       "id": "9SV-BAT8-BR4-4",
       "desc": "엄지 아비 4스킬",
-      "dlg": "Match my hatred."
+      "dlg": "Nếm mùi hận thù của tao đi."
     },
     {
       "id": "9SV-BAT8-BR5-2-01",
       "desc": "엄지 아비 5스킬",
-      "dlg": "Distraction'll bury you six-feet under!"
+      "dlg": "Lơ là một giây là tao tiễn mày xuống lỗ!"
     },
     {
       "id": "9SV-BAT8-06-1",
@@ -573,102 +573,102 @@
     {
       "id": "9SV-BAT8-06-3",
       "desc": "엄지 아비 6스킬",
-      "dlg": "And the hunt comes to a close!"
+      "dlg": "Và thế là cuộc săn khép lại!"
     },
     {
       "id": "9SV-BAT8-06-4-01",
       "desc": "엄지 아비 6스킬",
-      "dlg": "I'll make mincemeat out of you all!"
+      "dlg": "Tao sẽ băm vằm tất cả tụi mày ra thành trăm mảnh!"
     },
     {
       "id": "9SV-BAT8-07-1",
       "desc": "엄지 아비 7스킬",
-      "dlg": "Yeah, I hate you all! The damn Famiglia, you, and Ticket, too!"
+      "dlg": "Ừ, tao ghét chúng mày! Cái Famiglia củ lồn, bọn mày, và cả Ticket nữa!"
     },
     {
       "id": "9SV-BAT8-07-2",
       "desc": "7스킬2",
-      "dlg": "I'm sick and tired of Ticket and her meddling fools—to hell with you all!"
+      "dlg": "Tao mệt mỏi và chán ngán Ticket cùng lũ ngáng đường phiền phức bọn mày rồi—cút hết xuống địa ngục đi!"
     },
     {
       "id": "9SV-BAT8-08",
       "desc": "회피 스킬로 회피 성공 시 공통",
-      "dlg": "What, having a hard time landing a hit?"
+      "dlg": "Sao, đánh trúng tao khó lắm à?"
     },
     {
       "id": "9SV-BAT8-09",
       "desc": "회피 스킬로 회피 성공 시 상대가 인격일 경우1",
-      "dlg": "Back in my day, you wouldn't even have dared to look me in the eye."
+      "dlg": "Ở cái thời hoàng kim của tao, khéo mày còn đéo dám nhìn thẳng vào mắt tao đâu."
     },
     {
       "id": "9SV-BAT8-09-01",
       "desc": "회피 스킬로 회피 성공 시 상대가 인격일 경우2",
-      "dlg": "You won't even manage to brush my coattails at this rate."
+      "dlg": "Với cái đà này thì mày còn đéo chạm được vào vạt áo của tao đâu."
     },
     {
       "id": "9SV-BAT8-10",
       "desc": "회피 스킬로 회피 성공 시 상대가 베르길리우스일 경우1",
-      "dlg": "What'd I say? I can handle you as long as I've got this eye."
+      "dlg": "Tao đã nói gì nào? Chỉ cần có con mắt này, tao dư sức xử đẹp mày."
     },
     {
       "id": "9SV-BAT8-10-01",
       "desc": "회피 스킬로 회피 성공 시 상대가 베르길리우스일 경우2",
-      "dlg": "I'm reading you like an open book."
+      "dlg": "Tao đọc não mày như một cuốn sách đấy con."
     },
     {
       "id": "9SV-BAT8-11-1",
       "desc": "회피 스킬로 실패시",
-      "dlg": "What the hell—"
+      "dlg": "Cái đéo gì—"
     },
     {
       "id": "9SV-BAT8-11-2",
       "desc": "회피 스킬로 실패시",
-      "dlg": "Shit!"
+      "dlg": "Địt!"
     },
     {
       "id": "9SV-BAT8-11-2-01",
       "desc": "회피 스킬로 실패시",
-      "dlg": "Shit!"
+      "dlg": "Địt!"
     },
     {
       "id": "9SV-BAT8-11-2-02",
       "desc": "회피 스킬로 실패시",
-      "dlg": "Shit!"
+      "dlg": "Địt!"
     },
     {
       "id": "9SV-BAT8-11-2-03",
       "desc": "회피 스킬로 실패시",
-      "dlg": "Shit!"
+      "dlg": "Địt!"
     },
     {
       "id": "9SV-BAT8-12",
       "desc": "엄지 아비 과부하된 예지안(버프)이 있을 때, 턴 시작 시",
-      "dlg": "... Tsk. Overheated already?"
+      "dlg": "... Tsk. Quá nhiệt rồi sao?"
     },
     {
       "id": "9SV-BAT8-12-01",
       "desc": "엄지 아비 과부하된 예지안(버프)이 있을 때, 턴 시작 시",
-      "dlg": "Shit... Not again!"
+      "dlg": "Địt mẹ... Lại thế nữa!"
     },
     {
       "id": "9SV-BAT8-13",
       "desc": "엄지 아비 베르길리우스와 엄지 아비가 맵에 등장한 후",
-      "dlg": "Lucio! Are you about done cleaning up the fodder— Hah, figured as much. Idiot."
+      "dlg": "Lucio! Mày dọn xong đám rẻ rách này chưa— Hah, biết ngay mà. Thằng ngu."
     },
     {
       "id": "9SV-BAT8-14-1",
       "desc": "엄지 아비 신을 얻은 턴 시작시",
-      "dlg": "I'll be damned before I let you ruin this! Not after toiling like a goddamn dog for decades, climbing up the ranks...!"
+      "dlg": "Tao thà chết còn hơn để tụi mày phá hỏng chuyện này! Đéo phải sau khi tao đã cày cuốc như một con chó rách suốt hàng thập kỷ để leo lên vị trí đó...!"
     },
     {
       "id": "9SV-BAT8-14-2",
       "desc": "흐트러짐 해제하고, 다음 턴 시작 시",
-      "dlg": "Fuck you! I am Valencina della Famiglia Bognatelli...! I refuse to rot in this fucking dump!"
+      "dlg": "Địt mẹ chúng mày! Tao là Valencina della Famiglia Bognatelli...! Tao từ chối mục nát ở cái bãi rác củ cặc này"
     },
     {
       "id": "9SV-BAT8-15",
       "desc": "엄지 아비 2페이즈에서 엄지 제자가 전투 불능 되고 혼자서 전투 할 때",
-      "dlg": "Fall back, Lucio, you're getting in the way! Listen, you don't get to die until you're done teaching Ticket everything she forgot, capisce?"
+      "dlg": "Cút ra sau Lucio, mày ngáng đường quá! Nghe đây, mày đéo có quyền được chết khi mà chưa dạy xong Ticket những gì con bé đã quên, capisce (hiểu chưa)?"
     },
     {
       "id": "9SV-BAT9-01",

@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "OnSucceedAttack",
-      "name": "[Tung Đòn]"
+      "name": "[Đánh Trúng]"
     },
     {
       "id": "WhenUse",
@@ -86,11 +86,11 @@
     },
     {
       "id": "OnSucceedAttackHead",
-      "name": "[Tung Đòn - Xu Ngửa]"
+      "name": "[Đánh Trúng - Xu Ngửa]"
     },
     {
       "id": "OnSucceedAttackTail",
-      "name": "[Tung Đòn - Xu Úp]"
+      "name": "[Đánh Trúng - Xu Úp]"
     },
     {
       "id": "OnSucceedEvade",
@@ -118,7 +118,7 @@
     },
     {
       "id": "ReUseOnSucceedAttackHead",
-      "name": "[Tái Sử Dụng - Tung Đòn Xu Ngửa]"
+      "name": "[Tái Sử Dụng - Đánh Trúng Xu Ngửa]"
     },
     {
       "id": "CriticalOnSucceedAttack",
@@ -146,11 +146,11 @@
     },
     {
       "id": "WinDuelAttackHead",
-      "name": "[Đọ Sức Thành Công - Tung Đòn Xu Ngửa]"
+      "name": "[Đọ Sức Thành Công - Đánh Trúng Xu Ngửa]"
     },
     {
       "id": "WinDuelAttack",
-      "name": "[Đọ Sức Thành Công - Tung Đòn]"
+      "name": "[Đọ Sức Thành Công - Đánh Trúng]"
     },
     {
       "id": "CriticalActivated",
@@ -222,7 +222,7 @@
     },
     {
       "id": "DefeatDuelAttack",
-      "name": "[Đọ Sức Thất Bại - Tung Đòn]"
+      "name": "[Đọ Sức Thất Bại - Đánh Trúng]"
     },
     {
       "id": "TargetKillFail",
@@ -242,7 +242,7 @@
     },
     {
       "id": "UnBrokenCoinOnSucceedAttack",
-      "name": "[Tung Đòn - Không Nứt]"
+      "name": "[Đánh Trúng - Không Nứt]"
     },
     {
       "id": "BeforeHit",
@@ -254,7 +254,7 @@
     },
     {
       "id": "ReUseOnSucceedAttack",
-      "name": "[Tái Sử Dụng - Tung Đòn]"
+      "name": "[Tái Sử Dụng - Đánh Trúng]"
     },
     {
       "id": "CriticalOnSucceedAttackHead",

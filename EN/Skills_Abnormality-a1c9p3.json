@@ -6,28 +6,28 @@
         {
           "level": 1,
           "name": "Colpi di Taglio",
-          "desc": "At 6+ [Breath], Coin Power +1\nIf target has 6+ [Vibration], Clash Power +1",
+          "desc": "Ở mốc 6+ [Breath], Uy Lực Xu +1\nNếu mục tiêu có 6+ [Vibration], Uy Lực Đọ Sức +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion] and +2 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration] and +2 Tầng [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Wrath damage equal to [Combustion] on target"
+                  "desc": "[OnSucceedAttack] Gây sát thương Phẫn Nộ bằng số [Combustion] trên mục tiêu"
                 }
               ]
             }
@@ -41,31 +41,31 @@
         {
           "level": 1,
           "name": "Colpo di Punta",
-          "desc": "At 6+ [Breath], Coin Power +1\n[WhenUse] Base Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "Ở mốc 6+ [Breath], Uy Lực Xu +1\n[WhenUse] Uy Lực Cơ Bản +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)\n[WhenUse] Nhận +2 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend [AccelBullet]"
+                  "desc": "Tiêu hao [AccelBullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion] và +2 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration] và +2 Tầng [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend [AccelBullet]"
+                  "desc": "Tiêu hao [AccelBullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion] và +2 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration] và +2 Tầng [Vibration]"
                 }
               ]
             }
@@ -79,28 +79,28 @@
         {
           "level": 1,
           "name": "Sezionatura di Coniglio",
-          "desc": "At 6+ [Breath], Coin Power +1\n[WhenUse] Base Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)",
+          "desc": "Ở mốc 6+ [Breath], Uy Lực Xu +1\n[WhenUse] Uy Lực Cơ Bản +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +3 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Combustion] và +3 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Vibration] và +3 Tầng [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationIgnition]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Wrath damage equal to [Combustion] on target"
+                  "desc": "[OnSucceedAttack] Gây sát thương Phẫn Nộ bằng số [Combustion] trên mục tiêu"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] trên mục tiêu"
                 }
               ]
             }
@@ -114,35 +114,35 @@
         {
           "level": 1,
           "name": "Sezionatura di Cervo",
-          "desc": "At 6+ [Breath], Coin Power +1\nCoin Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)\n[WhenUse] At 0+ SP, generate 1 Mang (望)\n- Base Power +4\n[WhenUse] Gain +3 [Breath] Count\n[WinDuel] Gain 5 [Breath]\n[EndSkill] If this Skill generated Mang, lose 10 SP",
+          "desc": "Ở mốc 6+ [Breath], Uy Lực Xu +1\nUy Lực Xu +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)\n[WhenUse] Ở mốc 0+ SP, tạo 1 Vọng (望)\n- Uy Lực Cơ Bản +4\n[WhenUse] Nhận +3 Tầng [Breath]\n[WinDuel] Nhận 5 [Breath]\n[EndSkill] Nếu Kĩ năng này tạo ra Vọng, mất 10 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Vibration] và +3 Tầng [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[OnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationIgnition]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion] hai lần; sau đó, giảm 2 Tầng [Vibration] trên mục tiêu"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] trên mục tiêu"
                 }
               ]
             }
@@ -155,45 +155,45 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Gladly Blast a Hole Through You",
-          "desc": "At 6+ [Breath], Coin Power +1\nCoin Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)\n[WhenUse] Gain +3 [Breath] Count",
+          "name": "Tao Rất Hân Hạnh Chọc Nổ Một Lỗ Trên Người Mày",
+          "desc": "Ở mốc 6+ [Breath], Uy Lực Xu +1\nUy Lực Xu +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)\n[WhenUse] Nhận +3 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend [AccelBullet]"
+                  "desc": "Tiêu hao [AccelBullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion] và +2 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration] và +2 Tầng [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend [AccelBullet]"
+                  "desc": "Tiêu hao [AccelBullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion] và +2 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration] và +2 Tầng [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Wrath damage equal to [Combustion] on target"
+                  "desc": "[OnSucceedAttack] Gây sát thương Phẫn Nộ bằng số [Combustion] trên mục tiêu"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] trên mục tiêu"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] trên mục tiêu"
                 }
               ]
             }
@@ -207,7 +207,7 @@
         {
           "level": 1,
           "name": "Sezionatura di Elefante",
-          "desc": "At 6+ [Breath], Coin Power +1\nCoin Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)\n[WhenUse] Gain +3 [Breath] Count\n[DefeatDuel] Deal -50% final damage and does not hit Critically.\nDamage dealt by this Skill cannot Stagger the target",
+          "desc": "Ở mốc 6+ [Breath], Uy Lực Xu +1\nUy Lực Xu +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)\n[WhenUse] Nhận +3 Tầng [Breath]\n[DefeatDuel] Đòn đánh -50% sát thương sau cùng và không thể gây Bạo Kích..\nSát thương gây ra bởi Kĩ năng này không thể Làm Choáng mục tiêu.",
           "coinlist": [
             {
               "coindescs": [
@@ -215,13 +215,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend [AccelBullet]"
+                  "desc": "Tiêu hao [AccelBullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 4 [Vibration]"
                 }
               ]
             },
@@ -231,13 +231,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend [AccelBullet]"
+                  "desc": "Tiêu hao [AccelBullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn +4 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +4 Tầng [Vibration]"
                 }
               ]
             },
@@ -247,10 +247,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend [AccelBullet]"
+                  "desc": "Tiêu hao [AccelBullet]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationIgnition]"
                 }
               ]
             },
@@ -260,13 +260,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict Wrath damage equal to [Combustion] on target"
+                  "desc": "[OnSucceedAttack] Gây sát thương Phẫn Nộ bằng số [Combustion] trên mục tiêu"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] trên mục tiêu"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] trên mục tiêu"
                 }
               ]
             }
@@ -279,8 +279,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Disposal",
-          "desc": "[CantChangeTarget]\nCannot be Staggered before using this Skill\n<color=#ff6000><mark color=#ff000040><b><u>Base Power +1 and deal +10% damage for every [FutureEyeOn] Stack</color></mark></b></u>\n[WhenUse] If target has 50% or less HP, deal +100% damage\n[WhenUse] At 0+ SP, generate 1 Mang (望)\n- Base Power +4\n[WhenUse] Gain +3 [Breath] Count\n[WinDuel] Gain 5 [Breath]\n[DefeatDuel] Deal -50% final damage and does not hit Critically.\nDamage dealt by this Skill cannot Stagger the target\n[EnemyKill] Inflict [TeachersPrey] against a random Sinner next turn\n[EndSkill] [FullReload] (once per turn)\n[EndSkill] If this Skill generated Mang, lose 10 SP",
+          "name": "Thủ Tiêu",
+          "desc": "[CantChangeTarget]\nKhông thể Bị Choáng trước khi sử dụng Kĩ năng này.\n<color=#ff6000><mark color=#ff000040><b><u>Uy Lực Cơ Bản +1 và gây +10% sát thương với mỗi [FutureEyeOn]</color></mark></b></u>\n[WhenUse] Nếu mục tiêu ở mốc 50% HP hoặc ít hơn, gây +100% sát thương\n[WhenUse] Ở mốc 0+ SP, tạo 1 Vọng (望)\n- Uy Lực Cơ Bản +4\n[WhenUse] Nhận +3 [Breath] Count\n[WinDuel] Nhận 5 [Breath]\n[DefeatDuel] Đòn đánh -50% sát thương sau cùng và không thể gây Bạo Kích.\nSát thương gây ra bởi Kĩ năng này không thể Làm Choáng mục tiêu.\n[EnemyKill] Gắn [TeachersPrey] lên một Tội Nhân ngẫu nhiên ở lượt sau\n[EndSkill] [FullReload] (một lần mỗi lượt)\n[EndSkill] Nếu Kĩ năng này tạo ra Vọng, mất 10 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -288,10 +288,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Vibration]"
                 }
               ]
             },
@@ -301,10 +301,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Vibration]"
                 }
               ]
             },
@@ -314,10 +314,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +6 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn +6 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +6 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +6 Tầng [Vibration]"
                 }
               ]
             },
@@ -327,7 +327,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [Switch_Vibration] thành [VibrationIgnition]"
                 }
               ]
             },
@@ -337,13 +337,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend all [AccelBullet]"
+                  "desc": "Tiêu hao toàn bộ [AccelBullet]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 3 times; then, reduce target's [Vibration] Count by 3"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [VibrationExplosion] 3 lần; sau đó, giảm 3 Tầng [Vibration] trên mục tiêu"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[CriticalOnSucceedAttack] Kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] trên mục tiêu"
                 }
               ]
             }
@@ -356,8 +356,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Precognition",
-          "desc": "Upon successfully evading all Coins on a Skill, use \"Sezionatura di Coniglio\" as an Unopposed Attack against the attacker\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Base Power +1 for every 2 [FutureEyeOn] Stack</u></b></mark></color>\n[WhenUse] [FullReload] (once per turn)\n[OnSucceedEvade] Gain 3 [Breath] (2 times per turn)\n[OnSucceedEvade] Heal 2 SP (5 times per turn)\n[OnDefeatEvade] Lose 5 SP",
+          "name": "Thấu Thị",
+          "desc": "Nếu thành công né tất cả Xu đến từ một Kĩ năng, sử dụng \"Sezionatura di Coniglio\" như một đòn Tấn Công Một Chiều lên kẻ tấn công\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Uy Lực Cơ Bản +1 với mỗi 2 [FutureEyeOn]</u></b></mark></color>\n[WhenUse] [FullReload] (một lần mỗi lượt)\n[OnSucceedEvade] Nhận 3 [Breath] (2 lần mỗi lượt)\n[OnSucceedEvade] Hồi 2 SP (5 lần mỗi lượt)\n[OnDefeatEvade] Mất 5 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -428,10 +428,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 4 [Laceration]"
                 }
               ]
             },
