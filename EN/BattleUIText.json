@@ -554,11 +554,11 @@
     },
     {
       "id": "vibration_explosion",
-      "content": "Tremor Burst!"
+      "content": "Bộc Phát Chấn Động!"
     },
     {
       "id": "sinking_surge",
-      "content": "Sinking Deluge!"
+      "content": "Nhấn Chìm Cảm Xúc!"
     },
     {
       "id": "targetSlotWeight",
@@ -578,11 +578,11 @@
     },
     {
       "id": "ab_part_destroyable",
-      "content": "Destructible"
+      "content": "Có Thể Phá Hủy"
     },
     {
       "id": "ab_part_destroyable_and_can_vanish",
-      "content": "Destr. & Severable"
+      "content": "Có Thể Phá Hủy & Chém Rụng"
     },
     {
       "id": "ab_guidebook_view",
@@ -690,7 +690,7 @@
     },
     {
       "id": "current_hp",
-      "content": "Current HP"
+      "content": "HP Hiện Tại"
     },
     {
       "id": "break_section_format",
@@ -746,11 +746,11 @@
     },
     {
       "id": "Retreat_TextAlarm",
-      "content": "!Retreat!"
+      "content": "!Rút Lui!"
     },
     {
       "id": "Retreat_TextPassive",
-      "content": "Retreating"
+      "content": "Tiến Hành Rút Lui"
     },
     {
       "id": "battle_operation_defense",
@@ -794,7 +794,7 @@
     },
     {
       "id": "LocalSetButtonTitle_ImportanceLevel",
-      "content": "Hints"
+      "content": "Gợi Ý"
     },
     {
       "id": "Retreat_Command_TextAlarm",
@@ -802,15 +802,15 @@
     },
     {
       "id": "Retreat_Quit_TextAlarm",
-      "content": "!Escape Battlefield!"
+      "content": "!Rời Khỏi Trận Chiến!"
     },
     {
       "id": "ab_part_gadget_activated",
-      "content": "On"
+      "content": "Bật"
     },
     {
       "id": "ab_part_gadget_deactivated",
-      "content": "Off"
+      "content": "Tắt"
     },
     {
       "id": "UpperSkillInfo_Player_ImportanceLevel_1_Desc",
@@ -842,15 +842,15 @@
     },
     {
       "id": "EgoGiftListPopupTabType_EXCLUDE_CANDIDATE",
-      "content": "Always Active"
+      "content": "Luôn Kích Hoạt"
     },
     {
       "id": "EgoGiftListPopupTabType_active",
-      "content": "Activated"
+      "content": "Đã Kích Hoạt"
     },
     {
       "id": "UnitInformation_emptySkillList",
-      "content": "No Skills in this category."
+      "content": "Không Có Kỹ Năng Trong Danh Mục Này."
     },
     {
       "id": "retire_forBattlePortraitStateText",
