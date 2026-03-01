@@ -50,16 +50,16 @@
     },
     {
       "id": "ParryingResultDown",
-      "name": "Clash Power Down",
-      "desc": "In a Clash, lose Clash Power equal to the value",
-      "summary": "",
+      "name": "Giảm Uy Lực Đọ Sức",
+      "desc": "Trong một cuộc Đọ Sức, giảm Uy Lực Đọ Sức bằng giá trị",
+      "summary": "Trong cuộc Đọ Sức, giảm Uy Lực Đọ Sức bằng giá trị",
       "undefined": "-"
     },
     {
       "id": "ParryingResultUp",
       "name": "Tăng Uy Lực Đọ Sức",
-      "desc": "Trong một Đọ Sức, nhận Uy Lực Đọ Sức bằng giá trị",
-      "summary": "In a Clash, gain Clash Power equal to the value",
+      "desc": "Trong một cuộc Đọ Sức, nhận Uy Lực Đọ Sức bằng giá trị",
+      "summary": "Trong cuộc Đọ Sức, nhận Uy Lực Đọ Sức bằng giá trị",
       "undefined": "-"
     },
     {
