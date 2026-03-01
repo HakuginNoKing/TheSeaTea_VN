@@ -58,7 +58,7 @@
     {
       "id": "ParryingResultUp",
       "name": "Tăng Uy Lực Đọ Sức",
-      "desc": "Trong một cuộc cuộc Đọ Sức, nhận Uy Lực Đọ Sức bằng giá trị",
+      "desc": "Trong một cuộc Đọ Sức, nhận Uy Lực Đọ Sức bằng giá trị",
       "summary": "Trong cuộc Đọ Sức, nhận Uy Lực Đọ Sức bằng giá trị",
       "undefined": "-"
     },
