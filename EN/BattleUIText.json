@@ -230,15 +230,15 @@
     },
     {
       "id": "dungeon_encounter_battle",
-      "content": "Regular Encounter"
+      "content": "Trận Thường"
     },
     {
       "id": "dungeon_encounter_ab_battle",
-      "content": "Focused Encounter"
+      "content": "Trận - Tập Trung"
     },
     {
       "id": "dungeon_encounter_hard_battle",
-      "content": "Risky Encounter"
+      "content": "Trận - Nguy Hiểm"
     },
     {
       "id": "dungeon_encounter_event",
@@ -250,7 +250,7 @@
     },
     {
       "id": "dungeon_encounter_boss",
-      "content": "Floor Boss"
+      "content": "Tầng Thủ Lĩnh"
     },
     {
       "id": "bottom_winrate",
@@ -286,7 +286,7 @@
     },
     {
       "id": "choice_total_rate",
-      "content": "Total Success Rate"
+      "content": "Tổng Tỉ Lệ Thành Công"
     },
     {
       "id": "enter",
@@ -318,27 +318,27 @@
     },
     {
       "id": "success_result",
-      "content": "Threshold"
+      "content": "Ngưỡng"
     },
     {
       "id": "expectation_result",
-      "content": "Predicted"
+      "content": "Dự Đoán"
     },
     {
       "id": "outcome_result",
-      "content": "Outcome"
+      "content": "Kết Quả"
     },
     {
       "id": "choice_event_percent",
-      "content": "Odds"
+      "content": "Tỉ Lệ"
     },
     {
       "id": "skill_expectition_value",
-      "content": "Predicted Range: {0}-{1}"
+      "content": "Phạm Vi Dự Đoán: {0}-{1}"
     },
     {
       "id": "skill_expectition_or_value",
-      "content": "Predicted Value: {0} / {1}"
+      "content": "Giá Trị Dự Đoán: {0} / {1}"
     },
     {
       "id": "skill_correction_value",
@@ -350,11 +350,11 @@
     },
     {
       "id": "action_choice_event_result_example_battle",
-      "content": "Combat Encounter"
+      "content": "Trận - Chiến Đấu"
     },
     {
       "id": "action_choice_event_result_example_event",
-      "content": "Event"
+      "content": "Sự Kiện"
     },
     {
       "id": "action_choice_event_result_example_resume",
@@ -366,15 +366,15 @@
     },
     {
       "id": "enter_battle",
-      "content": "Commence Battle"
+      "content": "Bắt Đầu Trận"
     },
     {
       "id": "choice_event_five_percent",
-      "content": "5% Chance"
+      "content": "5% Tỉ Lệ"
     },
     {
       "id": "choice_event_five_percent_success",
-      "content": "5% Chance of Success"
+      "content": "5% Tỉ Lệ Thành Công"
     },
     {
       "id": "skillinfo_passivetitle",
@@ -414,19 +414,19 @@
     },
     {
       "id": "dungeon_encounter_type_battle",
-      "content": "Regular Encounter"
+      "content": "Trận - Thường"
     },
     {
       "id": "dungeon_encounter_type_ab_battle",
-      "content": "Focused Encounter"
+      "content": "Trận - Tập Trung"
     },
     {
       "id": "dungeon_encounter_type_hard_battle",
-      "content": "Risky Encounter"
+      "content": "Trận - Nguy Hiểm"
     },
     {
       "id": "dungeon_encounter_type_event",
-      "content": "Event"
+      "content": "Sự Kiện"
     },
     {
       "id": "dungeon_encounter_type_save",
@@ -434,7 +434,7 @@
     },
     {
       "id": "dungeon_encounter_type_boss",
-      "content": "Boss Encounter"
+      "content": "Trận - Thủ Lĩnh"
     },
     {
       "id": "battle_mp",
@@ -450,7 +450,7 @@
     },
     {
       "id": "abnormality_no_research_level",
-      "content": "Lacking Data"
+      "content": "Thiếu Dữ Liệu"
     },
     {
       "id": "Insufficient_conditions",
@@ -494,7 +494,7 @@
     },
     {
       "id": "Lack_Buff",
-      "content": "No {0}!"
+      "content": "Không Có {0}!"
     },
     {
       "id": "received_the_golden_bough",
