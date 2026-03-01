@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "Enhancement",
-      "name": "Gia Tăng Uy Lực",
+      "name": "Cường Hoá Uy Lực Tấn Công",
       "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng Tấn Công +{0}.",
       "summary": "Uy Lực Sau Cùng KN Tấn Công +{0}",
       "undefined": "-"
@@ -16,7 +16,7 @@
     },
     {
       "id": "Endurance",
-      "name": "Gia Tăng Phòng Thủ",
+      "name": "Cường Hoá Uy Lực Phòng Thủ",
       "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng Phòng Thủ +{0}.",
       "summary": "Uy Lực Sau Cùng KN Phòng Thủ +{0}",
       "undefined": "-"
@@ -32,7 +32,7 @@
       "id": "Binding",
       "name": "Trói Chân",
       "desc": "Trong lượt này, Tốc Độ -{0}.",
-      "summary": "SPD -{0}",
+      "summary": "Tốc -{0}",
       "undefined": "-"
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "id": "ResultEnhancement",
-      "name": "Gia Tăng Uy Lực",
+      "name": "Cường Hoá Uy Lực Sau Cùng",
       "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng +{0}.",
       "summary": "Uy Lực Sau Cùng Kỹ Năng +{0}"
     },
@@ -117,13 +117,13 @@
     },
     {
       "id": "AttackDmgUp",
-      "name": "Gia Tăng Sát Thương",
+      "name": "Cường Hoá Sát Thương",
       "desc": "Trong lượt này, Sát Thương Kỹ Năng +{0}0%. (Max 100%)",
       "summary": "+{0}0% Sát Thương Gây Ra"
     },
     {
       "id": "DefenseUp",
-      "name": "Gia Tăng Cấp Phòng Thủ",
+      "name": "Cường Hoá Cấp Phòng Thủ",
       "desc": "Trong lượt này, Cấp Phòng Thủ +{0}.",
       "summary": "Cấp Phòng Thủ +{0}"
     },
@@ -265,7 +265,7 @@
     {
       "id": "Combustion",
       "name": "Thiêu Đốt",
-      "desc": "Kết Thúc Lượt: Nhận {0} sát thương cố định. Tồn tại trong {1} lượt .",
+      "desc": "Kết Thúc Lượt: Nhận {0} sát thương cố định. Tồn tại trong {1} lượt.",
       "summary": "{0} fixed HP damage"
     },
     {
@@ -354,15 +354,15 @@
     },
     {
       "id": "AttackUp",
-      "name": "Offense Level Up",
-      "desc": "Offense Level +{0} for this turn.",
-      "summary": "Offense Level +{0}"
+      "name": "Cường Hoá Cấp Tấn Công",
+      "desc": "Trong lượt này, Cấp Tấn Công +{0}.",
+      "summary": "Cấp Tấn Công +{0}"
     },
     {
       "id": "AttackDown",
-      "name": "Offense Level Down",
-      "desc": "Offense Level -{0} for this turn.",
-      "summary": "Offense Level -{0}"
+      "name": "Giảm Cấp Tấn Công",
+      "desc": "Trong lượt này, Cấp Tấn Công -{0}.",
+      "summary": "Cấp Tấn Công -{0}"
     },
     {
       "id": "Liu_Meursault_Guard_Buff",
@@ -372,223 +372,223 @@
     },
     {
       "id": "SlashResistUp",
-      "name": "Slash Resist Up",
-      "desc": "Reduce Slash Resistance by {0:F1}"
+      "name": "Tăng Kháng ST Chém",
+      "desc": "Tăng {0:F1} Kháng ST Chém"
     },
     {
       "id": "PenetrateResistUp",
-      "name": "Pierce Resist Up",
-      "desc": "Reduce Pierce Resistance by {0:F1}"
+      "name": "Tăng Kháng ST Đâm",
+      "desc": "Tăng {0:F1} Kháng ST Đâm"
     },
     {
       "id": "HitResistUp",
-      "name": "Blunt Resist Up",
-      "desc": "Reduce Blunt Resistance by {0:F1}"
+      "name": "Tăng Kháng ST Đập",
+      "desc": "Tăng {0:F1} Kháng ST Đập"
     },
     {
       "id": "SlashDamageUp",
-      "name": "Slash DMG Up",
-      "desc": "Deal +{0}0% damage with Slash skills this turn. (Max 100%)",
-      "summary": "Slash damage +{0}0%"
+      "name": "Tăng ST Chém",
+      "desc": "Trong lượt này, Kỹ Năng Chém +{0}0% sát thương (tối đa 100%)",
+      "summary": "ST Chém +{0}0%"
     },
     {
       "id": "PenetrateDamageUp",
-      "name": "Pierce DMG Up",
-      "desc": "Deal +{0}0% damage with Pierce skills this turn. (Max 100%)",
-      "summary": "Pierce damage +{0}0%"
+      "name": "Tăng ST Đâm",
+      "desc": "Trong lượt này, Kỹ Năng Đâm +{0}0% sát thương (tối đa 100%)",
+      "summary": "ST Đâm +{0}0%"
     },
     {
       "id": "HitDamageUp",
-      "name": "Blunt DMG Up",
-      "desc": "Deal +{0}0% damage with Blunt skills this turn. (Max 100%)",
-      "summary": "Blunt damage +{0}0%"
+      "name": "Tăng ST Đập",
+      "desc": "Trong lượt này, Kỹ Năng Đập +{0}0% sát thương (tối đa 100%)",
+      "summary": "ST Đập +{0}0%"
     },
     {
       "id": "SlashResistDown",
-      "name": "Slash Resist Down",
-      "desc": "Increase Slash Resistance by {0:F1}"
+      "name": "Giảm Kháng ST Chém",
+      "desc": "Tăng {0:F1} Kháng ST Chém"
     },
     {
       "id": "PenetrateResistDown",
-      "name": "Pierce Resist Down",
-      "desc": "Increase Pierce Resistance by {0:F1}"
+      "name": "Giảm Kháng ST Đâm",
+      "desc": "Tăng {0:F1} Kháng ST Đâm"
     },
     {
       "id": "HitResistDown",
-      "name": "Blunt Resist Down",
-      "desc": "Increase Blunt Resistance by {0:F1}"
+      "name": "Giảm Kháng ST Đập",
+      "desc": "Tăng {0:F1} Kháng ST Đập"
     },
     {
       "id": "SlashDamageDown",
-      "name": "Slash DMG Down",
-      "desc": "Deal -{0}0% damage with Slash skills this turn. (Max 100%)",
-      "summary": "Slash damage -{0}0%"
+      "name": "Giảm ST Chém",
+      "desc": "Trong lượt này, Kỹ Năng Chém -{0}0% sát thương (tối đa 100%)",
+      "summary": "ST Chém -{0}0%"
     },
     {
       "id": "PenetrateDamageDown",
-      "name": "Pierce DMG Down",
-      "desc": "Deal -{0}0% damage with Pierce skills this turn. (Max 100%)",
-      "summary": "Pierce damage -{0}0%"
+      "name": "Giảm ST Đâm",
+      "desc": "Trong lượt này, Kỹ Năng Đâm -{0}0% sát thương (tối đa 100%)",
+      "summary": "ST Đâm -{0}0%"
     },
     {
       "id": "HitDamageDown",
-      "name": "Blunt DMG Down",
-      "desc": "Deal -{0}0% damage with Blunt skills this turn. (Max 100%)",
-      "summary": "Blunt damage -{0}0%"
+      "name": "Giảm ST Đập",
+      "desc": "Trong lượt này, Kỹ Năng Đập -{0}0% sát thương (tối đa 100%)",
+      "summary": "ST Đập -{0}0%"
     },
     {
       "id": "CrimsonResistDown",
-      "name": "Wrath Resist Down",
-      "desc": "Increase Wrath Resistance by {0:F1}"
+      "name": "Giảm Kháng Phẫn Nộ",
+      "desc": "Tăng {0:F1} Kháng Phẫn Nộ"
     },
     {
       "id": "ScarletResistDown",
-      "name": "Lust Resist Down",
-      "desc": "Increase Lust Resistance by {0:F1}"
+      "name": "Giảm Kháng Dục Vọng",
+      "desc": "Tăng {0:F1} Kháng Dục Vọng"
     },
     {
       "id": "AmberResistDown",
-      "name": "Sloth Resist Down",
-      "desc": "Increase Sloth Resistance by {0:F1}"
+      "name": "Giảm Kháng Luời Biếng",
+      "desc": "Tăng {0:F1} Kháng Lười Biếng"
     },
     {
       "id": "ShamrockResistDown",
-      "name": "Gluttony Resist Down",
-      "desc": "Increase Gluttony Resistance by {0:F1}"
+      "name": "Giảm Kháng Phàm Ăn",
+      "desc": "Tăng {0:F1} Kháng Phàm Ăn"
     },
     {
       "id": "AzureResistDown",
-      "name": "Gloom Resist Down",
-      "desc": "Increase Gloom Resistance by {0:F1}"
+      "name": "Giảm Kháng U Sầu",
+      "desc": "Tăng {0:F1} Kháng U Sầu"
     },
     {
       "id": "IndigoResistDown",
-      "name": "Pride Resist Down",
-      "desc": "Increase Pride Resistance by {0:F1}"
+      "name": "Giảm Kháng Kiêu Ngạo",
+      "desc": "Tăng {0:F1} Kháng Kiêu Ngạo"
     },
     {
       "id": "VioletResistDown",
-      "name": "Envy Resist Down",
-      "desc": "Increase Envy Resistance by {0:F1}"
+      "name": "Giảm Kháng Đố Kị",
+      "desc": "Tăng {0:F1} Kháng Đố Kị"
     },
     {
       "id": "CrimsonResistUp",
-      "name": "Wrath Resist Up",
+      "name": "Tăng Kháng Phẫn Nộ",
       "desc": ""
     },
     {
       "id": "ScarletResistUp",
-      "name": "Lust Resist Up",
+      "name": "Tăng Kháng Dục Vọng",
       "desc": ""
     },
     {
       "id": "AmberResistUp",
-      "name": "Sloth Resist Up",
+      "name": "Tăng Kháng Lười Biếng",
       "desc": ""
     },
     {
       "id": "ShamrockResistUp",
-      "name": "Gluttony Resist Up",
+      "name": "Tăng Kháng Phàm Ăn",
       "desc": ""
     },
     {
       "id": "AzureResistUp",
-      "name": "Gloom Resist Up",
+      "name": "Tăng Kháng U Sầu",
       "desc": ""
     },
     {
       "id": "IndigoResistUp",
-      "name": "Pride Resist Up",
+      "name": "Tăng Kháng Kiêu Ngạo",
       "desc": ""
     },
     {
       "id": "VioletResistUp",
-      "name": "Envy Resist Up",
+      "name": "Tăng Kháng Đố Kị",
       "desc": ""
     },
     {
       "id": "CrimsonDamageDown",
-      "name": "Wrath DMG Down",
-      "desc": "Deal -{0}0% damage with Wrath skills this turn. (Max 100%)",
-      "summary": "Wrath damage -{0}0%"
+      "name": "Giảm ST Phẫn Nộ",
+      "desc": "Trong lượt này, Kỹ Năng Phẫn Nộ giảm -{0}0% sát thương. (tối đa 100%)",
+      "summary": "Sát thương Phẫn Nộ -{0}0%"
     },
     {
       "id": "ScarletDamageDown",
-      "name": "Lust DMG Down",
-      "desc": "Deal -{0}0% damage with Lust skills this turn. (Max 100%)",
-      "summary": "Lust damage -{0}0%"
+      "name": "Giảm ST Dục Vọng",
+      "desc": "Trong lượt này, Kỹ Năng Dục Vọng giảm -{0}0% sát thương. (tối đa 100%)",
+      "summary": "Sát thương Dục Vọng -{0}0%"
     },
     {
       "id": "AmberDamageDown",
-      "name": "Sloth DMG Down",
-      "desc": "Deal -{0}0% damage with Sloth skills this turn. (Max 100%)",
-      "summary": "Sloth damage -{0}0%"
+      "name": "Giảm ST Lười Biếng",
+      "desc": "Trong lượt này, Kỹ Năng Lười Biếng giảm -{0}0% sát thương. (tối đa 100%)",
+      "summary": "Sát thương Lười Biếng -{0}0%"
     },
     {
       "id": "ShamrockDamageDown",
-      "name": "Gluttony DMG Down",
-      "desc": "Deal -{0}0% damage with Gluttony skills this turn. (Max 100%)",
-      "summary": "Gluttony damage -{0}0%"
+      "name": "Giảm ST Phàm Ăn",
+      "desc": "Trong lượt này, Kỹ Năng Phàm Ăn giảm -{0}0% sát thương. (tối đa 100%)",
+      "summary": "Sát thương Phàm Ăn -{0}0%"
     },
     {
       "id": "AzureDamageDown",
-      "name": "Gloom DMG Down",
-      "desc": "Deal -{0}0% damage with Gloom skills this turn. (Max 100%)",
-      "summary": "Gloom damage -{0}0%"
+      "name": "Giảm ST U Sầu",
+      "desc": "Trong lượt này, Kỹ Năng U Sầu giảm -{0}0% sát thương. (tối đa 100%)",
+      "summary": "Sát thương U Sầu -{0}0%"
     },
     {
       "id": "IndigoDamageDown",
-      "name": "Pride DMG Down",
-      "desc": "Deal -{0}0% damage with Pride skills this turn. (Max 100%)",
-      "summary": "Pride damage -{0}0%"
+      "name": "Giảm ST Kiêu Ngạo",
+      "desc": "Trong lượt này, Kỹ Năng Kiêu Ngạo giảm -{0}0% sát thương. (tối đa 100%)",
+      "summary": "Sát thương Kiêu Ngạo -{0}0%"
     },
     {
       "id": "VioletDamageDown",
-      "name": "Envy DMG Down",
-      "desc": "Deal -{0}0% damage with Envy skills this turn. (Max 100%)",
-      "summary": "Envy damage -{0}0%"
+      "name": "Giảm ST Đố Kị",
+      "desc": "Trong lượt này, Kỹ Năng Đố Kị giảm -{0}0% sát thương. (tối đa 100%)",
+      "summary": "Sát thương Đố Kị -{0}0%"
     },
     {
       "id": "CrimsonDamageUp",
-      "name": "Wrath DMG Up",
-      "desc": "Deal +{0}0% damage with Wrath skills this turn. (Max 100%)",
-      "summary": "Wrath damage +{0}0%"
+      "name": "Tăng ST Phẫn Nộ",
+      "desc": "Trong lượt này, Kỹ Năng Phẫn Nộ tăng +{0}0% sát thương. (tối đa 100%)",
+      "summary": "Sát thương Phẫn Nộ +{0}0%"
     },
     {
       "id": "ScarletDamageUp",
-      "name": "Lust DMG Up",
-      "desc": "Deal +{0}0% damage with Lust skills this turn. (Max 100%)",
-      "summary": "Lust damage +{0}0%"
+      "name": "Tăng ST Dục Vọng",
+      "desc": "Trong lượt này, Kỹ Năng Dục Vọng tăng +{0}0% sát thương. (tối đa 100%)",
+      "summary": "Sát thương Dục Vọng +{0}0%"
     },
     {
       "id": "AmberDamageUp",
-      "name": "Sloth DMG Up",
-      "desc": "Deal +{0}0% damage with Sloth skills this turn. (Max 100%)",
-      "summary": "Sloth damage +{0}0%"
+      "name": "Tăng ST Lười Biếng",
+      "desc": "Trong lượt này, Kỹ Năng Lười Biếng tăng +{0}0% sát thương. (tối đa 100%)",
+      "summary": "Sát thương Lười Biếng +{0}0%"
     },
     {
       "id": "ShamrockDamageUp",
-      "name": "Gluttony DMG Up",
-      "desc": "Deal +{0}0% damage with Gluttony skills this turn. (Max 100%)",
-      "summary": "Gluttony damage +{0}0%"
+      "name": "Tăng ST Phàm Ăn",
+      "desc": "Trong lượt này, Kỹ Năng Phàm Ăn tăng +{0}0% sát thương. (tối đa 100%)",
+      "summary": "Sát thương Phàm Ăn +{0}0%"
     },
     {
       "id": "AzureDamageUp",
-      "name": "Gloom DMG Up",
-      "desc": "Deal +{0}0% damage with Gloom skills this turn. (Max 100%)",
-      "summary": "Gloom damage +{0}0%"
+      "name": "Tăng ST U Sầu",
+      "desc": "Trong lượt này, Kỹ Năng U Sầu tăng +{0}0% sát thương. (tối đa 100%)",
+      "summary": "Sát thương U Sầu +{0}0%"
     },
     {
       "id": "IndigoDamageUp",
-      "name": "Pride DMG Up",
-      "desc": "Deal +{0}0% damage with Pride skills this turn. (Max 100%)",
-      "summary": "Pride damage +{0}0%"
+      "name": "Tăng ST Kiêu Ngạo",
+      "desc": "Trong lượt này, Kỹ Năng Kiêu Ngạo tăng +{0}0% sát thương. (tối đa 100%)",
+      "summary": "Sát thương Kiêu Ngạo +{0}0%"
     },
     {
       "id": "VioletDamageUp",
-      "name": "Envy DMG Up",
-      "desc": "Deal +{0}0% damage with Envy skills this turn. (Max 100%)",
-      "summary": "Envy damage +{0}0%"
+      "name": "Tăng ST Đố Kị",
+      "desc": "Trong lượt này, Kỹ Năng Đố Kị tăng +{0}0% sát thương. (tối đa 100%)",
+      "summary": "Sát thương Đố Kị +{0}0%"
     },
     {
       "id": "Curse",
@@ -598,15 +598,15 @@
     },
     {
       "id": "AttackDmgUp_Weak",
-      "name": "Weak-resist DMG Boost",
-      "desc": "Boost the damage of attacks against Weak resistances by {0}%",
-      "summary": "+{0}% damage to Weak resistances"
+      "name": "Tăng ST Lên Kháng Yếu",
+      "desc": "Trong lượt này, Kỹ Năng tăng +{0}% sát thương đối với loại Kháng Yếu.",
+      "summary": "+{0}% sát thương lên loại Kháng Yếu"
     },
     {
       "id": "Bullet",
-      "name": "Ammo",
-      "desc": "Spent by certain skills. Some attacks cancel if lacking Ammo.",
-      "summary": "Resource for certain skills"
+      "name": "Đạn",
+      "desc": "Được sử dụng bởi một số Kỹ Năng, một vài đòn tấn công sẽ bị huỷ nếu thiếu Đạn.",
+      "summary": "Tài nguyên sử dụng cho một vài Kỹ Năng"
     },
     {
       "id": "Meursault_Last_Remodeling",
@@ -768,123 +768,123 @@
     },
     {
       "id": "SlashTakeDamageDown",
-      "name": "Slash Protection",
-      "desc": "Take -{0}0% damage from Slash skills this turn. (Max 100%)",
-      "summary": "Slash damage taken -{0}0%"
+      "name": "Khiên Bảo Hộ Chém",
+      "desc": "Trong lượt này, nhận -{0}0% sát thương từ Kỹ Năng Chém. (tối đa 100%)",
+      "summary": "Sát thương Chém nhận phải -{0}0%"
     },
     {
       "id": "PenetrateTakeDamageDown",
-      "name": "Pierce Protection",
-      "desc": "Take -{0}0% damage from Pierce skills this turn. (Max 100%)",
-      "summary": "Pierce damage taken -{0}0%"
+      "name": "Khiên Bảo Hộ Đâm",
+      "desc": "Trong lượt này, nhận -{0}0% sát thương từ Kỹ Năng Đâm. (tối đa 100%)",
+      "summary": "Sát thương Đâm nhận phải -{0}0%"
     },
     {
       "id": "HitTakeDamageDown",
-      "name": "Blunt Protection",
-      "desc": "Take -{0}0% damage from Blunt skills this turn. (Max 100%)",
-      "summary": "Blunt damage taken -{0}0%"
+      "name": "Khiên Bảo Hộ Đập",
+      "desc": "Trong lượt này, nhận -{0}0% sát thương từ Kỹ Năng Đập. (tối đa 100%)",
+      "summary": "Sát thương Đập nhận phải -{0}0%"
     },
     {
       "id": "CrimsonTakeDamageDown",
-      "name": "Wrath Protection",
-      "desc": "Take -{0}0% damage from Wrath skills this turn. (Max 100%)",
-      "summary": "Wrath damage taken -{0}0%"
+      "name": "Khiên Bảo Hộ Phẫn Nộ",
+      "desc": "Trong lượt này, nhận -{0}0% sát thương từ Kỹ Năng Phẫn Nộ. (tối đa 100%)",
+      "summary": "Sát thương Phẫn Nộ nhận phải -{0}0%"
     },
     {
       "id": "ScarletTakeDamageDown",
-      "name": "Lust Protection",
-      "desc": "Take -{0}0% damage from Lust skills this turn. (Max 100%)",
-      "summary": "Lust damage taken -{0}0%"
+      "name": "Khiên Bảo Hộ Dục Vọng",
+      "desc": "Trong lượt này, nhận -{0}0% sát thương từ Kỹ Năng Dục Vọng. (tối đa 100%)",
+      "summary": "Sát thương Dục Vọng nhận phải -{0}0%"
     },
     {
       "id": "AmberTakeDamageDown",
-      "name": "Sloth Protection",
-      "desc": "Take -{0}0% damage from Sloth skills this turn. (Max 100%)",
-      "summary": "Sloth damage taken -{0}0%"
+      "name": "Khiên Bảo Hộ Lười Biếng",
+      "desc": "Trong lượt này, nhận -{0}0% sát thương từ Kỹ Năng Lười Biếng. (tối đa 100%)",
+      "summary": "Sát thương Lười Biếng nhận phải -{0}0%"
     },
     {
       "id": "ShamrockTakeDamageDown",
-      "name": "Gluttony Protection",
-      "desc": "Take -{0}0% damage from Gluttony skills this turn. (Max 100%)",
-      "summary": "Gluttony damage taken -{0}0%"
+      "name": "Khiên Bảo Hộ Phàm Ăn",
+      "desc": "Trong lượt này, nhận -{0}0% sát thương từ Kỹ Năng Phàm Ăn. (tối đa 100%)",
+      "summary": "Sát thương Phàm Ăn nhận phải -{0}0%"
     },
     {
       "id": "AzureTakeDamageDown",
-      "name": "Gloom Protection",
-      "desc": "Take -{0}0% damage from Gloom skills this turn. (Max 100%)",
-      "summary": "Gloom damage taken -{0}0%"
+      "name": "Khiên Bảo Hộ U Sầu",
+      "desc": "Trong lượt này, nhận -{0}0% sát thương từ Kỹ Năng U Sầu. (tối đa 100%)",
+      "summary": "Sát thương U Sầu nhận phải -{0}0%"
     },
     {
       "id": "IndigoTakeDamageDown",
-      "name": "Pride Protection",
-      "desc": "Take -{0}0% damage from Pride skills this turn. (Max 100%)",
-      "summary": "Pride damage taken -{0}0%"
+      "name": "Khiên Bảo Hộ Kiêu Ngạo",
+      "desc": "Trong lượt này, nhận -{0}0% sát thương từ Kỹ Năng Kiêu Ngạo. (tối đa 100%)",
+      "summary": "Sát thương Kiêu Ngạo nhận phải -{0}0%"
     },
     {
       "id": "VioletTakeDamageDown",
-      "name": "Envy Protection",
-      "desc": "Take -{0}0% damage from Envy skills this turn. (Max 100%)",
-      "summary": "Envy damage taken -{0}0%"
+      "name": "Khiên Bảo Hộ Đố Kị",
+      "desc": "Trong lượt này, nhận -{0}0% sát thương từ Kỹ Năng Đố Kị. (tối đa 100%)",
+      "summary": "Sát thương Đố Kị nhận phải -{0}0%"
     },
     {
       "id": "SlashTakeDamageUp",
-      "name": "Slash Fragility",
-      "desc": "Take +{0}0% damage from Slash skills this turn. (Max 100%)",
-      "summary": "Slash damage taken +{0}0%"
+      "name": "Suy Yếu ST Chém",
+      "desc": "Trong lượt này, nhận +{0}0% sát thương từ Kỹ Năng Chém. (tối đa 100%)",
+      "summary": "Sát thương Chém nhận phải +{0}0%"
     },
     {
       "id": "PenetrateTakeDamageUp",
-      "name": "Pierce Fragility",
-      "desc": "Take +{0}0% damage from Pierce skills this turn. (Max 100%)",
-      "summary": "Pierce damage taken +{0}0%"
+      "name": "Suy Yếu ST Đâm",
+      "desc": "Trong lượt này, nhận +{0}0% sát thương từ Kỹ Năng Đâm. (tối đa 100%)",
+      "summary": "Sát thương Đâm nhận phải +{0}0%"
     },
     {
       "id": "HitTakeDamageUp",
-      "name": "Blunt Fragility",
-      "desc": "Take +{0}0% damage from Blunt skills this turn. (Max 100%)",
-      "summary": "Blunt damage taken +{0}0%"
+      "name": "Suy Yếu ST Đập",
+      "desc": "Trong lượt này, nhận +{0}0% sát thương từ Kỹ Năng Đập. (tối đa 100%)",
+      "summary": "Sát thương Đập nhận phải +{0}0%"
     },
     {
       "id": "CrimsonTakeDamageUp",
-      "name": "Wrath Fragility",
-      "desc": "Take +{0}0% damage from Wrath skills this turn. (Max 100%)",
-      "summary": "Wrath damage taken +{0}0%"
+      "name": "Suy Yếu ST Phẫn Nộ",
+      "desc": "Trong lượt này, nhận +{0}0% sát thương từ Kỹ Năng Phẫn Nộ. (tối đa 100%)",
+      "summary": "Sát thương Phẫn Nộ nhận phải +{0}0%"
     },
     {
       "id": "ScarletTakeDamageUp",
-      "name": "Lust Fragility",
-      "desc": "Take +{0}0% damage from Lust skills this turn. (Max 100%)",
-      "summary": "Lust damage taken +{0}0%"
+      "name": "Suy Yếu ST Dục Vọng",
+      "desc": "Trong lượt này, nhận +{0}0% sát thương từ Kỹ Năng Dục Vọng. (tối đa 100%)",
+      "summary": "Sát thương Dục Vọng nhận phải +{0}0%"
     },
     {
       "id": "AmberTakeDamageUp",
-      "name": "Sloth Fragility",
-      "desc": "Take +{0}0% damage from Sloth skills this turn. (Max 100%)",
-      "summary": "Sloth damage taken +{0}0%"
+      "name": "Suy Yếu ST Lười Biếng",
+      "desc": "Trong lượt này, nhận +{0}0% sát thương từ Kỹ Năng Lười Biếng. (tối đa 100%)",
+      "summary": "Sát thương Lười Biếng nhận phải +{0}0%"
     },
     {
       "id": "ShamrockTakeDamageUp",
-      "name": "Gluttony Fragility",
-      "desc": "Take +{0}0% damage from Gluttony skills this turn. (Max 100%)",
-      "summary": "Gluttony damage taken +{0}0%"
+      "name": "Suy Yếu ST Phàm Ăn",
+      "desc": "Trong lượt này, nhận +{0}0% sát thương từ Kỹ Năng Phàm Ăn. (tối đa 100%)",
+      "summary": "Sát thương Phàm Ăn nhận phải +{0}0%"
     },
     {
       "id": "AzureTakeDamageUp",
-      "name": "Gloom Fragility",
-      "desc": "Take +{0}0% damage from Gloom skills this turn. (Max 100%)",
-      "summary": "Gloom damage taken +{0}0%"
+      "name": "Suy Yếu ST U Sầu",
+      "desc": "Trong lượt này, nhận +{0}0% sát thương từ Kỹ Năng U Sầu. (tối đa 100%)",
+      "summary": "Sát thương U Sầu nhận phải +{0}0%"
     },
     {
       "id": "IndigoTakeDamageUp",
-      "name": "Pride Fragility",
-      "desc": "Take +{0}0% damage from Pride skills this turn. (Max 100%)",
-      "summary": "Pride damage taken +{0}0%"
+      "name": "Suy Yếu ST Kiêu Ngạo",
+      "desc": "Trong lượt này, nhận +{0}0% sát thương từ Kỹ Năng Kiêu Ngạo. (tối đa 100%)",
+      "summary": "Sát thương Kiêu Ngạo nhận phải +{0}0%"
     },
     {
       "id": "VioletTakeDamageUp",
-      "name": "Envy Fragility",
-      "desc": "Take +{0}0% damage from Envy skills this turn. (Max 100%)",
-      "summary": "Envy damage taken +{0}0%"
+      "name": "Suy Yếu ST Đố Kị",
+      "desc": "Trong lượt này, nhận +{0}0% sát thương từ Kỹ Năng Đố Kị. (tối đa 100%)",
+      "summary": "Sát thương Đố Kị nhận phải +{0}0%"
     },
     {
       "id": "LittleCourage",
@@ -912,9 +912,9 @@
     },
     {
       "id": "HitResultUp",
-      "name": "Blunt Power Up",
-      "desc": "Blunt Skill Final Power +{0} for this turn.",
-      "summary": "Blunt Skill Final Power +{0}"
+      "name": "Cường Hoá Uy Lực Đập",
+      "desc": "Trong lượt này,Uy Lực Sau Cùng Kỹ Năng Đập +{0}.",
+      "summary": "Uy Lực Sau Cùng Kỹ Năng Đập +{0}"
     },
     {
       "id": "WeaknessAnalysis",
@@ -936,9 +936,9 @@
     },
     {
       "id": "VioletResultUp",
-      "name": "Envy Power Up",
-      "desc": "Envy Skill Final Power +{0} for this turn.",
-      "summary": "Envy Skill Final Power +{0}"
+      "name": "Cường Hoá Uy Lực Đố Kị",
+      "desc": "Trong lượt này, Uy Lực Sau Cùng Kỹ Năng Đố Kị +{0}.",
+      "summary": "Uy Lực Sau Cùng Kỹ Năng Đố Kị +{0}"
     },
     {
       "id": "CyclingKarma",
@@ -948,9 +948,9 @@
     },
     {
       "id": "TakeHpHealReduce",
-      "name": "HP Healing Down",
-      "desc": "Heal -{0}0% HP from Passives, Skills, and Coin effects this turn. (Max 5)",
-      "summary": "HP Healing -{0}0%"
+      "name": "Giảm Lượng Hồi HP",
+      "desc": "Trong lượt này, lượng hồi HP từ các Kỹ Năng, Bị Động, và hiệu ứng xu bị giảm -{0}0%. (tối đa 5)",
+      "summary": "Lượng Hồi HP -{0}0%"
     },
     {
       "id": "AttackLevelAdder",
@@ -966,9 +966,9 @@
     },
     {
       "id": "GainSinStockAdder",
-      "name": "E.G.O Resource Amp",
-      "desc": "Gain +{0} E.G.O resources from using skills this turn.",
-      "summary": "+{0} E.G.O resource gain"
+      "name": "Khuếch Đại Tài Nguyên E.G.O",
+      "desc": "Trong lượt này, lượng Tài Nguyên E.G.O nhận được từ các Kỹ Năng tăng thêm +{0}.",
+      "summary": "Tài Nguyên E.G.O Nhận Được +{0}"
     },
     {
       "id": "Weak_Chicken",
