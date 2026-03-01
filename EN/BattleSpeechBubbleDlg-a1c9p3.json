@@ -1168,17 +1168,17 @@
     {
       "id": "9SV-BAT17-03",
       "desc": "검지 아비 턴 종료 시, 해금 - I 얻을 때",
-      "dlg": "Chìm đắm trong giấc mộng, bản ngã chẳng thấy đâu.   (無我夢中)"
+      "dlg": "Chìm đắm trong giấc mộng, bản ngã chẳng thấy đâu. \n(無我夢中)"
     },
     {
       "id": "9SV-BAT17-04",
       "desc": "검지 아비 턴 종료 시, 해금 - II 얻을 때",
-      "dlg": "Tựa như Địa ngục A-tỳ và Địa ngục Kêu Gào.  (阿鼻叫喚)"
+      "dlg": "Tựa như Địa ngục A-tỳ và Địa ngục Kêu Gào. \n(阿鼻叫喚)"
     },
     {
       "id": "9SV-BAT17-05",
       "desc": "검지 아비 턴 종료 시, 해금 - III 얻을 때",
-      "dlg": "Bị cắt rời và xé toạc cho đến khi nhân dạng cũng tan tành. (支離滅裂)"
+      "dlg": "Bị cắt rời và xé toạc cho đến khi nhân dạng cũng tan tành. \n(支離滅裂)"
     },
     {
       "id": "9SV-BAT17-07",
@@ -1188,7 +1188,7 @@
     {
       "id": "9SV-BAT17-08",
       "desc": "검지 아비 료슈와 합을 진행하여 검지 아비가 처음으로 료슈를 흐트러뜨릴 시",
-      "dlg": "Tu es belle à force d'être. (Con đẹp vì con là chính con)"
+      "dlg": "Tu es belle à force d'être. \n(Con đẹp vì con là chính con)"
     },
     {
       "id": "9SV-BAT17-09",
@@ -1238,7 +1238,7 @@
     {
       "id": "9SV-BAT17-18",
       "desc": "검지 아비 해방 스택 (9일 경우, 다음 턴에 Furioso) 8 -> 9 될 때",
-      "dlg": "Neuf. Hoàn tất."
+      "dlg": "Neuf (Chín). Hoàn tất."
     },
     {
       "id": "9SV-BAT17-19",
