@@ -58,7 +58,7 @@
     {
       "id": "ParryingResultUp",
       "name": "Tăng Uy Lực Đọ Sức",
-      "desc": "Trong một Đọ Sức, nhận Uy Lực Đọ Sức bằng giá trị",
+      "desc": "Trong một cuộc Đọ Sức, nhận Uy Lực Đọ Sức bằng giá trị",
       "summary": "In a Clash, gain Clash Power equal to the value",
       "undefined": "-"
     },

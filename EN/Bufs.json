@@ -1885,8 +1885,8 @@
     },
     {
       "id": "Switch_Vibration",
-      "name": "Amplitude Conversion",
-      "desc": "Converts Tremor or already converted Tremor on target to a different type of Tremor.\nPotency and Count values do not change over the conversion."
+      "name": "Chuyển Biên Độ",
+      "desc": "Chuyển Chấn Động hoặc Chấn Động đã được chuyển đổi trên mục tiêu thành một loại Chấn Động khác.\nSố và Tầng không đổi khi chuyển."
     },
     {
       "id": "MarkOfButler",
@@ -2329,7 +2329,7 @@
     {
       "id": "FullReload",
       "name": "Nạp Đạn",
-      "desc": "Mất hết số Đạn hiện đang có, sau đó nạp đầy Đạn"
+      "desc": "Mất toàn bộ Đạn hiện có, sau đó nạp đầy Đạn."
     },
     {
       "id": "Bullet_LogicAtelier",
