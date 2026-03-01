@@ -14,9 +14,9 @@
     },
     {
       "id": 1078,
-      "panicName": "Shame of the Family",
-      "lowMoraleDescription": "Turn Start: Gain 1 [SlashDamageUp], 1 [ParryingResultUp], and 1 [Vulnerable]\nCannot gain Mang when using Skills",
-      "panicDescription": "Turn Start: Gain 2 [SlashDamageUp], 2 [ParryingResultUp], and 2 [Vulnerable]\nCannot gain Mang when using Skills"
+      "panicName": "Nỗi Nhục của Gia Tộc",
+      "lowMoraleDescription": "Turn Start: Nhận 1 [SlashDamageUp], 1 [ParryingResultUp], and 1 [Vulnerable]\nKhông thể nhận Mang khi sử dụng Kỹ Năng",
+      "panicDescription": "Turn Start: Nhận 2 [SlashDamageUp], 2 [ParryingResultUp], và 2 [Vulnerable]\nKhông thể nhận Mang khi sử dụng Kỹ Năng"
     },
     {
       "id": 1079,

@@ -57,8 +57,8 @@
     },
     {
       "id": "ParryingResultUp",
-      "name": "Clash Power Up",
-      "desc": "In a Clash, gain Clash Power equal to the value",
+      "name": "Tăng Uy Lực Đọ Sức",
+      "desc": "Trong một Đọ Sức, nhận Uy Lực Đọ Sức bằng giá trị",
       "summary": "In a Clash, gain Clash Power equal to the value",
       "undefined": "-"
     },

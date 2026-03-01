@@ -662,15 +662,15 @@
     },
     {
       "id": "ObsessedTeacher_LowMorale",
-      "name": "Shame of the Family",
-      "desc": "- Turn Start: Gain 1 Slash DMG Up, 1 Clash Power Up, and 1 Fragile\n- Cannot gain Mang when using Skills",
+      "name": "Nỗi Nhục của Gia Tộc",
+      "desc": "- Turn Start: Nhận 1 Tăng Sát Thương Chém, 1 Tăng Uy Lực Đọ Sức, và 1 Suy Yếu\n- Không thể nhận Mang khi sử dụng Kỹ Năng",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ObsessedTeacher_Panic",
-      "name": "Shame of the Family",
-      "desc": "- Turn Start: Gain 2 Slash DMG Up, 2 Clash Power Up, and 2 Fragile\n- Cannot gain Mang when using Skills",
+      "name": "Nỗi Nhục của Gia Tộc",
+      "desc": "- Turn Start: Nhận 2 Tăng Sát Thương Chém, 2 Tăng Uy Lực Đọ Sức, và 2 Suy Yếu\n- Không thể nhận Mang khi sử dụng Kỹ Năng",
       "summary": "",
       "undefined": "-"
     },

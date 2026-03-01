@@ -10,7 +10,7 @@
     },
     {
       "id": "WinDuel",
-      "name": "[Đọ Sức Thành Công]"
+      "name": "[Thắng Đọ Sức]"
     },
     {
       "id": "BeforeAttack",
@@ -82,7 +82,7 @@
     },
     {
       "id": "DefeatDuel",
-      "name": "[Đọ Sức Thất Bại]"
+      "name": "[Thua Đọ Sức]"
     },
     {
       "id": "OnSucceedAttackHead",

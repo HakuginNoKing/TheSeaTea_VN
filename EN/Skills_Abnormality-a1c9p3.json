@@ -114,7 +114,7 @@
         {
           "level": 1,
           "name": "Sezionatura di Cervo",
-          "desc": "Ở mốc 6+ [Breath], Uy Lực Xu +1\nUy Lực Xu +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)\n[WhenUse] Ở mốc 0+ SP, tạo 1 Vọng (望)\n- Uy Lực Cơ Bản +4\n[WhenUse] Nhận +3 Tầng [Breath]\n[WinDuel] Nhận 5 [Breath]\n[EndSkill] Nếu Kĩ năng này tạo ra Vọng, mất 10 SP",
+          "desc": "Ở mốc 6+ [Breath], Uy Lực Xu +1\nUy Lực Xu +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)\n[WhenUse] Ở mốc 0+ SP, tạo 1 Vọng (望)\n- Uy Lực Cơ Bản +4\n[WhenUse] Nhận +3 Tầng [Breath]\n[WinDuel] Nhận 5 [Breath]\n[EndSkill] Nếu Kỹ Năng này tạo ra Vọng, mất 10 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -207,7 +207,7 @@
         {
           "level": 1,
           "name": "Sezionatura di Elefante",
-          "desc": "Ở mốc 6+ [Breath], Uy Lực Xu +1\nUy Lực Xu +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)\n[WhenUse] Nhận +3 Tầng [Breath]\n[DefeatDuel] Đòn đánh -50% sát thương sau cùng và không thể gây Bạo Kích..\nSát thương gây ra bởi Kĩ năng này không thể Làm Choáng mục tiêu.",
+          "desc": "Ở mốc 6+ [Breath], Uy Lực Xu +1\nUy Lực Xu +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)\n[WhenUse] Nhận +3 Tầng [Breath]\n[DefeatDuel] Đòn đánh -50% sát thương sau cùng và không thể gây Bạo Kích..\nSát thương gây ra bởi Kỹ Năng này không thể Làm Choáng mục tiêu.",
           "coinlist": [
             {
               "coindescs": [
@@ -280,7 +280,7 @@
         {
           "level": 1,
           "name": "Thủ Tiêu",
-          "desc": "[CantChangeTarget]\nKhông thể Bị Choáng trước khi sử dụng Kĩ năng này.\n<color=#ff6000><mark color=#ff000040><b><u>Uy Lực Cơ Bản +1 và gây +10% sát thương với mỗi [FutureEyeOn]</color></mark></b></u>\n[WhenUse] Nếu mục tiêu ở mốc 50% HP hoặc ít hơn, gây +100% sát thương\n[WhenUse] Ở mốc 0+ SP, tạo 1 Vọng (望)\n- Uy Lực Cơ Bản +4\n[WhenUse] Nhận +3 [Breath] Count\n[WinDuel] Nhận 5 [Breath]\n[DefeatDuel] Đòn đánh -50% sát thương sau cùng và không thể gây Bạo Kích.\nSát thương gây ra bởi Kĩ năng này không thể Làm Choáng mục tiêu.\n[EnemyKill] Gắn [TeachersPrey] lên một Tội Nhân ngẫu nhiên ở lượt sau\n[EndSkill] [FullReload] (một lần mỗi lượt)\n[EndSkill] Nếu Kĩ năng này tạo ra Vọng, mất 10 SP",
+          "desc": "[CantChangeTarget]\nKhông thể Bị Choáng trước khi sử dụng Kỹ Năng này.\n<color=#ff6000><mark color=#ff000040><b><u>Uy Lực Cơ Bản +1 và gây +10% sát thương với mỗi [FutureEyeOn]</color></mark></b></u>\n[WhenUse] Nếu mục tiêu ở mốc 50% HP hoặc ít hơn, gây +100% sát thương\n[WhenUse] Ở mốc 0+ SP, tạo 1 Vọng (望)\n- Uy Lực Cơ Bản +4\n[WhenUse] Nhận +3 Tầng [Breath]\n[WinDuel] Nhận 5 [Breath]\n[DefeatDuel] Đòn đánh -50% sát thương sau cùng và không thể gây Bạo Kích.\nSát thương gây ra bởi Kỹ Năng này không thể Làm Choáng mục tiêu.\n[EnemyKill] Gắn [TeachersPrey] lên một Tội Nhân ngẫu nhiên ở lượt sau\n[EndSkill] [FullReload] (một lần mỗi lượt)\n[EndSkill] Nếu Kỹ Năng này tạo ra Vọng, mất 10 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -357,7 +357,7 @@
         {
           "level": 1,
           "name": "Thấu Thị",
-          "desc": "Nếu thành công né tất cả Xu đến từ một Kĩ năng, sử dụng \"Sezionatura di Coniglio\" như một đòn Tấn Công Một Chiều lên kẻ tấn công\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Uy Lực Cơ Bản +1 với mỗi 2 [FutureEyeOn]</u></b></mark></color>\n[WhenUse] [FullReload] (một lần mỗi lượt)\n[OnSucceedEvade] Nhận 3 [Breath] (2 lần mỗi lượt)\n[OnSucceedEvade] Hồi 2 SP (5 lần mỗi lượt)\n[OnDefeatEvade] Mất 5 SP",
+          "desc": "Nếu thành công né tất cả Xu đến từ một Kỹ Năng, sử dụng \"Sezionatura di Coniglio\" như một đòn Tấn Công Một Chiều lên kẻ tấn công\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Uy Lực Cơ Bản +1 với mỗi 2 [FutureEyeOn]</u></b></mark></color>\n[WhenUse] [FullReload] (một lần mỗi lượt)\n[OnSucceedEvade] Nhận 3 [Breath] (2 lần mỗi lượt)\n[OnSucceedEvade] Hồi 2 SP (5 lần mỗi lượt)\n[OnDefeatEvade] Mất 5 SP",
           "coinlist": [
             {
               "coindescs": [

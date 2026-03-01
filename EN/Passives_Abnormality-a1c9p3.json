@@ -217,65 +217,65 @@
     },
     {
       "id": 131401,
-      "name": "The Eye of Precognition",
-      "desc": "When this unit enters the Encounter, gain 30 [FutureEyeOn]\nAt 0 [FutureEyeOn] Stack, convert [FutureEyeOn] to [FutureEyeOff]",
+      "name": "Thấu Thị Nhãn",
+      "desc": "Khi đơn vị này bước vào Trận, nhận 30 Cộng Dồn [FutureEyeOn]\nỞ mốc 0 [FutureEyeOn], chuyển [FutureEyeOn] thành [FutureEyeOff]",
       "summary": "",
       "undefined": "-",
-      "flavor": "This Relic, known as the Eye of Odin, is but a third of a whole Relic that was broken into three parts."
+      "flavor": "Di Vật này, được biết đến với cái tên Con Mắt của Odin, chỉ là một phần ba của một Di Vật hoàn chỉnh đã bị vỡ làm ba mảnh."
     },
     {
       "id": 131402,
-      "name": "Accelerating Future",
-      "desc": "In a Clash, <color=#ff6000><mark=#ff000040><b><u>gain 1 [LookingFuture] with every Clash</u></b></mark></color>\nCan gain up to ([FutureEyeOn] Stack at Turn Start / 3) [LookingFuture] per turn\nWhile this unit has [FutureEyeOn], <color=#ff6000><mark=#ff000040><b><u>getting attacked by Unopposed Attacks or losing a Clash activates the \"Precognition\" Skill</u></b></mark></color>",
+      "name": "Tăng Tốc Tương Lai",
+      "desc": "Trong một cuộc Đọ Sức, <color=#ff6000><mark=#ff000040><b><u>nhận 1 [LookingFuture] với mỗi lần Đọ Sức</u></b></mark></color>\nCó thể nhận tới ([FutureEyeOn] khi Bắt Đầu Lượt / 3) [LookingFuture] mỗi lượt\nKhi đơn vị này sở hữu [FutureEyeOn], <color=#ff6000><mark=#ff000040><b><u>bị tấn công bởi đòn Tấn Công Một Chiều hoặc thua Đọ Sức sẽ kích hoạt Kỹ Năng \"Precognition\"</u></b></mark></color>",
       "summary": "",
       "undefined": "-",
-      "flavor": "\"The more we clash, the hotter my sword will become... and accelerate to bring us to the future I foresaw.\""
+      "flavor": "\"Càng giao đấu, kiếm của tao sẽ càng nóng... và tăng tốc để đưa mày và tao đến cái tương lai tao đã nhìn thấu..\""
     },
     {
       "id": 131408,
-      "name": "Overloaded",
-      "desc": "The following causes this unit to lose [FutureEyeOn] Stack:\n- If this unit fails to gain [LookingFuture], lose 1 [FutureEyeOn] with every Clash\n- When this unit is attacked by an Unopposed Attack, lose 1 [FutureEyeOn]\n- On Clash Lose, lose 3 [FutureEyeOn]",
+      "name": "Quá Tải",
+      "desc": "Những điều kiện sau sẽ khiến đơn vị này mất [FutureEyeOn]:\n- Nếu đơn vị này thất bại trong việc nhận [LookingFuture], mất 1 [FutureEyeOn] với mỗi lần Đọ Sức\n- Khi đơn vị này bị tấn công bởi một đòn Tấn Công Một Chiều, mất 1 [FutureEyeOn]\n- Thua Đọ Sức, mất 3 [FutureEyeOn]",
       "summary": "",
       "undefined": "-",
-      "flavor": "'The eye's heating up, its socket is starting to ache, and my vision is turning red.'"
+      "flavor": "'Con mắt đang nóng rực lên, hốc mắt bắt đầu đau nhức, và tầm nhìn của tao dần chuyển sang màu đỏ.'"
     },
     {
       "id": 131405,
       "name": "La Spada di Palermo",
-      "desc": "Deal +15% more damage against Shields for every Burn on the main target (max 300%)\nOn Skill Use, if target's Attack Skill is either a Slash or a Pierce Skill, Clash Power +1\nIf this unit's Skill effects triggered [VibrationExplosion], gain 2 [AttackDmgUp] next turn (3 times per turn)\nIf this unit hit Critically with its Skill effects, heal 5 SP",
+      "desc": "Gây +15% sát thương lên Khiên với mỗi Thiêu Đốt trên mục tiêu chính (tối đa 300%)\nKhi Sử dụng Kỹ Năng, nếu Kỹ Năng Tấn Công của mục tiêu thuộc loại Chém hoặc Đâm, Uy Lực Đọ Sức +1\nNếu hiệu ứng Kỹ Năng của đơn vị này kích hoạt [VibrationExplosion], nhận 2 [AttackDmgUp] ở lượt sau (3 lần mỗi lượt)\nNếu đơn vị này gây Bạo Kích với hiệu ứng Kỹ Năng, hồi 5 SP",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": 131404,
-      "name": "The Shame of Famiglia Bognatelli",
-      "desc": "Take -30% HP, SP damage from [Combustion], [Laceration], [Burst], [Sinking]; -30% to Stagger Threshold raised by [Vibration]\nAt 1+ [AccelBullet], Skills that spend [AccelBullet] deal +30% damage and deal +150% damage against Shields\nGain 4 [Breath] for every [AccelBullet] spent\nWhen flipping a Coin that spends [AccelBullet], does not cancel the attack even if this unit does not have Acceleration Round",
+      "name": "Nỗi Nhục của Famiglia Bognatelli",
+      "desc": "Nhận -30% sát thương HP, SP đến từ [Combustion], [Laceration], [Burst], [Sinking]; -30% lượng Ngưỡng Choáng bị tăng bởi [Vibration]\nỞ mốc 1+ [AccelBullet], Kỹ Năng tiêu hao [AccelBullet] gây +30% sát thương và gây +150% sát thương lên Khiên\nNhận 4 [Breath] với mỗi [AccelBullet] đã tiêu hao\nKhi lật Xu mà tiêu hao [AccelBullet], đòn tấn công sẽ không bị hủy ngay cả khi đơn vị này không có Đạn Gia Tốc",
       "summary": "",
       "undefined": "-",
-      "flavor": "\"You were an inheritor of the Palermitan style and a wielder of our family heirloom—you had every privilege one could ever hope for. How dare you embarrass yourself like this?\"\n\"We'll let you keep the Relic and the sword, for they have been defiled by your dishonorable stench.\"\n\"To be promoted to the station of a Sottocapo, an Underboss... only to be ousted in a mere 3 days. No one else has suffered such pathetic humiliation apart from you, Valencina.\"\n\"You are the shame of our family. La Famiglia Bognatelli withdraws its love from you.\""
+      "flavor": "\"Mày là người kế thừa kiếm phái Palermitan và sở hữu bảo vật truyền đời của gia tộc—mày đã có mọi đặc quyền mà bất cứ ai cũng khao khát. Sao mày dám bôi tro trát trấu vào mặt chính mình như thế?\"\n\"Bọn tao sẽ để mày giữ lại Di Vật và thanh kiếm, vì chúng đã bị vấy bẩn bởi cái mùi hôi thối nhục nhã của mày.\"\n\"Được thăng lên tận chức Sottocapo, một Phó Trùm... chỉ để bị phế truất trong vỏn vẹn 3 ngày. Chẳng có ai phải chịu nỗi nhục nhã thảm hại đến vậy ngoài mày đâu, Valencina.\"\n\"Mày là nỗi ô nhục của gia tộc chúng ta. La Famiglia Bognatelli chính thức thu hồi lại tình yêu thương dành cho mày.\""
     },
     {
       "id": 131409,
-      "name": "Shin (心) - Valencina",
-      "desc": "When hit, or when \"The Thumb Apprentice - Lucio\" is defeated, gain [ObsessionAndGreed] next turn",
+      "name": "Tâm (心) - Valencina",
+      "desc": "Khi bị đánh trúng, hoặc khi \"Học Viên Ngón Cái - Lucio\" bị đánh bại, nhận [ObsessionAndGreed] ở lượt sau",
       "summary": "",
       "undefined": "-",
-      "flavor": "\"*sigh* Okay. So, you're saying we can get Ticket back by going in and wrecking the place according to that fanatic's plan... Is this really going to bring Ticket back to us?\""
+      "flavor": "\"*thở dài* Rồi. Vậy ý mày là bọn tao có thể mang Ticket về bằng cách xông vào và phá nát cái chỗ đó theo kế hoạch của cái gã cuồng tín kia... Việc này có thực sự giúp bọn tao đưa Ticket về không đấy?\""
     },
     {
       "id": 131406,
-      "name": "Lucio, you useless little shit!",
-      "desc": "When \"The Thumb Apprentice - Lucio\" is defeated, activate \"Time to Hunt\" Passive",
+      "name": "Lucio, thằng đầu cặc ăn hại vô dụng!",
+      "desc": "Khi \"Học Viên Ngón Cái - Lucio\" bị đánh bại, kích hoạt Nội Tại \"Giờ Đi Săn\"",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": 131410,
-      "name": "Time to Hunt",
-      "desc": "Turn Start: If this unit is Staggered, recover from Stagger\n\nSelect a random Sinner and inflict [TeachersPrey]\n- Activates every 4 turns after the initial activation\n- If this unit kills the target with the Skill \"Disposal,\" activate it again next turn",
+      "name": "Giờ Đi Săn",
+      "desc": "Bắt Đầu Lượt: Nếu đơn vị này Bị Choáng, phục hồi khỏi Choáng\n\nChọn một Tội Nhân ngẫu nhiên và gắn [TeachersPrey]\n- Kích hoạt mỗi 4 lượt sau lần kích hoạt đầu tiên.\n- Nếu đơn vị này diệt mục tiêu bằng Kỹ Năng \"Thủ Tiêu,\" kích hoạt lại Kỹ Năng này ở lượt sau",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Palermitan Style has much in common with the originator of the sword technique—La Famiglia Bognatelli.\nBoth the Famiglia and the sword style are renowned for relentlessly focusing on a single prey during a hunt, which is concluded with a Coup de Grâce that may as well be called a dissection. These executions are not carried out in the shadows, but instead, proudly put on display for all to behold.\nThe spectacular and formidable sword style has granted the Famiglia much honor and prestige, eventually securing them a place among the Sette Famiglie of the Backstreets.\nValencina, a master of the Palermitan Style, used it to hunt and execute many officers and so-called battle-hardened soldiers during the Smoke War, becoming a veritable \"War Hero.\"\nIronically, no one could have imagined her fall would sink as low as her fame once soared."
+      "flavor": "Kiếm Phái Palermitan có nhiều điểm tương đồng với gia tộc đã sáng lập ra kiếm thuật này—La Famiglia Bognatelli..\nCả Famiglia lẫn kiếm phái này đều nổi danh với việc tập trung truy cùng diệt tận một con mồi duy nhất trong cuộc đi săn, vốn luôn được kết thúc bằng một Coup de Grâce mà gọi đúng hơn phải là một màn mổ xẻ rã thịt. Những buổi hành quyết này không diễn ra trong bóng tối, mà ngược lại, được trưng bày một cách đầy tự hào cho tất cả cùng chiêm ngưỡng.\nKiếm phái đẹp mắt và đáng sợ này đã mang lại cho Gia tộc vô vàn vinh dự và uy tín, và rồi bảo đảm cho họ một vị trí vững chắc trong Sette Famiglie của Hẻm Sau.\nValencina, một bậc thầy của Kiếm phái Palermitan, đã sử dụng nó để săn lùng và hành quyết vô số sĩ quan cũng như những tên lính được cho là dạn dày sương gió trong Chiến Tranh Khói, trở thành một \"Anh Hùng Chiến Tranh\" đúng nghĩa.\nTrớ trêu thay, chẳng ai có thể tưởng tượng được rằng cú ngã của bà ta lại chìm xuống sâu thẳm hệt như cái cách danh tiếng của bà ta từng bay cao ngút ngàn."
     },
     {
       "id": 134501,
