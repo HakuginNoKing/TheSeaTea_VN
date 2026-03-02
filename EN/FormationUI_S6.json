@@ -70,7 +70,7 @@
     },
     {
       "id": "formation_side_button_all_personality",
-      "content": "Tất Cả Nhân Dạng"
+      "content": "Tất Cả Danh Tính"
     },
     {
       "id": "formation_side_button_all_ego",
@@ -82,11 +82,11 @@
     },
     {
       "id": "character_list_title_all_personality",
-      "content": "Nhân Dạng"
+      "content": "Danh Tính"
     },
     {
       "id": "character_list_title_all_personality_with_character_name",
-      "content": "Nhân Dạng: {0}"
+      "content": "Danh Tính: {0}"
     },
     {
       "id": "character_list_title_all_ego",
@@ -98,7 +98,7 @@
     },
     {
       "id": "character_list_title_friend_support",
-      "content": "Nhân Dạng Hỗ Trợ: {0}"
+      "content": "Danh Tính Hỗ Trợ: {0}"
     },
     {
       "id": "character_list_collect_rate",
@@ -122,7 +122,7 @@
     },
     {
       "id": "view_personality_status_button_label",
-      "content": "Nhân Dạng"
+      "content": "Danh Tính"
     },
     {
       "id": "formation_ui_announcer",
@@ -146,7 +146,7 @@
     },
     {
       "id": "formation_current_personality",
-      "content": "Nhân Dạng Đang Dùng"
+      "content": "Danh Tính Đang Dùng"
     },
     {
       "id": "ego_sort_label_rarity",

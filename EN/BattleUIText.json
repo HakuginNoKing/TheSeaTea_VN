@@ -462,7 +462,7 @@
     },
     {
       "id": "ability_turn",
-      "content": "Tầng"
+      "content": "(Tầng)"
     },
     {
       "id": "ego_erosion",
@@ -582,7 +582,7 @@
     },
     {
       "id": "ab_part_destroyable_and_can_vanish",
-      "content": "Có Thể Phá Hủy & Chém Rụng"
+      "content": "Có Thể P.Hủy & Chém Rụng"
     },
     {
       "id": "ab_guidebook_view",
@@ -646,7 +646,7 @@
     },
     {
       "id": "abnormality_all_part",
-      "content": "All Parts"
+      "content": "Toàn Thân"
     },
     {
       "id": "applying_buff_format",
@@ -678,15 +678,15 @@
     },
     {
       "id": "ab_part_destroyed",
-      "content": "Destroyed"
+      "content": "Đã Bị Phá Hủy"
     },
     {
       "id": "ab_part_vanished",
-      "content": "Destr. & Severed"
+      "content": "Đã Bị P.Hủy & Chém Rụng"
     },
     {
       "id": "ab_part_cannot_destroy_and_vanish",
-      "content": "Indestr. & Unsever."
+      "content": "Không Thể P.Hủy & Chém Rụng"
     },
     {
       "id": "current_hp",

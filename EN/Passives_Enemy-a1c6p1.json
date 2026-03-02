@@ -74,14 +74,14 @@
         },
         {
             "id": 9999999,
-            "name": "Panic Recovery",
-            "desc": "Turn End: if in Panic, reset SP to 0.",
+            "name": "Phục Hồi Khỏi Trạng Thái Hoảng Loạn",
+            "desc": "Kết Thúc Lượt: nếu bị Hoảng Loạn, đặt SP về 0.",
             "summary": ""
         },
         {
             "id": 9999998,
-            "name": "Fixed Panic",
-            "desc": "This unit's Panic Type does not change when inflicted with an effect that changes Panic Types. Instead, this unit is inflicted with an effect that is inflicted against targets without SP.",
+            "name": "Trạng Thái Hoảng Loạn Cố Định",
+            "desc": "Loại Hoảng Loạn của đơn vị này không thay đổi khi bị ảnh hưởng bởi hiệu ứng thay đổi Loại Hoảng Loạn. Thay vào đó, đơn vị này sẽ chịu hiệu ứng được áp dụng cho các mục tiêu không có SP.",
             "summary": ""
         }
     ]

@@ -14,7 +14,7 @@
     },
     {
       "id": "mainui_main_button3",
-      "content": "Lái Xe"
+      "content": "Di Chuyển"
     },
     {
       "id": "mainui_main_button4",
@@ -234,7 +234,7 @@
     },
     {
       "id": "mainui_personality_list",
-      "content": "Danh Sách Nhân Dạng"
+      "content": "Danh Sách Danh Tính"
     },
     {
       "id": "mainui_acquired_reward",
@@ -586,7 +586,7 @@
     },
     {
       "id": "mainui_personality_awaken_completion",
-      "content": "Thăng Bậc Nhân Dạng"
+      "content": "Thăng Bậc Danh Tính"
     },
     {
       "id": "mainui_ego_awaken_completion",
@@ -770,7 +770,7 @@
     },
     {
       "id": "notice_of_remain_extract_chance",
-      "content": "Chắc chắn ra Nhân Dạng 3★ hoặc E.G.O trong {0} lần chiết xuất."
+      "content": "Chắc chắn ra Danh Tính 3★ hoặc E.G.O trong {0} lần chiết xuất."
     },
     {
       "id": "mainui_settings",
@@ -1034,7 +1034,7 @@
     },
     {
       "id": "buy_personaliy",
-      "content": "Mua Nhân Dạng"
+      "content": "Mua Danh Tính"
     },
     {
       "id": "buy_ego",
@@ -1250,19 +1250,19 @@
     },
     {
       "id": "mental_increase_condition",
-      "content": "Base factors increasing Sanity"
+      "content": "Các nhân tố cơ bản gia tăng Tinh Thần"
     },
     {
       "id": "mental_decrease_condition",
-      "content": "Base factors decreasing Sanity"
+      "content": "Các nhân tố cơ bản suy giảm Tinh Thần"
     },
     {
       "id": "mental_low_morale_effect",
-      "content": "Low Morale Effects"
+      "content": "Hiệu Ứng Nhụt Chí"
     },
     {
       "id": "mental_panic_effect",
-      "content": "Panic Effects"
+      "content": "Hiệu Ứng Hoảng Loạn"
     },
     {
       "id": "open_scheduled_date_month_day",
@@ -1502,7 +1502,7 @@
     },
     {
       "id": "select_for_formation",
-      "content": "Triển Khai\nNhân Dạng"
+      "content": "Triển Khai\nDanh Tính"
     },
     {
       "id": "edit_for_formation",
@@ -1642,7 +1642,7 @@
     },
     {
       "id": "all_personalities",
-      "content": "Tất Cả Nhân Dạng"
+      "content": "Tất Cả Danh Tính"
     },
     {
       "id": "leap_up_ticket_title",
@@ -1662,7 +1662,7 @@
     },
     {
       "id": "leap_up_confim_title",
-      "content": "Lựa Chọn Nhân Dạng"
+      "content": "Lựa Chọn Danh Tính"
     },
     {
       "id": "leap_up_confim_main",

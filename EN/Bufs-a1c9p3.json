@@ -691,21 +691,21 @@
     {
       "id": "IndexPrescriptRien_0",
       "name": "Sắc Lệnh: [Máy Nhắn] I",
-      "desc": "Tấn công và đánh trúng một Mục Tiêu Sắc Lệnh trước khi lượt đầu tiên kết thúc.\n\n- Bắt Đầu Lượt: Nhận hiệu ứng này nếu đơn vị này không có Khai Mở\n- Số Ân Điển của Sắc Lệnh có thể cộng dồn với Sắc Lệnh này bị giới hạn tại 3",
+      "desc": "Tấn công và đánh trúng một Mục Tiêu Sắc Lệnh trước khi lượt đầu tiên kết thúc.\n\n- Bắt Đầu Lượt: Nhận hiệu ứng này nếu đơn vị này không có Khai Mở\n- Số Đặc Ân của Sắc Lệnh có thể cộng dồn với Sắc Lệnh này bị giới hạn tại 3",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IndexPrescriptRien_1",
       "name": "Sắc Lệnh: [Máy Nhắn] II",
-      "desc": "Tấn công và đánh trúng một Mục Tiêu Sắc Lệnh; hoặc trước khi qua lượt này, đánh trúng bằng 4 đòn tấn công hoặc nhiều hơn. Hoàn thành trước lượt thứ 4.\n\n- Bắt Đầu Lượt: Nhận hiệu ứng này nếu đơn vị này có Khai Mở - I\n- Số Ân Điển của Sắc Lệnh có thể cộng dồn với Sắc Lệnh này bị giới hạn tại 6",
+      "desc": "Tấn công và đánh trúng một Mục Tiêu Sắc Lệnh; hoặc trước khi qua lượt này, đánh trúng bằng 4 đòn tấn công hoặc nhiều hơn. Hoàn thành trước lượt thứ 4.\n\n- Bắt Đầu Lượt: Nhận hiệu ứng này nếu đơn vị này có Khai Mở - I\n- Số Đặc Ân của Sắc Lệnh có thể cộng dồn với Sắc Lệnh này bị giới hạn tại 6",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IndexPrescriptRien_2",
       "name": "Sắc Lệnh: [Máy Nhắn] III",
-      "desc": "Sử dụng một Kỹ Năng mạnh mẽ bằng 9 loại vũ khí khác nhau.\n\n- Bắt Đầu Lượt: Nhận hiệu ứng này nếu đơn vị này có Khai Mở - II\n- Số Ân Điển của Sắc Lệnh có thể cộng dồn với Sắc Lệnh này bị giới hạn tại 9",
+      "desc": "Sử dụng một Kỹ Năng mạnh mẽ bằng 9 loại vũ khí khác nhau.\n\n- Bắt Đầu Lượt: Nhận hiệu ứng này nếu đơn vị này có Khai Mở - II\n- Số Đặc Ân của Sắc Lệnh có thể cộng dồn với Sắc Lệnh này bị giới hạn tại 9",
       "summary": "",
       "undefined": "-"
     },
