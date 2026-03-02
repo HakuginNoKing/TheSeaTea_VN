@@ -310,18 +310,18 @@
     },
     {
       "id": "SlashDamageUp",
-      "name": "Slash DMG Up",
-      "desc": "Deal more damage with Slash skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Tăng Sát Thương Chém",
+      "desc": "Gây thêm sát thương với kỹ năng Chém dựa trên số Tầng của hiệu ứng này trong một lượt. (Tối đa 10)"
     },
     {
       "id": "PenetrateDamageUp",
-      "name": "Pierce DMG Up",
-      "desc": "Deal more damage with Pierce skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Tăng Sát Thương Đâm",
+      "desc": "Gây thêm sát thương với kỹ năng Đâm dựa trên số Tầng của hiệu ứng này trong một lượt. (Tối đa 10)"
     },
     {
       "id": "HitDamageUp",
-      "name": "Blunt DMG Up",
-      "desc": "Deal more damage with Blunt skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Tăng Sát Thương Đập",
+      "desc": "Gây thêm sát thương với kỹ năng Đập dựa trên số Tầng của hiệu ứng này trong một lượt. (Tối đa 10)"
     },
     {
       "id": "SlashResistDown",
@@ -1288,7 +1288,7 @@
     },
     {
       "id": "VibrationExplosion",
-      "name": "Tremor Burst",
+      "name": "Bộc Phát Chấn Động",
       "desc": "Raise target's Stagger Threshold by Tremor Potency on target"
     },
     {

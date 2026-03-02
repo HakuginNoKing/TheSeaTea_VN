@@ -18,7 +18,7 @@
       "id": "Endurance",
       "name": "Cường Hoá Uy Lực Phòng Thủ",
       "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng Phòng Thủ +{0}.",
-      "summary": "Uy Lực Sau Cùng KN Phòng Thủ +{0}",
+      "summary": "Uy Lực Sau Cùng Kỹ Năng Phòng Thủ +{0}",
       "undefined": "-"
     },
     {
@@ -1679,7 +1679,7 @@
     },
     {
       "id": "VibrationExplosion",
-      "name": "Chấn Động",
+      "name": "Bộc Phát Chấn Động",
       "desc": "Nâng Ngưỡng Choáng của mục tiêu bằng với Giá Trị Chấn Động có trên mục tiêu"
     },
     {

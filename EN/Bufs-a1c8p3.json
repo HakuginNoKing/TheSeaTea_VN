@@ -8,8 +8,8 @@
     },
     {
       "id": "VibrationIgnition",
-      "name": "Chấn Động - Thiêu Đốt",
-      "desc": "- On Tremor Burst, take Wrath Damage equal to (sum of Tremor Potency and Burn Potency / 2), and lose 1 Burn Count\n- When hit by Skills that trigger Tremor Burst, raise this unit's Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
+      "name": "Chấn Động - Nung Cháy",
+      "desc": "- Khi dính Bộc Phát Chấn Động, nhận Sát Thương Phẫn Nộ bằng (tổng số Chấn Động và Thiêu Đốt / 2), đồng thời mất 1 Tầng Thiêu Đốt\n- Khi trúng phải Kĩ Năng kích hoạt Bộc Phát Chấn Động, tăng Ngưỡng Choáng của đơn vị này bằng Số của hiệu ứng\n- Kết Thúc Lượt: giảm 1 Tầng\n(Tương tác giống Chấn Động thông thường đối với các hiệu ứng tăng hoặc giảm Số/Tầng Chấn Động.)",
       "summary": ""
     },
     {

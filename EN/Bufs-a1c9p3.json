@@ -382,48 +382,48 @@
     },
     {
       "id": "FutureEyeOn",
-      "name": "Eye of Precognition",
-      "desc": "- Max Stack: 30\n- Clash Power +2\n- Turn Start: Gain 10 Stack\n- Turn Start: Heal (Stack / 4) SP",
+      "name": "Con Mắt Thấu Thị",
+      "desc": "- Cộng Dồn Tối Đa: 30\n- Uy Lực Đọ Sức +2\n- Bắt Đầu Lượt: Nhận 10 Cộng Dồn\n- Bắt đầu Lượt: Hồi (Cộng Dồn / 4) SP",
       "summary": "",
       "undefined": "-",
-      "flavor": "\"The eye does not possess some supernatural power that shows its user the destined future. It is more akin to a computing device that analyzes everything it sees and provides the most likely scenario in the upcoming instant.\""
+      "flavor": "\"Con mắt này không hề sở hữu thứ sức mạnh siêu nhiên nào giúp người dùng nhìn thấy tương lai định sẵn. Nó giống một cỗ máy tính toán phân tích mọi thứ quan sát được và đưa ra viễn cảnh có khả năng xảy ra cao nhất trong khoảnh khắc sắp tới hơn.\""
     },
     {
       "id": "FutureEyeOff",
-      "name": "Eye of Precognition - Overheat",
-      "desc": "- Max Stack: 30\n- Attack Skills deal -20% damage\n- Convert all Coins on Skills that spend Acceleration Round to Unbreakable Coins\n- Turn Start: Gain 10 Stack\n- At 30 Stack, convert into \"Eye of Precognition\"",
+      "name": "Con Mắt Thấu Thị - Quá Nhiệt",
+      "desc": "- Cộng Dồn Tối Đa: 30\n- Kỹ Năng Tấn Công gây -20% sát thương\n- Chuyển đổi toàn bộ Xu của Kỹ Năng có tiêu hao Đạn Gia Tốc thành Xu Không Thể Vỡ\n- Bắt Đầu Lượt: Nhận 10 Cộng Dồn\n- Ở mốc 30 Cộng Dồn, chuyển thành \"Con Mắt Thấu Thị\"",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "LookingFuture",
-      "name": "Accelerating Future",
-      "desc": "- Max Stack: 10\n- Clash Power +1 for every Stack\n- Coin Power +1 for every 5 Stack\n- Expires at Skill End",
+      "name": "Tăng Tốc Tương Lai",
+      "desc": "- Cộng Dồn Tối Đa: 10\n- Uy Lực Đọ Sức +1 với mỗi Cộng Dồn\n- Uy Lực Xu +1 với mỗi 5 Cộng Dồn\n- Mất hết khi Kết Thúc Kỹ Năng",
       "summary": "",
       "undefined": "-",
-      "flavor": "The Palermitan Style is known to accelerate the longer a duel lasts."
+      "flavor": "Kiếm Phái Palermitan nổi tiếng với khả năng gia tăng tốc độ khi trận giao đấu kéo dài."
     },
     {
       "id": "ObsessionAndGreed",
-      "name": "Shin (心) - Valencina",
-      "desc": "- Defense Level +3 for every instance of Clash Lose in the last turn (max 6)\n- Deal +3% damage for every Poise Potency on self (max 15%)",
+      "name": "Tâm (心) - Valencina",
+      "desc": "- Cấp Phòng Thủ +3 với mỗi lần Đọ Sức Thất Bại ở lượt trước (tối đa 6)\n- Gây +3% sát thương với mỗi Sắc Bén trên bản thân (tối đa 15%)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AccelBullet",
-      "name": "Acceleration Round",
-      "desc": "- Max Capacity: 10\n- Unique Ammo\n- Spent by certain Skills",
+      "name": "Đạn Gia Tốc",
+      "desc": "- Sức Chứa Tối Đa: 10\n- Đạn Đặc Biệt\n- Tiêu hao bởi một số Kỹ Năng",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TeachersPrey",
-      "name": "Game Target",
-      "desc": "Fix this unit's Speed to 1; all Attack Skills of \"The Thumb Nursefather - Valencina\" targets this unit",
+      "name": "Mục Tiêu Săn Bắn",
+      "desc": "Cố định tốc độ của đơn vị này thành 1; tất cả Kỹ Năng Tấn Công của \"Cha Đỡ Đầu Ngón Cái - Valencina\" đều nhắm vào đơn vị này",
       "summary": "",
       "undefined": "-",
-      "flavor": "Prey marked by Famiglia Bognatelli will be hunted down without fail."
+      "flavor": "Con mồi bị Famiglia Bognatelli đánh dấu sẽ bị săn lùng đến cùng, không đường thoát."
     },
     {
       "id": "AaCfPcBiv2",
@@ -663,14 +663,14 @@
     {
       "id": "ObsessedTeacher_LowMorale",
       "name": "Nỗi Nhục của Gia Tộc",
-      "desc": "- Turn Start: Nhận 1 Tăng Sát Thương Chém, 1 Tăng Uy Lực Đọ Sức, và 1 Suy Yếu\n- Không thể nhận Mang khi sử dụng Kỹ Năng",
+      "desc": "- Turn Start: Nhận 1 Tăng Sát Thương Chém, 1 Tăng Uy Lực Đọ Sức, và 1 Suy Yếu\n- Không thể nhận Vọng khi sử dụng Kỹ Năng",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ObsessedTeacher_Panic",
       "name": "Nỗi Nhục của Gia Tộc",
-      "desc": "- Turn Start: Nhận 2 Tăng Sát Thương Chém, 2 Tăng Uy Lực Đọ Sức, và 2 Suy Yếu\n- Không thể nhận Mang khi sử dụng Kỹ Năng",
+      "desc": "- Turn Start: Nhận 2 Tăng Sát Thương Chém, 2 Tăng Uy Lực Đọ Sức, và 2 Suy Yếu\n- Không thể nhận Vọng khi sử dụng Kỹ Năng",
       "summary": "",
       "undefined": "-"
     },
