@@ -157,14 +157,14 @@
     {
       "id": "IndexPrescriptTargetToEnemy",
       "name": "Mục Tiêu Sắc Lệnh",
-      "desc": "- Nhận +10% sát thương từ các đơn vị Ngón Trỏ\n- Hiệu ứng này chỉ được gắn cho một mục tiêu duy nhất mỗi lượt bất kể số lượng đơn vị Ngón Trỏ tham chiến",
+      "desc": "- Nhận +10% sát thương từ các đơn vị thuộc Ngón Trỏ\n- Hiệu ứng này chỉ được gắn cho một mục tiêu duy nhất mỗi lượt bất kể số lượng đơn vị thuộc Ngón Trỏ tham chiến",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BlessingOfIndexPrescriptAlly",
-      "name": "Đặc Ân Của Sắc Lệnh",
-      "desc": "- Cấp Tấn Công +1 cho mỗi 3 Tầng\n- Số Tầng Tối Đa: 9",
+      "name": "Đặc Ân Sắc Lệnh",
+      "desc": "- Cấp Tấn Công +1 cho mỗi 3 Ân Điển\n- Số Ân Điển Tối Đa: 9",
       "summary": "",
       "undefined": "-"
     },
