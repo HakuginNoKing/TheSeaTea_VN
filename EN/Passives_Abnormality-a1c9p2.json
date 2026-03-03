@@ -3,21 +3,21 @@
     {
       "id": 132203,
       "name": "Tàn Ảnh Chồng Lớp",
-      "desc": "Bắt Đầu Trận: Nhận [TimeEntangleFour]\nBắt đầu  lượt đầu tiên của mỗi  hình thái, nhận lượng [TimeGapAb] bằng ([TimeEntangleDesc] cấp x 400) (một lần mỗi [TimeEntangleDesc] cấp)\n\nỞ cấp 3 và 4 [TimeEntangleDesc], <color=#ff6000><mark=#ff000040><b><u>nếu đơn vị này mất toàn bộ [TimeGapAb], hình thái sẽ thay đổi và bị Choáng vào lượt sau</u></b></mark></color>\n\nNhận -30% sát thương HP và SP từ [Combustion], [Laceration], [Burst], and [Sinking]; 30% mức tăng Ngưỡng Choáng do [Vibration]",
+      "desc": "Bắt Đầu Trận: Nhận [TimeEntangleFour]\nBắt đầu lượt đầu tiên của mỗi hình thái, nhận lượng [TimeGapAb] bằng (cấp [TimeEntangleDesc] x 400) (một lần mỗi cấp [TimeEntangleDesc])\n\nỞ cấp 3 và 4 [TimeEntangleDesc], <color=#ff6000><mark=#ff000040><b><u>nếu đơn vị này mất toàn bộ [TimeGapAb], thay đổi kiểu tấn công và bị Choáng vào lượt sau</u></b></mark></color>\n\nNhận -30% sát thương HP và SP từ [Combustion], [Laceration], [Burst], và [Sinking]; 30% mức tăng Ngưỡng Choáng do [Vibration]",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": 132204,
       "name": "Dư Âm Tàn Ảnh",
-      "desc": "Khi Xu của đơn vị này đánh trúng, gây thêm sát thương Chém bằng (Sát thương sau cùng của Xu / 10)\n- Hiệu ứng này kích hoạt ([TimeEntangleDesc] cấp) lần; sát thương từ hiệu ứng này không thể làm Choáng mục tiêu",
+      "desc": "Khi Xu của đơn vị này đánh trúng, gây thêm sát thương Chém bằng (Sát thương sau cùng của Xu / 10)\n- Hiệu ứng này kích hoạt (cấp [TimeEntangleDesc]) lần; sát thương từ hiệu ứng này không thể làm Choáng mục tiêu",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": 132205,
       "name": "Tàn Ảnh Xé Rách Từ Vạn Khoảnh Khắc",
-      "desc": "Kết Đòn: Gây (Số Xu Chém đã Bạo Kích × 10) sát thương Chém lên mỗi mục tiêu) (Sát thương từ hiệu ứng này không thể gây Choáng mục tiêu)\n\nKết Đòn: Tiêu thụ toàn bộ số [Breath] vượt quá 20 của bản thân và gắn [PhantomIncision] lên mục tiêu bằng đúng Số [Breath] đã tiêu hao",
+      "desc": "Kết Đòn: Gây (Số Xu Chém đã Bạo Kích × 10) sát thương Chém lên mỗi mục tiêu) (Sát thương từ hiệu ứng này không thể gây Choáng mục tiêu)\n\nKết Đòn: Tiêu thụ toàn bộ Số [Breath] vượt quá 20 của bản thân và gắn [PhantomIncision] lên mục tiêu bằng đúng Số [Breath] đã tiêu hao",
       "summary": "",
       "undefined": "-"
     },
@@ -32,7 +32,7 @@
     {
       "id": 132216,
       "name": "'Ta Sẽ Nương Tay Một Chút'",
-      "desc": "Gây -50% sát thương sau cùng bằng Kỹ Năng của đơn vị này lên mục tiêu đã sử dụng Kỹ Năng Phòng Thủ\n\nKết Lượt: Nhận 2 [Vulnerable] và 2 [AttackDmgUp] mỗi 4 lượt trong Trận này (cộng dồn; tối đa 2 lần mỗi Trận)",
+      "desc": "Gây -50% sát thương sau cùng bằng Kỹ Năng của đơn vị này lên mục tiêu đã sử dụng Kỹ Năng Phòng Thủ\n\nKết Thúc Lượt: Nhận 2 [Vulnerable] và 2 [AttackDmgUp] mỗi 4 lượt trong Trận này (cộng dồn; tối đa 2 lần mỗi Trận)",
       "summary": "",
       "undefined": "-"
     },
@@ -139,7 +139,7 @@
     {
       "id": 132230,
       "name": "Panic Recovery",
-      "desc": "Turn End: if in Panic, reset SP to 30.",
+      "desc": "Kết Thúc Lượt: Nếu bị Hoảng Loạn, đặt SP về 30.",
       "summary": "",
       "undefined": "-"
     }

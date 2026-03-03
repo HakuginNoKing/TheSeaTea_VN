@@ -551,7 +551,7 @@
         {
           "level": 1,
           "name": "Vô Hình Trảm [無形斬]",
-          "desc": "[WideAreaRampage]\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ; không thể bị Choáng cho đến khi Kỹ Năng này kết thúc\n[DefeatDuel] Gây ra -80% sát thương và sát thương gây ra bởi Kỹ Năng này không thể làm Choáng mục tiêu",
+          "desc": "[WideAreaRampage]\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ; không thể bị Choáng cho đến khi Kỹ Năng này kết thúc\n[DefeatDuel] Gây -80% sát thương và sát thương gây ra bởi Kỹ Năng này không thể làm Choáng mục tiêu",
           "coinlist": [
             {
               "coindescs": [
@@ -582,7 +582,7 @@
         {
           "level": 1,
           "name": "Không Gian Trảm [空間斬]",
-          "desc": "Có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ; không thể bị Choáng cho đến khi Kỹ Năng này kết thúc\n[DefeatDuel] Gây ra -80% sát thương và sát thương gây ra bởi Kỹ Năng này không thể làm Choáng mục tiêu\n[EndSkill] Kết thúc lượt",
+          "desc": "Có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ; không thể bị Choáng cho đến khi Kỹ Năng này kết thúc\n[DefeatDuel] Gây -80% sát thương và sát thương gây ra bởi Kỹ Năng này không thể làm Choáng mục tiêu\n[EndSkill] Kết thúc lượt",
           "coinlist": [
             {
               "coindescs": [
@@ -593,7 +593,7 @@
                   "desc": "+100% Sát Thương khi Bạo Kích"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tiêu Thụ toàn bộ [PhantomIncision] trên mục tiêu</u></b></mark></color> và gây sát thương bằng ([PhantomIncision] đã tiêu thụ)% HP lên từng mục tiêu tương ứng "
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tiêu Thụ toàn bộ [PhantomIncision] trên mục tiêu</u></b></mark></color> và gây sát thương bằng (lượng [PhantomIncision] đã tiêu thụ)% HP lên từng mục tiêu tương ứng "
                 }
               ]
             }
@@ -650,14 +650,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gắn 1 [PhantomIncision] với mỗi 1% HP mất đi của mục tiêu"
+                  "desc": "[OnSucceedAttack] Gắn 1 [PhantomIncision] với mỗi 1% HP đã mất của mục tiêu"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tiêu thụ toàn bộ [PhantomIncision] trên mục tiêu</u></b></mark></color> và gây sát thương bằng ([PhantomIncision] đã tiêu)% HP "
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tiêu thụ toàn bộ [PhantomIncision] trên mục tiêu</u></b></mark></color> và gây sát thương bằng (lượng [PhantomIncision] đã tiêu thụ)% HP "
                 }
               ]
             }
@@ -671,7 +671,7 @@
         {
           "level": 1,
           "name": "Không Gian Trảm - Duyên [空間斬-緣]",
-          "desc": "[WhenUse] Ở 10+ SP, tạo 1 Vọng; +5 Uy Lực Sau Cùng\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ; không thể bị Choáng cho đến khi Kỹ Năng này kết thúc\n[DefeatDuel] Gây ra -80% sát thương và sát thương gây ra bởi Kỹ Năng này không thể làm Choáng mục tiêu\n[EndSkill] Nếu Kỹ Năng này đã tạo ra Vọng, mất 10 SP\n[EndSkill] Kết thúc lượt",
+          "desc": "[WhenUse] Ở 10+ SP, tạo 1 Vọng; +5 Uy Lực Sau Cùng\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ; không thể bị Choáng cho đến khi Kỹ Năng này kết thúc\n[DefeatDuel] Gây -80% sát thương và sát thương gây ra bởi Kỹ Năng này không thể làm Choáng mục tiêu\n[EndSkill] Nếu Kỹ Năng này tạo Vọng, mất 10 SP\n[EndSkill] Kết thúc lượt",
           "flavor": "Một kiếm thức xé rách không gian. Phá vỡ kết giới hư không vốn là chí nguyện của những kẻ lấy kiếm làm sinh mệnh – kỳ công gian khổ chỉ có thể đạt được sau khi bước qua những lối tu hành dị biệt.",
           "coinlist": [
             {
@@ -683,7 +683,7 @@
                   "desc": "+100% Sát Thương khi Bạo Kích"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tiêu thụ toàn bộ [PhantomIncision] trên mục tiêu</u></b></mark></color> và gây sát thương bằng([PhantomIncision] đã tiêu thụ)% HP lên từng mục tiêu tương ứng"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tiêu thụ toàn bộ [PhantomIncision] trên mục tiêu</u></b></mark></color> và gây sát thương bằng(lượng [PhantomIncision] đã tiêu thụ)% HP lên từng mục tiêu tương ứng"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Nhận 1 [Breath]"
