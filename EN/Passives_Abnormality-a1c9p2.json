@@ -2,37 +2,37 @@
   "dataList": [
     {
       "id": 132203,
-      "name": "Superposed Afterimage",
-      "desc": "Encounter Start: Gain [TimeEntangleFour]\nAt the start of the first turn of each pattern, gain [TimeGapAb] equal to ([TimeEntangleDesc] stage x 400) (once per [TimeEntangleDesc] stage)\n\nAt stage 3 and 4 [TimeEntangleDesc], <color=#ff6000><mark=#ff000040><b><u>if this unit loses all [TimeGapAb], the pattern changes and become Staggered for the next turn</u></b></mark></color>\n\nTake -30% HP, SP damage from [Combustion], [Laceration], [Burst], and [Sinking]; -30% to Stagger Threshold raised by [Vibration]",
+      "name": "Tàn Ảnh Chồng Lớp",
+      "desc": "Bắt Đầu Trận: Nhận [TimeEntangleFour]\nBắt đầu  lượt đầu tiên của mỗi  hình thái, nhận lượng [TimeGapAb] bằng ([TimeEntangleDesc] cấp x 400) (một lần mỗi [TimeEntangleDesc] cấp)\n\nỞ cấp 3 và 4 [TimeEntangleDesc], <color=#ff6000><mark=#ff000040><b><u>nếu đơn vị này mất toàn bộ [TimeGapAb], hình thái sẽ thay đổi và bị Choáng vào lượt sau</u></b></mark></color>\n\nNhận -30% sát thương HP và SP từ [Combustion], [Laceration], [Burst], and [Sinking]; 30% mức tăng Ngưỡng Choáng do [Vibration]",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": 132204,
-      "name": "Afterimage Reverberation",
-      "desc": "On hit with this unit's Coin, deal Slash damage equal to (the Coin's final damage / 10)\n- This effect activates ([TimeEntangleDesc] stage) times; damage from this effect cannot Stagger target",
+      "name": "Dư Âm Tàn Ảnh",
+      "desc": "Khi Xu của đơn vị này đánh trúng, gây thêm sát thương Chém bằng (Sát thương sau cùng của Xu / 10)\n- Hiệu ứng này kích hoạt ([TimeEntangleDesc] cấp) lần; sát thương từ hiệu ứng này không thể làm Choáng mục tiêu",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": 132205,
-      "name": "Lacerating Afterimages from Myriad Moments",
-      "desc": "Attack Skill End: Deal (# of Slash Coins that hit Critically x 10) Slash damage against each target) (damage from this effect cannot Stagger target)\n\nAttack Skill End: Consume every surplus [Breath] Potency past 20 on self and inflict [PhantomIncision] to target by [Breath] Potency consumed",
+      "name": "Tàn Ảnh Xé Rách Từ Vạn Khoảnh Khắc",
+      "desc": "Kết Đòn: Gây (Số Xu Chém đã Bạo Kích × 10) sát thương Chém lên mỗi mục tiêu) (Sát thương từ hiệu ứng này không thể gây Choáng mục tiêu)\n\nKết Đòn: Tiêu thụ toàn bộ số [Breath] vượt quá 20 của bản thân và gắn [PhantomIncision] lên mục tiêu bằng đúng Số [Breath] đã tiêu hao",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": 132208,
-      "name": "Unsheathing Dihui Star's Blade",
-      "desc": "Use a powerful attack pattern every 4 turns\n- At 50+ [PhantomIncisionTotal], the pattern above becomes empowered",
+      "name": "Khai Vỏ Địa Tuệ Tinh Đao",
+      "desc": "Sử dụng một chuỗi công kích mạnh mẽ sau mỗi 4 lượt.\n- Ở 50+ [PhantomIncisionTotal], chuỗi công kích trên được cường hoá",
       "summary": "",
       "undefined": "-",
-      "flavor": "'... I'm weary of this stigma of a blade.'"
+      "flavor": "'… Ta đã mệt mỏi với cái định mệnh mang tên lưỡi kiếm này.'"
     },
     {
       "id": 132216,
-      "name": "'I Shall Give You Some Quarter'",
-      "desc": "Deal -50% final damage with this unit's Skill against targets that used Defense Skill\n\nTurn End: Gain 2 [Vulnerable] and 2 [AttackDmgUp] every 4 turn in this Encounter (applies cumulatively; max 2 times per Encounter)",
+      "name": "'Ta Sẽ Nương Tay Một Chút'",
+      "desc": "Gây -50% sát thương sau cùng bằng Kỹ Năng của đơn vị này lên mục tiêu đã sử dụng Kỹ Năng Phòng Thủ\n\nKết Lượt: Nhận 2 [Vulnerable] và 2 [AttackDmgUp] mỗi 4 lượt trong Trận này (cộng dồn; tối đa 2 lần mỗi Trận)",
       "summary": "",
       "undefined": "-"
     },

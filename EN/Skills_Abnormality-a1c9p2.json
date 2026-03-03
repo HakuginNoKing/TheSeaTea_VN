@@ -460,20 +460,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Twinslash [二連]",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Nhị Liên [二連]",
+          "desc": "[WhenUse] Nhận +2 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
                 }
               ]
             }
@@ -486,27 +486,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tripleslash [三連]",
-          "desc": "[WhenUse] Gain +3 [Breath] Count",
+          "name": "Tam Liên [三連]",
+          "desc": "[WhenUse] Nhận +3 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
                 }
               ]
             }
@@ -519,8 +519,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swift Glimmer [快閃]",
-          "desc": "[OnDirectAttack] Gain 5 [Breath]\n[DefeatDuel] -2 Atk Weight",
+          "name": "Khoái Thiểm [快閃]",
+          "desc": "[OnDirectAttack] Nhận 5 [Breath]\n[DefeatDuel] -2 Phạm Vi Đòn Đánh",
           "coinlist": [
             {
               "coindescs": [
@@ -528,16 +528,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "+30% Sát Thương khi Bạo Kích"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 2 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PhantomIncision]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [PhantomIncision]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [PhantomIncision]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn 1 [PhantomIncision]"
                 }
               ]
             }
@@ -550,8 +550,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Formless Cut [無形斬]",
-          "desc": "[WideAreaRampage]\nCan Clash with this Skill regardless of Speed; cannot be Staggered until this Skill ends\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "name": "Vô Hình Trảm [無形斬]",
+          "desc": "[WideAreaRampage]\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ; không thể bị Choáng cho đến khi Kỹ Năng này kết thúc\n[DefeatDuel] Gây ra -80% sát thương và sát thương gây ra bởi Kỹ Năng này không thể làm Choáng mục tiêu",
           "coinlist": [
             {
               "coindescs": [
@@ -559,16 +559,16 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Reuse this Coin (4 times max)"
+                  "desc": "Tái sử dụng Xu này (tối đa 4 lần)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Nhận 1 [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PhantomIncision]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [PhantomIncision]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [PhantomIncision]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gắn 1 [PhantomIncision]"
                 }
               ]
             }
@@ -581,8 +581,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rend Space [空間斬]",
-          "desc": "Can Clash with this Skill regardless of Speed; cannot be Staggered until this Skill ends\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] End this turn",
+          "name": "Không Gian Trảm [空間斬]",
+          "desc": "Có thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ; không thể bị Choáng cho đến khi Kỹ Năng này kết thúc\n[DefeatDuel] Gây ra -80% sát thương và sát thương gây ra bởi Kỹ Năng này không thể làm Choáng mục tiêu\n[EndSkill] Kết thúc lượt",
           "coinlist": [
             {
               "coindescs": [
@@ -590,10 +590,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "+100% Damage on Critical Hit"
+                  "desc": "+100% Sát Thương khi Bạo Kích"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Consume all [PhantomIncision] on target</u></b></mark></color> and deal ([PhantomIncision] consumed)% HP damage against each target, respectively "
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tiêu Thụ toàn bộ [PhantomIncision] trên mục tiêu</u></b></mark></color> và gây sát thương bằng ([PhantomIncision] đã tiêu thụ)% HP lên từng mục tiêu tương ứng "
                 }
               ]
             }
@@ -606,8 +606,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Phantom Step [殘像步]",
-          "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Halve the [PhantomIncision] Stack on target</u></b></mark></color> (rounded down)\n[DefeatDuel] Lose 5 SP",
+          "name": "Tàn Tượng Bộ [殘像步]",
+          "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Giảm một nửa [PhantomIncision] trên mục tiêu</u></b></mark></color> (làm tròn xuống)\n[DefeatDuel] Mất 5 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -625,8 +625,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Silent Regard",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Gain 2 [Reduction]</u></b></mark></color>\n[DefeatDuel] Target heals 5 SP",
+          "name": "Ánh Nhìn Lặng Thinh",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Nhận 2 [Reduction]</u></b></mark></color>\n[DefeatDuel] Mục tiêu hồi 5 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -644,20 +644,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Deathedge [絶命]",
-          "desc": "This Skill does not trigger the target's Defense Skill\nPrioritizes the target with the least HP percentage\n- Prioritizes targets that aren't Ryōshū",
+          "name": "Tuyệt Mệnh [絶命]",
+          "desc": "Kỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu\nƯu tiên tấn công mục tiêu có tỷ lệ HP thấp nhất\n- Ưu tiên tấn công những mục tiêu không phải Ryōshū",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PhantomIncision] for every 1% missing HP on target"
+                  "desc": "[OnSucceedAttack] Gắn 1 [PhantomIncision] với mỗi 1% HP mất đi của mục tiêu"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Consume all [PhantomIncision] on target</u></b></mark></color> and deal ([PhantomIncision] consumed)% HP damage "
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tiêu thụ toàn bộ [PhantomIncision] trên mục tiêu</u></b></mark></color> và gây sát thương bằng ([PhantomIncision] đã tiêu)% HP "
                 }
               ]
             }
@@ -670,9 +670,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rend Space - String Connection [空間斬-緣]",
-          "desc": "[WhenUse] At 10+ SP, generate 1 Mang. Final Power +5\nCan Clash with this Skill regardless of Speed; cannot be Staggered until this Skill ends\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] If this skill generated 1 Mang, lose 10 SP\n[EndSkill] End this turn",
-          "flavor": "A technique that cuts through space itself. Sundering the fabric of space has long been the ambition of those who live by the sword—a hard-won feat reached through divergent disciplines.",
+          "name": "Không Gian Trảm - Duyên [空間斬-緣]",
+          "desc": "[WhenUse] Ở 10+ SP, tạo 1 Vọng; +5 Uy Lực Sau Cùng\nCó thể Đọ Sức với Kỹ Năng này bất kể Tốc Độ; không thể bị Choáng cho đến khi Kỹ Năng này kết thúc\n[DefeatDuel] Gây ra -80% sát thương và sát thương gây ra bởi Kỹ Năng này không thể làm Choáng mục tiêu\n[EndSkill] Nếu Kỹ Năng này đã tạo ra Vọng, mất 10 SP\n[EndSkill] Kết thúc lượt",
+          "flavor": "Một kiếm thức xé rách không gian. Phá vỡ kết giới hư không vốn là chí nguyện của những kẻ lấy kiếm làm sinh mệnh – kỳ công gian khổ chỉ có thể đạt được sau khi bước qua những lối tu hành dị biệt.",
           "coinlist": [
             {
               "coindescs": [
@@ -680,13 +680,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "+100% Damage on Critical Hit"
+                  "desc": "+100% Sát Thương khi Bạo Kích"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Consume all [PhantomIncision] on target</u></b></mark></color> and deal ([PhantomIncision] consumed)% HP damage against each target, respectively"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Tiêu thụ toàn bộ [PhantomIncision] trên mục tiêu</u></b></mark></color> và gây sát thương bằng([PhantomIncision] đã tiêu thụ)% HP lên từng mục tiêu tương ứng"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[CriticalOnSucceedAttack] Nhận 1 [Breath]"
                 }
               ]
             }
