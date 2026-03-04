@@ -2676,13 +2676,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Have Failed to Stop the Future - Scartrail Slash [殘痕斬]",
-          "desc": "Can Clash with this Skill regardless of Speed; cannot be Staggered until this Skill ends\n[StartBattle] Gain 1 [AttackDmgDown] for every enemy that has equipped Defense Skill this turn (max 5)\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "name": "Người Chẳng Thể Ngăn Cản Tương Lai - Tàn Ngân Trảm[殘痕斬]",
+          "desc": "Có thể Đọ Sức với Kỹ Năng này ở Bất kể Tốc Độ nào;không thể bị Choáng cho đến khi Kỹ Năng này kết thúc\n[StartBattle] Nhận 1 [AttackDmgDown] cho mỗi kẻ địch sử dụng Kỹ Năng Phòng Thủ trong lượt này (tối đa 5)\n[DefeatDuel] -80% sát thương và sát thương gây ra bởi Kỹ Năng này không thể làm Choáng mục tiêu",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has <color=#ff6000><mark=#ff000040><b><u>[SojiAbiBuffOne], [SojiAbiBuffTwo], or [SojiAbiBuffThree],</u></b></mark></color> deal (this Coin's Final Power x 5) Pride damage to target"
+                  "desc": "[OnSucceedAttack] Nếu mục tiêu có <color=#ff6000><mark=#ff000040><b><u>[SojiAbiBuffOne], [SojiAbiBuffTwo], hoặc [SojiAbiBuffThree],</u></b></mark></color> gây (Uy Lực sau cùng của Xu x 5) sát thương Kiêu Ngạo cho mục tiêu"
                 }
               ]
             }
