@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": 0,
-      "place": "LCE Research Team\nLab. Sector",
+      "place": "Đội Nghiên Cứu LCE\nPhòng Thí Nghiệm",
       "model": "이스마엘",
       "content": "Cho tôi 7 con ốc số 3 được không?"
     },
@@ -408,7 +408,7 @@
       "id": 83,
       "model": "파우스트",
       "content": "Việc sửa chữa Hành Lang đã đủ tiến triển để chúng tôi khám phá phân cảnh này chưa, Hohenheim?"
-    }
+    },
     {
       "id": 84,
       "model": "호엔하임",
@@ -456,7 +456,7 @@
     },
     {
       "id": 93,
-      "place": "Hành Lang Phòng Ban Phúc Lợi Trụ Sở Tập Đoàn L.",
+      "place": "Hành Lang Phòng Ban Phúc Lợi \nTrụ Sở Tập Đoàn L.",
       "model": "싱클레어",
       "content": "Hừmmm, phải rồi. Để xem… chúng ta đang ở khu của \"Phòng Ban Phúc Lợi\". Có lẽ mọi thứ đều màu xanh dương vì đó là màu chủ đạo của họ chăng?"
     },
