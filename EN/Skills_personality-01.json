@@ -2920,7 +2920,7 @@
         {
           "level": 4,
           "name": "Furioso-Replica",
-          "desc": "[WideAreaRampage]\nChỉ duy nhất 1 bản sao của Kỹ Năng này có thể có trên Bảng Điều Khiển\nNếu Kỹ Năng này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], gây +10% sát thương\nUy Lực Xu của Kỹ Năng này không thay đổi; thay vào đó, với mỗi tổng Uy Lực Xu được tăng, Uy Lực Sau Cùng +5 <style=\"highlight\">và gây +25% sát thương</style> (Kỹ Năng này không bị ảnh hưởng bởi [Paralysis])\n<style=\"highlight\">Uy Lực Sau Cùng +1 với mỗi 6 ([Breath] trên bản thân + [Sinking] trên mục tiêu chính) (Tối đa 2)</style>\n[StartBattle]\n- Biến đổi tất cả Xu trên Kỹ Năng này thành [SuperCoin]\n- Gắn 1 [Sinking] hoặc nhận 1 [Breath] với mỗi đòn đánh của Kỹ Năng này\n- Không thể nhận [StackYisangSpecialSkill] trong lượt này\n[WhenUse]\n- Uy Lực Đọ Sức +3\n- Nhận 3 [Breath] và +3 Cộng Dồn [Breath]\n[EndSkill]\n- Gắn 5 [Combustion], 3 [Binding], và 3 [Vulnerable] vào lượt tiếp theo với mỗi mục tiêu bị đơn vị này đánh trúng\n- Tiêu tốn toàn bộ [StackYisangSpecialSkill]",
+          "desc": "[WideAreaRampage]\nChỉ duy nhất 1 bản sao của Kỹ Năng này có thể có trên Bảng Điều Khiển\nNếu Kỹ Năng này được đánh dấu bởi [IndexPrescriptTargetMarkToEnemy], gây thêm 10% sát thương\nUy Lực Xu của Kỹ Năng này không thay đổi; thay vào đó, với mỗi tổng Uy Lực Xu được tăng, Uy Lực Sau Cùng +5 <style=\"highlight\">và gây thêm 25% sát thương</style> (Kỹ Năng này không bị ảnh hưởng bởi [Paralysis])\n<style=\"highlight\">Uy Lực Sau Cùng +1 với mỗi 6 ([Breath] trên bản thân + [Sinking] trên mục tiêu chính) (Tối đa 2)</style>\n[StartBattle]\n- Biến đổi tất cả Xu trên Kỹ Năng này thành [SuperCoin]\n- Gắn 1 [Sinking] hoặc nhận 1 [Breath] với mỗi đòn đánh của Kỹ Năng này\n- Không thể nhận [StackYisangSpecialSkill] trong lượt này\n[WhenUse]\n- Uy Lực Đọ Sức +3\n- Nhận 3 [Breath] và +3 Cộng Dồn [Breath]\n[EndSkill]\n- Gắn 5 [Combustion], 3 [Binding], và 3 [Vulnerable] vào lượt tiếp theo với mỗi mục tiêu bị đơn vị này đánh trúng\n- Tiêu tốn toàn bộ [StackYisangSpecialSkill]",
           "coinlist": [
             {},
             {},
@@ -2936,7 +2936,7 @@
                   "desc": "Vũ Khí được đặt cho Xu này chắc chắn là Lưỡi Hái<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">Gây +90% sát thương khi Chí Mạng</style>"
+                  "desc": "<style=\"highlight\">Gây thêm 90% sát thương khi Chí Mạng</style>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Gắn +3 Cộng Dồn [Sinking]<style=\"highlight\"></style>"

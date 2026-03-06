@@ -32,7 +32,7 @@
     {
       "id": 132216,
       "name": "'Ta Sẽ Nương Tay Một Chút'",
-      "desc": "Gây -50% sát thương sau cùng bằng Kỹ Năng của đơn vị này lên mục tiêu đã sử dụng Kỹ Năng Phòng Thủ\n\nKết Thúc Lượt: Nhận 2 [Vulnerable] và 2 [AttackDmgUp] mỗi 4 lượt trong Trận này (cộng dồn; tối đa 2 lần mỗi Trận)",
+      "desc": "Giảm 50% sát thương sau cùng bằng Kỹ Năng của đơn vị này lên mục tiêu đã sử dụng Kỹ Năng Phòng Thủ\n\nKết Thúc Lượt: Nhận 2 [Vulnerable] và 2 [AttackDmgUp] mỗi 4 lượt trong Trận này (cộng dồn; tối đa 2 lần mỗi Trận)",
       "summary": "",
       "undefined": "-"
     },

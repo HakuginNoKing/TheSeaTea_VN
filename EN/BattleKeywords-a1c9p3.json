@@ -391,7 +391,7 @@
     {
       "id": "FutureEyeOff",
       "name": "Con Mắt Thấu Thị - Quá Nhiệt",
-      "desc": "- Cộng dồn Tối Đa: 30\n- Kỹ Năng Tấn Công gây -20% sát thương\n- Chuyển đổi toàn bộ Xu của Kỹ Năng có tiêu hao Đạn Gia Tốc thành Xu Không Thể Vỡ\n- Bắt Đầu Lượt: Nhận 10 Cộng Dồn\n- Ở mốc 30 Cộng Dồn, chuyển thành \"Con Mắt Thấu Thị\"",
+      "desc": "- Cộng dồn Tối Đa: 30\n- Kỹ Năng Tấn Công giảm 20% sát thương\n- Chuyển đổi toàn bộ Xu của Kỹ Năng có tiêu hao Đạn Gia Tốc thành Xu Không Thể Vỡ\n- Bắt Đầu Lượt: Nhận 10 Cộng Dồn\n- Ở mốc 30 Cộng Dồn, chuyển thành \"Con Mắt Thấu Thị\"",
       "summary": "",
       "undefined": "-"
     },
@@ -406,7 +406,7 @@
     {
       "id": "ObsessionAndGreed",
       "name": "Tâm (心) - Valencina",
-      "desc": "- Cấp Phòng Thủ +3 với mỗi lần Đọ Sức Thất Bại ở lượt trước (tối đa 6)\n- Gây +3% sát thương với mỗi Sắc Bén trên bản thân (tối đa 15%)",
+      "desc": "- Cấp Phòng Thủ +3 với mỗi lần Đọ Sức Thất Bại ở lượt trước (tối đa 6)\n- Gây thêm 3% sát thương với mỗi Sắc Bén trên bản thân (tối đa 15%)",
       "summary": "",
       "undefined": "-"
     },

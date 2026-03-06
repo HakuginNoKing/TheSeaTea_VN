@@ -2750,19 +2750,19 @@
     {
       "id": 1011501,
       "name": "Mô Phỏng Một Cuộc Đời",
-      "desc": "Các Kỹ Năng có [IndexPrescriptTargetMarkToEnemy] gây +2% sát thương cho mỗi [BlessingOfIndexPrescriptAlly] trên bản thân (Tối đa 16%)\n- Khi đạt 9 [BlessingOfIndexPrescriptAlly], Các Kỹ Năng Cơ Bản thay vào đó sẽ gây +20% sát thương\n\nKhi Tung Đòn bằng [SuperCoin] của Kỹ Năng Tấn Công Cơ Bản, nhận 1 [StackYisangSpecialSkill]\n- Kết Đòn: Nhận [StackYisangSpecialSkill] tương ứng với (Số [SuperCoin] còn lại)",
+      "desc": "Các Kỹ Năng có [IndexPrescriptTargetMarkToEnemy] gây thêm 2% sát thương cho mỗi [BlessingOfIndexPrescriptAlly] trên bản thân (Tối đa 16%)\n- Khi đạt 9 [BlessingOfIndexPrescriptAlly], Các Kỹ Năng Cơ Bản thay vào đó sẽ gây thêm 20% sát thương\n\nKhi Tung Đòn bằng [SuperCoin] của Kỹ Năng Tấn Công Cơ Bản, nhận 1 [StackYisangSpecialSkill]\n- Kết Đòn: Nhận [StackYisangSpecialSkill] tương ứng với (Số [SuperCoin] còn lại)",
       "summary": "Gây thêm sát thương với các Kỹ Năng có Dấu Ấn Sắc Lệnh dựa trên số Tầng Ý Chỉ Sắc Lệnh trên bản thân\nTung Đòn: hồi SP\nNhận [StackYisangSpecialSkill] khi thỏa mãn điều kiện nhất định"
     },
     {
       "id": 1011511,
       "name": "Mô Phỏng Một Cuộc Đời",
-      "desc": "Các Kỹ Năng có [IndexPrescriptTargetMarkToEnemy] gây +2% sát thương cho mỗi [BlessingOfIndexPrescriptAlly] trên bản thân (Tối đa 16%)\n- Khi đạt 9 [BlessingOfIndexPrescriptAlly], Các Kỹ Năng Cơ Bản thay vào đó sẽ gây +20% sát thương\n\nKhi Tung Đòn bằng [SuperCoin] của Kỹ Năng Tấn Công Cơ Bản, nhận 1 [StackYisangSpecialSkill]\n- Kết Đòn: Nhận [StackYisangSpecialSkill] tương ứng với (Số [SuperCoin] còn lại)\n<style=\"highlight\">- Kết Đòn 'Furioso-Replica': Nhận [StackYisangSpecialSkill] vào lượt tiếp theo tương ứng với (Số [SuperCoin] còn lại của Kỹ Năng này / 2) (làm tròn xuống)</style>\n\n<style=\"highlight\">Nếu [StackYisangSpecialSkill] khi Kết Thúc Lượt đạt 9 Tầng, và nếu đơn vị này không có Kỹ Năng 3 trên Bảng Điều Khiển khi bắt đầu lượt tiếp theo, biến đổi một Kỹ Năng Cơ Bản thành Kỹ Năng 3 (ưu tiên Kỹ Năng ở ô dưới cùng hàng dưới bên trái)</style>",
+      "desc": "Các Kỹ Năng có [IndexPrescriptTargetMarkToEnemy] gây thêm 2% sát thương cho mỗi [BlessingOfIndexPrescriptAlly] trên bản thân (Tối đa 16%)\n- Khi đạt 9 [BlessingOfIndexPrescriptAlly], Các Kỹ Năng Cơ Bản thay vào đó sẽ gây thêm 20% sát thương\n\nKhi Tung Đòn bằng [SuperCoin] của Kỹ Năng Tấn Công Cơ Bản, nhận 1 [StackYisangSpecialSkill]\n- Kết Đòn: Nhận [StackYisangSpecialSkill] tương ứng với (Số [SuperCoin] còn lại)\n<style=\"highlight\">- Kết Đòn 'Furioso-Replica': Nhận [StackYisangSpecialSkill] vào lượt tiếp theo tương ứng với (Số [SuperCoin] còn lại của Kỹ Năng này / 2) (làm tròn xuống)</style>\n\n<style=\"highlight\">Nếu [StackYisangSpecialSkill] khi Kết Thúc Lượt đạt 9 Tầng, và nếu đơn vị này không có Kỹ Năng 3 trên Bảng Điều Khiển khi bắt đầu lượt tiếp theo, biến đổi một Kỹ Năng Cơ Bản thành Kỹ Năng 3 (ưu tiên Kỹ Năng ở ô dưới cùng hàng dưới bên trái)</style>",
       "summary": "Gây thêm sát thương với các Kỹ Năng có Dấu Ấn Sắc Lệnh dựa trên số Tầng Ý Chỉ Sắc Lệnh trên bản thân\nTung Đòn: hồi SP\nNhận [StackYisangSpecialSkill] khi thỏa mãn điều kiện nhất định"
     },
     {
       "id": 1011521,
       "name": "Đặc Ân Của Thần",
-      "desc": "Gây +5% sát thương đối với các Kỹ Năng Tấn Công Cơ Bản dạng Chém, Đập, Đâm được sử dụng lần đầu tiên bởi bất kỳ đồng minh nào trong mỗi lượt (một lần mỗi loại giữa các đồng minh)\n- Danh Tính Ngón Trỏ thay vào đó gây +10% sát thương\n- Hiệu ứng này được áp dụng Trước Khi Tấn Công",
+      "desc": "Gây thêm 5% sát thương đối với các Kỹ Năng Tấn Công Cơ Bản dạng Chém, Đập, Đâm được sử dụng lần đầu tiên bởi bất kỳ đồng minh nào trong mỗi lượt (một lần mỗi loại giữa các đồng minh)\n- Danh Tính Ngón Trỏ thay vào đó gây thêm 10% sát thương\n- Hiệu ứng này được áp dụng Trước Khi Tấn Công",
       "summary": "Gây thêm sát thương với các Kỹ Năng Chém, Đâm, và Đập được sử dụng lần đầu tiên trong mỗi lượt"
     },
     {
