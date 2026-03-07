@@ -1578,11 +1578,11 @@
     },
     {
       "id": "formation_force_abstain",
-      "content": "Cannot Deploy"
+      "content": "Không Thể Triển Khai"
     },
     {
       "id": "formation_view_detail",
-      "content": "Details"
+      "content": "Thông Tin"
     },
     {
       "id": "only_hyphen",
