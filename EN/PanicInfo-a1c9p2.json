@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": 1070,
-      "panicName": "Affection and Resentment",
-      "lowMoraleDescription": "Deal +10% damage to and take +10% damage from Ryōshū",
-      "panicDescription": "Deal +20% damage to and take +10% damage from Ryōshū"
+      "panicName": "Yêu Thương và Oán Hận",
+      "lowMoraleDescription": "Gây thêm và nhận vào thêm 10% sát thương từ Ryōshū",
+      "panicDescription": "Gây thêm 20% sát thương và nhận vào thêm 10% sát thương từ Ryōshū"
     },
     {
       "id": 1074,
