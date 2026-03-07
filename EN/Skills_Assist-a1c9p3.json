@@ -1321,23 +1321,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Downward Swing",
-          "desc": "[WhenUse] At 6+ Speed, deal +20% damage\n[WhenUse] Gain 4 [Breath] and +2 [Breath] Count",
+          "name": "Trảm Hạ",
+          "desc": "[WhenUse] Ở 6+ Tốc Độ, gây thêm 20% sát thương\n[WhenUse] Nhận 4 [Breath] và +2 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Gắn +1 Tầng [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Burst]"
+                  "desc": "[OnSucceedAttack] Gắn 8 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 5 [Laceration]"
                 }
               ]
             }
@@ -1350,23 +1350,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Halberd Combo",
-          "desc": "[WhenUse] At 6+ Speed, deal +30% damage\n[WhenUse] Gain 1 [Breath] and +3 [Breath] Count\n[WinDuel] Deal +30% damage",
+          "name": "Liên Kích",
+          "desc": "[WhenUse] Ở 6+ Tốc Độ, gây thêm 30% sát thương\n[WhenUse] Nhận 1 [Breath] và +3 Tầng [Breath]\n[WinDuel] Gây thêm 30% sát thương",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Gắn +2 Tầng [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Burst]"
+                  "desc": "[OnSucceedAttack] Gắn 5 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 6 [Laceration]"
                 }
               ]
             }
@@ -1379,27 +1379,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Trench-specialized Spear Combat",
-          "desc": "[WhenUse] At 7+ Speed, deal +40% damage\n[WhenUse] Gain +4 [Breath] Count\n[WinDuel] Gain 1 [Enhancement]",
+          "name": "Thương Pháp Chiến Hào",
+          "desc": "[WhenUse] Ở 7+ Tốc Độ, gây thêm 40% sát thương\n[WhenUse] Nhận +4 Tầng [Breath]\n[WinDuel] Nhận 1 [Enhancement]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Burst]"
+                  "desc": "[OnSucceedAttack] Gắn 6 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Gắn +2 Tầng [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +2 Tầng [Laceration]"
                 }
               ]
             }
@@ -1412,8 +1412,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "True Decapitation Deathblow",
-          "desc": "If this unit has [WillAwakenSinclair], +1 to target's Slash Resist. until Attack End\n[WhenUse] Base Power +2 for every 5 [Breath] (max 8)\n[WhenUse] At 5+ SP, generate 1 Mang; Base Power +3\n[EndSkill] If this Skill generated Mang, lose 5 SP",
+          "name": "Chân Trảm Tất Sát",
+          "desc": "Nếu đơn vị này có [WillAwakenSinclair], mục tiêu nhận +1 Kháng Chém cho đến khi Kết Đòn\n[WhenUse] +2 Uy Lực Cơ Bản cho mỗi 5 [Breath] (tối đa 8)\n[WhenUse] Ở 5+ SP, tạo 1 Vọng (望); +3 Uy Lực Cơ Bản\n[EndSkill] Nếu Kỹ Năng này đã tạo Vọng (望), mất 5 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1421,13 +1421,13 @@
                   "desc": "[ExtractCoin]"
                 },
                 {
-                  "desc": "Deal +1% damage for every ([Burst] + [Burst] Count) on the target (max 100%)"
+                  "desc": "Gây thêm +1% sát thương cho mỗi ([Burst] + Tầng [Burst]) trên mục tiêu (tối đa 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal ([Breath] on self x 4) Pride damage (max 80)"
+                  "desc": "[OnSucceedAttack] Gây sát thương Kiêu Ngạo bằng với (số [Breath] trên bản thân x 4) (tối đa 80)"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal +150% damage"
+                  "desc": "[CriticalOnSucceedAttack] Gây thêm 150% sát thương"
                 }
               ]
             }
@@ -1440,8 +1440,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Plastered Sleep, Unrestrained Ripples",
-          "desc": "If this unit has [WillAwakenSinclair], +1 to target's Slash Resist. until Attack End\nCan draw any attack to this unit regardless of Speed\n[WhenUse] Base Power +1 for every 3 [Breath] (max 2)\n[WhenUse] Base Power +2 for every type of negative effect on target (max 4)\n[WhenUse] Gain 5 [Agility] next turn\n[WhenUse] Gain 10 [Breath] and +2 [Breath] Count\n[WhenUse] At 10+ SP, generate 2 Mang; Base Power +6\n[EndSkill] If this Skill generated Mang, lose 10 SP",
+          "name": " Giấc Ngủ Nặng Trĩu, Gợn Sóng Vô Cương",
+          "desc": "Nếu đơn vị này có [WillAwakenSinclair], mục tiêu nhận +1 Kháng Chém cho đến khi Kết Đòn\nCó thể đổi hướng mọi đòn tấn công về đơn vị này bất kể Tốc Độ\n[WhenUse] +1 Uy Lực Cơ Bản cho mỗi 3 [Breath] (tối đa 2)\n[WhenUse] +2 Uy Lực Cơ Bản cho mỗi loại hiệu ứng bất lợi trên mục tiêu (tối đa 4)\n[WhenUse] Nhận 5 [Agility] vào lượt sau\n[WhenUse] Nhận 10 [Breath] và +2 Tầng [Breath]\n[WhenUse] Ở 10+ SP, tạo 2 Vọng (望); +6 Uy Lực Cơ Bản\n[EndSkill] Nếu Kỹ Năng này đã tạo Vọng (望), mất 10 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -1449,13 +1449,13 @@
                   "desc": "[ExtractCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 7 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 7 [Laceration] và +2 Tầng [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vulnerable] vào lượt sau"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal +400% damage"
+                  "desc": "[CriticalOnSucceedAttack] Gây thêm 400% sát thương"
                 }
               ]
             }
@@ -1468,13 +1468,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Abate the Smoke",
-          "desc": "[CantDuel]\nTargets the enemy with the lowest max HP\nThis Skill does not trigger the target's Defense Skill\n[BeforeAttack] Gain +(total number of all enemies' Slots) Atk Weight\n[WhenUse] At 4+ Speed, deal +50% damage",
+          "name": "Xua Tan Làn Khói",
+          "desc": "[CantDuel]\nNhắm vào kẻ địch có HP tối đa thấp nhất\nKỹ Năng này không kích hoạt Kỹ Năng Phòng Thủ của mục tiêu\n[BeforeAttack]  Nhận +(tổng số Ô của toàn bộ kẻ địch) Phạm Vi Đòn Đánh\n[WhenUse] Ở 4+ Tốc Độ, gây thêm 50% sát thương",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Deal (40% of this Coin's final damage) Slash damage"
+                  "desc": "[OnSucceedAttackHead] Gây (40% sát thương cuối cùng của Xu này) sát thương Chém"
                 }
               ]
             }
