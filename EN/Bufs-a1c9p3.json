@@ -519,37 +519,37 @@
     },
     {
       "id": "WillAwakenSinclair",
-      "name": "Shin (心) - A Certain Sinclair",
-      "desc": "- Min & Max Speed +3\n- Deal +20% damage with Unopposed Attack\n- Gain 2 more Poise Potency and +1 more Poise Count from Skills\n- At 20+ SP, +10% chance to flip Heads for Plus Coins\n- Turn End: Gain 1 Haste next turn for every 10 SP (max 4)\n- Turn End: Gain 1 Power Up next turn for every 20 SP (max 2)",
+      "name": "Tâm (心) - Một Sinclair Nào Đó",
+      "desc": "- Tốc Độ Thấp Nhất & Cao Nhất +3\n- Gây thêm 20% sát thương với các đòn Tấn Công Một Chiều\n- Nhận thêm 2 Số Sắc Bén và thêm 1 Tầng Sắc Bén từ các Kỹ Năng\n- Ở 20+ SP, tăng 10% tỉ lệ lật xu Ngửa bằng Xu Dương\n- Kết Thúc Lượt: Nhận 1 Tăng Tốc vào lượt tiếp theo với mỗi 10 SP (tối đa 4)\n- Kết Thúc Lượt: Nhận 1 Cường Hoá vào lượt tiếp theo với mỗi 20 SP (tối đa 2)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SignAwakenSinclair",
-      "name": "Sign - Manifestation of the Future",
-      "desc": "- When Clashing against higher-level targets, Clash Power +2\n- Turn End: If Staggered, recover from Stagger next turn",
+      "name": "Dấu Ấn - Triệu Hoán Tương La",
+      "desc": "- Khi Đọ Sức với mục tiêu có cấp độ cao hơn, Uy Lực Đọ Sức +2\n- Kết Thúc Lượt: Nếu bị Choáng, giải trừ hiệu ứng Choáng vào lượt tiếp theo",
       "summary": "",
       "undefined": "-",
       "flavor": "Abraxas"
     },
     {
       "id": "LimitedAwakenSinclair",
-      "name": "Umbra Unsealed",
-      "desc": "- Deal +10% damage with Base Attack Skills\n- Turn Start: Gain 1 Plus Coin Boost",
+      "name": "Giải Phóng Bóng Tối",
+      "desc": "- Gây thêm 10% sát thương đối với các Kỹ Năng Cơ Bản\n- Bắt Đầu Lượt: Nhận 1 Xu Dương Tăng",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Veteran_LowMorale",
-      "name": "Of the Second Smoke War",
-      "desc": "- Low Morale\n- Turn Start: Gain 1 Fragile\n- SP Heal Efficiency +2",
+      "name": "Từ Chiến Tranh Khói Lần Hai",
+      "desc": "- Nhụt Chí\n- Bắt Đầu Lượt: Nhận 1 Suy Yếu\n- Tăng Lượng Hồi SP +2",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Veteran_Panic",
-      "name": "Of the Second Smoke War",
-      "desc": "- Panic\n- Turn Start: Gain 2 Fragile and 2 Clash Power Up",
+      "name": "Từ Chiến Tranh Khói Lần Hai",
+      "desc": "- Hoảng Loạn\n- Bắt Đầu Lượt: Nhận 2 Suy Yếu và 2 Cường Hoá Tấn Công",
       "summary": "",
       "undefined": "-"
     },
