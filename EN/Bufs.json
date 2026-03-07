@@ -2503,8 +2503,8 @@
     },
     {
       "id": "SupportProtect",
-      "name": "Assist Defense",
-      "desc": "- Max Stack: 3\n- When an ally is about take an Unopposed Attack from an enemy, consume 1 Stack to redirect the enemy's targeting to self; then, use the exclusive Skill that activates for Assist Defense\n- When there are multiple allies with Assist Defense Stacks, the ally with the highest Stack has the highest activation priority\n- Does not activate for allies who equipped Defense Skills\n- Expires at Turn End",
+      "name": "Phòng Ngự Yểm Trợ",
+      "desc": "- Cộng Dồn Tối Đa: 3\n- Khi một đồng minh sắp bị tấn công bởi đòn Tấn Công Một Chiều, tiêu hao 1 Cộng Dồn để chuyển hướng mục tiêu về bản thân ; sau đó sử dụng Kỹ Năng độc quyền để kích hoạt Phòng Ngự Yểm Trợ\n- Khi có nhiều đồng minh có Cộng Dồn của Phòng Ngự Yểm Trợ, đồng minh có Cộng Dồn Phòng Ngự Yểm Trợ nhiều nhất sẽ được ưu tiên\n- Không kích hoạt với các đồng minh đã trang bị Kỹ Năng Phòng Thủ\n- Biến mất khi Kết Thúc Lượt",
       "summary": "",
       "undefined": "-"
     },

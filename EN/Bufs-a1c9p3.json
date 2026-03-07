@@ -587,22 +587,22 @@
     },
     {
       "id": "SojiAbiBuffOne",
-      "name": "Dawn's First Crow (雞鳴)",
-      "desc": "Able to Clash with the enemy's specific Slot",
+      "name": "Kê Minh (雞鳴)",
+      "desc": "Có thể Đọ Sức với một Ô cụ thể của kẻ địch",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SojiAbiBuffTwo",
-      "name": "The Sun's Descent (日入)",
-      "desc": "Able to Clash with the enemy's specific Slot",
+      "name": "Nhật Nhập (日入)",
+      "desc": "Có thể Đọ Sức với một Ô cụ thể của kẻ địch",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SojiAbiBuffThree",
-      "name": "Eventide Glow (黃昏)",
-      "desc": "Able to Clash with the enemy's specific Slot",
+      "name": "Hoàng Hôn (黃昏)",
+      "desc": "Có thể Đọ Sức với một Ô cụ thể của kẻ địch",
       "summary": "",
       "undefined": "-"
     },
