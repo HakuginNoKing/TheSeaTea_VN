@@ -165,48 +165,48 @@
     },
     {
       "id": 40001302,
-      "name": "Dismantle Prosthesis",
-      "desc": "Deal +40% damage to <Mechanical Amalgam> and <Distortion>\n\nOn Kill, all other allies heal 20 SP (once per turn)",
-      "flavor": "The Second Smoke War was a conflict between humans and humans who no longer looked the part."
+      "name": "Đập Nát Chi Giả",
+      "desc": "Gây thêm 40% sát thương lên <Thực Thể Cơ Khí Hợp Thể> và <Biến Dị>\n\nKhi hạ gục mục tiêu, tất cả đồng minh khác hồi 20 SP (mỗi lượt một lần)",
+      "flavor": "Chiến Tranh Khói Lần Hai là một cuộc xung đột giữa con người với những kẻ vẫn là con người nhưng đã không còn mang hình dạng của con người nữa."
     },
     {
       "id": 40001306,
-      "name": "Shin (心) - A Certain Sinclair",
-      "desc": "Turn Start: Gain [WillAwakenSinclair] (once per Encounter)"
+      "name": "Tâm (心) – Một Sinclair Nào Đó",
+      "desc": "Bắt Đầu Lượt: Nhận [WillAwakenSinclair] (một lần mỗi Trận)"
     },
     {
       "id": 40001309,
-      "name": "Withstand the Smoke",
-      "desc": "This unit does not take SP damage due to external effects and cannot become immobilized\n\nIf an ally becomes immobilized due to external effects before Turn End, use 'Abate the Smoke[TabExplain]'",
-      "flavor": "The Smoke of the Second War was no different in nature from that of the First—it invaded the mind and clouded the judgement of the victim.\nSurvival was reserved only for those who learned to accept the Smoke as part of their daily lives."
+      "name": "Trụ Vững Trong Khói",
+      "desc": "Đơn vị này không nhận sát thương SP từ các hiệu ứng bên ngoài và không thể bị bất Động\n\nNếu một đồng minh bị bất động do hiệu ứng bên ngoài trước khi kết thúc lượt, sử dụng 'Xua Tan Làn Khói[TabExplain]'",
+      "flavor": "Làn Khói của Chiến Tranh Lần Hai về bản chất không khác gì so với Lần Một— nó xâm nhập vào tâm trí và làm lu mờ phán đoán của nạn nhân.\nSự sống sót chỉ dành cho những ai học cách chấp nhận Làn Khói như một phần trong cuộc sống thường nhật của mình."
     },
     {
       "id": 40001308,
-      "name": "Lend My Ear to the Inner Self, Hold onto the Representation of its Voice...",
-      "desc": "Gain [SignAwakenSinclair] and [LimitedAwakenSinclair] when an enemy with 1,000+ max HP is killed (once per Encounter)\n- Afterward, convert all Coins into [SuperCoin]s when this unit uses Pride, Wrath, Envy Skills"
+      "name": " Lắng Nghe Nội Tâm, Nắm Lấy Hình Bóng Thanh Âm Ấy…",
+      "desc": "Nhận [SignAwakenSinclair] và [LimitedAwakenSinclair]khi hạ gục kẻ địch có 1,000+ HP tối đa (một lần mỗi Trận)\n- Sau đó, khi đơn vị này sử dụng kỹ năng thuộc Kiêu Hãnh, Phẫn Nộ hoặc Đố Kỵ, toàn bộ Xu sẽ được chuyển thành [SuperCoin]"
     },
     {
       "id": 40001301,
-      "name": "Special Airborne Operations Force - Abraxas Chariot",
-      "desc": "Targets with less than 20 [Burst] do not lose [Burst] Count when this unit hits them with Skills that inflict [Burst] Potency or Count",
-      "flavor": "Guerrilla warfare played an important role during the Second Smoke War.\nThe most feared among the undertakers of these ambushes were none other than the airborne forces that descended directly upon the combat zone and turned the tide of the battle unexpectedly.\nThese airborne soldiers would appear out of nowhere by utilizing technologies such as Singularities of the Wings—they would carry out their mission immediately, and once their objectives were accomplished, they would disappear without a trace.\n\"The Abraxas Chariot\" was one of the groups that inspired the most dread in the War alongside those airborne forces such as \"Descenders of 101 Doors\" and \"The Dimension Roamers.\""
+      "name": "Không Kích Đặc Nhiệm – Chiến Xa Abraxas",
+      "desc": "Mục tiêu có dưới 20 [Burst] sẽ không mất Tầng [Burst] khi bị đơn vị này tấn công bằng Kỹ Năng gắn Số [Burst] hoặc Tầng [Burst]",
+      "flavor": "Chiến tranh du kích đóng vai trò quan trọng trong Chiến Tranh Khói Lần Hai.\nĐáng sợ nhất trong số những kẻ thực hiện các cuộc tập kích ấy chính là các lực lượng đổ bộ đường không—những đơn vị bất ngờ giáng xuống chiến trường và xoay chuyển cục diện trong chớp mắt.\nNhững binh sĩ này xuất hiện từ hư không nhờ vào các công nghệ như Dị Điểm của các Cánh—họ hoàn thành nhiệm vụ ngay lập tức, và khi mục tiêu đã đạt được, họ biến mất không để lại dấu vết.\n\"Chiến Xa Abraxas\"  là một trong những nhóm gieo rắc nỗi kinh hoàng lớn nhất trong Chiến Tranh, sánh ngang với các lực lượng đổ bộ như \"Hậu Duệ của 101 Cánh Cửa\" và \"Những Kẻ Du Hành Không Gian.\""
     },
     {
       "id": 40001304,
-      "name": "Halberd and Bastard Sword",
-      "desc": "Attack End: Remove 1 beneficial effect from target and inflict 4 [Burst] (once per turn)\n\nTurn End: Remove 1 negative effect from self and gain 5 [Breath] and +2 [Breath] Count",
-      "flavor": "Wielding a nameless halberd and a bastard sword, the young man, clad in a dull green coat, would ravage through the enemy lines before vanishing without a trace once he was done.\nSome called him the Green Damnation, while others called him the Green Deliverance."
+      "name": "Kích Và Trường Kiếm",
+      "desc": "Kết Đòn: Xóa 1 hiệu ứng có lợi của mục tiêu và gắn 4 [Burst] (một lần mỗi lượt)\n\nKết Thúc Lượt: Xóa 1 hiệu ứng bất lợi trên bản thân và nhận 5 [Breath] và +2 Tầng [Breath]",
+      "flavor": "Cầm một cây kích vô danh cùng một thanh trường kiếm, chàng trai khoác chiếc áo choàng xanh xỉn màu càn quét đội hình địch, rồi biến mất không để lại dấu vết sau khi hoàn tất việc của mình.\nCó người gọi cậu là Lục Đoạ, kẻ khác lại gọi là Lục Độ."
     },
     {
       "id": 40001307,
-      "name": "Sign - Manifestation of the Future",
-      "desc": "All allies, including this unit, gain 1 more E.G.O resource when using Skills\n\nTurn End: Heal 6 SP for every other Sinner present in the Encounter"
+      "name": "Dấu Ấn – Triệu Hoán Tương Lai",
+      "desc": "Tất cả đồng minh, bao gồm đơn vị này, nhận thêm 1 tài nguyên E.G.O khi sử dụng Kỹ Năng\n\nKết Thúc Lượt : Hồi 6 SP với mỗi Tội Nhân tham chiến trong Trận"
     },
     {
       "id": 40001310,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter if this unit is killed",
-      "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
+      "name": "Định Mệnh Lạc Lối",
+      "desc": "Thua Trận này nếu đơn vị này bị đánh bại",
+      "flavor": "Người ta có thể lạc lối và bước nhầm đường, nhưng sự phản kháng có chủ ý hay đi chệch khỏi dòng chảy đều bị nghiêm cấm bởi \"nó.\""
     },
     {
       "id": 40001401,
