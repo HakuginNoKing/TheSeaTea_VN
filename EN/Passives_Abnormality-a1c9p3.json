@@ -324,8 +324,8 @@
     },
     {
       "id": 132214,
-      "name": "Afterimage of the Future",
-      "desc": "Every few turns, use the \"Destinated Opponent\" Skill\n<color=#ff6000><mark=#ff000040><b><u>Only the target of this unit's attack can Clash with the said Skill Slot</u></b></mark></color>\n\nIf this unit's \"Destinated Opponent\" Skill loses a Clash, take 36 ~ 60 fixed damage\n\nCombat End: <color=#ff6000><mark=#ff000040><b><u>If every \"Destinated Opponent\" Skill this unit used in this turn lost a Clash</u></b></mark></color>, gain 1 [Vulnerable] next turn"
+      "name": "Tàn Ảnh Của Tương Lai",
+      "desc": "Cứ mỗi vài lượt, sử dụng Kỹ Năng \"Đối Thủ Định Mệnh\"\n<color=#ff6000><mark=#ff000040><b><u>Chỉ mục tiêu bị đòn tấn công của đơn vị nhắm tới mới có thể Đọ Sức với Ô Kỹ Năng đó.</u></b></mark></color>\n\nNếu Kỹ Năng \"Đối Thủ Định Mệnh\" của đơn vị này Đọ Sức thất bại, nhận 36–60 sát thương chuẩn.\n\nKết Thúc Giao Tranh: <color=#ff6000><mark=#ff000040><b><u>Kết Chiến: Nếu tất cả các kỹ năng \"Đối Thủ Định Mệnh\" mà đơn vị này sử dụng trong lượt đó đều Đọ Sức thất bại</u></b></mark></color>, nhận 1 [Vulnerable] vào lượt sau"
     },
     {
       "id": 132217,
