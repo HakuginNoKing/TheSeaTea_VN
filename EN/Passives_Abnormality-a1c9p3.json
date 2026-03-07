@@ -340,13 +340,13 @@
     {
       "id": 132222,
       "name": "Từ Bình Minh Đến Hoàng Hôn",
-      "desc": "Bắt Đầu Lượt: Ở 0+ SP, nhận 1 [SojiAbiAgeFuture]\nCứ mỗi 2 SP trên 0, nhận thêm 1 [SojiAbiAgeFuture]\n\nBắt đầu lượt: Ở ít hơn 0 SP, nhận 1 [SojiAbiAgePast]\nCứ mỗi 2 SP dưới 0, nhận thêm 1 [SojiAbiAgePast]",
+      "desc": "Bắt Đầu Lượt: Ở 0+ SP, nhận 1 [SojiAbiAgeFuture]\nCứ mỗi 2 SP trên 0, nhận thêm 1 [SojiAbiAgeFuture]\n\nBắt Đầu Lượt: Ở ít hơn 0 SP, nhận 1 [SojiAbiAgePast]\nCứ mỗi 2 SP dưới 0, nhận thêm 1 [SojiAbiAgePast]",
       "flavor": "Quá khứ, hiện tại, tương lai—vô vàn khoảnh khắc hội tụ lại với nhau, khiến ranh giới của thời gian trở nên vô nghĩa. Những bản ngã trẻ trung lẫn già nua đều bị kéo vào đây và lúc này, từ mọi điểm trên dòng chảy của thời gian."
     },
     {
       "id": 132223,
       "name": "Tàn Ảnh Không-Thời Gian Sụp Đổ",
-      "desc": "Kết thúc lượt: Nhận 1 [TimeEntangleUnstable] cho mỗi 5 SP chênh lệch giữa SP hiện tại của đơn vị này và SP lúc bắt đầu lượt (tối đa 5 mỗi lượt).\n\nCứ mỗi 100 sát thương tích luỹ nhận vào, mất 1 [TimeEntangleUnstable] (tính cả sát thương lên Khiên)",
+      "desc": "Kết Thúc Lượt: Nhận 1 [TimeEntangleUnstable] cho mỗi 5 SP chênh lệch giữa SP hiện tại của đơn vị này và SP lúc bắt đầu lượt (tối đa 5 mỗi lượt).\n\nCứ mỗi 100 sát thương tích luỹ nhận vào, mất 1 [TimeEntangleUnstable] (tính cả sát thương lên Khiên)",
       "flavor": "'Những tàn ảnh đã từ lâu bao bọc lấy ta trong từng nếp gấp giờ đây bị lột bỏ từng lớp một… Và ta đứng lại nơi đây—giữa mất mát, nhưng cũng giữa sự giải thoát.'"
     },
     {
