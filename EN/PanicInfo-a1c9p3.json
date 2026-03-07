@@ -15,8 +15,8 @@
     {
       "id": 1078,
       "panicName": "Nỗi Nhục của Gia Tộc",
-      "lowMoraleDescription": "Turn Start: Nhận 1 [SlashDamageUp], 1 [ParryingResultUp], and 1 [Vulnerable]\nKhông thể nhận Vọng khi sử dụng Kỹ Năng",
-      "panicDescription": "Turn Start: Nhận 2 [SlashDamageUp], 2 [ParryingResultUp], và 2 [Vulnerable]\nKhông thể nhận Vọng khi sử dụng Kỹ Năng"
+      "lowMoraleDescription": "Bắt Đầu Lượt: Nhận 1 [SlashDamageUp], 1 [ParryingResultUp], và 1 [Vulnerable]\nKhông thể nhận Vọng (望) khi sử dụng Kỹ Năng",
+      "panicDescription": "Bắt Đầu Lượt: Nhận 2 [SlashDamageUp], 2 [ParryingResultUp], và 2 [Vulnerable]\nKhông thể nhận Vọng (望) khi sử dụng Kỹ Năng"
     },
     {
       "id": 1079,
