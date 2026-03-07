@@ -334,20 +334,20 @@
     },
     {
       "id": 132219,
-      "name": "Tiansha Star's Bladewound [天殺星傷]",
-      "desc": "Encounter Start: Gain [LvDownLittleFingerBossTwo] and 4 [TimeEntangleUnstable]"
+      "name": "Thiên Sát Tinh Thương [天殺星傷]",
+      "desc": "Bắt Đầu Trận: Nhận [LvDownLittleFingerBossTwo] và 4 [TimeEntangleUnstable]"
     },
     {
       "id": 132222,
-      "name": "From Dawn till Dusk",
-      "desc": "Turn Start: At 0+ SP, gain 1 [SojiAbiAgeFuture]\nGain 1 [SojiAbiAgeFuture] for every 2 SP above 0\n\nTurn Start: At less than 0 SP, gain 1 [SojiAbiAgePast]\nGain 1 [SojiAbiAgePast] for every 2 SP below 0",
-      "flavor": "The past, the present, the future—the myriad moments converge together, rendering the distinction of time meaningless. Youthful and aged selves alike are pulled into the here and now from every point along the continuum of time."
+      "name": "Từ Bình Minh Đến Hoàng Hôn",
+      "desc": "Bắt Đầu Lượt: Ở 0+ SP, nhận 1 [SojiAbiAgeFuture]\nCứ mỗi 2 SP trên 0, nhận thêm 1 [SojiAbiAgeFuture]\n\nBắt đầu lượt: Ở ít hơn 0 SP, nhận 1 [SojiAbiAgePast]\nCứ mỗi 2 SP dưới 0, nhận thêm 1 [SojiAbiAgePast]",
+      "flavor": "Quá khứ, hiện tại, tương lai—vô vàn khoảnh khắc hội tụ lại với nhau, khiến ranh giới của thời gian trở nên vô nghĩa. Những bản ngã trẻ trung lẫn già nua đều bị kéo vào đây và lúc này, từ mọi điểm trên dòng chảy của thời gian."
     },
     {
       "id": 132223,
-      "name": "Spacetime Afterimage Collapse",
-      "desc": "Turn End: Gain 1 [TimeEntangleUnstable] for every 5 SP difference between this unit's current SP and SP at Turn Start (max 5 per turn)\n\nFor every 100 damage taken cumulatively, lose 1 [TimeEntangleUnstable] (including Shield damage)",
-      "flavor": "'The afterimages that have long wrapped me in their folds are stripped away, layer by layer... and I am left standing in both loss and liberation.'"
+      "name": "Tàn Ảnh Không-Thời Gian Sụp Đổ",
+      "desc": "Kết thúc lượt: Nhận 1 [TimeEntangleUnstable] cho mỗi 5 SP chênh lệch giữa SP hiện tại của đơn vị này và SP lúc bắt đầu lượt (tối đa 5 mỗi lượt).\n\nCứ mỗi 100 sát thương tích luỹ nhận vào, mất 1 [TimeEntangleUnstable] (tính cả sát thương lên Khiên)",
+      "flavor": "'Những tàn ảnh đã từ lâu bao bọc lấy ta trong từng nếp gấp giờ đây bị lột bỏ từng lớp một… Và ta đứng lại nơi đây—giữa mất mát, nhưng cũng giữa sự giải thoát.'"
     },
     {
       "id": 133701,
@@ -501,8 +501,8 @@
     {
       "id": 132224,
       "name": "Trận Chiến Cuối Cùng",
-      "desc": "In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage and apply the following effects (once per Encounter):\n- Heal max HP and remove all removable negative effects from this unit\n- For this Encounter, gain 1 [Vulnerable] and fix [TimeEntangleUnstable] to 1. Take (# of current turn x 10) fixed damage at the end of every turn\n- Afterward, end turn and the attack pattern becomes empowered",
-      "flavor": "\"You have been made to forget all, and I to remember all.\""
+      "desc": "Trong Trận này, khi đơn vị này nhận sát thương khiến HP giảm xuống 0, vô hiệu hóa lượng sát thương đó và áp dụng các hiệu ứng sau (một lần mỗi Trận):\n- Hồi tối đa HP và loại bỏ toàn bộ hiệu ứng bất lợi có thể gỡ bỏ khỏi đơn vị này.\n- Trong Trận này, nhận 1 [Vulnerable] và cố định [TimeEntangleUnstable] về 1.  Vào cuối mỗi lượt, nhận (# lượt hiện tại × 10) sát thương chuẩn.\n- Sau đó, kết thúc lượt, và chuỗi công kích được cường hóa.",
+      "flavor": "\"Người đã bị buộc phải quên đi tất cả, còn ta thì bị buộc phải nhớ lấy tất cả.\""
     }
   ]
 }

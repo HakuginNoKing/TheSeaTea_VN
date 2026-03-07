@@ -4060,7 +4060,7 @@
         {
           "level": 1,
           "name": "Ta oán hận người rất nhiều. Thế nhưng...",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Gain 2 [Vulnerable]</u></b></mark></color>",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Nhận 2 [Vulnerable]</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
