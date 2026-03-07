@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "localize_dui_select_popup_using",
-      "content": "In Use"
+      "content": "Đang Dùng"
     },
     {
       "id": "localize_dui_select_popup_selecting",
-      "content": "Selected"
+      "content": "Đã Chọn"
     },
     {
       "id": "localize_dui_select_popup_change_button",
-      "content": "Change"
+      "content": "Thay Đổi"
     },
     {
       "id": "dui_mode_name_1",
