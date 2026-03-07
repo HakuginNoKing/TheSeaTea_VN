@@ -488,33 +488,33 @@
     },
     {
       "id": "LvDownLittleFingerBossTwo",
-      "name": "Tiansha Star's Bladewound [天殺星傷]",
-      "desc": "- Base Offense Level -15\n- Base Defense Level -15",
-      "summary": "- Lose Base Offense and Base Defense Level",
+      "name": "Thiên Sát Tinh Thương [天殺星傷]",
+      "desc": "- Cấp Tấn Công Cơ Bản -15\n- Cấp Phòng Thủ Cơ Bản -15",
+      "summary": "- Giảm Cấp Tấn Công Cơ Bản và Cấp Phòng Thủ Cơ Bản",
       "undefined": "-",
-      "flavor": "A cut from the Tiansha Star's Blade - Arayashiki leaves a blade wound that seems to burn with implacable fire.\nThis burning mark can never fade, for the wielder has slashed through the existence of their opponent at the cost of their own."
+      "flavor": "Một vết cắt từ Thiên Sát Tinh Kiếm — A Lại Gia Thức để lại một vết thương như đang cháy bằng ngọn lửa không thể dập tắt.\nDấu vết cháy bỏng này sẽ không bao giờ phai đi, bởi người sử dụng đã chém xuyên qua chính sự tồn tại của đối thủ với cái giá là sự tồn tại của bản thân mình."
     },
     {
       "id": "SojiAbiAgePast",
-      "name": "Backward Flow - Bitterness",
-      "desc": "- Max Stack: 20\n- Deal and take +2% damage for every Stack",
-      "summary": "Deal and take more damage",
+      "name": " Ngược Dòng – Cay Đắng",
+      "desc": "- Cộng Dồn Tối Đa: 20\n- Gây ra và nhận thêm 2% sát thương với mỗi Cộng Dồn",
+      "summary": "Tăng sát thương gây ra và nhận vào",
       "undefined": "-",
-      "flavor": "'The memory of being forgotten and abandoned by you refuses to let go... like a stubborn knot of thread that clings.'"
+      "flavor": "'Ký ức về việc bị người lãng quên và bỏ rơi vẫn chẳng chịu buông tha ta… như thể nút thắt cứng đầu cứ mãi vướng mắc.'"
     },
     {
       "id": "SojiAbiAgeFuture",
-      "name": "Forward Flow - Compassion",
-      "desc": "- Max Stack: 20\n- Deal and take -2% damage for every Stack",
-      "summary": "Deal and take less damage",
+      "name": "Xuôi Dòng – Từ Bi",
+      "desc": "- Cộng Dồn Tối Đa: 20\n- Giảm 2% sát thương gây ra và nhận vào với mỗi Cộng Dồn",
+      "summary": "Giảm sát thương gây ra và nhận vào",
       "undefined": "-",
-      "flavor": "'Perhaps it was the passage of time and the years weighing on me that led me to believe I could finally understand and embrace you.'"
+      "flavor": "'Có lẽ chính thời gian trôi qua và những năm tháng đè nặng lên ta đã khiến ta tin rằng cuối cùng ta có thể hiểu và chấp nhận người. '"
     },
     {
       "id": "TimeEntangleUnstable",
-      "name": "Paroxysm - Afterimage Entanglement",
-      "desc": "- Max Stack: 10\n- On Hit, activate the following effects based on Stack:\n  · Deal Slash damage equal to (final damage of the Coin / 10) (activates (# of Stack) times)\n  · 2+: Inflict 1 Burn\n  · 3+: Inflict 1 Bleed\n  · 4+: Inflict 1 Bind next turn\n  · 5+: Inflict 1 Poison",
-      "summary": "Apply additional effects to this unit's attacks based on Stack",
+      "name": "Cực Phát - Rối Loạn Tàn Ảnh",
+      "desc": "- Cộng Dồn Tối Đa: 10\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau dựa trên số Cộng Dồn:\n  · Gây sát thương Chém tương đương (sát thương sau cùng của Xu / 10) (kích hoạt (số Cộng Dồn) lần)\n  · 2+: Gắn 1 Thiêu Đốt\n  · 3+: Gắn 1 Chảy Máu\n  · 4+: Gắn 1 Trói Buộc vào lượt tiếp theo\n  · 5+: Gắn 1 Độc",
+      "summary": "Kích hoạt hiệu ứng đi kèm cho các đòn đánh của đơn vị này dựa trên số Cộng Dồn ",
       "undefined": "-"
     },
     {
