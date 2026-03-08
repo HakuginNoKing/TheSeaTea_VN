@@ -257,7 +257,7 @@
     {
       "id": 131409,
       "name": "Tâm (心) - Valencina",
-      "desc": "Khi bị đánh trúng, hoặc khi \"Học Viên Ngón Cái - Lucio\" bị đánh bại, nhận [ObsessionAndGreed] ở lượt sau",
+      "desc": "Khi bị đánh trúng, hoặc khi \"Học Việc Ngón Cái - Lucio\" bị đánh bại, nhận [ObsessionAndGreed] ở lượt sau",
       "summary": "",
       "undefined": "-",
       "flavor": "\"*thở dài* Rồi. Vậy ý mày là bọn tao có thể mang Ticket về bằng cách xông vào và phá nát cái chỗ đó theo kế hoạch của cái gã cuồng tín kia... Việc này có thực sự giúp bọn tao đưa Ticket về không đấy?\""
@@ -265,7 +265,7 @@
     {
       "id": 131406,
       "name": "Lucio, thằng đầu cặc ăn hại vô dụng!",
-      "desc": "Khi \"Học Viên Ngón Cái - Lucio\" bị đánh bại, kích hoạt Nội Tại \"Giờ Đi Săn\"",
+      "desc": "Khi \"Học Việc Ngón Cái - Lucio\" bị đánh bại, kích hoạt Nội Tại \"Giờ Đi Săn\"",
       "summary": "",
       "undefined": "-"
     },
