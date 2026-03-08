@@ -258,7 +258,7 @@
     {
       "id": "LittleFingerBoss_Shin",
       "name": "Tâm (心) - Địa Tuệ Tinh",
-      "desc": "- Max Stack: 3\n- Turn Start: Apply the following effects\n· Gain 5 Poise Potency and +1 Poise Count for every Stack\n· Gain 1 Slash DMG Up for every 15% missing HP on self (max 5)",
+      "desc": "- Cộng Dồn Tối Đa: 3\n- Bắt Đầu Lượt: Kích hoạt các hiệu ứng sau:\n· Nhận 5 Số Sắc Bén và +1 Tầng Sắc Bén với mỗi Cộng Dồn\n· Nhận 1 Cường Hóa ST Chém với mỗi 15% HP đã mất trên bản thân (tối đa 5)",
       "summary": " ",
       "undefined": "-"
     },
