@@ -2,30 +2,30 @@
   "dataList": [
     {
       "id": "Enhancement",
-      "name": "Cường Hoá Uy Lực Tấn Công",
+      "name": "Cường Hoá Tấn Công",
       "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng Tấn Công +{0}.",
-      "summary": "Uy Lực Sau Cùng KN Tấn Công +{0}",
+      "summary": "Uy Lực Sau Cùng của Kỹ Năng Tấn Công +{0}",
       "undefined": "-"
     },
     {
       "id": "Agility",
       "name": "Tăng Tốc",
       "desc": "Trong lượt này, Tốc Độ +{0}.",
-      "summary": "Tốc +{0}",
+      "summary": "Tốc Độ +{0}",
       "undefined": "-"
     },
     {
       "id": "Endurance",
-      "name": "Cường Hoá Uy Lực Phòng Thủ",
+      "name": "Cường Hoá Phòng Thủ",
       "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng Phòng Thủ +{0}.",
-      "summary": "Uy Lực Sau Cùng Kỹ Năng Phòng Thủ +{0}",
+      "summary": "Uy Lực Sau Cùng của Kỹ Năng Phòng Thủ +{0}",
       "undefined": "-"
     },
     {
       "id": "Reduction",
-      "name": "Giảm Uy Lực Tấn Công",
+      "name": "Suy Yếu Đòn Đánh",
       "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng Tấn Công -{0}.",
-      "summary": "Uy Lực Sau Cùng Kỹ Năng Tấn Công -{0}",
+      "summary": "Uy Lực Sau Cùng của Kỹ Năng Tấn Công -{0}",
       "undefined": "-"
     },
     {
@@ -105,9 +105,9 @@
     },
     {
       "id": "ResultEnhancement",
-      "name": "Cường Hoá Uy Lực Sau Cùng",
+      "name": "Cường Hoá",
       "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng +{0}.",
-      "summary": "Uy Lực Sau Cùng Kỹ Năng +{0}"
+      "summary": "Uy Lực Sau Cùng của Kỹ Năng +{0}"
     },
     {
       "id": "Protection",
@@ -117,13 +117,13 @@
     },
     {
       "id": "AttackDmgUp",
-      "name": "Cường Hoá Sát Thương",
-      "desc": "Trong lượt này, Sát Thương Kỹ Năng +{0}0%. (Max 100%)",
+      "name": "Tăng Sát Thương",
+      "desc": "Trong lượt này, Sát Thương Kỹ Năng gây thêm {0}0%. (Tối đa 100%)",
       "summary": "+{0}0% Sát Thương Gây Ra"
     },
     {
       "id": "DefenseUp",
-      "name": "Cường Hoá Cấp Phòng Thủ",
+      "name": "Cấp Phòng Thủ Tăng",
       "desc": "Trong lượt này, Cấp Phòng Thủ +{0}.",
       "summary": "Cấp Phòng Thủ +{0}"
     },
@@ -147,25 +147,25 @@
     },
     {
       "id": "Disarming",
-      "name": "Giảm Sức Mạnh Phòng Thủ",
-      "desc": "Trong lượt này, Uy Lực Kỹ Năng Phòng Thủ -{0}.",
-      "summary": "Uy Lực Kỹ Năng Phòng Thủ -{0}"
+      "name": "Suy Yếu Phòng Ngự",
+      "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng Phòng Thủ -{0}.",
+      "summary": "Uy Lực Sau Cùng của Kỹ Năng Phòng Thủ -{0}"
     },
     {
       "id": "ResultReduction",
       "name": "Giảm Uy Lực",
       "desc": "Trong lượt này, Uy Lực Sau Cùng của Kỹ Năng -{0}.",
-      "summary": "Uy Lực Sau Cùng KN -{0}"
+      "summary": "Uy Lực Sau Cùng của Kỹ Năng -{0}"
     },
     {
       "id": "AttackDmgDown",
       "name": "Giảm Sát Thương",
-      "desc": "Trong lượt này, Sát Thương KN -{0}0%. (Max 100%)",
+      "desc": "Trong lượt này, Sát Thương Kỹ Năng giảm {0}0%. (Tối đa 100%)",
       "summary": "-{0}0% Sát Thương Gây Ra"
     },
     {
       "id": "DefenseDown",
-      "name": "Giảm Cấp Phòng Thủ",
+      "name": "Cấp Phòng Thủ Giảm",
       "desc": "Trong lượt này, Cấp Phòng Thủ -{0}.",
       "summary": "Cấp Phòng Thủ -{0}"
     },
@@ -354,13 +354,13 @@
     },
     {
       "id": "AttackUp",
-      "name": "Cường Hoá Cấp Tấn Công",
+      "name": "Cấp Tấn Công Tăng",
       "desc": "Trong lượt này, Cấp Tấn Công +{0}.",
       "summary": "Cấp Tấn Công +{0}"
     },
     {
       "id": "AttackDown",
-      "name": "Giảm Cấp Tấn Công",
+      "name": "Cấp Tấn Công Giảm",
       "desc": "Trong lượt này, Cấp Tấn Công -{0}.",
       "summary": "Cấp Tấn Công -{0}"
     },
