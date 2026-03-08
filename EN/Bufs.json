@@ -266,37 +266,37 @@
       "id": "Combustion",
       "name": "Thiêu Đốt",
       "desc": "Kết Thúc Lượt: Nhận {0} sát thương cố định. Tồn tại trong {1} lượt.",
-      "summary": "{0} fixed HP damage"
+      "summary": "{0} sát thương HP cố định"
     },
     {
       "id": "Laceration",
       "name": "Chảy Máu",
-      "desc": "The next {1} time(s) this unit tosses an attack skill Coin, take {0} fixed damage.",
-      "summary": "{0} fixed HP damage"
+      "desc": "Trong {1} lần tiếp theo đơn vị này tung Xu của Kỹ Năng tấn công , nhận {0} sát thương cố định .",
+      "summary": "{0} sát thương HP cố định"
     },
     {
       "id": "Vibration",
       "name": "Chấn Động",
-      "desc": "When hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by {0}. Lasts {1} turn(s).",
-      "summary": "Raise Stagger Threshold by {0}"
+      "desc": "Khi bị trúng đòn bởi các đòn tấn công có Bộc Phát Chấn Động, tăng {0} Ngưỡng Choáng. Tồn tại trong {1} lượt.",
+      "summary": "Tăng {0} Ngưỡng Choáng"
     },
     {
       "id": "Burst",
       "name": "Vỡ Vụn",
-      "desc": "The next {1} time(s) the unit is hit, take {0} fixed damage.",
-      "summary": "{0} fixed HP damage"
+      "desc": "Trong {1} lần tiếp theo đơn vị này bị trúng đòn, nhận {0} sát thương cố định.",
+      "summary": "{0} sát thương HP cố định"
     },
     {
       "id": "Sinking",
       "name": "Sa Lầy",
-      "desc": "The next {1} time(s) the unit is hit, take {0} fixed SP damage. (Units with no Sanity take Gloom damage.)",
-      "summary": "{0} Sinking DMG"
+      "desc": "Khi bị đánh trúng {1} lần, nhận {0} sát thương cố định lên SP . (Các đơn vị không có SP sẽ nhận sát thương U Sầu.)",
+      "summary": "{0} ST Sa Lầy"
     },
     {
       "id": "Breath",
       "name": "Sắc Bén",
-      "desc": "Boost critical hit chance by {0}x5% for the next {1} hit(s).",
-      "summary": "{0}x5% crit chance"
+      "desc": "Tăng {0}x5% Tỉ Lệ Bạo Kích cho {1} đòn tấn công tiếp theo.",
+      "summary": "{0}x5% Tỉ Lệ Bạo Kích"
     },
     {
       "id": "BloodPocket",
