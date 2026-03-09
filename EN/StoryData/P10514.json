@@ -1,532 +1,532 @@
 {
-  "dataList": [
-    {
-      "id": 0,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Victim #4 already."
-    },
-    {
-      "id": 1,
-      "teller": "???",
-      "title": "Welfare Team Clerk",
-      "content": "Hnnngh..."
-    },
-    {
-      "id": 2,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "I had dispatched a clear warning to all relevant personnel that they must steer clear of the Abnormality's containment unit while Work is in progress, as the biohazardous material the entity secretes could permeate through the barrier."
-    },
-    {
-      "id": 3,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "... Perhaps it could not be helped, as the authority to physically quarantine a section of the facility lies with the manager."
-    },
-    {
-      "id": 4,
-      "teller": "???",
-      "title": "Welfare Team Clerk",
-      "content": "Itchy... Captain, I'm so itchy..."
-    },
-    {
-      "id": 5,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "The subject complained of the pruritus of her nape for the 27th time."
-    },
-    {
-      "id": 6,
-      "teller": "???",
-      "title": "Welfare Team Clerk",
-      "content": "I probably shouldn't scratch the itch, right...? Captain...?"
-    },
-    {
-      "id": 7,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Scratching your skin to address the itchiness will not be a problem."
-    },
-    {
-      "id": 8,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "There is no need for you to worry about the bleeding or excoriation of your skin."
-    },
-    {
-      "id": 9,
-      "teller": "???",
-      "title": "Welfare Team Clerk",
-      "content": "Ah... Agh..."
-    },
-    {
-      "id": 10,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "\"Amber\" of the Clerical staff. That is you, correct?"
-    },
-    {
-      "id": 11,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "Tha-that's correct... Agh..."
-    },
-    {
-      "id": 12,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "The subject complained of pruritus for the 28th time since the beginning of this interview. Primary memory retention ability remains in good condition."
-    },
-    {
-      "id": 13,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "With that, I record that 10 or more casualties have shown no changes to the brain activity at the 23 hours, 06 minutes, and 21 seconds mark since spore inhalation."
-    },
-    {
-      "id": 14,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Extrapolation: Occipital lobe hypertrophy, observed in the late stages of spore infection—henceforth the \"pre-hatch\" state—accelerates rapidly at an undetermined time since initial contact. This finding boosts the value of \"early egg identification & extermination\" protocol research by 7.1409%."
-    },
-    {
-      "id": 15,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "Sorry, what are you... saying...?"
-    },
-    {
-      "id": 16,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Nothing that requires your comprehension."
-    },
-    {
-      "id": 17,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "No, I mean... I can't seem to... hear you clearly..."
-    },
-    {
-      "id": 18,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "Ngh... Ow... Ow, my belly hurts...!"
-    },
-    {
-      "id": 19,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Loss of hearing identified. This is the first recorded instance of such a symptom among the casualties."
-    },
-    {
-      "id": 20,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Hold still. I will use a bioscanner on your abdomen."
-    },
-    {
-      "id": 21,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "Is that... ngh... Is that gonna... make whatever this is go away?"
-    },
-    {
-      "id": 22,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "It will not. Remove your hands from your abdomen."
-    },
-    {
-      "id": 23,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "Agh..."
-    },
-    {
-      "id": 24,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Larva activity observed at the 23 hours, 07 minutes, and 01 seconds mark since spore inhalation. This instance has occurred 33% earlier compared to the average extrapolated from the preexisting data's standard normal distribution."
-    },
-    {
-      "id": 25,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Slight palpitations of the occipital lobe area have been observed concurrently. The palpitation is currently traveling to the subject's auditory organ, which leads one to conjecture that it is related to the victim's hearing loss."
-    },
-    {
-      "id": 26,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "There's... There's something skittering around in there..."
-    },
-    {
-      "id": 27,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "The interval of its molting process from instar 2 to instar 2 remains the same within the margin of error."
-    },
-    {
-      "id": 28,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "C-Captain, there's this guy I hang out with all the time... Jacob. He was with me when it happened... Is he... okay?"
-    },
-    {
-      "id": 29,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "... \"Okay\" in what sense?"
-    },
-    {
-      "id": 30,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "Uh...? Sorry, I can't... hear you. Ah, that's better. It doesn't hurt as much..."
-    },
-    {
-      "id": 31,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Nullification of pain receptors identified. I will now post any subsequent questions in writing."
-    },
-    {
-      "id": 32,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "Ah... Is he \"okay\" as in \"HE'S NOT SICK,\" RIGHT?!"
-    },
-    {
-      "id": 33,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "... I drew an \"X\" on paper to relay to the victim that Jacob was indeed not sick."
-    },
-    {
-      "id": 34,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "Oh, that's... good... Huh, I feel funny. Like I'm bloated—"
-    },
-    {
-      "id": 35,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "Uh, Captain Meursault, what's up with the E.G.O Weapon—"
-    },
-    {
-      "id": 36,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Immediate pre-eclosion symptoms identified. Preparing for battle."
-    },
-    {
-      "id": 37,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "Oh, that's... right... She's so close by..."
-    },
-    {
-      "id": 38,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "... My Queen."
-    },
-    {
-      "id": 39,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "It's hatching."
-    },
-    {
-      "id": 40,
-      "teller": "Amber",
-      "title": "Welfare Team Clerk",
-      "content": "......."
-    },
-    {
-      "id": 41,
-      "content": "...!"
-    },
-    {
-      "id": 42,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "… Eclosion of entity T-04-50-2 identified and eliminated."
-    },
-    {
-      "id": 43,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "And the subsequent emergence of Amber Ordeal, also identified."
-    },
-    {
-      "id": 44,
-      "content": "…! ……. …!"
-    },
-    {
-      "id": 45,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "... Eliminated."
-    },
-    {
-      "id": 46,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Reporting test results of conducting an interview near T-04-50's containment unit. While no variance in the interval between contraction and the late stage of infection has been observed, it can be said that the subject perceives the \"Queen\" at a relatively earlier point."
-    },
-    {
-      "id": 47,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Recording an observation of note: the entity spoke through the victim immediately before eclosion, suggesting that it has the capability to seize the victim's nervous system."
-    },
-    {
-      "id": 48,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "And..."
-    },
-    {
-      "id": 49,
-      "model": "료슈",
-      "teller": "Ryōshū",
-      "title": "Welfare Team Agent",
-      "content": "Hey, Captain."
-    },
-    {
-      "id": 50,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Mm."
-    },
-    {
-      "id": 51,
-      "model": "료슈",
-      "teller": "Ryōshū",
-      "title": "Welfare Team Agent",
-      "content": "You know W.I.H."
-    },
-    {
-      "id": 52,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Another containment breach."
-    },
-    {
-      "id": 53,
-      "model": "료슈",
-      "teller": "Ryōshū",
-      "title": "Welfare Team Agent",
-      "content": "Don't fault me, Captain."
-    },
-    {
-      "id": 54,
-      "model": "료슈",
-      "teller": "Ryōshū",
-      "title": "Welfare Team Agent",
-      "content": "No matter what I do, whether I do good or bad, it goes apeshit. It's shit luck, that's what."
-    },
-    {
-      "id": 55,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "The difficulty of managing the Abnormality is acknowledged. However, continued shirking and offloading of your suppression responsibility to other employees is inappropriate."
-    },
-    {
-      "id": 56,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "I believe former Captains should be held to a higher degree of accountability."
-    },
-    {
-      "id": 57,
-      "model": "료슈",
-      "teller": "Ryōshū",
-      "title": "Welfare Team Agent",
-      "content": "Take a good look at these weapons the fool of a manager gave me, and say that again."
-    },
-    {
-      "id": 58,
-      "model": "료슈",
-      "teller": "Ryōshū",
-      "title": "Welfare Team Agent",
-      "content": "Its creepy face didn't change one bit, no matter how many bullets I blasted into it."
-    },
-    {
-      "id": 59,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "... I have shared the absurdity of your weapon assignment with Mister Chesed, but it appears that he has not yet found the time to pay the manager a visit."
-    },
-    {
-      "id": 60,
-      "model": "료슈",
-      "teller": "Ryōshū",
-      "title": "Welfare Team Agent",
-      "content": "The manager... the B.T.C.... Bunch of slackers, all of them."
-    },
-    {
-      "id": 61,
-      "model": "료슈",
-      "teller": "Ryōshū",
-      "title": "Welfare Team Agent",
-      "content": "Well... not that I mind. The more they laze about, the more opportunities for art appreciation time I get."
-    },
-    {
-      "id": 62,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "... The Dusk Ordeal is still in progress. Search for other hallways to assist."
-    },
-    {
-      "id": 63,
-      "model": "료슈",
-      "teller": "Ryōshū",
-      "title": "Welfare Team Agent",
-      "content": "You're B.A.H. as always, Captain."
-    },
-    {
-      "id": 64,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Mm."
-    },
-    {
-      "id": 65,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "... Welfare Team hallways are clear."
-    },
-    {
-      "id": 66,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "As for the interview subject's corpse— Hm."
-    },
-    {
-      "id": 67,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "... It will be cremated alongside victim Jacob's cadaver."
-    },
-    {
-      "id": 68,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Concluding the interview."
-    },
-    {
-      "id": 69,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "......."
-    },
-    {
-      "id": 70,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "... What is the meaning of your gaze?"
-    },
-    {
-      "id": 71,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "T-04-50."
-    },
-    {
-      "id": 72,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Is it wrath? Because I killed your worker bee with the very weapon extracted from your essence?"
-    },
-    {
-      "id": 73,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Or... does it look like just another \"redemption\" or \"love\" from where you stand?"
-    },
-    {
-      "id": 74,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "I am curious. How does it all appear in your eyes?"
-    },
-    {
-      "id": 75,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "Does it appear as inscrutable as my gaze is to you?"
-    },
-    {
-      "id": 76,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "... Didn't expect to get sentimental. I will have to check my Corrosion rate."
-    },
-    {
-      "id": 77,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "However, the first order of business is completing the suppression effort."
-    },
-    {
-      "id": 78,
-      "model": "뫼르소",
-      "teller": "Meursault",
-      "title": "Welfare Team Captain",
-      "content": "End of recording."
-    }
-  ]
+    "dataList": [
+        {
+            "id": 0,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Đã có nạn nhân thứ 4 rồi."
+        },
+        {
+            "id": 1,
+            "teller": "???",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Hnnngh..."
+        },
+        {
+            "id": 2,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Tôi đã phát cảnh báo rõ ràng cho toàn bộ nhân sự liên quan rằng phải tránh xa buồng quản thúc của Dị Thể khi quá trình Làm Việc đang diễn ra, vì vật chất sinh học nguy hại mà thực thể này tiết ra có thể xuyên qua hàng rào."
+        },
+        {
+            "id": 3,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "… Tuy vậy, có lẽ cũng khó tránh khỏi, vì quyền phong tỏa vật lý một khu vực của cơ sở thuộc về quản lý."
+        },
+        {
+            "id": 4,
+            "teller": "???",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Ngứa quá… Đội Trưởng ơi, tôi ngứa quá..."
+        },
+        {
+            "id": 5,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Đối tượng đã than phiền về cơn ngứa ở gáy của mình lần thứ 27."
+        },
+        {
+            "id": 6,
+            "teller": "???",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Chắc tôi không nên gãi, đúng không…? Đội Trưởng ơi…?"
+        },
+        {
+            "id": 7,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Gãi để giảm cơn ngứa sẽ không gây vấn đề gì."
+        },
+        {
+            "id": 8,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Không cần lo lắng về việc da bị trầy xước hay chảy máu."
+        },
+        {
+            "id": 9,
+            "teller": "???",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Ah... Agh..."
+        },
+        {
+            "id": 10,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "\"Amber\" thuộc đội nhân viên Hành Chính. Là cô, đúng không?"
+        },
+        {
+            "id": 11,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "V-vâng đúng rồi ạ… Agh..."
+        },
+        {
+            "id": 12,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Đối tượng đã than phiền về cơn ngứa lần thứ 28 kể từ khi buổi phỏng vấn bắt đầu. Khả năng ghi nhớ cơ bản vẫn còn tốt."
+        },
+        {
+            "id": 13,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Ghi nhận: hơn 10 nạn nhân vẫn chưa có thay đổi trong hoạt động não bộ ở mốc 23 giờ, 06 phút, 21 giây kể từ khi hít phải bào tử."
+        },
+        {
+            "id": 14,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Suy luận: hiện tượng phì đại thùy chẩm, quan sát thấy ở giai đoạn cuối của nhiễm bào tử—từ đây gọi là trạng thái \"tiền nở\"—thời điểm chưa xác định kể từ lần tiếp xúc ban đầu. Phát hiện này làm tăng giá trị nghiên cứu của quy trình \"nhận diện và tiêu diệt trứng sớm\" thêm 7.1409%."
+        },
+        {
+            "id": 15,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Xin lỗi, anh đang… nói gì vậy ạ…?"
+        },
+        {
+            "id": 16,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Không có gì cô cần phải hiểu."
+        },
+        {
+            "id": 17,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Không, ý tôi là… tôi không… nghe rõ..."
+        },
+        {
+            "id": 18,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Ngh... ui… ui, bụng tôi đau quá...!"
+        },
+        {
+            "id": 19,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Xác nhận mất thính lực. Đây là trường hợp đầu tiên ghi nhận triệu chứng này trong số các nạn nhân."
+        },
+        {
+            "id": 20,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Đứng yên. Tôi sẽ dùng máy quét sinh học kiểm tra bụng cô."
+        },
+        {
+            "id": 21,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Cái đó… ngh… cái đó có… làm thứ này biến mất không?"
+        },
+        {
+            "id": 22,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Không. Bỏ tay ra khỏi bụng cô."
+        },
+        {
+            "id": 23,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Agh..."
+        },
+        {
+            "id": 24,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Phát hiện hoạt động của ấu trùng ở mốc 23 giờ, 07 phút, 01 giây kể từ khi hít phải bào tử. Trường hợp này xảy ra sớm hơn 33% so với mức trung bình suy ra từ phân bố chuẩn của dữ liệu trước đó."
+        },
+        {
+            "id": 25,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Đồng thời quan sát thấy nhịp co nhẹ ở vùng thùy chẩm. Hiện tượng này đang lan tới cơ quan thính giác của đối tượng, có thể liên quan đến việc mất thính lực."
+        },
+        {
+            "id": 26,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Có… Có thứ gì đó đang bò trong đó..."
+        },
+        {
+            "id": 27,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Khoảng thời gian lột xác từ giai đoạn ấu trùng 2 sang giai đoạn 2 vẫn nằm trong sai số cho phép."
+        },
+        {
+            "id": 28,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Đ-Đội Trưởng ơi, có một người tôi hay đi chơi cùng… Jacob. Lúc đó anh ấy ở với tôi… Anh ấy… ổn chứ?"
+        },
+        {
+            "id": 29,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "... \"Ổn\" theo nghĩa nào?"
+        },
+        {
+            "id": 30,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Ơ…? Xin lỗi, tôi không… nghe rõ. À, giờ đỡ hơn rồi. Không còn đau nhiều nữa..."
+        },
+        {
+            "id": 31,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Xác nhận vô hiệu hóa thụ thể đau. Tôi sẽ ghi các câu hỏi tiếp theo ra giấy."
+        },
+        {
+            "id": 32,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Ah... Ý tôi là anh ấy \"ổn\" nghĩa là \"ANH ẤY KHÔNG BỊ BỆNH,\" ĐÚNG KHÔNG?!"
+        },
+        {
+            "id": 33,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "... Tối đã vẽ một dấu \"X\" trên giấy để báo cho nạn nhân rằng Jacob đúng là không bị bệnh."
+        },
+        {
+            "id": 34,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Ồ, vậy… tốt… Huh, tôi thấy lạ quá. Như kiểu bụng tôi đang phình—"
+        },
+        {
+            "id": 35,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Ơ, Đội Trưởng Meursault này, cái Vũ Khí E.G.O đó—"
+        },
+        {
+            "id": 36,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Xác nhận triệu chứng ngay trước khi nở. Chuẩn bị chiến đấu."
+        },
+        {
+            "id": 37,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "Ồ, đúng… rồi… Ngài ấy ở rất gần..."
+        },
+        {
+            "id": 38,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "... Nữ Hoàng của tôi."
+        },
+        {
+            "id": 39,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Nó sắp nở."
+        },
+        {
+            "id": 40,
+            "teller": "Amber",
+            "title": "Tạp Vụ Phòng Ban Phúc Lợi",
+            "content": "......."
+        },
+        {
+            "id": 41,
+            "content": "...!"
+        },
+        {
+            "id": 42,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "… Xác nhận thực thể T-04-50-2 đã nở và bị tiêu diệt."
+        },
+        {
+            "id": 43,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Và sự xuất hiện tiếp theo của Thử Thách Cam cũng được xác nhận."
+        },
+        {
+            "id": 44,
+            "content": "…! ……. …!"
+        },
+        {
+            "id": 45,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "... Đã tiêu diệt."
+        },
+        {
+            "id": 46,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Báo cáo kết quả thử nghiệm phỏng vấn gần buồng quản thúc T-04-50. Không quan sát thấy thay đổi về khoảng thời gian từ co thắt đến giai đoạn nhiễm cuối, tuy nhiên có thể nói đối tượng cảm nhận \"Nữ Hoàng\" ở thời điểm sớm hơn tương đối."
+        },
+        {
+            "id": 47,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Ghi nhận một quan sát đáng chú ý: thực thể đã nói thông qua nạn nhân ngay trước khi nở, cho thấy nó có khả năng chiếm quyền điều khiển hệ thần kinh của nạn nhân."
+        },
+        {
+            "id": 48,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Và..."
+        },
+        {
+            "id": 49,
+            "model": "료슈",
+            "teller": "Ryōshū",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Này, Đội Trưởng."
+        },
+        {
+            "id": 50,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Mm."
+        },
+        {
+            "id": 51,
+            "model": "료슈",
+            "teller": "Ryōshū",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Anh biết S.T.Đ. mà."
+        },
+        {
+            "id": 52,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Thêm một vụ vi phạm quản thúc nữa."
+        },
+        {
+            "id": 53,
+            "model": "료슈",
+            "teller": "Ryōshū",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Đừng trách tôi, Đội Trưởng."
+        },
+        {
+            "id": 54,
+            "model": "료슈",
+            "teller": "Ryōshū",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Tôi làm gì cũng vậy, làm tốt hay làm tệ, nó vẫn phát điên lên. Vận may cứt đái thôi."
+        },
+        {
+            "id": 55,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Tôi thừa nhận việc quản lý Dị Thể đó rất khó. Tuy nhiên, việc tiếp tục trốn tránh và đẩy trách nhiệm trấn áp nó của cô sang nhân viên khác là không phù hợp."
+        },
+        {
+            "id": 56,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Tôi tin rằng những cựu Đội trưởng nên chịu trách nhiệm ở mức cao hơn."
+        },
+        {
+            "id": 57,
+            "model": "료슈",
+            "teller": "Ryōshū",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Anh thử nhìn mấy cái vũ khí mà thằng quản lý ngu si kia giao cho tôi rồi nói lại câu đó xem."
+        },
+        {
+            "id": 58,
+            "model": "료슈",
+            "teller": "Ryōshū",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Cái mặt quỷ dị của nó chẳng thay đổi chút nào dù tôi bắn bao nhiêu viên đạn vào."
+        },
+        {
+            "id": 59,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "... Tôi đã chia sẻ sự vô lý trong việc phân công vũ khí của cô với ngài Chesed, nhưng có vẻ ngài ấy vẫn chưa có thời gian gặp quản lý."
+        },
+        {
+            "id": 60,
+            "model": "료슈",
+            "teller": "Ryōshū",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Quản lý… cái T.T.X…. Toàn một lũ lười biếng."
+        },
+        {
+            "id": 61,
+            "model": "료슈",
+            "teller": "Ryōshū",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "À mà… ta cũng không bận tâm lắm. Họ càng lười thì ta càng có thêm thời gian thưởng thức nghệ thuật."
+        },
+        {
+            "id": 62,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "… Thử Thách Hoàng Hôn vẫn đang diễn ra. Hãy tìm các hành lang khác để hỗ trợ."
+        },
+        {
+            "id": 63,
+            "model": "료슈",
+            "teller": "Ryōshū",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Anh lúc nào cũng C.V.C. như vậy, Đội Trưởng à."
+        },
+        {
+            "id": 64,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Mm."
+        },
+        {
+            "id": 65,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "... Các hành lang của Phòng Ban Phúc Lợi đã được dọn sạch."
+        },
+        {
+            "id": 66,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Còn thi thể của đối tượng phỏng vấn— Hm."
+        },
+        {
+            "id": 67,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "... Sẽ được hỏa táng cùng thi thể nạn nhân Jacob."
+        },
+        {
+            "id": 68,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Kết thúc buổi phỏng vấn."
+        },
+        {
+            "id": 69,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "......."
+        },
+        {
+            "id": 70,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "… Ánh nhìn đó của ngươi có ý nghĩa gì?"
+        },
+        {
+            "id": 71,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "T-04-50."
+        },
+        {
+            "id": 72,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Đó là sự phẫn nộ sao? Vì ta đã giết ong thợ của ngươi bằng chính vũ khí được chiết xuất từ bản thể của ngươi?"
+        },
+        {
+            "id": 73,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Hay… từ góc nhìn của ngươi, đó chỉ là một dạng \"cứu rỗi\" or \"tình yêu\" khác?"
+        },
+        {
+            "id": 74,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Ta tò mò. Trong mắt ngươi, tất cả trông như thế nào?"
+        },
+        {
+            "id": 75,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Có khó hiểu như ánh nhìn của ta đối với ngươi không?"
+        },
+        {
+            "id": 76,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "… Không ngờ lại trở nên đa cảm như vậy. Ta sẽ phải kiểm tra lại mức độ Ăn Mòn của mình."
+        },
+        {
+            "id": 77,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Tuy nhiên, việc trước mắt vẫn là hoàn thành nhiệm vụ trấn áp."
+        },
+        {
+            "id": 78,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Đội Trưởng Phòng Ban Phúc Lợi",
+            "content": "Kết thúc bản ghi."
+        }
+    ]
 }
