@@ -2,57 +2,57 @@
   "dataList": [
     {
       "id": 0,
-      "content": "It was an unremarkable sort of day—if one could call it that—when even the Agents of the Upper Layer had been mobilized to suppress and return Alriune to its containment unit."
+      "content": "Đó là một ngày khá bình thường—nếu còn có thể gọi là như vậy—khi ngay cả các Đặc Vụ của Tầng Trên cũng đã được huy động để trấn áp và đưa Alriune trở lại buồng quản thúc."
     },
     {
       "id": 1,
-      "content": "With the Control Team left hollowed out, the child had been saddled with managing the Abnormalities assigned to the department."
+      "content": "Khi Phòng Ban Kiểm Soát gần như trống rỗng, đứa trẻ bị giao nhiệm vụ quản lý các Dị Thể thuộc về phòng ban này."
     },
     {
       "id": 2,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "P. M. P. C."
+      "content": "Q.L.N C.Đ.N."
     },
     {
       "id": 3,
-      "content": "As soon as she stepped into the Old Lady's containment unit, the child sat reclining in a chair and crossed her legs, unfiltered complaints spilling out of her mouth."
+      "content": "Ngay khi bước vào buồng phản thúc của Bà Già, đứa trẻ ngả người xuống ghế, bắt chéo chân và buông ra những lời phàn nàn không kiềm chế."
     },
     {
       "id": 4,
-      "content": "All day long, she'd been tasked with doing Managerial Work on Alriune to extract its E.G.O gear..."
+      "content": "Suốt cả ngày hôm nay, cô bị giao nhiệm vụ thực hiện Công Việc Quản Thúc với Alriune để trích xuất trang bị E.G.O của nó…"
     },
     {
       "id": 5,
-      "content": "... and she failed. That's three times already—seven, actually, by the manager's yardstick—that she'd allowed Alriune to escape under her watch today alone."
+      "content": "… và cô đã thất bại. Đã được ba lần rồi—thực ra là bảy, nếu tính theo tiêu chuẩn của quản lý—cô đã để Alriune xổng chuồng ngay trong hôm nay."
     },
     {
       "id": 6,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "I don't see how that pink mongrel breaking containment is my fault."
+      "content": "Tôi không thấy việc con chó hồng đó vi phạm quản thúc có gì là lỗi của tôi."
     },
     {
       "id": 7,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "It's that dimwit of a manager. Must've bled out every scrap of luck because he couldn't resist rubbernecking at the thing every now and then."
+      "content": "Lỗi là ở cái thằng quản lý ngu đần kia. Chắc khứa đã tiêu sạch may mắn của mình vì không cưỡng lại được việc cứ thỉnh thoảng chạy tới ngắm cái thứ đó."
     },
     {
       "id": 8,
-      "content": "Alriune. That sorrowful child slips out of containment when the Work Result is \"Bad\"... and just as readily on a \"Good.\""
+      "content": "Alriune. Đứa trẻ u sầu ấy sẽ rời khỏi buồng quản thúc khi kết quả Công Việc là “Tệ”… và cũng dễ dàng như vậy khi kết quả là \"Tốt\"."
     },
     {
       "id": 9,
-      "content": "It's never content to remain confined. It would much rather wander outside, suffusing the company's musty corridors with the fresh scent of the forest."
+      "content": "Nó không bao giờ muốn ở yên trong buồng giam. Nó thích lang thang bên ngoài hơn, mang theo mùi hương tươi mới của rừng vào những hành lang ẩm mốc của công ty."
     },
     {
       "id": 10,
-      "content": "Haha... Things must look quite unfair, from where it stands."
+      "content": "Haha… Nhìn từ phía của nó, mọi thứ hẳn thật bất công."
     },
     {
       "id": 11,
-      "content": "And, of course, from where the manager stands too."
+      "content": "Và dĩ nhiên, từ góc nhìn của quản lý cũng vậy."
     },
     {
       "id": 12,
@@ -64,55 +64,55 @@
       "id": 13,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "Tsk. No flower-viewing today. Just stuck hearing the old hag droning on all day."
+      "content": "Tsk. Hôm nay chẳng có cảnh hoa gì để ngắm. Chỉ phải nghe con mụ già này lải nhải cả ngày."
     },
     {
       "id": 14,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "It's become pitch-black, this room. The curse must've seeped into the walls—been a while since I last did some work here."
+      "content": "Căn phòng tối đen rồi. Lời nguyền chắc đã thấm sâu vào tường—đã lâu lắm rồi ta mới làm việc ở đây."
     },
     {
       "id": 15,
       "teller": "Old Lady",
       "title": "Abnormality",
-      "content": "<i>Dearie, dearie... would you like to hear a story?</i>"
+      "content": "<i>Cháu ơi, cháu à… cháu có muốn nghe một câu chuyện không?</i>"
     },
     {
       "id": 16,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "*puff* Whatever."
+      "content": "*phù* Tùy bà."
     },
     {
       "id": 17,
-      "content": "Tales crooned like lullabies, poems too abstract to grasp, ghost stories that make the hair on the back of the neck stand straight up."
+      "content": "Những câu chuyện được kể như lời hát ru, những bài thơ quá trừu tượng để hiểu, những truyện ma khiến gáy người nghe dựng tóc gáy."
     },
     {
       "id": 18,
-      "content": "From stories known to all... to the ones known to none."
+      "content": "Từ những câu chuyện ai cũng biết… đến những câu chuyện không ai từng nghe."
     },
     {
       "id": 19,
-      "content": "The Old Lady knows every tale ever told—every single story in existence, every nursery rhyme written for children."
+      "content": "Bà Già biết mọi câu chuyện từng được kể—mọi câu chuyện tồn tại, mọi bài đồng dao dành cho trẻ em."
     },
     {
       "id": 20,
-      "content": "It goes without saying that her troves of tales also include the secret stories of the other Abnormalities."
+      "content": "Và dĩ nhiên, kho truyện của bà cũng chứa cả những câu chuyện bí mật của các Dị Thể khác."
     },
     {
       "id": 21,
-      "content": "Just a coincidence, perhaps. Or is it inevitability?"
+      "content": "Chỉ là trùng hợp, có lẽ vậy. Hay đây là điều tất yếu?"
     },
     {
       "id": 22,
-      "content": "For the first time, the Old Lady brought up a tale of an Abnormality—an entity that the child knew all too well."
+      "content": "Lần đầu tiên, Bà Già kể về một Dị Thể mà đứa trẻ biết rất rõ."
     },
     {
       "id": 23,
       "teller": "Old Lady",
       "title": "Abnormality",
-      "content": "<i>Oh, Alriune, the lovely one; a doll who yearned to be human.</i>"
+      "content": "<i>Ôi Alriune, sinh vật xinh đẹp ấy; một con búp bê khao khát trở thành con người.</i>"
     },
     {
       "id": 24,
@@ -124,21 +124,21 @@
       "id": 25,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "Know something about that rabid thing?"
+      "content": " Bà biết gì về cái thứ điên khùng đó à?"
     },
     {
       "id": 26,
-      "content": "A flicker of surprise crosses the child's face as she voices her question, but the answer, in all likelihood, won't be hers to hear."
+      "content": "Một tia ngạc nhiên thoáng qua gương mặt đứa trẻ khi cô hỏi, nhưng câu trả lời, rất có thể, sẽ không bao giờ dành cho cô."
     },
     {
       "id": 27,
-      "content": "The Old Lady, you see, doesn't speak <i>to you</i>. She merely speaks, spinning her tales and making her loneliness known."
+      "content": "Bởi vì cậu thấy đó, Bà Già chẳng bao giờ nói chuyện với cậu. Bà chỉ nói, kể những câu chuyện của mình để lấp đầy sự cô độc."
     },
     {
       "id": 28,
       "teller": "Old Lady",
       "title": "Abnormality",
-      "content": "<i>Its eyes were full of soul, and it was adored by people.</i>"
+      "content": "<i>Đôi mắt của nó chứa đầy linh hồn, và được mọi người yêu mến.</i>"
     },
     {
       "id": 29,
@@ -150,121 +150,121 @@
       "id": 30,
       "teller": "Old Lady",
       "title": "Abnormality",
-      "content": "<i>But every genesis of the spring is to be followed by the passing of the autumn.</i>"
+      "content": "<i> Nhưng mọi mùa xuân sinh ra đều phải tiếp nối bằng mùa thu tàn lụi.</i>"
     },
     {
       "id": 31,
-      "content": "The Old Lady does no such thing as asking. She doesn't \"respond,\" either. The words that come out of her mouth are not for conversation."
+      "content": "Bà Già không hỏi điều gì. Bà cũng không \"đáp lại\". Những lời bà nói không phải để trò chuyện."
     },
     {
       "id": 32,
-      "content": "Which is why, for all the stories she tells, she can never manage to fill the void of her loneliness."
+      "content": "Vì vậy, dù kể bao nhiêu câu chuyện, bà cũng không thể lấp đầy khoảng trống cô độc của mình."
     },
     {
       "id": 33,
       "teller": "Old Lady",
       "title": "Abnormality",
-      "content": "<i>One day, the doll was abandoned in a dark forest.</i>"
+      "content": "<i>Một ngày nọ, con búp bê bị bỏ lại trong khu rừng tối.</i>"
     },
     {
       "id": 34,
       "teller": "Old Lady",
       "title": "Abnormality",
-      "content": "<i>Its eyes were stolen by crows lusting for glitter,</i>"
+      "content": "<i>Đôi mắt nó bị những con quạ tham ánh sáng cướp mất,</i>"
     },
     {
       "id": 35,
       "teller": "Old Lady",
       "title": "Abnormality",
-      "content": "<i>while its mind, life, and heart slowly withered away.</i>"
+      "content": "<i>trong khi tâm trí, sự sống và trái tim của nó dần héo tàn.</i>"
     },
     {
       "id": 36,
       "teller": "Old Lady",
       "title": "Abnormality",
-      "content": "<i>Part by part, its pretty porcelain body cracked and shattered. Where its eyes once were, only gaping holes were left.</i>"
+      "content": "<i>Từng phần cơ thể sứ xinh đẹp của nó nứt vỡ. Nơi đôi mắt từng tồn tại chỉ còn những hốc trống.</i>"
     },
     {
       "id": 37,
       "teller": "Old Lady",
       "title": "Abnormality",
-      "content": "<i>And yet, the doll remained standing in the forest.</i>"
+      "content": "<i>Thế nhưng con búp bê vẫn đứng trong khu rừng.</i>"
     },
     {
       "id": 38,
       "teller": "Old Lady",
       "title": "Abnormality",
-      "content": "<i>The cracks and openings on the porcelain were instead filled with a growing bouquet of flowers, and fresh petals fluttered down like tears from the empty holes of its eyes.</i>"
+      "content": "<i>Những vết nứt trên cơ thể sứ được lấp đầy bởi những bó hoa đang nở, và cánh hoa rơi xuống như nước mắt từ hốc mắt trống.</i>"
     },
     {
       "id": 39,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "And then? What happened next?"
+      "content": "Rồi sao nữa? Chuyện gì xảy ra tiếp?"
     },
     {
       "id": 40,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "Did it hunt down the crow that pecked its eyes out? Did it cut off its wings?"
+      "content": "Nó có đi săn con quạ đã mổ mắt nó không? Có chặt cánh nó không?"
     },
     {
       "id": 41,
-      "content": "The child knew that no answer would be returned;"
+      "content": "Đứa trẻ biết sẽ không có câu trả lời;"
     },
     {
       "id": 42,
-      "content": "That she would still get to hear the next part of the story, whether or not she invited the Old Lady to continue."
+      "content": "Rằng câu chuyện vẫn sẽ tiếp tục dù cô có mời Bà Già kể tiếp hay không."
     },
     {
       "id": 43,
-      "content": "Still, ask she did..."
+      "content": "Nhưng cô vẫn hỏi…"
     },
     {
       "id": 44,
-      "content": "... as though she were used to such exchanges."
+      "content": "như thể đã quen với kiểu đối thoại như vậy."
     },
     {
       "id": 45,
       "teller": "Old Lady",
       "title": "Abnormality",
-      "content": "<i>Alriune, lacking eyes but all-seeing; a human who yearned to be a doll.</i>"
+      "content": "<i>Alriune, không có mắt nhưng nhìn thấy tất cả; một con người khao khát trở thành búp bê.</i>"
     },
     {
       "id": 46,
       "teller": "Old Lady",
       "title": "Abnormality",
-      "content": "<i>Born of soil, and to soil shall it return.</i>"
+      "content": "<i>Sinh ra từ đất, rồi cũng sẽ trở về với đất.</i>"
     },
     {
       "id": 47,
-      "content": "The Old Lady directed her gaze at the child—a gaze as hollow as that of the Alriune from the story, a black void that seems to meet the child's own eyes."
+      "content": "Bà Già hướng ánh nhìn về phía đứa trẻ—một ánh nhìn trống rỗng như đôi mắt của Alriune trong câu chuyện, một khoảng đen sâu thẳm dường như đang đối diện với ánh mắt của chính đứa trẻ."
     },
     {
       "id": 48,
-      "content": "It was almost as though she were interested in hearing what the child would make of the tale."
+      "content": "Cứ như thể bà ta muốn nghe xem đứa trẻ sẽ nghĩ gì về câu chuyện ấy."
     },
     {
       "id": 49,
-      "content": "The child's eyebrows cinched together in a scowl. The tale might have found footing had she cared to listen with interest, but this was not for her. She really should have spared herself the trouble of hearing it out, she thought."
+      "content": "Đứa trẻ cau mày khó chịu. Có lẽ câu chuyện đã có thể gây được chút hứng thú nếu cô thực sự muốn lắng nghe, nhưng điều đó không dành cho cô. Nghĩ vậy, cô tự nhủ đáng ra mình nên khỏi phải phí công nghe hết câu chuyện."
     },
     {
       "id": 50,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "... L. O. N. E."
+      "content": "… H.T. V.N. T.T. R.T."
     },
     {
       "id": 51,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "Your story's literally otiose, needless, empty."
+      "content": "Câu chuyện của bà hoàn toàn vô nghĩa, thừa thãi, rỗng tuếch."
     },
     {
       "id": 52,
       "teller": "Old Lady",
       "title": "Abnormality",
-      "content": "<i>But surely that was not the end of the story for the doll.</i>"
+      "content": "<i>Nhưng chắc chắn đó không phải là kết thúc của câu chuyện con búp bê.</i>"
     },
     {
       "id": 53,
@@ -274,23 +274,23 @@
     },
     {
       "id": 54,
-      "content": "Perhaps the story hit a bit too close to home, or maybe it reminded the child of a certain someone she only remembered in the foggy fragments of her memories..."
+      "content": "Có lẽ câu chuyện ấy đã chạm quá gần vào điều gì đó trong lòng cô, hoặc có lẽ nó khiến đứa trẻ nhớ đến một ai đó chỉ còn tồn tại trong những mảnh ký ức mờ nhòe…"
     },
     {
       "id": 55,
-      "content": "Either way, a cloying loneliness clung to the child as she stepped out of the containment unit."
+      "content": "Dù là thế nào đi nữa, một nỗi cô đơn ngột ngạt vẫn bám riết lấy đứa trẻ khi cô bước ra khỏi buồng quản thúc."
     },
     {
       "id": 56,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "... And who the hell are you?"
+      "content": "… Và ngươi là ai vậy?"
     },
     {
       "id": 57,
       "teller": "Vera",
       "title": "Information Team Agent",
-      "content": "Oh! I'm Vera, from Information. You're that Agent who transferred to the Middle Layer from the Safety Team, right? Uh..."
+      "content": "Ồ! Tôi là Vera, từ Phòng Ban Thông Tin. Cô là Đặc Vụ vừa chuyển từ Phòng Ban An Ninh lên Tầng Giữa đúng không?"
     },
     {
       "id": 58,
@@ -302,193 +302,193 @@
       "id": 59,
       "teller": "Vera",
       "title": "Information Team Agent",
-      "content": "Right! Right, Ryōshū. I've heard quite a bit about you."
+      "content": "Đúng rồi! Được rồi, Ryōshū. Tôi đã nghe khá nhiều về cô."
     },
     {
       "id": 60,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "*puff* Hmph. What do you want?"
+      "content": "*phù* Hmph. Ngươi muốn gì?"
     },
     {
       "id": 61,
       "teller": "Vera",
       "title": "Information Team Agent",
-      "content": "I came down because Mister Yesod gave the order for support. There was no one in the Control Team... anyhow, thought I smelled something burning in the lobby, and..."
+      "content": "Tôi xuống đây vì ngài Yesod ra lệnh hỗ trợ. Không còn ai ở Phòng Ban Điều Khiển… À, tôi còn ngửi thấy mùi gì đó cháy trong sảnh…"
     },
     {
       "id": 62,
       "teller": "Vera",
       "title": "Information Team Agent",
-      "content": "Yup. I see that you, uh, Altered your E.G.O Gift into... a cigarette. Ah, not an issue, I guess, as long as it's not a fire..."
+      "content": "À phải. Tôi thấy cô đã biến Món Quà E.G.O của mình thành… một điếu thuốc. À, chắc không sao đâu… miễn là không có cháy nổ…"
     },
     {
       "id": 63,
-      "content": "The employee extended a hand for a handshake, but the child slapped it away like a high-five and moved toward the hallways...."
+      "content": " Người nhân viên đưa tay ra định bắt tay, nhưng đứa trẻ lại đập vào đó như thể đập tay chào rồi bước về phía hành lang…"
     },
     {
       "id": 64,
-      "content": "... only to be stopped by the flustered employee blocking her path."
+      "content": "… nhưng ngay lập tức bị nhân viên đang lúng túng chặn lại trước mặt."
     },
     {
       "id": 65,
       "teller": "Vera",
       "title": "Information Team Agent",
-      "content": "Uh, please... Just a moment. Please wait here until the Control Team arrives."
+      "content": "Ờ, xin hãy… đợi một chút. Hãy ở đây cho đến khi Phòng Ban Điều Khiển quay lại."
     },
     {
       "id": 66,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "And why should I do that?"
+      "content": "Và tại sao ta phải làm vậy?"
     },
     {
       "id": 67,
       "teller": "Vera",
       "title": "Information Team Agent",
-      "content": "You missed the announcement, I take it. The Dusk of Amber will begin shortly."
+      "content": " Cô bỏ lỡ thông báo rồi. Hoàng Hôn Cam sẽ sớm bắt đầu."
     },
     {
       "id": 68,
       "teller": "Vera",
       "title": "Information Team Agent",
-      "content": "And... during the Dusk of Amber, the effectiveness of RED—that is, physical attack—is doubled."
+      "content": "Và… trong lúc diễn ra Hoàng Hôn Can, hiệu quả của ĐỎ—tấn công vật lý—sẽ tăng gấp đôi."
     },
     {
       "id": 69,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "Doubled? That multiplier nonsense you people like to play with, hmm?"
+      "content": "Gấp đôi? Cái trò hệ số nhân mà lũ các người vui đùa cùng đó á?"
     },
     {
       "id": 70,
       "teller": "Vera",
       "title": "Information Team Agent",
-      "content": "Correct. Ryōshū, your E.G.O weapons are both WHITE-type. I recommend either switching weapons or leave this to the other Agents..."
+      "content": " Đúng vậy. Nhưng vũ khí E.G.O của cô đều thuộc loại TRẮNG. Tôi khuyên cô nên đổi vũ khí hoặc để Đặc Vụ khác xử lý…"
     },
     {
       "id": 71,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "You're N. S. F. P."
+      "content": "Ngươi C. H. H. M. C."
     },
     {
       "id": 72,
       "teller": "Vera",
       "title": "Information Team Agent",
-      "content": "Pardon?"
+      "content": "Xin lỗi?"
     },
     {
       "id": 73,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "You're not seeing the full picture."
+      "content": "Ngươi chưa hề hiểu mọi chuyện."
     },
     {
       "id": 74,
-      "content": "The child brushed past the employee and walked into the corridor with light steps."
+      "content": "Đứa trẻ khẽ lách qua người nhân viên và bước vào hành lang bằng những bước chân nhẹ tênh."
     },
     {
       "id": 75,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "Look closely, M. B."
+      "content": "Nhìn kỹ đi, Đ. M.P."
     },
     {
       "id": 76,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "If switching E.G.O gear is what allows double the efficiency, all I need to do is use both of my weapons at once instead."
+      "content": "Nếu đổi trang bị E.G.O giúp hiệu suất gấp đôi, thì ta chỉ cần dùng cả hai vũ khí cùng lúc là được."
     },
     {
       "id": 77,
       "teller": "Vera",
       "title": "Information Team Agent",
-      "content": "Uh... What?"
+      "content": "Ừm … Hả?"
     },
     {
       "id": 78,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "I'll show you the collaboration of F.A., S."
+      "content": "Ta sẽ cho ngươi thấy sự kết hợp giữa H.T.N.N., S.C.Đ."
     },
     {
       "id": 79,
-      "content": "A gigantic worm burst into the hallway."
+      "content": "Một con sâu khổng lồ phá tung và lao vào hành lang."
     },
     {
       "id": 80,
-      "content": "As the ordeal entity advanced slowly, yet not without momentum, the child raised her crossbow and took aim."
+      "content": "Khi thực thể thử thách tiến tới chậm rãi nhưng vẫn mang theo đà tiến, đứa trẻ giương nỏ lên và nhắm bắn."
     },
     {
       "id": 81,
-      "content": "The employee, who frantically chased after the child, watched the bolt flying from the crossbow,"
+      "content": "Người nhân viên đang hoảng hốt đuổi theo phía sau chỉ kịp nhìn thấy mũi tên nỏ rời khỏi dây,"
     },
     {
       "id": 82,
-      "content": "and in the same breath, the child's revolver fired six rounds at the ordeal at a speed too fast for the eye to track."
+      "content": "và gần như trong cùng một nhịp thở, khẩu súng lục ổ quay của đứa trẻ đã bắn liền sáu phát vào thực thể đó với tốc độ quá nhanh để mắt thường theo kịp."
     },
     {
       "id": 83,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "Hmm. Was that not enough?"
+      "content": "Hmm. Chưa đủ sao?"
     },
     {
       "id": 84,
       "teller": "Vera",
       "title": "Information Team Agent",
-      "content": "Th-that's why I told you to either switch weapons or wait!"
+      "content": " Đ-Đó là lý do tôi bảo cô đổi vũ khí hoặc chờ mà!"
     },
     {
       "id": 85,
       "teller": "Vera",
       "title": "Information Team Agent",
-      "content": "Look, it's not too late to go back and—"
+      "content": "Xem này, bây giờ vẫn chưa quá muộn để quay lại và–"
     },
     {
       "id": 86,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "Well, more shots should do the trick, then."
+      "content": " Vậy bắn thêm vài phát nữa là được chứ gì."
     },
     {
       "id": 87,
-      "content": "One shot. Then two. Then a third."
+      "content": "Một phát. Rồi hai phát. Rồi là ba phát."
     },
     {
       "id": 88,
-      "content": "Bolts and bullets rained down on the ordeals until they burst like squashed fruit,"
+      "content": "Tên và đạn trút xuống cho đến khi các thử thách vỡ tung như trái cây bị nghiền nát."
     },
     {
       "id": 89,
-      "content": "and another bolt loosened at point-blank range punched straight through the largest of them—the Dusk itself."
+      "content": "…và thêm một mũi tên được bắn ra ở khoảng cách gần như chạm mặt, đâm xuyên thẳng qua sinh vật to lớn nhất trong chúng — chính là Hoàng Hôn."
     },
     {
       "id": 90,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "*puff*"
+      "content": "*phù*"
     },
     {
       "id": 91,
       "model": "료슈",
       "title": "Welfare Team Agent",
-      "content": "Not a dull end to wrap up a day."
+      "content": " Một cái kết không tệ cho một ngày."
     },
     {
       "id": 92,
       "teller": "Vera",
       "title": "Information Team Agent",
-      "content": "W-wait... Why are you aiming that thing at me?!"
+      "content": "K-Khoan đã… tại sao cô lại chĩa cái đó vào tôi?!"
     },
     {
       "id": 93,
-      "content": "The child, perhaps, had managed to reshape the loneliness that latched onto her into an artistry of her own,"
+      "content": "Có lẽ đứa trẻ đã biến nỗi cô đơn từng bám lấy mình thành một dạng nghệ thuật của riêng cô,"
     },
     {
       "id": 94,
-      "content": "because she no longer seemed lonely at all as she emptied her gun on the horrified employee."
+      "content": "bởi khi cô xả hết băng đạn vào người nhân viên đang kinh hoàng, trông cô không còn cô đơn chút nào nữa."
     }
   ]
 }
