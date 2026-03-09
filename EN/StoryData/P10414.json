@@ -1,494 +1,494 @@
 {
-  "dataList": [
-    {
-      "id": 0,
-      "content": "Đó là một ngày khá bình thường—nếu còn có thể gọi là như vậy—khi ngay cả các Đặc Vụ của Tầng Trên cũng đã được huy động để trấn áp và đưa Alriune trở lại buồng quản thúc."
-    },
-    {
-      "id": 1,
-      "content": "Khi Phòng Ban Kiểm Soát gần như trống rỗng, đứa trẻ bị giao nhiệm vụ quản lý các Dị Thể thuộc về phòng ban này."
-    },
-    {
-      "id": 2,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Q.L.N C.Đ.N."
-    },
-    {
-      "id": 3,
-      "content": "Ngay khi bước vào buồng phản thúc của Bà Già, đứa trẻ ngả người xuống ghế, bắt chéo chân và buông ra những lời phàn nàn không kiềm chế."
-    },
-    {
-      "id": 4,
-      "content": "Suốt cả ngày hôm nay, cô bị giao nhiệm vụ thực hiện Công Việc Quản Thúc với Alriune để trích xuất trang bị E.G.O của nó…"
-    },
-    {
-      "id": 5,
-      "content": "… và cô đã thất bại. Đã được ba lần rồi—thực ra là bảy, nếu tính theo tiêu chuẩn của quản lý—cô đã để Alriune xổng chuồng ngay trong hôm nay."
-    },
-    {
-      "id": 6,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Tôi không thấy việc con chó hồng đó vi phạm quản thúc có gì là lỗi của tôi."
-    },
-    {
-      "id": 7,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Lỗi là ở cái thằng quản lý ngu đần kia. Chắc khứa đã tiêu sạch may mắn của mình vì không cưỡng lại được việc cứ thỉnh thoảng chạy tới ngắm cái thứ đó."
-    },
-    {
-      "id": 8,
-      "content": "Alriune. Đứa trẻ u sầu ấy sẽ rời khỏi buồng quản thúc khi kết quả Công Việc là “Tệ”… và cũng dễ dàng như vậy khi kết quả là \"Tốt\"."
-    },
-    {
-      "id": 9,
-      "content": "Nó không bao giờ muốn ở yên trong buồng giam. Nó thích lang thang bên ngoài hơn, mang theo mùi hương tươi mới của rừng vào những hành lang ẩm mốc của công ty."
-    },
-    {
-      "id": 10,
-      "content": "Haha… Nhìn từ phía của nó, mọi thứ hẳn thật bất công."
-    },
-    {
-      "id": 11,
-      "content": "Và dĩ nhiên, từ góc nhìn của quản lý cũng vậy."
-    },
-    {
-      "id": 12,
-      "teller": "Old Lady",
-      "title": "Abnormality",
-      "content": "……."
-    },
-    {
-      "id": 13,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Tsk. Hôm nay chẳng có cảnh hoa gì để ngắm. Chỉ phải nghe con mụ già này lải nhải cả ngày."
-    },
-    {
-      "id": 14,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Căn phòng tối đen rồi. Lời nguyền chắc đã thấm sâu vào tường—đã lâu lắm rồi ta mới làm việc ở đây."
-    },
-    {
-      "id": 15,
-      "teller": "Old Lady",
-      "title": "Abnormality",
-      "content": "<i>Cháu ơi, cháu à… cháu có muốn nghe một câu chuyện không?</i>"
-    },
-    {
-      "id": 16,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "*phù* Tùy bà."
-    },
-    {
-      "id": 17,
-      "content": "Những câu chuyện được kể như lời hát ru, những bài thơ quá trừu tượng để hiểu, những truyện ma khiến gáy người nghe dựng tóc gáy."
-    },
-    {
-      "id": 18,
-      "content": "Từ những câu chuyện ai cũng biết… đến những câu chuyện không ai từng nghe."
-    },
-    {
-      "id": 19,
-      "content": "Bà Già biết mọi câu chuyện từng được kể—mọi câu chuyện tồn tại, mọi bài đồng dao dành cho trẻ em."
-    },
-    {
-      "id": 20,
-      "content": "Và dĩ nhiên, kho truyện của bà cũng chứa cả những câu chuyện bí mật của các Dị Thể khác."
-    },
-    {
-      "id": 21,
-      "content": "Chỉ là trùng hợp, có lẽ vậy. Hay đây là điều tất yếu?"
-    },
-    {
-      "id": 22,
-      "content": "Lần đầu tiên, Bà Già kể về một Dị Thể mà đứa trẻ biết rất rõ."
-    },
-    {
-      "id": 23,
-      "teller": "Old Lady",
-      "title": "Abnormality",
-      "content": "<i>Ôi Alriune, sinh vật xinh đẹp ấy; một con búp bê khao khát trở thành con người.</i>"
-    },
-    {
-      "id": 24,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "...?"
-    },
-    {
-      "id": 25,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": " Bà biết gì về cái thứ điên khùng đó à?"
-    },
-    {
-      "id": 26,
-      "content": "Một tia ngạc nhiên thoáng qua gương mặt đứa trẻ khi cô hỏi, nhưng câu trả lời, rất có thể, sẽ không bao giờ dành cho cô."
-    },
-    {
-      "id": 27,
-      "content": "Bởi vì cậu thấy đó, Bà Già chẳng bao giờ nói chuyện với cậu. Bà chỉ nói, kể những câu chuyện của mình để lấp đầy sự cô độc."
-    },
-    {
-      "id": 28,
-      "teller": "Old Lady",
-      "title": "Abnormality",
-      "content": "<i>Đôi mắt của nó chứa đầy linh hồn, và được mọi người yêu mến.</i>"
-    },
-    {
-      "id": 29,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "......."
-    },
-    {
-      "id": 30,
-      "teller": "Old Lady",
-      "title": "Abnormality",
-      "content": "<i> Nhưng mọi mùa xuân sinh ra đều phải tiếp nối bằng mùa thu tàn lụi.</i>"
-    },
-    {
-      "id": 31,
-      "content": "Bà Già không hỏi điều gì. Bà cũng không \"đáp lại\". Những lời bà nói không phải để trò chuyện."
-    },
-    {
-      "id": 32,
-      "content": "Vì vậy, dù kể bao nhiêu câu chuyện, bà cũng không thể lấp đầy khoảng trống cô độc của mình."
-    },
-    {
-      "id": 33,
-      "teller": "Old Lady",
-      "title": "Abnormality",
-      "content": "<i>Một ngày nọ, con búp bê bị bỏ lại trong khu rừng tối.</i>"
-    },
-    {
-      "id": 34,
-      "teller": "Old Lady",
-      "title": "Abnormality",
-      "content": "<i>Đôi mắt nó bị những con quạ tham ánh sáng cướp mất,</i>"
-    },
-    {
-      "id": 35,
-      "teller": "Old Lady",
-      "title": "Abnormality",
-      "content": "<i>trong khi tâm trí, sự sống và trái tim của nó dần héo tàn.</i>"
-    },
-    {
-      "id": 36,
-      "teller": "Old Lady",
-      "title": "Abnormality",
-      "content": "<i>Từng phần cơ thể sứ xinh đẹp của nó nứt vỡ. Nơi đôi mắt từng tồn tại chỉ còn những hốc trống.</i>"
-    },
-    {
-      "id": 37,
-      "teller": "Old Lady",
-      "title": "Abnormality",
-      "content": "<i>Thế nhưng con búp bê vẫn đứng trong khu rừng.</i>"
-    },
-    {
-      "id": 38,
-      "teller": "Old Lady",
-      "title": "Abnormality",
-      "content": "<i>Những vết nứt trên cơ thể sứ được lấp đầy bởi những bó hoa đang nở, và cánh hoa rơi xuống như nước mắt từ hốc mắt trống.</i>"
-    },
-    {
-      "id": 39,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Rồi sao nữa? Chuyện gì xảy ra tiếp?"
-    },
-    {
-      "id": 40,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Nó có đi săn con quạ đã mổ mắt nó không? Có chặt cánh nó không?"
-    },
-    {
-      "id": 41,
-      "content": "Đứa trẻ biết sẽ không có câu trả lời;"
-    },
-    {
-      "id": 42,
-      "content": "Rằng câu chuyện vẫn sẽ tiếp tục dù cô có mời Bà Già kể tiếp hay không."
-    },
-    {
-      "id": 43,
-      "content": "Nhưng cô vẫn hỏi…"
-    },
-    {
-      "id": 44,
-      "content": "như thể đã quen với kiểu đối thoại như vậy."
-    },
-    {
-      "id": 45,
-      "teller": "Old Lady",
-      "title": "Abnormality",
-      "content": "<i>Alriune, không có mắt nhưng nhìn thấy tất cả; một con người khao khát trở thành búp bê.</i>"
-    },
-    {
-      "id": 46,
-      "teller": "Old Lady",
-      "title": "Abnormality",
-      "content": "<i>Sinh ra từ đất, rồi cũng sẽ trở về với đất.</i>"
-    },
-    {
-      "id": 47,
-      "content": "Bà Già hướng ánh nhìn về phía đứa trẻ—một ánh nhìn trống rỗng như đôi mắt của Alriune trong câu chuyện, một khoảng đen sâu thẳm dường như đang đối diện với ánh mắt của chính đứa trẻ."
-    },
-    {
-      "id": 48,
-      "content": "Cứ như thể bà ta muốn nghe xem đứa trẻ sẽ nghĩ gì về câu chuyện ấy."
-    },
-    {
-      "id": 49,
-      "content": "Đứa trẻ cau mày khó chịu. Có lẽ câu chuyện đã có thể gây được chút hứng thú nếu cô thực sự muốn lắng nghe, nhưng điều đó không dành cho cô. Nghĩ vậy, cô tự nhủ đáng ra mình nên khỏi phải phí công nghe hết câu chuyện."
-    },
-    {
-      "id": 50,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "… H.T. V.N. T.T. R.T."
-    },
-    {
-      "id": 51,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Câu chuyện của bà hoàn toàn vô nghĩa, thừa thãi, rỗng tuếch."
-    },
-    {
-      "id": 52,
-      "teller": "Old Lady",
-      "title": "Abnormality",
-      "content": "<i>Nhưng chắc chắn đó không phải là kết thúc của câu chuyện con búp bê.</i>"
-    },
-    {
-      "id": 53,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "......."
-    },
-    {
-      "id": 54,
-      "content": "Có lẽ câu chuyện ấy đã chạm quá gần vào điều gì đó trong lòng cô, hoặc có lẽ nó khiến đứa trẻ nhớ đến một ai đó chỉ còn tồn tại trong những mảnh ký ức mờ nhòe…"
-    },
-    {
-      "id": 55,
-      "content": "Dù là thế nào đi nữa, một nỗi cô đơn ngột ngạt vẫn bám riết lấy đứa trẻ khi cô bước ra khỏi buồng quản thúc."
-    },
-    {
-      "id": 56,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "… Và ngươi là ai vậy?"
-    },
-    {
-      "id": 57,
-      "teller": "Vera",
-      "title": "Information Team Agent",
-      "content": "Ồ! Tôi là Vera, từ Phòng Ban Thông Tin. Cô là Đặc Vụ vừa chuyển từ Phòng Ban An Ninh lên Tầng Giữa đúng không?"
-    },
-    {
-      "id": 58,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Ryōshū."
-    },
-    {
-      "id": 59,
-      "teller": "Vera",
-      "title": "Information Team Agent",
-      "content": "Đúng rồi! Được rồi, Ryōshū. Tôi đã nghe khá nhiều về cô."
-    },
-    {
-      "id": 60,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "*phù* Hmph. Ngươi muốn gì?"
-    },
-    {
-      "id": 61,
-      "teller": "Vera",
-      "title": "Information Team Agent",
-      "content": "Tôi xuống đây vì ngài Yesod ra lệnh hỗ trợ. Không còn ai ở Phòng Ban Điều Khiển… À, tôi còn ngửi thấy mùi gì đó cháy trong sảnh…"
-    },
-    {
-      "id": 62,
-      "teller": "Vera",
-      "title": "Information Team Agent",
-      "content": "À phải. Tôi thấy cô đã biến Món Quà E.G.O của mình thành… một điếu thuốc. À, chắc không sao đâu… miễn là không có cháy nổ…"
-    },
-    {
-      "id": 63,
-      "content": " Người nhân viên đưa tay ra định bắt tay, nhưng đứa trẻ lại đập vào đó như thể đập tay chào rồi bước về phía hành lang…"
-    },
-    {
-      "id": 64,
-      "content": "… nhưng ngay lập tức bị nhân viên đang lúng túng chặn lại trước mặt."
-    },
-    {
-      "id": 65,
-      "teller": "Vera",
-      "title": "Information Team Agent",
-      "content": "Ờ, xin hãy… đợi một chút. Hãy ở đây cho đến khi Phòng Ban Điều Khiển quay lại."
-    },
-    {
-      "id": 66,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Và tại sao ta phải làm vậy?"
-    },
-    {
-      "id": 67,
-      "teller": "Vera",
-      "title": "Information Team Agent",
-      "content": " Cô bỏ lỡ thông báo rồi. Hoàng Hôn Cam sẽ sớm bắt đầu."
-    },
-    {
-      "id": 68,
-      "teller": "Vera",
-      "title": "Information Team Agent",
-      "content": "Và… trong lúc diễn ra Hoàng Hôn Can, hiệu quả của ĐỎ—tấn công vật lý—sẽ tăng gấp đôi."
-    },
-    {
-      "id": 69,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Gấp đôi? Cái trò hệ số nhân mà lũ các người vui đùa cùng đó á?"
-    },
-    {
-      "id": 70,
-      "teller": "Vera",
-      "title": "Information Team Agent",
-      "content": " Đúng vậy. Nhưng vũ khí E.G.O của cô đều thuộc loại TRẮNG. Tôi khuyên cô nên đổi vũ khí hoặc để Đặc Vụ khác xử lý…"
-    },
-    {
-      "id": 71,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Ngươi C. H. H. M. C."
-    },
-    {
-      "id": 72,
-      "teller": "Vera",
-      "title": "Information Team Agent",
-      "content": "Xin lỗi?"
-    },
-    {
-      "id": 73,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Ngươi chưa hề hiểu mọi chuyện."
-    },
-    {
-      "id": 74,
-      "content": "Đứa trẻ khẽ lách qua người nhân viên và bước vào hành lang bằng những bước chân nhẹ tênh."
-    },
-    {
-      "id": 75,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Nhìn kỹ đi, Đ. M.P."
-    },
-    {
-      "id": 76,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Nếu đổi trang bị E.G.O giúp hiệu suất gấp đôi, thì ta chỉ cần dùng cả hai vũ khí cùng lúc là được."
-    },
-    {
-      "id": 77,
-      "teller": "Vera",
-      "title": "Information Team Agent",
-      "content": "Ừm … Hả?"
-    },
-    {
-      "id": 78,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Ta sẽ cho ngươi thấy sự kết hợp giữa H.T.N.N., S.C.Đ."
-    },
-    {
-      "id": 79,
-      "content": "Một con sâu khổng lồ phá tung và lao vào hành lang."
-    },
-    {
-      "id": 80,
-      "content": "Khi thực thể thử thách tiến tới chậm rãi nhưng vẫn mang theo đà tiến, đứa trẻ giương nỏ lên và nhắm bắn."
-    },
-    {
-      "id": 81,
-      "content": "Người nhân viên đang hoảng hốt đuổi theo phía sau chỉ kịp nhìn thấy mũi tên nỏ rời khỏi dây,"
-    },
-    {
-      "id": 82,
-      "content": "và gần như trong cùng một nhịp thở, khẩu súng lục ổ quay của đứa trẻ đã bắn liền sáu phát vào thực thể đó với tốc độ quá nhanh để mắt thường theo kịp."
-    },
-    {
-      "id": 83,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "Hmm. Chưa đủ sao?"
-    },
-    {
-      "id": 84,
-      "teller": "Vera",
-      "title": "Information Team Agent",
-      "content": " Đ-Đó là lý do tôi bảo cô đổi vũ khí hoặc chờ mà!"
-    },
-    {
-      "id": 85,
-      "teller": "Vera",
-      "title": "Information Team Agent",
-      "content": "Xem này, bây giờ vẫn chưa quá muộn để quay lại và–"
-    },
-    {
-      "id": 86,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": " Vậy bắn thêm vài phát nữa là được chứ gì."
-    },
-    {
-      "id": 87,
-      "content": "Một phát. Rồi hai phát. Rồi là ba phát."
-    },
-    {
-      "id": 88,
-      "content": "Tên và đạn trút xuống cho đến khi các thử thách vỡ tung như trái cây bị nghiền nát."
-    },
-    {
-      "id": 89,
-      "content": "…và thêm một mũi tên được bắn ra ở khoảng cách gần như chạm mặt, đâm xuyên thẳng qua sinh vật to lớn nhất trong chúng — chính là Hoàng Hôn."
-    },
-    {
-      "id": 90,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": "*phù*"
-    },
-    {
-      "id": 91,
-      "model": "료슈",
-      "title": "Welfare Team Agent",
-      "content": " Một cái kết không tệ cho một ngày."
-    },
-    {
-      "id": 92,
-      "teller": "Vera",
-      "title": "Information Team Agent",
-      "content": "K-Khoan đã… tại sao cô lại chĩa cái đó vào tôi?!"
-    },
-    {
-      "id": 93,
-      "content": "Có lẽ đứa trẻ đã biến nỗi cô đơn từng bám lấy mình thành một dạng nghệ thuật của riêng cô,"
-    },
-    {
-      "id": 94,
-      "content": "bởi khi cô xả hết băng đạn vào người nhân viên đang kinh hoàng, trông cô không còn cô đơn chút nào nữa."
-    }
-  ]
+    "dataList": [
+        {
+            "id": 0,
+            "content": "Đó là một ngày khá bình thường—nếu còn có thể gọi là như vậy—khi ngay cả các Đặc Vụ của Tầng Trên cũng đã được huy động để trấn áp và đưa Alriune trở lại buồng quản thúc."
+        },
+        {
+            "id": 1,
+            "content": "Khi Phòng Ban Kiểm Soát gần như trống rỗng, đứa trẻ bị giao nhiệm vụ quản lý các Dị Thể thuộc về phòng ban này."
+        },
+        {
+            "id": 2,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Q.L.N C.Đ.N."
+        },
+        {
+            "id": 3,
+            "content": "Ngay khi bước vào buồng phản thúc của Bà Già, đứa trẻ ngả người xuống ghế, bắt chéo chân và buông ra những lời phàn nàn không kiềm chế."
+        },
+        {
+            "id": 4,
+            "content": "Suốt cả ngày hôm nay, cô bị giao nhiệm vụ thực hiện Công Việc Quản Thúc với Alriune để trích xuất trang bị E.G.O của nó…"
+        },
+        {
+            "id": 5,
+            "content": "… và cô đã thất bại. Đã được ba lần rồi—thực ra là bảy, nếu tính theo tiêu chuẩn của quản lý—cô đã để Alriune xổng chuồng ngay trong hôm nay."
+        },
+        {
+            "id": 6,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Tôi không thấy việc con chó hồng đó vi phạm quản thúc có gì là lỗi của tôi."
+        },
+        {
+            "id": 7,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Lỗi là ở cái thằng quản lý ngu đần kia. Chắc khứa đã tiêu sạch may mắn của mình vì không cưỡng lại được việc cứ thỉnh thoảng chạy tới ngắm cái thứ đó."
+        },
+        {
+            "id": 8,
+            "content": "Alriune. Đứa trẻ u sầu ấy sẽ rời khỏi buồng quản thúc khi kết quả Công Việc là “Tệ”… và cũng dễ dàng như vậy khi kết quả là \"Tốt\"."
+        },
+        {
+            "id": 9,
+            "content": "Nó không bao giờ muốn ở yên trong buồng giam. Nó thích lang thang bên ngoài hơn, mang theo mùi hương tươi mới của rừng vào những hành lang ẩm mốc của công ty."
+        },
+        {
+            "id": 10,
+            "content": "Haha… Nhìn từ phía của nó, mọi thứ hẳn thật bất công."
+        },
+        {
+            "id": 11,
+            "content": "Và dĩ nhiên, từ góc nhìn của quản lý cũng vậy."
+        },
+        {
+            "id": 12,
+            "teller": "Bà Già",
+            "title": "Dị Thể",
+            "content": "……."
+        },
+        {
+            "id": 13,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Tsk. Hôm nay chẳng có cảnh hoa gì để ngắm. Chỉ phải nghe con mụ già này lải nhải cả ngày."
+        },
+        {
+            "id": 14,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Căn phòng tối đen rồi. Lời nguyền chắc đã thấm sâu vào tường—đã lâu lắm rồi ta mới làm việc ở đây."
+        },
+        {
+            "id": 15,
+            "teller": "Bà Già",
+            "title": "Dị Thể",
+            "content": "<i>Cháu ơi, cháu à… cháu có muốn nghe một câu chuyện không?</i>"
+        },
+        {
+            "id": 16,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "*phù* Tùy bà."
+        },
+        {
+            "id": 17,
+            "content": "Những câu chuyện được kể như lời hát ru, những bài thơ quá trừu tượng để hiểu, những truyện ma khiến gáy người nghe dựng tóc gáy."
+        },
+        {
+            "id": 18,
+            "content": "Từ những câu chuyện ai cũng biết… đến những câu chuyện không ai từng nghe."
+        },
+        {
+            "id": 19,
+            "content": "Bà Già biết mọi câu chuyện từng được kể—mọi câu chuyện tồn tại, mọi bài đồng dao dành cho trẻ em."
+        },
+        {
+            "id": 20,
+            "content": "Và dĩ nhiên, kho truyện của bà cũng chứa cả những câu chuyện bí mật của các Dị Thể khác."
+        },
+        {
+            "id": 21,
+            "content": "Chỉ là trùng hợp, có lẽ vậy. Hay đây là điều tất yếu?"
+        },
+        {
+            "id": 22,
+            "content": "Lần đầu tiên, Bà Già kể về một Dị Thể mà đứa trẻ biết rất rõ."
+        },
+        {
+            "id": 23,
+            "teller": "Bà Già",
+            "title": "Dị Thể",
+            "content": "<i>Ôi Alriune, sinh vật xinh đẹp ấy; một con búp bê khao khát trở thành con người.</i>"
+        },
+        {
+            "id": 24,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "...?"
+        },
+        {
+            "id": 25,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": " Bà biết gì về cái thứ điên khùng đó à?"
+        },
+        {
+            "id": 26,
+            "content": "Một tia ngạc nhiên thoáng qua gương mặt đứa trẻ khi cô hỏi, nhưng câu trả lời, rất có thể, sẽ không bao giờ dành cho cô."
+        },
+        {
+            "id": 27,
+            "content": "Bởi vì cậu thấy đó, Bà Già chẳng bao giờ nói chuyện với cậu. Bà chỉ nói, kể những câu chuyện của mình để lấp đầy sự cô độc."
+        },
+        {
+            "id": 28,
+            "teller": "Bà Già",
+            "title": "Dị Thể",
+            "content": "<i>Đôi mắt của nó chứa đầy linh hồn, và được mọi người yêu mến.</i>"
+        },
+        {
+            "id": 29,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "......."
+        },
+        {
+            "id": 30,
+            "teller": "Bà Già",
+            "title": "Dị Thể",
+            "content": "<i> Nhưng mọi mùa xuân sinh ra đều phải tiếp nối bằng mùa thu tàn lụi.</i>"
+        },
+        {
+            "id": 31,
+            "content": "Bà Già không hỏi điều gì. Bà cũng không \"đáp lại\". Những lời bà nói không phải để trò chuyện."
+        },
+        {
+            "id": 32,
+            "content": "Vì vậy, dù kể bao nhiêu câu chuyện, bà cũng không thể lấp đầy khoảng trống cô độc của mình."
+        },
+        {
+            "id": 33,
+            "teller": "Bà Già",
+            "title": "Dị Thể",
+            "content": "<i>Một ngày nọ, con búp bê bị bỏ lại trong khu rừng tối.</i>"
+        },
+        {
+            "id": 34,
+            "teller": "Bà Già",
+            "title": "Dị Thể",
+            "content": "<i>Đôi mắt nó bị những con quạ tham ánh sáng cướp mất,</i>"
+        },
+        {
+            "id": 35,
+            "teller": "Bà Già",
+            "title": "Dị Thể",
+            "content": "<i>trong khi tâm trí, sự sống và trái tim của nó dần héo tàn.</i>"
+        },
+        {
+            "id": 36,
+            "teller": "Bà Già",
+            "title": "Dị Thể",
+            "content": "<i>Từng phần cơ thể sứ xinh đẹp của nó nứt vỡ. Nơi đôi mắt từng tồn tại chỉ còn những hốc trống.</i>"
+        },
+        {
+            "id": 37,
+            "teller": "Bà Già",
+            "title": "Dị Thể",
+            "content": "<i>Thế nhưng con búp bê vẫn đứng trong khu rừng.</i>"
+        },
+        {
+            "id": 38,
+            "teller": "Bà Già",
+            "title": "Dị Thể",
+            "content": "<i>Những vết nứt trên cơ thể sứ được lấp đầy bởi những bó hoa đang nở, và cánh hoa rơi xuống như nước mắt từ hốc mắt trống.</i>"
+        },
+        {
+            "id": 39,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Rồi sao nữa? Chuyện gì xảy ra tiếp?"
+        },
+        {
+            "id": 40,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Nó có đi săn con quạ đã mổ mắt nó không? Có chặt cánh nó không?"
+        },
+        {
+            "id": 41,
+            "content": "Đứa trẻ biết sẽ không có câu trả lời;"
+        },
+        {
+            "id": 42,
+            "content": "Rằng câu chuyện vẫn sẽ tiếp tục dù cô có mời Bà Già kể tiếp hay không."
+        },
+        {
+            "id": 43,
+            "content": "Nhưng cô vẫn hỏi…"
+        },
+        {
+            "id": 44,
+            "content": "như thể đã quen với kiểu đối thoại như vậy."
+        },
+        {
+            "id": 45,
+            "teller": "Bà Già",
+            "title": "Dị Thể",
+            "content": "<i>Alriune, không có mắt nhưng nhìn thấy tất cả; một con người khao khát trở thành búp bê.</i>"
+        },
+        {
+            "id": 46,
+            "teller": "Bà Già",
+            "title": "Dị Thể",
+            "content": "<i>Sinh ra từ đất, rồi cũng sẽ trở về với đất.</i>"
+        },
+        {
+            "id": 47,
+            "content": "Bà Già hướng ánh nhìn về phía đứa trẻ—một ánh nhìn trống rỗng như đôi mắt của Alriune trong câu chuyện, một khoảng đen sâu thẳm dường như đang đối diện với ánh mắt của chính đứa trẻ."
+        },
+        {
+            "id": 48,
+            "content": "Cứ như thể bà ta muốn nghe xem đứa trẻ sẽ nghĩ gì về câu chuyện ấy."
+        },
+        {
+            "id": 49,
+            "content": "Đứa trẻ cau mày khó chịu. Có lẽ câu chuyện đã có thể gây được chút hứng thú nếu cô thực sự muốn lắng nghe, nhưng điều đó không dành cho cô. Nghĩ vậy, cô tự nhủ đáng ra mình nên khỏi phải phí công nghe hết câu chuyện."
+        },
+        {
+            "id": 50,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "… H.T. V.N. T.T. R.T."
+        },
+        {
+            "id": 51,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Câu chuyện của bà hoàn toàn vô nghĩa, thừa thãi, rỗng tuếch."
+        },
+        {
+            "id": 52,
+            "teller": "Bà Già",
+            "title": "Dị Thể",
+            "content": "<i>Nhưng chắc chắn đó không phải là kết thúc của câu chuyện con búp bê.</i>"
+        },
+        {
+            "id": 53,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "......."
+        },
+        {
+            "id": 54,
+            "content": "Có lẽ câu chuyện ấy đã chạm quá gần vào điều gì đó trong lòng cô, hoặc có lẽ nó khiến đứa trẻ nhớ đến một ai đó chỉ còn tồn tại trong những mảnh ký ức mờ nhòe…"
+        },
+        {
+            "id": 55,
+            "content": "Dù là thế nào đi nữa, một nỗi cô đơn ngột ngạt vẫn bám riết lấy đứa trẻ khi cô bước ra khỏi buồng quản thúc."
+        },
+        {
+            "id": 56,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "… Và ngươi là ai vậy?"
+        },
+        {
+            "id": 57,
+            "teller": "Vera",
+            "title": "Đặc Vụ Phòng Ban Thông Tin",
+            "content": "Ồ! Tôi là Vera, từ Phòng Ban Thông Tin. Cô là Đặc Vụ vừa chuyển từ Phòng Ban An Ninh lên Tầng Giữa đúng không?"
+        },
+        {
+            "id": 58,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Ryōshū."
+        },
+        {
+            "id": 59,
+            "teller": "Vera",
+            "title": "Đặc Vụ Phòng Ban Thông Tin",
+            "content": "Đúng rồi! Được rồi, Ryōshū. Tôi đã nghe khá nhiều về cô."
+        },
+        {
+            "id": 60,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "*phù* Hmph. Ngươi muốn gì?"
+        },
+        {
+            "id": 61,
+            "teller": "Vera",
+            "title": "Đặc Vụ Phòng Ban Thông Tin",
+            "content": "Tôi xuống đây vì ngài Yesod ra lệnh hỗ trợ. Không còn ai ở Phòng Ban Điều Khiển… À, tôi còn ngửi thấy mùi gì đó cháy trong sảnh…"
+        },
+        {
+            "id": 62,
+            "teller": "Vera",
+            "title": "Đặc Vụ Phòng Ban Thông Tin",
+            "content": "À phải. Tôi thấy cô đã biến Món Quà E.G.O của mình thành… một điếu thuốc. À, chắc không sao đâu… miễn là không có cháy nổ…"
+        },
+        {
+            "id": 63,
+            "content": " Người nhân viên đưa tay ra định bắt tay, nhưng đứa trẻ lại đập vào đó như thể đập tay chào rồi bước về phía hành lang…"
+        },
+        {
+            "id": 64,
+            "content": "… nhưng ngay lập tức bị nhân viên đang lúng túng chặn lại trước mặt."
+        },
+        {
+            "id": 65,
+            "teller": "Vera",
+            "title": "Đặc Vụ Phòng Ban Thông Tin",
+            "content": "Ờ, xin hãy… đợi một chút. Hãy ở đây cho đến khi Phòng Ban Điều Khiển quay lại."
+        },
+        {
+            "id": 66,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Và tại sao ta phải làm vậy?"
+        },
+        {
+            "id": 67,
+            "teller": "Vera",
+            "title": "Đặc Vụ Phòng Ban Thông Tin",
+            "content": " Cô bỏ lỡ thông báo rồi. Hoàng Hôn Cam sẽ sớm bắt đầu."
+        },
+        {
+            "id": 68,
+            "teller": "Vera",
+            "title": "Đặc Vụ Phòng Ban Thông Tin",
+            "content": "Và… trong lúc diễn ra Hoàng Hôn Can, hiệu quả của ĐỎ—tấn công vật lý—sẽ tăng gấp đôi."
+        },
+        {
+            "id": 69,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Gấp đôi? Cái trò hệ số nhân mà lũ các người vui đùa cùng đó á?"
+        },
+        {
+            "id": 70,
+            "teller": "Vera",
+            "title": "Đặc Vụ Phòng Ban Thông Tin",
+            "content": " Đúng vậy. Nhưng vũ khí E.G.O của cô đều thuộc loại TRẮNG. Tôi khuyên cô nên đổi vũ khí hoặc để Đặc Vụ khác xử lý…"
+        },
+        {
+            "id": 71,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Ngươi C. H. H. M. C."
+        },
+        {
+            "id": 72,
+            "teller": "Vera",
+            "title": "Đặc Vụ Phòng Ban Thông Tin",
+            "content": "Xin lỗi?"
+        },
+        {
+            "id": 73,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Ngươi chưa hề hiểu mọi chuyện."
+        },
+        {
+            "id": 74,
+            "content": "Đứa trẻ khẽ lách qua người nhân viên và bước vào hành lang bằng những bước chân nhẹ tênh."
+        },
+        {
+            "id": 75,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Nhìn kỹ đi, Đ. M.P."
+        },
+        {
+            "id": 76,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Nếu đổi trang bị E.G.O giúp hiệu suất gấp đôi, thì ta chỉ cần dùng cả hai vũ khí cùng lúc là được."
+        },
+        {
+            "id": 77,
+            "teller": "Vera",
+            "title": "Đặc Vụ Phòng Ban Thông Tin",
+            "content": "Ừm … Hả?"
+        },
+        {
+            "id": 78,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Ta sẽ cho ngươi thấy sự kết hợp giữa H.T.N.N., S.C.Đ."
+        },
+        {
+            "id": 79,
+            "content": "Một con sâu khổng lồ phá tung và lao vào hành lang."
+        },
+        {
+            "id": 80,
+            "content": "Khi thực thể thử thách tiến tới chậm rãi nhưng vẫn mang theo đà tiến, đứa trẻ giương nỏ lên và nhắm bắn."
+        },
+        {
+            "id": 81,
+            "content": "Người nhân viên đang hoảng hốt đuổi theo phía sau chỉ kịp nhìn thấy mũi tên nỏ rời khỏi dây,"
+        },
+        {
+            "id": 82,
+            "content": "và gần như trong cùng một nhịp thở, khẩu súng lục ổ quay của đứa trẻ đã bắn liền sáu phát vào thực thể đó với tốc độ quá nhanh để mắt thường theo kịp."
+        },
+        {
+            "id": 83,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "Hmm. Chưa đủ sao?"
+        },
+        {
+            "id": 84,
+            "teller": "Vera",
+            "title": "Đặc Vụ Phòng Ban Thông Tin",
+            "content": " Đ-Đó là lý do tôi bảo cô đổi vũ khí hoặc chờ mà!"
+        },
+        {
+            "id": 85,
+            "teller": "Vera",
+            "title": "Đặc Vụ Phòng Ban Thông Tin",
+            "content": "Xem này, bây giờ vẫn chưa quá muộn để quay lại và–"
+        },
+        {
+            "id": 86,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": " Vậy bắn thêm vài phát nữa là được chứ gì."
+        },
+        {
+            "id": 87,
+            "content": "Một phát. Rồi hai phát. Rồi là ba phát."
+        },
+        {
+            "id": 88,
+            "content": "Tên và đạn trút xuống cho đến khi các thử thách vỡ tung như trái cây bị nghiền nát."
+        },
+        {
+            "id": 89,
+            "content": "…và thêm một mũi tên được bắn ra ở khoảng cách gần như chạm mặt, đâm xuyên thẳng qua sinh vật to lớn nhất trong chúng — chính là Hoàng Hôn."
+        },
+        {
+            "id": 90,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": "*phù*"
+        },
+        {
+            "id": 91,
+            "model": "료슈",
+            "title": "Đặc Vụ Phòng Ban Phúc Lợi",
+            "content": " Một cái kết không tệ cho một ngày."
+        },
+        {
+            "id": 92,
+            "teller": "Vera",
+            "title": "Đặc Vụ Phòng Ban Thông Tin",
+            "content": "K-Khoan đã… tại sao cô lại chĩa cái đó vào tôi?!"
+        },
+        {
+            "id": 93,
+            "content": "Có lẽ đứa trẻ đã biến nỗi cô đơn từng bám lấy mình thành một dạng nghệ thuật của riêng cô,"
+        },
+        {
+            "id": 94,
+            "content": "bởi khi cô xả hết băng đạn vào người nhân viên đang kinh hoàng, trông cô không còn cô đơn chút nào nữa."
+        }
+    ]
 }
