@@ -622,27 +622,27 @@
     },
     {
       "id": "HeavenlyKillerStar",
-      "name": "Tiansha Star's Blade - Arayashiki [天殺星刀阿賴耶識]",
-      "desc": "- Min & Max Speed +6\n- Offense Level +6\n- Inflict 3 more Bleed Potency with Skills\n- Turn Start: Gain 3 Offense Level Up for every enemy killed in this Encounter (max 6)",
+      "name": "Thiên Sát Tinh Đao - A Lại Gia Thức [天殺星刀阿賴耶識]",
+      "desc": "- Tốc Độ Thấp Nhất & Cao Nhất +6\n- Cấp Tấn Công +6\n- Gắn thêm 3 Số Chảy Máu bằng các Kỹ Năng\n- Bắt Đầu Lượt: Nhận 3 Tăng Cấp Tán Công với mỗi kẻ địch bị tiêu diệt trong Trận này (tối đa 6)",
       "summary": "",
       "undefined": "-",
-      "flavor": "'The heavens themselves are not spared—heaven, earth, man, and the self. This star rises only for the one who perceives all existence and time as a single whole to sever them all.'"
+      "flavor": "'Ngay cả thiên không cũng chẳng được dung tha—trời, đất, con người, và cả bản ngã. Vì sao ấy chỉ xuất hiện trước kẻ có thể nhìn thấu toàn bộ tồn tại và thời gian như một thể duy nhất để cắt đứt tất thảy.'"
     },
     {
       "id": "CutoffRyoshu",
-      "name": "Sever the Thread [切絲]",
-      "desc": "- Turn Start:\n· Gain 3 Bleed and +3 Bleed Count\n· Take Slash damage equal to (Stack / 3)\n- When hit, take Slash damage equal to (Stack / 5)\n- The more this effect stacks...\n- Max Stack: 100",
+      "name": "Thiết Ti [切絲]",
+      "desc": "- Bắt Đầu Lượt:\n· Nhận 3 Chảy Máu và +3 Tầng Chảy Máu\n· Nhận sát thương Chém tương đương với (số Cộng Dồn / 3)\n- Khi bị trúng đòn, nhận sát thương Chém tương đương với (số Cộng Dồn / 5)\n- Hiệu ứng này càng cộng dồn thì...\n- Cộng Dồn Tối Đa: 100",
       "summary": "",
       "undefined": "-",
-      "flavor": "'Let everything be severed—you, me, all that has been, and all that will be.'\n\n'Once it is done... I will take Araya back.'"
+      "flavor": "'Hãy để tất cả bị đoạn tuyệt—cả ngươi, chính ta, cùng với mọi thứ đã từng tồn tại, và mọi thứ sẽ còn tồn tại.'\n\n'Khi tất cả kết thúc… ta sẽ đưa Araya trở về.'"
     },
     {
       "id": "CutbondRyoshu",
-      "name": "Muga [無我]",
-      "desc": "- Turn Start: Gain 1 Offense Level Up and 1 Defense Level Up for every 10 Stack\n- The more this effect stacks...\n- Max Stack: 100",
+      "name": "Vô Ngã [無我]",
+      "desc": "- Bắt Đầu Lượt: Nhận 1 Tăng Cấp Tấn Công và 1 Tăng Cấp Phòng Thủ với mỗi 10 Cộng Dồn\n- Hiệu ứng này càng cộng dồn thì...\n- Cộng Dồn Tối Đa: 100",
       "summary": "",
       "undefined": "-",
-      "flavor": "'So I must hold back on using the blade. And once I'm ready, I will return to that House.'"
+      "flavor": "'Vì vậy ta phải kìm lại, không sử dụng thanh kiếm này. Và khi đã sẵn sàng, ta sẽ quay lại căn Nhà đó.'"
     },
     {
       "id": "EsteemNeeds",
