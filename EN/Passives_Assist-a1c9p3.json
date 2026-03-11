@@ -215,21 +215,21 @@
     },
     {
       "id": 40001501,
-      "name": "Wading Through a Dream, the Self Nowhere to be Found [無我夢中]",
-      "desc": "Turn Start: Gain [CutbondRyoshu] equal to current turn count\nGain 1 [CutbondRyoshu] for every use of this unit's Coin",
-      "flavor": "'I must make it look as though Araya is already safely out of the House of Spiders.'\n\n'I'll stage it by raising this blade against the Nursefathers—that should sell the story that I am trying to stop them from going after Araya.'"
+      "name": "Vô Ngã Mộng Trung [無我夢中]",
+      "desc": "Bắt Đầu Lượt: Nhận [CutbondRyoshu] bằng với số lượt hiện tại\nNhận 1 [CutbondRyoshu] mỗi khi đơn vị này sử dụng Xu",
+      "flavor": "'Ta phải khiến mọi thứ trông như thể Araya đã rời khỏi Nhà Nhện một cách an toàn rồi.'\n\n'Ta sẽ dàn cảnh bằng cách giương thanh kiếm này chống lại lũ Cha Đỡ Đầu ấy—như vậy sẽ khiến chúng tin rằng ta đang cố ngăn chúng đuổi theo Araya.'"
     },
     {
       "id": 40001502,
-      "name": "Like the Naraka of Avīci and Raurava [阿鼻叫喚]",
-      "desc": "Encounter Start: Gain [HeavenlyKillerStar] and fix SP at -44\n\nWhen taking SP damage including effects caused by Sinking, take (SP damage x 3) HP damage instead",
-      "flavor": "'I know better than anyone how strong and tenacious the Nursefathers are.'\n\n'If I am to deceive them, I'll need to stage a desperate act with everything at my disposal.'\n\n'Plan how I'll take on each of them—how their swords will clash with mine.'\n\n'I may lose control over my own mind, but I <i>will</i> make sure to run the picture through my head over and over.'"
+      "name": "A Tỳ Khiếu Hoán [阿鼻叫喚]",
+      "desc": "Bắt Đầu Trận: Nhận [HeavenlyKillerStar]và cố định SP tại -44\n\nKhi nhận sát thương SP tính cả hiệu ứng từ Sa Lầy, thay vào đó nhận (sát thương SP nhận phải x 3) sát thương HP",
+      "flavor": "'Hơn ai hết, ta hiểu rõ sức mạnh và sự ngoan cường của lũ Cha Đỡ Đầu ấy.'\n\n'Nếu muốn lừa được chúng, ta sẽ phải dàn dựng một màn liều mạng, dùng hết mọi thứ mình có.'\n\n'Lên kế hoạch cách ta sẽ đối đầu từng tên một—cách mà lưỡi kiếm của chúng va chạm với thanh kiếm của ta.'\n\n'Dù có đánh mất sự kiểm soát đối với chính tâm trí mình, ta <i>vẫn sẽ</i> lặp đi lặp lại cảnh tượng đó trong đầu, hết lần này đến lần khác.’"
     },
     {
       "id": 40001503,
-      "name": "Severed and Torn until Even the Form is Undone [支離滅裂]",
-      "desc": "On Hit, inflict 1 [CutoffRyoshu]\n- Turn Start: Inflict 1 more [CutoffRyoshu] for every 10 [CutbondRyoshu] on self (max 4)\n\nWhen hit, take -([CutbondRyoshu] on self + [CutoffRyoshu] on target)% damage (max 90%)\n\nIf there is an enemy that has 100 [CutoffRyoshu] after this unit finishes all attacks with its Skills, use a powerful Skill on target",
-      "flavor": "'I'm not strong enough to kill the Nursefathers—this I know. But I can still incapacitate and hold them back, if only for a little while.'\n\n'And then...'\n\n'And then, I'll leave...'\n\n'I'll leave and come back stronger.'\n\n'Secure the help of someone stronger than me, or gain more allies... Either way, I must come back with a guaranteed means of dealing with them once and for all.'"
+      "name": "Chi Ly Diệt Liệt [支離滅裂]",
+      "desc": "Khi Đánh Trúng, gắn 1 [CutoffRyoshu]\n- Bắt Đầu Lượt: Gắn thêm 1 [CutoffRyoshu] với mỗi 10 [CutbondRyoshu] trên bản thân (tối đa 4)\n\nKhi trúng đòn, nhận -(số [CutbondRyoshu] trên bản thân + số[CutoffRyoshu] trên mục tiêu)% sát thương (tối đa 90%)\n\nNếu có kẻ địch đang có 100 [CutoffRyoshu] sau khi đơn vị này tấn công xong bằng các Kỹ Năng, sử dụng một Kỹ Năng mạnh mẽ lên mục tiêu đó",
+      "flavor": "'Ta biết rõ mình không đủ mạnh để giết lũ Cha Đỡ Đầu. Nhưng ít nhất ta vẫn có thể khiến chúng mất khả năng chiến đấu và cầm chân chúng, dù chỉ trong chốc lát.'\n\n'Và rồi…'\n\n'Rồi ta sẽ rời đi…'\n\n'Ta sẽ rời đi, và quay trở lại khi đã mạnh mẽ hơn.'\n\n'Tìm kiếm sự giúp đỡ của kẻ mạnh hơn ta, hoặc tập hợp thêm đồng minh… Dù bằng cách nào, ta cũng phải quay lại với một cách chắc chắn để giải quyết chúng một lần và mãi mãi.'"
     }
   ]
 }
