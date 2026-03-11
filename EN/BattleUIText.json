@@ -674,7 +674,7 @@
     },
     {
       "id": "perfect",
-      "content": "A-Res"
+      "content": "C.Hưởng Tuyệt Đối"
     },
     {
       "id": "ab_part_destroyed",
@@ -814,31 +814,31 @@
     },
     {
       "id": "UpperSkillInfo_Player_ImportanceLevel_1_Desc",
-      "content": "!Priority:Med.!"
+      "content": "!Ưu Tiên: B.Thường!"
     },
     {
       "id": "UpperSkillInfo_Player_ImportanceLevel_2_Desc",
-      "content": "!Priority:High!"
+      "content": "!Ưu Tiên: Cao!"
     },
     {
       "id": "UpperSkillInfo_Player_ImportanceLevel_3_Desc",
-      "content": "!Priority:V.High!"
+      "content": "!Ưu Tiên: Rất Cao!"
     },
     {
       "id": "UpperSkillInfo_Enemy_ImportanceLevel_1_Desc",
-      "content": "!Priority: Med.!"
+      "content": "!Ưu Tiên: B.Thường!"
     },
     {
       "id": "UpperSkillInfo_Enemy_ImportanceLevel_2_Desc",
-      "content": "!Priority: High!"
+      "content": "!Ưu Tiên: Cao!"
     },
     {
       "id": "UpperSkillInfo_Enemy_ImportanceLevel_3_Desc",
-      "content": "!Priority: Very High!"
+      "content": "!Ưu Tiên: Rất Cao!"
     },
     {
       "id": "EgoGiftListPopupTabType_CANDIDATE",
-      "content": "Conditional"
+      "content": "Cần Điều Kiện"
     },
     {
       "id": "EgoGiftListPopupTabType_EXCLUDE_CANDIDATE",
