@@ -9,8 +9,8 @@
     },
     {
       "id": "DuelEdge",
-      "name": "The Duel Escalates",
-      "desc": "- Max Stack: 20\n- 'The Thumb Apprentice - Lucio' gains Skill Power and deals more damage with every Clash with this unit\n- Expires at Turn End if this unit did not Clash with 'The Thumb Apprentice - Lucio' this turn",
+      "name": "Quyết Đấu Leo Thang",
+      "desc": "- Cộng Dồn Tối Đa: 20\n- 'Học Việc Ngón Cái - Lucio' nhận Uy Lực Kỹ Năng và gây thêm sát thương cho mỗi lần Đọ Sức với đơn vị này\n- Hết hiệu lực khi Kết Thúc Lượt nếu đơn vị này không Đọ Sức với 'Học Việc Ngón Cái - Lucio' trong lượt đó",
       "summary": "",
       "undefined": "-"
     },

@@ -528,17 +528,17 @@
     {
       "id": "9SV-BAT7-08",
       "desc": "엄지 제자 타겟 지정 패턴 발동 시",
-      "dlg": "I will face this enemy."
+      "dlg": "Tôi sẽ đối mặt với kẻ thù."
     },
     {
       "id": "9SV-BAT7-09-2",
       "desc": "엄지 제자 타겟 지정 패턴 발동 시",
-      "dlg": "I'm doing my part."
+      "dlg": "Tôi chỉ đang làm phần của mình."
     },
     {
       "id": "9SV-BAT7-09-1",
       "desc": "엄지 제자 원호 방어 시",
-      "dlg": "You will not get past me."
+      "dlg": "Các người không vượt qua tôi được đâu."
     },
     {
       "id": "9SV-BAT7-09-3",
@@ -773,47 +773,47 @@
     {
       "id": "9SV-BAT10-03-1",
       "desc": "베르길리우스 엄지 아비가 베르길리우스의 공격을 회피했을 때",
-      "dlg": "... Precognition, is it?"
+      "dlg": "... Là Thấu Thị, nhỉ?"
     },
     {
       "id": "9SV-BAT10-03-2",
       "desc": "베르길리우스 엄지 아비가 베르길리우스의 공격을 회피했을 때",
-      "dlg": "That Relic won't work forever."
+      "dlg": "Di Vật đó chẳng cứu cô mãi được đâu."
     },
     {
       "id": "9SV-BAT10-03-3",
       "desc": "베르길리우스 엄지 아비가 베르길리우스의 공격을 회피했을 때",
-      "dlg": "How long do you think you can keep this up?"
+      "dlg": "Cô nghĩ cô còn trụ được bao lâu?"
     },
     {
       "id": "9SV-BAT10-04-1-01",
       "desc": "신-붉은시선 사용한 턴 시작 시",
-      "dlg": "This exclusive obsession with only what the eyes can see... A curse so uniquely human."
+      "dlg": "Chỉ mù quáng bám víu những thứ lọt vào tầm mắt... Quả là một lời nguyền quá đỗi con người."
     },
     {
       "id": "9SV-BAT10-04-1",
       "desc": "베르길리우스 엄지 아비에게 공격 적중시",
-      "dlg": "This exclusive obsession with only what the eyes can see... A curse so uniquely human."
+      "dlg": "Chỉ mù quáng bám víu những thứ lọt vào tầm mắt... Quả là một lời nguyền quá đỗi con người."
     },
     {
       "id": "9SV-BAT10-04-2",
       "desc": "엄지 아비 흐트러짐 발생했을때",
-      "dlg": "Time to pay the price."
+      "dlg": "Đến lúc trả giá rồi."
     },
     {
       "id": "9SV-BAT10-04-3",
       "desc": "베르길리우스 엄지 아비에게 공격 적중시",
-      "dlg": "You've put too much faith in that trinket. Foolishness."
+      "dlg": "Cô đã quá tin vào cái món trang sức đó rồi đấy. Ngu ngốc."
     },
     {
       "id": "9SV-BAT10-05-1",
       "desc": "베르길리우스 인격이 1명 죽은 상태로 턴 시작시",
-      "dlg": "Dante. I understand it may be difficult to not cast your gaze here, given the circumstances. But... you'd best pay attention to your battle rather than let the deaths here distract you."
+      "dlg": "Dante. Ta hiểu trong hoàn cảnh này rất là khó để cậu không hướng mắt về phía bên đây. Nhưng... Tốt nhất là cậu nên chú tâm vào trận chiến của mình, thay vì để những cái chết ở đây làm phân tâm."
     },
     {
       "id": "9SV-BAT10-05-2",
       "desc": "베르길리우스 인격이 1명 죽은 상태로 턴 시작시",
-      "dlg": "Dante, you'd best pay attention to Sinner #4 instead of letting the deaths here distract your gaze."
+      "dlg": "Dante, tốt nhất là cậu nên chú tâm vào Tội Nhân Số 4 thay vì để những cái chết ở đây làm làm lệch hướng ánh nhìn của cậu."
     },
     {
       "id": "9SV-BAT10-06",

@@ -12,12 +12,12 @@
     },
     {
       "id": 130603,
-      "name": "Palermitan Rapier / The Cleaving Blade",
-      "desc": "If this unit's Skill effects triggered [VibrationExplosion], gain 2 [AttackUp] next turn (3 times per turn)"
+      "name": "Palermo Rapier / Lưỡi Kiếm Trảm Đoạt ",
+      "desc": "Nếu hiệu ứng Kỹ Năng của đơn vị này kích hoạt [VibrationExplosion], nhận 2 [AttackUp] ở lượt sau (3 lần mỗi lượt)"
     },
     {
       "id": 130604,
-      "name": "Hunter's Mark",
+      "name": "Dấu Ấn Thợ Săn",
       "desc": "Every 3 turns, select a random enemy (except Ryōshū), reduce their Speed to 1, and target it with all of this unit's Skills\n(If this effect could not be activated due to Stagger, activate it next turn)"
     },
     {

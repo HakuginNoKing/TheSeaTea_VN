@@ -6,19 +6,19 @@
         {
           "level": 1,
           "name": "La Spada di Palermo",
-          "desc": "If target has 6+ [Vibration], Clash Power +1",
+          "desc": "Nếu mục tiêu có 6+ [Vibration], Uy Lực Đọ Sức +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration]"
                 }
               ]
             }
@@ -32,32 +32,32 @@
         {
           "level": 1,
           "name": "Colpi Sottani",
-          "desc": "Base Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)",
+          "desc": "Uy Lực Cơ Bản +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +2 Tầng [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion] and +2 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration] and +2 Tầng [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion] and +2 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] trên mục tiêu"
                 }
               ]
             }
@@ -71,32 +71,32 @@
         {
           "level": 1,
           "name": "Il Cacciatore",
-          "desc": "Coin Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)\n\n[WhenUse] If target has [DuelEdge], convert all Coins on this Skill to [SuperCoin]s",
+          "desc": "Uy Lực Xu +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục  tiêu (tối đa 2)\n\n[WhenUse] Nếu mục tiêu có [DuelEdge], chuyển tất cả các Xu của Kỹ Năng này thành [SuperCoin]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration] và +2 Tầng [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationIgnition]"
+                  "desc": "[OnSucceedAttack] Kích hoạt [FusionVibration] thành [VibrationIgnition]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] trên mục tiêu"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 [Agility] next turn"
+                  "desc": "[OnSucceedAttackHead] Nhận 2 [Agility] ở lượt sau"
                 }
               ]
             }
@@ -110,7 +110,7 @@
         {
           "level": 1,
           "name": "Sezionatura di Cervo",
-          "desc": "[CantChangeTarget]\nCannot be Staggered before using this Skill\n\nFor <color=#ff6000><mark color=#ff000040><b><u>every Attack Skill of this unit that lost a Clash this turn</color></mark></b></u>, Final Power -2 and Atk Weight -1\n(Min. Atk Weight: 1)\n\n[DefeatDuel] Deal -90% damage and damage dealt by this Skill cannot Stagger the target\n[DefeatDuel] Lose 15 SP; next turn, gain 6 Offense Level Down",
+          "desc": "[CantChangeTarget]\nKhông thể Bị Choáng trước khi sử dụng Kỹ Năng này\n\nVới <color=#ff6000><mark color=#ff000040><b><u>mỗi Kỹ Năng Tấn Công của đơn vị này thua Đọ Sức trong lượt</color></mark></b></u>,  Uy Lực Sau Cùng -2 và Phạm Vi Đòn Đánh -1\n(Phạm Vi Đòn Đánh Tối Thiểu: 1)\n\n[DefeatDuel] Giảm 90%  sát thương và sát thương gây ra bởi Kỹ Năng này không thể Làm Choáng mục tiêu.\n[DefeatDuel] Mất 15 SP; ở lượt sau, nhận 6 Cấp Tấn Công Giảm",
           "coinlist": [
             {
               "coindescs": [
@@ -118,10 +118,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion] và +2 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration] và +2 Tầng [Vibration]"
                 }
               ]
             },
@@ -131,13 +131,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion] và +2 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration] và +2 Tầng [Vibration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [FusionVibration] into [VibrationIgnition]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [FusionVibration] thành [VibrationIgnition]"
                 }
               ]
             },
@@ -147,7 +147,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] trên mục tiêu"
                 }
               ]
             },
@@ -157,7 +157,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [VibrationExplosion] 2 lần; sau đó, giảm 2 Tầng [Vibration] trên mục tiêu"
                 }
               ]
             }
@@ -170,20 +170,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Measuring Blade Reach",
-          "desc": "[DuelCounter]\nIf target has 2+ [DuelEdge], deal +30% damage\n\n[WinDuel] Inflict 1 [DuelEdge]",
+          "name": "Đo Lường Cự Ly Kiếm",
+          "desc": "[DuelCounter]\nNếu mục tiêu có 2+ [DuelEdge], gây thêm 30% sát thương\n\n[WinDuel] Gắn 1 [DuelEdge]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration] và +2 Tầng [Vibration]"
                 }
               ]
             }

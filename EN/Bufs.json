@@ -2503,7 +2503,7 @@
     },
     {
       "id": "SupportProtect",
-      "name": "Phòng Ngự Yểm Trợ",
+      "name": "Phòng Hộ Yểm Trợ",
       "desc": "- Cộng Dồn Tối Đa: 3\n- Khi một đồng minh sắp bị tấn công bởi đòn Tấn Công Một Chiều, tiêu hao 1 Cộng Dồn để chuyển hướng mục tiêu về bản thân ; sau đó sử dụng Kỹ Năng độc quyền để kích hoạt Phòng Ngự Yểm Trợ\n- Khi có nhiều đồng minh có Cộng Dồn của Phòng Ngự Yểm Trợ, đồng minh có Cộng Dồn Phòng Ngự Yểm Trợ nhiều nhất sẽ được ưu tiên\n- Không kích hoạt với các đồng minh đã trang bị Kỹ Năng Phòng Thủ\n- Biến mất khi Kết Thúc Lượt",
       "summary": "",
       "undefined": "-"
@@ -2524,7 +2524,7 @@
     },
     {
       "id": "SupportProtectTypo",
-      "name": "Assist Defense",
+      "name": "Phòng Hộ Yểm Trợ",
       "desc": "",
       "summary": "",
       "undefined": "-"

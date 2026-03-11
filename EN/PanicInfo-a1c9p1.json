@@ -8,9 +8,9 @@
     },
     {
       "id": 1068,
-      "panicName": "Textbook",
-      "lowMoraleDescription": "Clash Power +1 when Clashing against targets with [DuelEdge]\nClash Lose: Gain 1 [Vulnerable] next turn (once per turn)",
-      "panicDescription": "Clash Power +2 when Clashing against targets with [DuelEdge]\nClash Lose: Gain 2 [Vulnerable] next turn (once per turn)"
+      "panicName": "Sách Giáo Khoa",
+      "lowMoraleDescription": "Uy Lực Đọ Sức +1 khi Đọ Sức với mục tiêu có [DuelEdge]\nThua Đọ Sức: Nhận 1 [Vulnerable] ở lượt sau (một lần mỗi lượt)",
+      "panicDescription": "Uy Lực Đọ Sức +2 khi Đọ Sức với mục tiêu có [DuelEdge]\nThua Đọ Sức: Nhận 2 [Vulnerable] ở lượt sau (một lần mỗi lượt)"
     },
     {
       "id": 1069,

@@ -18,7 +18,7 @@
     },
     {
       "id": "mainui_main_button4",
-      "content": "Chiết Xuất"
+      "content": "Trích Xuất"
     },
     {
       "id": "mainui_main_button5",
@@ -298,7 +298,7 @@
     },
     {
       "id": "mainui_gacha_history",
-      "content": "Lịch Sử Chiết Xuất"
+      "content": "Lịch Sử Trích Xuất"
     },
     {
       "id": "mainui_gacha_daliynotice",
@@ -310,11 +310,11 @@
     },
     {
       "id": "mainui_gacha_extract1",
-      "content": "Chiết Xuất 1 Lần"
+      "content": "Trích Xuất 1 Lần"
     },
     {
       "id": "mainui_gacha_extract10",
-      "content": "Chiết Xuất 10 Lần"
+      "content": "Trích Xuất 10 Lần"
     },
     {
       "id": "mainui_open_battlepass",
@@ -758,7 +758,7 @@
     },
     {
       "id": "gacha_extract_multiple",
-      "content": "Chiết Xuất {0} Lần"
+      "content": "Trích Xuất {0} Lần"
     },
     {
       "id": "number_of_times",
@@ -766,11 +766,11 @@
     },
     {
       "id": "number_of_remain_extract_times",
-      "content": "Số Lần Chiết Xuất Còn Lại"
+      "content": "Số Lần Trích Xuất Còn Lại"
     },
     {
       "id": "notice_of_remain_extract_chance",
-      "content": "Chắc chắn ra Danh Tính 3★ hoặc E.G.O trong {0} lần chiết xuất."
+      "content": "Chắc chắn ra Danh Tính 3★ hoặc E.G.O trong {0} lần Trích Xuất."
     },
     {
       "id": "mainui_settings",
@@ -874,7 +874,7 @@
     },
     {
       "id": "gacha_rate_label",
-      "content": "Tỉ Lệ Chiết Xuất"
+      "content": "Tỉ Lệ Trích Xuất"
     },
     {
       "id": "gacha_rate_title_ten1",
@@ -1078,7 +1078,7 @@
     },
     {
       "id": "extract_again",
-      "content": "Chiết Xuất Lại"
+      "content": "Trích Xuất Lại"
     },
     {
       "id": "ego_gift",
@@ -1126,7 +1126,7 @@
     },
     {
       "id": "gacha_alarm_title",
-      "content": "Tiến Hành Chiết Xuất"
+      "content": "Tiến Hành Trích Xuất"
     },
     {
       "id": "clear_specific_stage",

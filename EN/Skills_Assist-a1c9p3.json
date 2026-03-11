@@ -970,27 +970,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heated Puncture",
-          "desc": "Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 2)",
+          "name": "Xuyên Kích Gia Nhiệt",
+          "desc": "Uy Lực Xu +1 với mỗi 6 ([Combustion] + [Laceration]) trên mục tiêu (tối đa 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn +2 Tầng [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion]"
                 }
               ]
             }
@@ -1003,27 +1003,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scorching Incision",
-          "desc": "Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 2)",
+          "name": "Nhát Cắt Thiêu Nhiệt",
+          "desc": "Uy Lực Xu +1 với mỗi 6 ([Combustion] + [Laceration]) trên mục tiêu (tối đa 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion]"
                 }
               ]
             }
@@ -1036,27 +1036,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Following the Flow",
-          "desc": "Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 2)",
+          "name": "Thuận theo Dòng Chảy",
+          "desc": "Uy Lực Xu +1 với mỗi 6 ([Combustion] + [Laceration]) trên mục tiêu (tối đa 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [Vulnerable]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Combustion]"
                 }
               ]
             }
@@ -1069,30 +1069,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Shall Open the Path",
-          "desc": "Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 3)\n[WhenUse] At 0+ SP, generate 1 Mang (望)\n- Coin Power +1 and deal +30% damage\n[EndSkill] If this Skill generated Mang, consume 1 SP",
+          "name": "Ta Sẽ Mở Đường",
+          "desc": "Uy Lực Xu +1 với mỗi 6 ([Combustion] + [Laceration]) trên mục tiêu (tối đa 3)\n[WhenUse] Ở mốc 0+ SP, tạo 1 Vọng (望)\n- Uy Lực Xu +1 và gây thêm 30% sát thương\n[EndSkill] Nếu Kỹ Năng này tạo ra Vọng, tiêu hao 1 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn +3 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [SlashTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [SlashTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Combustion]"
                 }
               ]
             }
@@ -1105,34 +1105,34 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Silence",
-          "desc": "Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 4)\n[WhenUse] At 0+ SP, generate 2 Mang (望)\n- Coin Power +2 and deal +60% damage\n[EndSkill] If this Skill generated Mang, consume 3 SP",
+          "name": "Câm Lặng",
+          "desc": "Uy Lực Xu +1 với mỗi 6 ([Combustion] + [Laceration]) trên mục tiêu (tối đa 4)\n[WhenUse] Ở mốc 0+ SP, tạo 2 Vọng (望)\n- Uy Lực Xu +2 và gây thêm 60% sát thương\n[EndSkill] Nếu Kỹ Năng này tạo ra Vọng, tiêu hao 3 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion]"
                 }
               ]
             }
@@ -1145,36 +1145,36 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Internal Bleeding",
-          "desc": "Deal +1% damage for every ([Laceration] on self + [Laceration] on target) (max 20%)\n[WhenUse] Gain 3 [Laceration] and +5 [Laceration] Count",
+          "name": "Xuất Huyết Nội",
+          "desc": "Gây thêm 1% sát thương với mỗi ([Laceration] trên người + [Laceration] trên mục tiêu) (tối đa 20%)\n[WhenUse] Nhận 3 [Laceration] và +5 Tầng [Laceration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn +1 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +3 Tầng [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Laceration]"
                 }
               ]
             }
@@ -1187,33 +1187,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blinding Bloodcleaver",
-          "desc": "Deal +1% damage for every ([Laceration] on self + [Laceration] on target) (max 20%)\n[WhenUse] Gain 3 [Laceration] and +5 [Laceration] Count",
+          "name": "Manh Huyết Đao",
+          "desc": "Gây thêm 1% sát thương với mỗi ([Laceration] trên người + [Laceration] trên mục tiêu) (tối đa 20%)\n[WhenUse] Nhận 3 [Laceration] và +5 Tầng [Laceration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [Vulnerable]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 4 [Laceration]"
                 }
               ]
             }
@@ -1226,39 +1226,39 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Drown in Blood",
-          "desc": "Deal +1% damage for every ([Laceration] on self + [Laceration] on target) (max 30%)\n[WhenUse] Gain 6 [Laceration] and +5 [Laceration] Count\n[WhenUse] At 0+ SP, generate 2 Mang (望)\n- Coin Power +2 and deal +60% damage\n[EndSkill] If this Skill generated Mang, consume 5 SP",
+          "name": "Chết Chìm trong Máu",
+          "desc": "Gây thêm 1% sát thương với mỗi ([Laceration] trên người + [Laceration] trên mục tiêu) (tối đa 30%)\n[WhenUse] Nhận 6 [Laceration] và +5 Tầng [Laceration]\n[WhenUse] Ở mốc 0+ SP, tạo 2 Vọng (望)\n- Uy Lực Xu +2 và gây thêm 60% sát thương\n[EndSkill] Nếu Kỹ Năng này tạo ra Vọng, tiêu hao 5 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn +1 [Combustion] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +4 [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [BloodBranch] for every 5 ([Laceration] on self + [Laceration] on target) (max 3)"
+                  "desc": "[OnSucceedAttack] Gắn 1 [BloodBranch] với mỗi 5 ([Laceration] trên người + [Laceration] trên mục tiêu) (tối đa 3)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 1 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 4 [Laceration]"
                 }
               ]
             }
@@ -1271,44 +1271,44 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Funeral for a Dead Bloodfiend",
-          "desc": "Deal +1% damage for every ([Laceration] on self + [Laceration] on target) (max 50%)\n[WhenUse] Gain 10 [Laceration] and +5 [Laceration] Count\n[WhenUse] At 0+ SP, generate 3 Mang (望)\n- Coin Power +3 and deal +90% damage\n[EndSkill] If this Skill generated Mang, consume 3 SP",
+          "name": "Tang Lễ cho một Huyết Quỷ Đã Khuất",
+          "desc": "Gây thêm 1% sát thương với mỗi ([Laceration] trên người + [Laceration] trên mục tiêu) (tối đa 50%)\n[WhenUse] Nhận 10 [Laceration] và +5 Tầng [Laceration]\n[WhenUse] Ở mốc 0+ SP, tạo 3 Vọng (望)\n- Uy Lực Xu +3 và gây thêm 90% sát thương\n[EndSkill] Nếu Kỹ Năng này tạo ra Vọng, tiêu hao 3 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +3 Tầng [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +3 Tầng [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 5 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [BloodBranch] for every 5 ([Laceration] on self + [Laceration] on target) (max 5)"
+                  "desc": "[OnSucceedAttack] Gắn 1 [BloodBranch] với mỗi 5 ([Laceration] trên người + [Laceration] trên mục tiêu) (tối đa 5)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 5 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 5 [Laceration]"
                 }
               ]
             }

@@ -11,10 +11,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion] and +2 Tầng [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Combustion] và +2 Tầng [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration] and +2 Tầng [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration] và +2 Tầng [Vibration]"
                 }
               ]
             },
@@ -207,7 +207,7 @@
         {
           "level": 1,
           "name": "Sezionatura di Elefante",
-          "desc": "Ở mốc 6+ [Breath], Uy Lực Xu +1\nUy Lực Xu +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)\n[WhenUse] Nhận +3 Tầng [Breath]\n[DefeatDuel] Đòn đánh -50% sát thương sau cùng và không thể gây Bạo Kích..\nSát thương gây ra bởi Kỹ Năng này không thể Làm Choáng mục tiêu.",
+          "desc": "Ở mốc 6+ [Breath], Uy Lực Xu +1\nUy Lực Xu +1 với mỗi 4 ([Combustion] + [Vibration]) trên mục tiêu (tối đa 2)\n[WhenUse] Nhận +3 Tầng [Breath]\n[DefeatDuel] Đòn đánh giảm 50% sát thương sau cùng và không thể gây Bạo Kích..\nSát thương gây ra bởi Kỹ Năng này không thể Làm Choáng mục tiêu.",
           "coinlist": [
             {
               "coindescs": [
@@ -280,7 +280,7 @@
         {
           "level": 1,
           "name": "Thủ Tiêu",
-          "desc": "[CantChangeTarget]\nKhông thể Bị Choáng trước khi sử dụng Kỹ Năng này.\n<color=#ff6000><mark color=#ff000040><b><u>Uy Lực Cơ Bản +1 và gây thêm 10% sát thương với mỗi [FutureEyeOn]</color></mark></b></u>\n[WhenUse] Nếu mục tiêu ở mốc 50% HP hoặc ít hơn, gây thêm 100% sát thương\n[WhenUse] Ở mốc 0+ SP, tạo 1 Vọng (望)\n- Uy Lực Cơ Bản +4\n[WhenUse] Nhận +3 Tầng [Breath]\n[WinDuel] Nhận 5 [Breath]\n[DefeatDuel] Đòn đánh -50% sát thương sau cùng và không thể gây Bạo Kích.\nSát thương gây ra bởi Kỹ Năng này không thể Làm Choáng mục tiêu.\n[EnemyKill] Gắn [TeachersPrey] lên một Tội Nhân ngẫu nhiên ở lượt sau\n[EndSkill] [FullReload] (một lần mỗi lượt)\n[EndSkill] Nếu Kỹ Năng này tạo ra Vọng, mất 10 SP",
+          "desc": "[CantChangeTarget]\nKhông thể Bị Choáng trước khi sử dụng Kỹ Năng này.\n<color=#ff6000><mark color=#ff000040><b><u>Uy Lực Cơ Bản +1 và gây thêm 10% sát thương với mỗi [FutureEyeOn]</color></mark></b></u>\n[WhenUse] Nếu mục tiêu ở mốc 50% HP hoặc ít hơn, gây thêm 100% sát thương\n[WhenUse] Ở mốc 0+ SP, tạo 1 Vọng (望)\n- Uy Lực Cơ Bản +4\n[WhenUse] Nhận +3 Tầng [Breath]\n[WinDuel] Nhận 5 [Breath]\n[DefeatDuel] Đòn đánh giảm 50% sát thương sau cùng và không thể gây Bạo Kích.\nSát thương gây ra bởi Kỹ Năng này không thể Làm Choáng mục tiêu.\n[EnemyKill] Gắn [TeachersPrey] lên một Tội Nhân ngẫu nhiên ở lượt sau\n[EndSkill] [FullReload] (một lần mỗi lượt)\n[EndSkill] Nếu Kỹ Năng này tạo ra Vọng, mất 10 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -375,8 +375,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Will Protect.",
-          "desc": "[CanDuelGuard]\n[SupportProtect] Exclusive Skill\nTake -20% damage for every [SupportProtect] Stack\n[WhenUse] Heal allies by 8 SP\n[DefeatDuel] Gain 1 [Vulnerable] next turn",
+          "name": "Tôi Sẽ Bảo Vệ.",
+          "desc": "[CanDuelGuard]\nKỹ Năng Độc Nhất [SupportProtect]\nGiảm 20% sát thương nhận vào với mỗi Cộng Dồn [SupportProtect]\n[WhenUse] Hồi 8 SP cho đồng minh\n[DefeatDuel] Nhận 1 [Vulnerable] ở lượt sau",
           "coinlist": [
             {
               "coindescs": [

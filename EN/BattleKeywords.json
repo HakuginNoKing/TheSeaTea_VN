@@ -280,7 +280,7 @@
     },
     {
       "id": "AttackUp",
-      "name": "Offense Level Up",
+      "name": "Cấp Tấn Công Tăng",
       "desc": "Offense level increases based on the effect's Potency for one turn."
     },
     {
@@ -1957,7 +1957,7 @@
     },
     {
       "id": "SupportProtect",
-      "name": "Assist Defense",
+      "name": "Phòng Hộ Yểm Trợ",
       "desc": "- Max Stack: 3\n- When an ally is about to take an Unopposed Attack from an enemy, consume 1 Stack to redirect the enemy's targeting to self; then, use the unique Skill that activates for Assist Defense\n- When there are multiple allies with Assist Defense Stacks, the ally with the highest Stack has the highest activation priority\n- Does not activate for allies who equipped Defense Skills\n- Expires at Turn End",
       "summary": "",
       "undefined": "-"
@@ -1978,7 +1978,7 @@
     },
     {
       "id": "SupportProtectTypo",
-      "name": "Assist Defense",
+      "name": "Phòng Hộ Yểm Trợ",
       "desc": "",
       "summary": "",
       "undefined": "-"

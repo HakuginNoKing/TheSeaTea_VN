@@ -111,57 +111,57 @@
     },
     {
       "id": 40001104,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter if this unit is killed",
-      "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
+      "name": "Định Mệnh Thất Lạc",
+      "desc": "Thua Trận nếu đơn vị này bị tiêu diệt",
+      "flavor": "Người ta có thể lầm đường lạc lối, nhưng sự phản kháng có chủ ý hay đi chệch khỏi dòng chảy đều bị nghiêm cấm bởi \"nó.\""
     },
     {
       "id": 40001201,
-      "name": "The Red Gaze",
-      "desc": "Turn End: Inflict 3 [Binding] next turn against enemies with 50% or more HP\n<color=#ff6000><mark=#ff000040><b><u>Enemies that are about to use Attack Skills against this unit gain 1 [Reduction]</u></b></mark></color>"
+      "name": "Xích Thị",
+      "desc": "Kết Thúc Lượt: Gắn 3 [Binding] lên kẻ địch có 50% HP trở lên ở lượt sau\n<color=#ff6000><mark=#ff000040><b><u>Kẻ địch khi chuẩn bị dùng Kỹ Năng Tấn Công vào đơn vị này nhận 1 [Reduction]</u></b></mark></color>"
     },
     {
       "id": 40001202,
-      "name": "White-hot Gladius",
-      "desc": "Inflict 1 [AaCfPcBiv2] On Hit with a Gladius Skill",
+      "name": "Gladius Bạch Nhiệt",
+      "desc": "Gắn 1 [AaCfPcBiv2] khi Đánh Trúng với một Kỹ Năng sử dụng Gladius",
       "summary": ""
     },
     {
       "id": 40001203,
-      "name": "Bloody Tears",
-      "desc": "On Skill Use: Take 3% of max HP as fixed damage (this damage cannot kill this unit).\nOn Hit with a Skill: Heal 10% of HP damage dealt",
+      "name": "Huyết Lệ",
+      "desc": "Khi Sử Dụng Kỹ Năng: Nhận sát thương cố định bằng 3% HP tối đa (sát thương này không thể kết liễu đơn vị).\nĐánh Trúng với một Kỹ Năng: Hồi HP bằng 10% lượng sát thương đã gây ra",
       "summary": ""
     },
     {
       "id": 40001204,
-      "name": "Blood Barrier",
-      "desc": "Every turn, all allies, including this unit, gains Shield HP",
+      "name": "Huyết Giáp",
+      "desc": "Mỗi lượt, tất cả đồng minh, bao gồm cả đơn vị này, nhận Khiên Bảo Hộ HP",
       "summary": ""
     },
     {
       "id": 40001205,
-      "name": "Shin (心) - The Red Gaze",
-      "desc": "When 'The Thumb Nursefather - Valencina' has [ObsessionAndGreed], this unit gains [VergiliusSin] next turn",
+      "name": "Tâm (心) - Xích Thị",
+      "desc": "Khi 'Cha Đỡ Đầu Ngón Cái - Valencina' sở hữu [ObsessionAndGreed], đơn vị này nhận [VergiliusSin] ở lượt sau",
       "summary": ""
     },
     {
       "id": 40001206,
-      "name": "Effloresced E.G.O::Lavacrum Sanguinis",
-      "desc": "Enter Effloresced[TabExplain] E.G.O::Lavacrum Sanguinis state, and gain the following effects:\n- Gain 3 Haste every turn\n- Become immune to [Laceration] damage\n- Unlocks E.G.O Manifestation Skills",
+      "name": "E.G.O Nảy Lộc::Lavacrum Sanguinis",
+      "desc": "Tiến vào trạng thái E.G.O[TabExplain] Nảy Lộc::Lavacrum Sanguinis, và nhận các hiệu ứng sau:\n- Nhận 3 Tăng Tốc mỗi lượt\n- Trở nên miễn nhiễm với sát thương [Laceration]\n- Mở khóa các Kỹ Năng mới khi Triệu Hoán E.G.O",
       "summary": ""
     },
     {
       "id": 40001208,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter if this unit is killed",
-      "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
+      "name": "Định Mệnh Thất Lạc",
+      "desc": "Thua Trận này nếu đơn vị này bị tiêu diệt",
+      "flavor": "Người ta có thể lầm đường lạc lối, nhưng sự phản kháng có chủ ý hay đi chệch khỏi dòng chảy đều bị nghiêm cấm bởi \"nó.\""
     },
     {
       "id": 40001209,
-      "name": "The Guide",
-      "desc": "Observes Dante's command and adjusts his Skills' targets accordingly",
+      "name": "Người Dẫn Đường",
+      "desc": "Quan sát chỉ thị của Dante và điều chỉnh Kỹ Năng cho phù hợp",
       "summary": "",
-      "flavor": "'Following the flow...'"
+      "flavor": "'Thuận theo dòng chảy...'"
     },
     {
       "id": 40001302,
@@ -204,14 +204,14 @@
     },
     {
       "id": 40001310,
-      "name": "Định Mệnh Lạc Lối",
-      "desc": "Thua Trận này nếu đơn vị này bị đánh bại",
-      "flavor": "Người ta có thể lạc lối và bước nhầm đường, nhưng sự phản kháng có chủ ý hay đi chệch khỏi dòng chảy đều bị nghiêm cấm bởi \"nó.\""
+      "name": "Định Mệnh Thất Lạc",
+      "desc": "Thua Trận này nếu đơn vị này bị tiêu diệt",
+      "flavor": "Người ta có thể lầm đường lạc lối, nhưng sự phản kháng có chủ ý hay đi chệch khỏi dòng chảy đều bị nghiêm cấm bởi \"nó.\""
     },
     {
       "id": 40001401,
-      "name": "Shin (心) - The Red Gaze",
-      "desc": "Encounter Start: Gain [VergiliusSin]"
+      "name": "Tâm (心) - Xích Thị",
+      "desc": "Bắt Đầu Trận: Nhận [VergiliusSin]"
     },
     {
       "id": 40001501,

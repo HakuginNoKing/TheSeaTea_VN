@@ -428,25 +428,25 @@
     {
       "id": "AaCfPcBiv2",
       "iconId": "AaCfPcBi",
-      "name": "Superthermogenesis",
-      "desc": "Turn End: Take fixed damage equal to (Stack x 0.5)% of Max HP, then the effect expires",
+      "name": "Sinh Nhiệt Cực Hạn",
+      "desc": "Kết Thúc Lượt: Nhận sất thương cố định bằng (Cộng Dồn x 0.5)% HP Tối Đa, sau đó hiệu ứng này sẽ hết hiệu lực",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VergiliusSin",
-      "name": "Shin (心) - The Red Gaze",
-      "desc": "Deal +50% Wrath damage",
-      "summary": "Deal more damage",
+      "name": "Tâm (心) - Xích Thị",
+      "desc": "Gây thêm 50% sát thương Phẫn Nộ",
+      "summary": "Gây thêm sát thương",
       "undefined": "-"
     },
     {
       "id": "BloodBranch",
-      "name": "Blinding Blood [盲血]",
-      "desc": "Gain 1 Bind next turn for every Stack\nTurn End: Take (Bleed Potency x Stack) HP damage\nCombat Start: Gain 3 Bleed for every Stack, then expire",
+      "name": "Manh Huyết [盲血]",
+      "desc": "Nhận 1 Trói Buộc ở lượt sau với mỗi Cộng Dồn\nKết Thúc Lượt: Nhận (Số Chảy Máu x Cộng Dồn) sát thương HP\nBắt đầu Giao tranh: Nhận 3 Chảy máu với mỗi Cộng Dồn, sau đó hết hiệu lực",
       "summary": "",
       "undefined": "-",
-      "flavor": "\"If blood can be contained within a gaze, it can also be accumulated and condensed for piercing. It can also, of course, be used to blind. Okay?\""
+      "flavor": "\"Nếu máu có thể được kìm nén bên trong một ánh nhìn, nó cũng có thể được tích tụ và cô đặc lại để đâm xuyên. Và tất nhiên, nó cũng có thể được dùng để làm mù. Rõ chưa?\""
     },
     {
       "id": "Gebura_Reinforcement",
