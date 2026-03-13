@@ -707,7 +707,7 @@
     },
     {
       "id": "Poison",
-      "name": "Độc",
+      "name": "Nhiễm Độc",
       "desc": "Turn End: Take {0} fixed damage, then halve the Count.",
       "summary": "{0} HP damage"
     },
