@@ -370,19 +370,19 @@
     },
     {
       "id": 73,
-      "place": "Corridor of the Thumb",
+      "place": "Hành Lang của Ngón Cái",
       "model": "베르길리우스3",
-      "content": "Don't overestimate the significance of your conditional affection."
+      "content": " Đừng quá đề cao cái thứ tình cảm có điều kiện ấy."
     },
     {
       "id": 74,
       "model": "베르길리우스3",
-      "content": "Time to get up. Haven't you emptied more than enough bottles for a day?"
+      "content": " Đứng dậy đi. Một ngày mà bà đã nốc cạn từng ấy chai rồi vẫn chưa đủ sao?"
     },
     {
       "id": 75,
       "model": "엄지아비",
-      "content": "... So impatient."
+      "content": " … Nóng vội thật."
     },
     {
       "id": 76,
@@ -392,77 +392,77 @@
     {
       "id": 77,
       "model": "엄지아비",
-      "content": "The thing is, with my Ticket..."
+      "content": " Vấn đề là, với Ticket của tao…"
     },
     {
       "id": 78,
       "model": "엄지아비",
-      "content": "I had to beat that girl head to toe more than a few times before any fire sparked in her eyes."
+      "content": " Tao đã phải đánh con bé đó từ đầu đến chân không biết bao nhiêu lần, trước khi trong mắt nó lóe lên chút lửa."
     },
     {
       "id": 79,
       "model": "엄지아비",
-      "content": "In that regard, I suppose my Textbook here has something to be proud of."
+      "content": " Xét ở điểm đó, Giáo Trình của tao cũng gọi là có chút đáng tự hào."
     },
     {
       "id": 80,
       "model": "엄지아비",
-      "content": "You see, this one doesn't cry."
+      "content": "Mày thấy không, cái thằng này có khóc cái đéo gì đâu."
     },
     {
       "id": 81,
       "model": "엄지아비",
-      "content": "Lucio, stop limping around. That wound's nothing serious."
+      "content": "Lucio, mày đừng có lê bước như thế nữa coi. Vết thương đó chẳng là cái đinh gỉ gì cả."
     },
     {
       "id": 82,
       "model": "엄지제자다침",
-      "content": "Yes, Master."
+      "content": " Vâng, thưa Sư Phụ."
     },
     {
       "id": 83,
       "model": "히스클리프",
-      "content": "... I don't bloody get it."
+      "content": " … Mẹ kiếp, tao chẳng hiểu nổi."
     },
     {
       "id": 84,
       "model": "히스클리프",
-      "content": "Oi... Why do you even listen to someone who thinks you ain't worth shite?"
+      "content": " Này… sao mày lại nghe lời một kẻ nghĩ mày chẳng đáng một xu?"
     },
     {
       "id": 85,
       "model": "히스클리프",
-      "content": "She beats you all the time, talkin' down to you like that... I doubt she even sees you as a person."
+      "content": "Bà ta đánh mày suốt ngày, lại còn nói chuyện khinh rẻ như thế… Tao nghi mụ ta còn chẳng coi mày là con người."
     },
     {
       "id": 86,
       "model": "엄지제자다침",
-      "content": "... Watch your words."
+      "content": " … Giữ mồm miệng của mày lại đi."
     },
     {
       "id": 87,
       "model": "엄지제자다침",
-      "content": "My master was generous enough to take me, a vagrant with nothing to my name, under her wing. She fed me warm food and put a roof over my head. I would've ended up in a corpse pile somewhere in the Backstreets without her help."
+      "content": " Sư phụ của tao đã rộng lượng nhận tao, một kẻ lang thang chẳng có gì trong tay về dưới trướng. Người cho tao những món ăn nóng hổi và cho tao một mái nhà. Nếu không có người, có lẽ tao đã nằm trong một đống xác nào đó ở Hẻm Sau rồi."
     },
     {
       "id": 88,
       "model": "엄지제자다침",
-      "content": "Which is why... it is only right that I obey her with all my heart."
+      "content": " Vì vậy… tao phải toàn tâm toàn ý phục tùng người bởi đó chính là lẽ phải."
     },
     {
       "id": 89,
       "model": "히스클리프",
-      "content": "Huh..."
+      "content": " Hừ…"
     },
     {
       "id": 90,
       "model": "엄지아비",
-      "content": "That's right. It's pointless to question and think. Just do exactly as you're told—<i>exactly</i> as I taught you."
+      "content": " Đúng vậy. Suy nghĩ, nghi vấn đều là vô ích. Cứ làm đúng như những gì mày đã được bảo–<i>chính xác</i> như tao đã dạy mày."
     },
     {
       "id": 91,
       "model": "엄지아비",
-      "content": "It's the one thing you're good at, isn't it?"
+      "content": "Đó là điều duy nhất mày làm ra hồn, phải không?"
     }
   ]
 }
