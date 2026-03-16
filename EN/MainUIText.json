@@ -190,7 +190,7 @@
     },
     {
       "id": "mainui_main_own_count",
-      "content": "Đang Có"
+      "content": "Còn"
     },
     {
       "id": "mainui_mirror_entrance_entry",
@@ -438,7 +438,7 @@
     },
     {
       "id": "mainui_owned",
-      "content": "Đang Có"
+      "content": "Còn"
     },
     {
       "id": "mainui_growth_level_limited",
@@ -790,7 +790,7 @@
     },
     {
       "id": "mainui_acquisition",
-      "content": "Đang Có"
+      "content": "Còn"
     },
     {
       "id": "mainui_not_acquisition",
