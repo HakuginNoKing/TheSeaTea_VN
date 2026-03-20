@@ -961,6 +961,22 @@
       "dlg": "Your neck, at least... will be cut easily."
     },
 	
+    {
+      "id": "6SV-016_1",
+      "desc": "############ Bloodfiend Sasha ############",
+      "dlg": "Curses!"
+    },
+	{
+      "id": "6SV-016_1-01",
+      "desc": "1AddedHitlineforSasha",
+      "dlg": "Curses!"
+    },
+	{
+      "id": "6SV-016_1-02",
+      "desc": "1AddedHitlineforSasha",
+      "dlg": "Curses!"
+    },
+	
 	{	
       "id": "special_vergil_bufftarget_atk",
       "desc": "############ Kkomi and Vergilius? - I'll do the AF sinners if they add them back ############",
@@ -7622,12 +7638,7 @@
 	{
         "id": "battle_special_10813_4",
         "desc": "",
-        "dlg": "Crane."
-    },
-	{
-        "id": "battle_special_10813_5",
-        "desc": "",
-        "dlg": "Blossom."
+        "dlg": "Crane, Blossom."
     },
 	{
         "id": "battle_special_10813_6",
@@ -8152,11 +8163,26 @@
 		"desc": "Death",
 		"dlg": "Ma... ma..."
 	},
+  {
+      "id": "battle_s2_10814_1_1-02",
+      "desc": "",
+      "dlg": "One."
+  },
+  {
+      "id": "battle_s2_10814_1_2-02",
+      "desc": "",
+      "dlg": "Two."
+  },
+  {
+      "id": "battle_s2_10814_1_3",
+      "desc": "",
+      "dlg": "Three!"
+  },
 	{
-        "id": "battle_s3_10814_1_1",
-        "desc": "",
-        "dlg": "This is the best angle for an ult, right?"
-    },
+      "id": "battle_s3_10814_1_1",
+      "desc": "",
+      "dlg": "This is the best angle for an ult, right?"
+  },
 	{
 		"id": "battle_s3_10814_1_2",
 		"desc": "",
@@ -8364,109 +8390,109 @@
 		"dlg": "... How... lonely."
 	},
 	{
-        "id": "battle_s3_10115_1_6",
-        "desc": "",
-        "dlg": "<i><color=#50acff>*beep*</color></i> Hah... the waves are rolling in."
+    "id": "battle_s3_10115_1_6",
+    "desc": "",
+    "dlg": "<i><color=#50acff>*beep*</color></i> Hah... the waves are rolling in."
 	},
-    {
-        "id": "battle_special_10115_1",
-        "desc": "",
-        "dlg": "One."
-    },
-    {
-        "id": "battle_special_10115_2",
-        "desc": "",
-        "dlg": "Two."
-    },
-    {
-        "id": "battle_special_10115_3",
-        "desc": "",
-        "dlg": "Third."
-    },
-    {
-        "id": "battle_special_10115_4",
-        "desc": "",
-        "dlg": "Four."
-    },
-    {
-        "id": "battle_special_10115_5",
-        "desc": "",
-        "dlg": "Five."
-    },
-    {
-        "id": "battle_special_10115_6",
-        "desc": "",
-        "dlg": "Sixth."
-    },
-    {
-        "id": "battle_special_10115_7",
-        "desc": "",
-        "dlg": "Seven. Two to go."
-    },
-    {
-        "id": "battle_special_10115_8",
-        "desc": "",
-        "dlg": "Eight. One left."
-    },
-    {
-        "id": "battle_special_10115_9",
-        "desc": "",
-        "dlg": "Ninth. Executed."
-    },
-    {
-        "id": "battle_special_10115_10",
-        "desc": "",
-        "dlg": "Wading through a dream, the self nowhere to be found. (無我夢中)"
-    },
-    {
-        "id": "battle_special_10115_11",
-        "desc": "",
-        "dlg": "Like the Naraka of Avīci and Raurava. (阿鼻叫喚)"
-    },
-    {
-        "id": "battle_special_10115_12",
-        "desc": "",
-        "dlg": "Severed and torn until even the form is undone. (支離滅裂)"
-    },
-    {
-        "id": "battle_special_10115_13",
-        "desc": "",
-        "dlg": "Be cheerful in your final moments. For you have been chosen."
-    },
-    {
-        "id": "battle_special_10115_14-1",
-        "desc": "",
-        "dlg": "Haha… I hope my darling daughter, too, remembers this wound."
-    },
-    {
-        "id": "battle_special_10115_14-2",
-        "desc": "",
-        "dlg": "Haha… I wonder if my darling daughter would remember this wound…"
-    },
-    {
-        "id": "battle_special_10115_15-1",
-        "desc": "",
-        "dlg": "I shall replicate a furious heart."
-    },
-    {
-        "id": "battle_special_10115_15-2",
-        "desc": "",
-        "dlg": "Replication complete."
-    },
-    {
-        "id": "battle_special_10115_16-1",
-        "desc": "",
-        "dlg": "<i><color=#50acff>*beep*</color></i> The Will of Hermes."
-    },
-    {
-        "id": "battle_special_10115_16-2",
-        "desc": "",
-        "dlg": "Furiously, throughout it all."
-    },
-    {
-        "id": "battle_special_10115_17",
-        "desc": "",
-        "dlg": "Ah… Don Quixote. Indeed, if you complete this battle well… I shall praise you."
+  {
+    "id": "battle_special_10115_1",
+    "desc": "",
+    "dlg": "One."
+  },
+  {
+    "id": "battle_special_10115_2",
+    "desc": "",
+    "dlg": "Two."
+  },
+  {
+    "id": "battle_special_10115_3",
+    "desc": "",
+    "dlg": "Third."
+  },
+  {
+    "id": "battle_special_10115_4",
+    "desc": "",
+    "dlg": "Four."
+  },
+  {
+    "id": "battle_special_10115_5",
+    "desc": "",
+    "dlg": "Five."
+  },
+  {
+    "id": "battle_special_10115_6",
+    "desc": "",
+    "dlg": "Sixth."
+  },
+  {
+    "id": "battle_special_10115_7",
+    "desc": "",
+    "dlg": "Seven. Two to go."
+  },
+  {
+    "id": "battle_special_10115_8",
+    "desc": "",
+    "dlg": "Eight. One left."
+  },
+  {
+    "id": "battle_special_10115_9",
+    "desc": "",
+    "dlg": "Ninth. Executed."
+  },
+  {
+    "id": "battle_special_10115_10",
+    "desc": "",
+    "dlg": "Wading through a dream, the self nowhere to be found. (無我夢中)"
+  },
+  {
+    "id": "battle_special_10115_11",
+    "desc": "",
+    "dlg": "Like the Naraka of Avīci and Raurava. (阿鼻叫喚)"
+  },
+  {
+    "id": "battle_special_10115_12",
+    "desc": "",
+    "dlg": "Severed and torn until even the form is undone. (支離滅裂)"
+  },
+  {
+    "id": "battle_special_10115_13",
+    "desc": "",
+    "dlg": "Be cheerful in your final moments. For you have been chosen."
+  },
+  {
+    "id": "battle_special_10115_14-1",
+    "desc": "",
+    "dlg": "Haha… I hope my darling daughter, too, remembers this wound."
+  },
+  {
+    "id": "battle_special_10115_14-2",
+    "desc": "",
+    "dlg": "Haha… I wonder if my darling daughter would remember this wound…"
+  },
+  {
+    "id": "battle_special_10115_15-1",
+    "desc": "",
+    "dlg": "I shall replicate a furious heart."
+  },
+  {
+    "id": "battle_special_10115_15-2",
+    "desc": "",
+    "dlg": "Replication complete."
+  },
+  {
+    "id": "battle_special_10115_16-1",
+    "desc": "",
+    "dlg": "<i><color=#50acff>*beep*</color></i> The Will of Hermes."
+  },
+  {
+    "id": "battle_special_10115_16-2",
+    "desc": "",
+    "dlg": "Furiously, throughout it all."
+  },
+  {
+    "id": "battle_special_10115_17",
+    "desc": "",
+    "dlg": "Ah… Don Quixote. Indeed, if you complete this battle well… I shall praise you."
   },
   {
     "id": "battle_select_10514_1",
@@ -8521,7 +8547,7 @@
   {
     "id": "battle_special_10514_4",
     "desc": "",
-    "dlg": "Double shot."
+    "dlg": "Double fire."
   },
   {
     "id": "battle_special_10514_5",
@@ -8558,9 +8584,7 @@
     "desc": "",
     "dlg": "Hm, spare ammo recovered."
   },
-  {
-    
-  },
+
   {
     "id": "battle_select_10414_1",
     "desc": "########## Faint Aroma & Solitude E.G.O Ryoshu ##########",
@@ -8634,13 +8658,73 @@
   {
     "id": "battle_special_10414_3",
     "desc": "",
-    "dlg": "<i>*whistle*</i> ...Time to shoot."
+    "dlg": "<i>*whistle*</i> Time to shoot."
   },
   {
     "id": "battle_special_10414_4",
     "desc": "",
     "dlg": "Go back to the grave... with all that desires to live."
-    }
+  },
+  {
+    "id": "battle_select_11215_1",
+    "desc": "################# LCE AEDD Gregor ###############",
+    "dlg": "Experiment is underway. Do practice caution when controlling the variables."
+  },
+  {
+    "id": "battle_endcommand_11215_1",
+    "desc": "",
+    "dlg": "Let us run a test and trial."
+  },
+  {
+    "id": "battle_enemy_break_11215_1",
+    "desc": "",
+    "dlg": "Admirable effort. However..."
+  },
+  {
+    "id": "battle_break_11215_1",
+    "desc": "",
+    "dlg": "Ngh... Hah."
+  },
+  {
+    "id": "battle_kill_11215_1",
+    "desc": "",
+    "dlg": "... Nothing too remarkable."
+  },
+  {
+    "id": "battle_dead_11215_1",
+    "desc": "",
+    "dlg": "Well... I don't suppose I was all that exceptional either..."
+  },
+  {
+    "id": "battle_s3_11215_1_3",
+    "desc": "",
+    "dlg": "Standard-duty battery, temporary discharge!"
+  },
+  {
+    "id": "battle_special_11215_1",
+    "desc": "",
+    "dlg": "Changing output mode!"
+  },
+  {
+    "id": "battle_special_11215_1-01",
+    "desc": "",
+    "dlg": "Whew… it’s been nicely fried."
+  },
+  {
+    "id": "battle_special_11215_2",
+    "desc": "",
+    "dlg": "I'll provide you support."
+  },
+  {
+    "id": "battle_special_11215_3",
+    "desc": "",
+    "dlg": "Transfer sequence activated."
+  },
+  {
+    "id": "battle_special_11215_4",
+    "desc": "",
+    "dlg": "Self-charge, activate."
+  }
   ]
 }
  
