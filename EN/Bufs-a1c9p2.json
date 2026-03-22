@@ -187,15 +187,15 @@
     },
     {
       "id": "ScarBygoneDays_LowMorale",
-      "name": "Affection and Resentment",
-      "desc": "Deal +10% damage to and take +10% damage from Ryōshū",
+      "name": "Yêu Thương và Oán Hận",
+      "desc": "Gây thêm và nhận thêm 10% sát thương từ Ryōshū ",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ScarBygoneDays_Panic",
       "name": "Affection and Resentment",
-      "desc": "Deal +20% damage to and take +20% damage from Ryōshū",
+      "desc": "Gây thêm 20% sát thương và nhận thêm 10% sát thương từ Ryōshū",
       "summary": "",
       "undefined": "-"
     },
@@ -209,7 +209,7 @@
     {
       "id": "PhantomIncisionTotal",
       "name": "Địa Tuệ Tinh Đao",
-      "desc": "- Total sum of Bladetrail [Afterimage] Stack in this Encounter",
+      "desc": "- Tổng số cộng dồn Vệt Kiếm [Tàn Ảnh] trong Trận này",
       "summary": " ",
       "undefined": "-"
     },
@@ -230,29 +230,29 @@
     {
       "id": "TimeEntangleFour",
       "name": "Tứ Trùng Rối Loạn Tàn Ảnh",
-      "desc": "Rối Loạn Tàn Ảnh Cấp 4\n- Tốc Độ Thấp Nhất & Cao Nhất của đơn vị này -2\n- On Hit, activate the following effects:\n  · Inflict 1 Poison\n  · Inflict 2 Bleed\n  · Inflict 1 Bind next turn\n  · Inflict 2 Burn",
-      "summary": "Stage 4 Afterimage Entanglement",
+      "desc": "Rối Loạn Tàn Ảnh Cấp 4\n- Tốc Độ Thấp Nhất & Cao Nhất của đơn vị này -2\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau:\n  · Gắn 1 Độc\n  · Gắn 2 Chảy Máu\n  · Gắn 1 Trói Chân vào lượt tiếp theo\n  · Gắn 2 Thiêu Đốt",
+      "summary": "Rối Loạn Tàn Ảnh Cấp 4",
       "undefined": "-"
     },
     {
       "id": "TimeEntangleThree",
-      "name": "Threefold Afterimage Entanglement",
-      "desc": "Stage 3 Afterimage Entanglement\n- On Hit, activate the following effects:\n  · Inflict 2 Bleed\n  · Inflict 1 Bind next turn\n  · Inflict 2 Burn",
-      "summary": "Stage 3 Afterimage Entanglement",
+      "name": "Tam Trùng Rối Loạn Tàn Ảnh",
+      "desc": "Rối Loạn Tàn Ảnh Cấp 3\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau:\n  · Gắn 1 Độc\n  · Gắn 2 Chảy Máu\n  · Gắn 1 Trói Chân vào lượt tiếp theo",
+      "summary": "Rối Loạn Tàn Ảnh Cấp 3",
       "undefined": "-"
     },
     {
       "id": "TimeEntangleTwo",
-      "name": "Twofold Afterimage Entanglement",
-      "desc": "Stage 2 Afterimage Entanglement\n- On Hit, activate the following effects:\n  · Inflict 1 Bind next turn\n  · Inflict 2 Burn",
-      "summary": "Stage 2 Afterimage Entanglement",
+      "name": "Nhị Trùng Rối Loạn Tàn Ảnh",
+      "desc": "Rối Loạn Tàn Ảnh Cấp 2\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau:\n  · Gắn 1 Độc\n  · Gắn 2 Chảy Máu",
+      "summary": "Rối Loạn Tàn Ảnh Cấp 2",
       "undefined": "-"
     },
     {
       "id": "TimeEntangleOne",
-      "name": "Onefold Afterimage Entanglement",
-      "desc": "Stage 1 Afterimage Entanglement\n- On Hit, activate the following effects:\n  · Inflict 2 Burn",
-      "summary": "Stage 1 Afterimage Entanglement",
+      "name": "Nhất Trùng Rối Loạn Tàn Ảnh",
+      "desc": "Rối Loạn Tàn Ảnh Cấp 1\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau:\n  · Gắn 1 Độc",
+      "summary": "Rối Loạn Tàn Ảnh Cấp 1",
       "undefined": "-"
     },
     {
@@ -293,7 +293,7 @@
     {
       "id": "TimeEntangleDesc",
       "name": "Rối Loạn Tàn Ảnh",
-      "desc": "Afterimages are Entangled\nEffect Stage changes with the progress of combat pattern",
+      "desc": "Tàn Ảnh bị Rối Loạn\nCấp của hiệu ứng này thay đổi dựa theo tiến trình của chuỗi công kích",
       "summary": " ",
       "undefined": "-"
     },
