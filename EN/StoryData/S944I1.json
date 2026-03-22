@@ -2,34 +2,34 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Corridor of the Middle",
+      "place": "Hành Lang Ngón Giữa",
       "model": "에즈라",
-      "content": "Team Leader!"
+      "content": " Đội Trưởng!"
     },
     {
       "id": 1,
       "model": "모제스1",
-      "content": "Hmmh... Missed."
+      "content": "Hừ… Trượt rồi."
     },
     {
       "id": 2,
       "model": "베스파",
-      "content": "I tried to distract him as much as I could manage, but he seems to have dodged it instinctively."
+      "content": "Tôi đã cố hết sức để phân tán sự chú ý của hắn, nhưng có vẻ hắn đã né được theo bản năng."
     },
     {
       "id": 3,
       "model": "모제스1",
-      "content": "Perhaps I should've tried a more predictive shot."
+      "content": "Có lẽ tôi nên thử đan xen thêm chút tiên đoán vào đòn đánh hơn."
     },
     {
       "id": 4,
       "model": "베스파",
-      "content": "Are your impulses... in check?"
+      "content": "Những xung động của cô… vẫn trong tầm kiểm soát chứ?"
     },
     {
       "id": 5,
       "model": "모제스1",
-      "content": "I may need some time, but... it's nothing to worry about."
+      "content": "Có lẽ tôi cần chút thời gian, nhưng… không có gì đáng lo cả."
     },
     {
       "id": 6,
@@ -45,27 +45,27 @@
       "id": 8,
       "model": "LCD앵두",
       "teller": "Radio",
-      "content": "The Apprentice's signal has been lost in an instant! You must brace for a strike from a blind point!"
+      "content": "Tín hiệu của ả Học Việc kia đã đột ngột biến mất! Mọi người hãy chuẩn bị tinh thần đón nhận tập kích!"
     },
     {
       "id": 9,
       "model": "모제스1",
-      "content": "... Can you locate her, Vespa?"
+      "content": " … Vespa, cậu xác định được vị trí của con nhóc kia không?"
     },
     {
       "id": 10,
       "model": "베스파",
-      "content": "Her presence disappeared the instant she put on whatever it is she's wearing now. It could be the Veil, or a Workshop-made gear built on similar technology."
+      "content": " Sự hiện diện của nó biến mất ngay khi mặc thứ đó vào. Có thể là Màn Che Phủ, hoặc một thiết bị từ Xưởng Chế Tác dựa trên công nghệ tương tự."
     },
     {
       "id": 11,
       "model": "중지제자",
-      "content": "Using environmental obstacles to hold enemies down... sure looked badass!"
+      "content": "Tận dụng chướng ngại môi trường để ghìm chân kẻ địch… nhìn ngầu bá cháy nhở!"
     },
     {
       "id": 12,
       "model": "돈키호테",
-      "content": "Ah—fie! Above thee, distinguished Color! Look above thee!"
+      "content": "Á—kìa! Hỡi vị Color cao quý! Phía trên ngài kìa!"
     },
     {
       "id": 13
@@ -78,7 +78,7 @@
     {
       "id": 15,
       "model": "중지제자",
-      "content": "Got 'im! Papa, now!"
+      "content": "Bắt được rồi! Papa ơi, ngay bây giờ!"
     },
     {
       "id": 16,
@@ -88,12 +88,12 @@
     {
       "id": 17,
       "model": "중지아비",
-      "content": "Good girl."
+      "content": "Giỏi lắm con gái ngoan của ta."
     },
     {
       "id": 18,
       "model": "중지제자",
-      "content": "Hah! Even a Color Fixer can't outmaneuver a Reli— Huh...?"
+      "content": "Hah! Ngay cả một Color Fixer cũng không thể vượt qua được một Di Vậ– Hả…?"
     },
     {
       "id": 19,
@@ -111,136 +111,136 @@
     {
       "id": 22,
       "model": "중지아비",
-      "content": "Remember, Kiddo?"
+      "content": " Nhớ chứ, Nhóc?"
     },
     {
       "id": 23,
       "model": "중지아비",
-      "content": "This is <i>family</i>. A <i>little sacrifice</i> ain't a thing if it's for one of us."
+      "content": "<i>Gia đình</i> ấy mà, dẫu có phải <i>hy sinh thân mình</i> vì người nhà, thì tuyệt đối không cảm thấy đau đớn."
     },
     {
       "id": 24,
       "model": "돈키호테",
-      "content": "... What senseless villainy is this?!"
+      "content": " … Hành vi tàn ác vô nghĩa gì thế này?!"
     },
     {
       "id": 25,
       "model": "돈키호테",
-      "content": "To put one's child to the sword to defeat a foe... How dost thou, a Finger of loyalty, commit such a cowardly act of duplicity...?"
+      "content": "Biến máu mủ thành vũ khí, lấy sinh mạng con mình làm mồi nhử… Một Ngón đại diện cho lòng trung thành tuyệt đối như ngươi, hóa ra lại là một bản ngã mục rỗng của sự hèn hạ và phản trắc sao?"
     },
     {
       "id": 26,
       "model": "모제스1",
-      "content": "*puff* Loyalty, huh."
+      "content": "*phù* Trung thành ấy à?"
     },
     {
       "id": 27,
       "model": "모제스1",
-      "content": "I doubt the Middle really gives two hoots about loyalty."
+      "content": "Tôi không nghĩ Ngón Giữa thực sự quan tâm đến cái thứ gọi là trung thành."
     },
     {
       "id": 28,
       "model": "모제스1",
-      "content": "All they actually care about is grandstanding."
+      "content": " Thứ chúng thực sự quan tâm chỉ là phô trương thanh thế."
     },
     {
       "id": 29,
       "model": "모제스1",
-      "content": "Nothing else matters to them if they can project the image of loyalty, in and of itself an implicit threat of what might befall those who stand in their way."
+      "content": "Phô trương cái vỏ bọc trượng nghĩa rởm đời. Phô trương cho thiên hạ thấy kẻ nào dám động vào chúng sẽ có kết cục ra sao."
     },
     {
       "id": 30,
       "model": "이상다침",
-      "content": "... Much like the rows upon rows of toy packaging displayed here."
+      "content": "… Chẳng khác nào lớp bao bì bọc kín những món đồ chơi đang chưng diện la liệt ngoài kia sao."
     },
     {
       "id": 31,
       "model": "중지아비",
-      "content": "What do you think you're doing, my man? That's a <i>white</i> colorway in your hand... Pretty sure I remember my little girl asking for a black one."
+      "content": "Mày đang làm cái đéo gì thế hả? Cái mày đang cầm là <i>màu trắng</i> đấy… Tao nhớ con bé nhà tao đã yêu cầu màu đen cơ mà."
     },
     {
       "id": 32,
-      "place": "U Corp.'s Marlin Portship Shop Alley, Past",
+      "place": "Hẻm Mua Sắm trên Tàu Cảng Cá Cờ của Tập Đoàn U, Quá Khứ",
       "teller": "Mall Shopkeeper",
       "title": "???",
-      "content": "I'm... I'm really sorry, sir. Sir, please... I'm sorry. Sir. Please, please forgive my—aaaagh!"
+      "content": "Tôi… tôi thật sự xin lỗi, thưa ngài. Thưa ngài, làm ơn… tôi xin lỗi. Làm ơn, xin hãy tha—aaaagh!"
     },
     {
       "id": 33,
       "model": "중지아비",
-      "content": "Oh, quit overreactin', man. I just popped one of your apparently colorblind eyeballs, no biggie."
+      "content": "Ôi thôi nào, đừng có làm quá lên thế. Tao chỉ móc ra một con mắt mù màu của mày thôi mà, có gì to tát đâu."
     },
     {
       "id": 34,
       "model": "과거료슈3",
-      "content": "Stop it."
+      "content": "Dừng lại đi."
     },
     {
       "id": 35,
       "model": "과거료슈3",
-      "content": "I like that color too. So stop it."
+      "content": "Con cũng thích màu đó. Nên dừng lại đi."
     },
     {
       "id": 36,
       "model": "중지아비",
-      "content": "You like white, too? Oh boy... Is my little girl finally acquiring her papa's tastes?"
+      "content": "Con cũng thích màu trắng à? Ồ… Con gái của papa cuối cùng cũng bắt đầu giống gu của papa rồi sao?"
     },
     {
       "id": 37,
       "model": "중지아비",
-      "content": "I still need to pay him back for bringing you the wrong color—"
+      "content": "Dù vậy papa vẫn phải trả lại món nợ vì nó đưa nhầm màu—"
     },
     {
       "id": 38,
       "model": "과거료슈3",
-      "content": "It'll be rush hour soon. What's the point of coming out on a drive if we're just gonna end up sitting in traffic?"
+      "content": "Sắp tới giờ cao điểm rồi. Đi ra ngoài lái xe mà cuối cùng chỉ để ngồi kẹt xe thì có ích gì?"
     },
     {
       "id": 39,
       "model": "과거료슈3",
-      "content": "... I'm leaving. Let's go, Dad."
+      "content": "… Con đi đây. Đi thôi, cha."
     },
     {
       "id": 40,
-      "place": "Corridor of the Middle",
+      "place": "Hành Lang Ngón Giữa",
       "model": "중지아비",
       "content": "......."
     },
     {
       "id": 41,
       "model": "모제스1",
-      "content": "Still... I suppose I should thank you. You're... really doing one hell of a job summoning those horrible memories back to me."
+      "content": "Nhưng mà… ta nghĩ mình nên cảm ơn ngươi. Ngươi… đang làm rất tốt trong việc gợi lại trong ta những ký ức kinh khủng đó."
     },
     {
       "id": 42,
       "model": "모제스1",
-      "content": "*puff* I've got one more Crimson Point in me."
+      "content": "*phù* Tôi vẫn còn một Điểm Đỏ Thẫm nữa."
     },
     {
       "id": 43,
       "model": "중지제자",
-      "content": "*cough* *gurgle*"
+      "content": "*ho* *khạc*"
     },
     {
       "id": 44,
       "model": "에즈라",
-      "content": "What do we do about the kid?"
+      "content": " Chúng ta phải làm gì với con nhóc đó đây?"
     },
     {
       "id": 45,
       "model": "LCD앵두",
       "teller": "Radio",
-      "content": "The Department of LCC has requested that she be captured alive. They have many queries for which she may hold answers to..."
+      "content": "Bộ Phận LCC yêu cầu phải bắt sống cô ta. Họ có nhiều câu hỏi mà chỉ cô ta có thể trả lời…"
     },
     {
       "id": 46,
       "model": "홍루다침",
-      "content": "... I'll use a healing medicine on her."
+      "content": "… Tôi sẽ dùng thuốc hồi phục cho cô bé."
     },
     {
       "id": 47,
       "model": "중지제자",
-      "content": "... Papa... why would you... Why me...?"
+      "content": ".… Papa… tại sao papa lại… tại sao lại là con…?"
     },
     {
       "id": 48,
@@ -250,17 +250,17 @@
     {
       "id": 49,
       "model": "돈키호테",
-      "content": "... Thou shan't be able to move with thy body cloven in half."
+      "content": "… Cơ thể đã đứt lìa làm đôi rồi, đằng ấy không cố nhúc nhích được nữa đâu."
     },
     {
       "id": 50,
       "model": "돈키호테",
-      "content": "So, lie still and bear witness..."
+      "content": "Vậy nên, cứ nằm yên đó mà rửa mắt đi…"
     },
     {
       "id": 51,
       "model": "돈키호테",
-      "content": "... for they shall demonstrate before thee the true meaning of \"badass.\""
+      "content": ".Kể từ giờ phút này… các vị này đây sẽ phô diễn cho ngươi thấy, thế nào mới thực sự là \"ngầu bá cháy\""
     }
   ]
 }
