@@ -1,4 +1,4 @@
-{
+    {
   "dataList": [
     {
       "id": "MosesWhiteBreathMental",
@@ -20,7 +20,7 @@
       "desc": "- Turn Start: Gain 30 Shield for this turn",
       "summary": "",
       "undefined": "-"
-    },
+    },  
     {
       "id": "MosesPurpleBreathBind",
       "name": "Purple Breath - Hysteria",
@@ -663,14 +663,14 @@
     {
       "id": "ObsessedTeacher_LowMorale",
       "name": "Nỗi Nhục của Gia Tộc",
-      "desc": "- Turn Start: Nhận 1 Tăng Sát Thương Chém, 1 Tăng Uy Lực Đọ Sức, và 1 Suy Yếu\n- Không thể nhận Vọng khi sử dụng Kỹ Năng",
+      "desc": "- Bắt Đầu Lượt: Nhận 1 Tăng Sát Thương Chém, 1 Tăng Uy Lực Đọ Sức, và 1 Suy Yếu\n- Không thể nhận Vọng khi sử dụng Kỹ Năng",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ObsessedTeacher_Panic",
       "name": "Nỗi Nhục của Gia Tộc",
-      "desc": "- Turn Start: Nhận 2 Tăng Sát Thương Chém, 2 Tăng Uy Lực Đọ Sức, và 2 Suy Yếu\n- Không thể nhận Vọng khi sử dụng Kỹ Năng",
+      "desc": "- Bắt Đầu Lượt: Nhận 2 Tăng Sát Thương Chém, 2 Tăng Uy Lực Đọ Sức, và 2 Suy Yếu\n- Không thể nhận Vọng khi sử dụng Kỹ Năng",
       "summary": "",
       "undefined": "-"
     },
