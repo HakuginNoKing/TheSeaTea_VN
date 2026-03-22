@@ -237,21 +237,21 @@
     {
       "id": "TimeEntangleThree",
       "name": "Tam Trùng Rối Loạn Tàn Ảnh",
-      "desc": "Rối Loạn Tàn Ảnh Cấp 3\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau:\n  · Gắn 1 Độc\n  · Gắn 2 Chảy Máu\n  · Gắn 1 Trói Chân vào lượt tiếp theo",
+      "desc": "Rối Loạn Tàn Ảnh Cấp 3\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau:\n  · Gắn 2 Chảy Máu\n  · Gắn 1 Trói Chân vào lượt tiếp theo\n  · Gắn 2 Thiêu Đốt",
       "summary": "Rối Loạn Tàn Ảnh Cấp 3",
       "undefined": "-"
     },
     {
       "id": "TimeEntangleTwo",
       "name": "Nhị Trùng Rối Loạn Tàn Ảnh",
-      "desc": "Rối Loạn Tàn Ảnh Cấp 2\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau:\n  · Gắn 1 Độc\n  · Gắn 2 Chảy Máu",
+      "desc": "Rối Loạn Tàn Ảnh Cấp 2\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau:\n  · Gắn 1 Trói Chân vào lượt tiếp theo\n  · Gắn 2 Thiêu Đốt",
       "summary": "Rối Loạn Tàn Ảnh Cấp 2",
       "undefined": "-"
     },
     {
       "id": "TimeEntangleOne",
       "name": "Nhất Trùng Rối Loạn Tàn Ảnh",
-      "desc": "Rối Loạn Tàn Ảnh Cấp 1\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau:\n  · Gắn 1 Độc",
+      "desc": "Rối Loạn Tàn Ảnh Cấp 1\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau:\n  · Gắn 2 Thiêu Đốt",
       "summary": "Rối Loạn Tàn Ảnh Cấp 1",
       "undefined": "-"
     },

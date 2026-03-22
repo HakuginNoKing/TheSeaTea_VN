@@ -201,15 +201,15 @@
     },
     {
       "id": "PhantomIncision",
-      "name": "Bladetrail [Afterimage]",
-      "desc": "- Max Stack: 99\n- Turn Start: Gain 1 Fragile for every 10 Stack (max 5)",
+      "name": "Vệt Kiếm [Tàn Ảnh]",
+      "desc": "- Tối đa: 99\n- Bắt Đầu Lượt: Nhận 1 Suy Yếu với mỗi 10 Vệt Kiếm [Tàn Ảnh] (tối đa 5)",
       "summary": " ",
       "undefined": "-"
     },
     {
       "id": "PhantomIncisionTotal",
-      "name": "Dihui Star's Blade",
-      "desc": "- Total sum of Bladetrail [Afterimage] Stack in this Encounter",
+      "name": "Địa Tuệ Tinh Đao",
+      "desc": "- Tổng số cộng dồn Vệt Kiếm [Tàn Ảnh] trong Trận này",
       "summary": " ",
       "undefined": "-"
     },
@@ -222,43 +222,43 @@
     },
     {
       "id": "TimeGapAb",
-      "name": "Disjunction",
-      "desc": "- Turn Start: The Part gains Shield equal to Stack\n- Reduction in the Shield reduces the Stack as well",
+      "name": "Phân Ly",
+      "desc": "- Bắt Đầu Lượt: Bộ Phận này nhận Khiên tương ứng với số Phân Ly\n- Khi giảm khiên cũng sẽ giảm số lượng Phân Ly",
       "summary": " ",
       "undefined": "-"
     },
     {
       "id": "TimeEntangleFour",
-      "name": "Fourfold Afterimage Entanglement",
-      "desc": "Stage 4 Afterimage Entanglement\n- Min & Max Speed -2 for this unit\n- On Hit, activate the following effects:\n  · Inflict 1 Poison\n  · Inflict 2 Bleed\n  · Inflict 1 Bind next turn\n  · Inflict 2 Burn",
-      "summary": "Stage 4 Afterimage Entanglement",
+      "name": "Tứ Trùng Rối Loạn Tàn Ảnh",
+      "desc": "Rối Loạn Tàn Ảnh Cấp 4\n- Tốc Độ Thấp Nhất & Cao Nhất của đơn vị này -2\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau:\n  · Gắn 1 Độc\n  · Gắn 2 Chảy Máu\n  · Gắn 1 Trói Chân vào lượt tiếp theo\n  · Gắn 2 Thiêu Đốt",
+      "summary": "Rối Loạn Tàn Ảnh Cấp 4",
       "undefined": "-"
     },
     {
       "id": "TimeEntangleThree",
-      "name": "Threefold Afterimage Entanglement",
-      "desc": "Stage 3 Afterimage Entanglement\n- On Hit, activate the following effects:\n  · Inflict 2 Bleed\n  · Inflict 1 Bind next turn\n  · Inflict 2 Burn",
-      "summary": "Stage 3 Afterimage Entanglement",
+      "name": "Tam Trùng Rối Loạn Tàn Ảnh",
+      "desc": "Rối Loạn Tàn Ảnh Cấp 3\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau:\n  · Gắn 2 Chảy Máu\n  · Gắn 1 Trói Chân vào lượt tiếp theo\n Gắn 2 Thiêu Đốt",
+      "summary": "Rối Loạn Tàn Ảnh Cấp 3",
       "undefined": "-"
     },
     {
       "id": "TimeEntangleTwo",
       "name": "Twofold Afterimage Entanglement",
-      "desc": "Stage 2 Afterimage Entanglement\n- On Hit, activate the following effects:\n  · Inflict 1 Bind next turn\n  · Inflict 2 Burn",
-      "summary": "Stage 2 Afterimage Entanglement",
+      "desc": "Rối Loạn Tàn Ảnh Cấp 3\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau:\n  · Gắn 1 Trói Chân vào lượt tiếp theo\n Gắn 2 Thiêu Đốt",
+      "summary": "Rối Loạn Tàn Ảnh Cấp 2",
       "undefined": "-"
     },
     {
       "id": "TimeEntangleOne",
       "name": "Onefold Afterimage Entanglement",
-      "desc": "Stage 1 Afterimage Entanglement\n- On Hit, activate the following effects:\n  · Inflict 2 Burn",
-      "summary": "Stage 1 Afterimage Entanglement",
+      "desc": "Rối Loạn Tàn Ảnh Cấp 3\n- Khi Đánh Trúng, kích hoạt các hiệu ứng sau:\n Gắn 2 Thiêu Đốt",
+      "summary": "Rối Loạn Tàn Ảnh Cấp 1",
       "undefined": "-"
     },
     {
       "id": "LittleFingerBoss_Shin",
-      "name": "Shin (心) - Dihui Star",
-      "desc": "- Max Stack: 3\n- Turn Start: Apply the following effects\n· Gain 5 Poise Potency and +1 Poise Count for every Stack\n· Gain 1 Slash DMG Up for every 15% missing HP on self (max 5)",
+      "name": "Tâm (心) - Địa Tuệ Tinh",
+      "desc": "- Cộng Dồn Tối Đa: 3\n- Bắt Đầu Lượt: Kích hoạt các hiệu ứng sau:\n· Nhận 5 Số Sắc Bén và +1 Tầng Sắc Bén với mỗi Cộng Dồn\n· Nhận 1 Cường Hóa ST Chém với mỗi 15% HP đã mất trên bản thân (tối đa 5)",
       "summary": " ",
       "undefined": "-"
     },
