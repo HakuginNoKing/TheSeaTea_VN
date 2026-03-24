@@ -161,7 +161,7 @@
     {
       "id": 32,
       "place": "Hẻm Mua Sắm trên Tàu Cảng Cá Cờ của Tập Đoàn U, Quá Khứ",
-      "teller": "Mall Shopkeeper",
+      "teller": "Chủ Tiệm Tạp Hóa",
       "title": "???",
       "content": "Tôi… tôi thật sự xin lỗi, thưa ngài. Thưa ngài, làm ơn… tôi xin lỗi. Làm ơn, xin hãy tha—aaaagh!"
     },
@@ -260,7 +260,7 @@
     {
       "id": 51,
       "model": "돈키호테",
-      "content": ".Kể từ giờ phút này… các vị này đây sẽ phô diễn cho ngươi thấy, thế nào mới thực sự là \"ngầu bá cháy\""
+      "content": "Kể từ giờ phút này… các vị này đây sẽ phô diễn cho ngươi thấy, thế nào mới thực sự là \"ngầu bá cháy\"."
     }
   ]
 }
