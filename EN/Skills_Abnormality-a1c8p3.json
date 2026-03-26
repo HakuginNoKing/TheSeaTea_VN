@@ -241,8 +241,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]",
-          "desc": "Prioritizes targets with [Prey]\nCan Clash with this Skill regardless of Speed; this unit does not become Staggered before it uses this Skill\n[WhenUse] Consume all [BattleSense] Stack on self. If this unit consumed...\n- ... 10+ Stack , gain Atk Weight +1 for every 10 Stack consumed (max 4)\n- ... 25 Stack, Final Power +1 for every 4 ([Combustion] + [Vibration]) on the main target (max 6)\n- ... 50 Stack, Coin Power +1 and deal +50% damage\n[DefeatDuel] Gain 2 [ResultReduction]\n[DefeatDuel] Gain 6 [Paralysis]\n[DefeatDuel] Deal -80% damage; this Skill's damage cannot Stagger the target; inflict only half the Potency and Count for both [Combustion] and [Vibration] inflicted by this Skill (unless raised by other effects)\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)\n[EndSkill] Ends this turn",
+          "name": "Siêu Tuyệt Mãnh Hổ Sát Kích Loạn Trảm [超絕猛虎殺擊亂斬]",
+          "desc": "Ưu tiên mục tiêu với [Prey]\nCó thể Đọ Sức với Kĩ Năng này bất kể Tốc Độ; đơn vị này sẽ không bị Choáng trước khi sử dụng Kĩ Năng này\n[WhenUse] Tiêu thụ toàn bộ Tầng [BattleSense] trên bản thân. Nếu đơn vị này tiêu thụ...\n-... 10+ Tầng, nhận +1 Phạm Vi Đòn Đánh với mỗi 10 Tầng tiêu thụ (tối đa 4)\n- -... 25 Tầng, Uy Lực Sau Cùng +1 với mỗi 4 (số [Combustion] + số [Vibration]) trên mục tiêu chính (tối đa 6)\n- -... 50 Tầng, Uy Lực Xu +1 và tăng 50% sát thương gây ra\n[DefeatDuel] Nhận 2 [ResultReduction]\n[DefeatDuel] Nhận 6 [Paralysis]\n[DefeatDuel] Giảm 80% sát thương; sát thương của Kĩ Năng này sẽ không thể làm Choáng mục tiêu; gây ra chỉ một nửa lượng Số và Tầng cho cả hai loại [Combustion] và [Vibration] iđược gây ra bởi Kĩ Năng này (trừ khi được gia tăng bởi những hiệu ứng khác)\n[EndSkill] [FullReload] (một lân mỗi lượt)\n- Nếu đơn vị này có [BulletPropellantSpecial], thay vào đó  [ReloadKeepAmmo] (một lần mỗi lượt)\n[EndSkill] Kết thúc lượt này",
           "coinlist": [
             {
               "coindescs": [
@@ -250,10 +250,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "Tiêu 1 [BulletPropellant]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 6 [Combustion]"
                 }
               ]
             },
@@ -263,10 +263,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "Tiêu 1 [BulletPropellant]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +6 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn +6 Tầng [Combustion]"
                 }
               ]
             },
@@ -276,10 +276,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "Tiêu 1 [BulletPropellant]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 6 [Vibration]"
                 }
               ]
             },
@@ -289,10 +289,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "Tiêu 1 [BulletPropellant]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +6 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +6 Tầng [Vibration]"
                 }
               ]
             },
@@ -302,10 +302,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "Tiêu 1 [BulletPropellant]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Chuyển hóa [Switch_Vibration] thành [VibrationIgnition]"
                 }
               ]
             },
@@ -315,10 +315,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "Tiêu 1 [BulletPropellant]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 5 times; then, reduce target's [Vibration] Count by 5"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [VibrationExplosion] 55 lần; sau đó giảm 5 Tầng [Vibration] trên mục tiêu"
                 }
               ]
             }
@@ -331,26 +331,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Reloading Tiantui Star's Blade",
-          "desc": "[DuelCounter]\n[DefeatDuel] Lose 1 [BulletPropellant]\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)",
+          "name": "Nạp Thiên Thoái Tinh Đao",
+          "desc": "[DuelCounter]\n[DefeatDuel] Mất 1 [BulletPropellant]\n[EndSkill] [FullReload] (một lần mỗi lượt)\n- Nếu đơn vị này có [BulletPropellantSpecial], thay vào đó [ReloadKeepAmmo] (một lần mỗi lượt)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
+                  "desc": "Tiêu 1 [BulletPropellant]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Gắn +3 Tầng [Combustion]"
                 }
               ]
             }
