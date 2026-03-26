@@ -318,7 +318,7 @@
                   "desc": "Tiêu 1 [BulletPropellant]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [VibrationExplosion] 55 lần; sau đó giảm 5 Tầng [Vibration] trên mục tiêu"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kích hoạt [VibrationExplosion] 5 lần; sau đó giảm 5 Tầng [Vibration] trên mục tiêu"
                 }
               ]
             }
