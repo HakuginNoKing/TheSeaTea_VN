@@ -71,6 +71,14 @@
     {
       "id": 18,
       "content": "Sinking, Poise"
+    },
+    {
+      "id": 19,
+      "content": "Rupture"
+    },
+    {
+      "id": 20,
+      "content": "Charge, Rupture"
     }
   ]
 }
