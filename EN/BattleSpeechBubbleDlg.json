@@ -961,7 +961,7 @@
       "dlg": "Your neck, at least... will be cut easily."
     },
 	
-    {
+	{
       "id": "6SV-016_1",
       "desc": "############ Bloodfiend Sasha ############",
       "dlg": "Curses!"
@@ -1094,6 +1094,17 @@
       "id": "9SV-BAT8-BR4-1-04",
       "desc": "",
       "dlg": "Cút!"
+    },
+	
+	{
+      "id": "9SV-BAT14-03-2",
+      "desc": "##################### Shiomi Yoru S3 Voiceline Bubble Fix ###################",
+      "dlg": "Mang of Resentment (怨望), Mang of Futility (非望), Mang of Dismay (落望)."
+    },
+	{
+      "id": "9SV-BAT14-03-3",
+      "desc": "",
+      "dlg": "What is left to rage on... is only my wretched heart."
     },
 	
 	{
@@ -5066,12 +5077,12 @@
       "dlg": "... You shall slumber in burial."
     },
 	{
-      "id": "battle_kill_10710_1-01",
+      "id": "battle_kill_10710_2",
       "desc": "",
       "dlg": "... You shall scream."
     },
 	{
-      "id": "battle_kill_10710_1-02",
+      "id": "battle_kill_10710_3",
       "desc": "",
       "dlg": "... You shall be torn apart."
     },
@@ -6263,7 +6274,7 @@
 	{
       "id": "battle_s3_11211_1_3-02",
       "desc": "",
-      "dlg": "<i>AAAAAAAAAAAAAAAAAAAAH!!!</i>"
+      "dlg": "<i>HYAAAAAAAAAAAAAAAAAAH!!!</i>"
     },
 	{
       "id": "battle_s3_11211_1_3-05",
@@ -6273,7 +6284,7 @@
 	{
       "id": "battle_s3_11211_1_3",
       "desc": "",
-      "dlg": "<i>HAAAAAAAAAAAAAAAAAAAAH!!!</i>"
+      "dlg": "<i>RAAAAAAAAAAAAGGGGHHHH!!!</i>"
     },
 	{
       "id": "battle_s3_11211_1_3-03",
@@ -6283,7 +6294,7 @@
 	{
       "id": "battle_s3_11211_1_3-01",
       "desc": "",
-      "dlg": "<i>YAAAAAAAAAAAAAAAAAAAAH!!!</i>"
+      "dlg": "<i>YRRAAAAAAAAAAAAAAAGH!!!</i>"
     },
 	{
       "id": "battle_s3_11211_1_3-04",
@@ -7635,22 +7646,22 @@
         "desc": "",
         "dlg": "Ameshikō!"
     },
-	{
+	  {
         "id": "battle_special_10813_4",
         "desc": "",
         "dlg": "Crane, Blossom."
     },
-	{
+	  {
         "id": "battle_special_10813_6",
         "desc": "",
         "dlg": "Moon and Rain..."
     },
-	{
+	  {
         "id": "battle_special_10813_7",
         "desc": "",
         "dlg": "Gōkō!"
     },
-	{
+	  {
         "id": "battle_select_11213_1",
         "desc": "###### NightAwl Capitano Gregor ######",
         "dlg": "Stay sharp and focus on the fight if you don't want to snuff it."
@@ -8054,12 +8065,12 @@
     {
       "id": "battle_special_10214_4",
       "desc": "",
-      "dlg": "As the Prescript orders."
+      "dlg": "As the Prescript demands."
     },
     {
       "id": "battle_special_10214_5",
       "desc": "",
-      "dlg": "It is the Will of the Prescript… I will not have any regrets."
+      "dlg": "It is the Will of the Prescript… I will not hold any regrets."
     },
 	
 	
@@ -8096,7 +8107,7 @@
 	{
       "id": "battle_s3_10314_1_4",
       "desc": "",
-      "dlg": "Thou wert not kind."
+      "dlg": "<i><color=#50acff>*beep*</color></i> Thou wert not kind."
     },
 	{
       "id": "battle_special_10314_1",
@@ -8106,7 +8117,12 @@
 	{
       "id": "battle_special_10314_2",
       "desc": "",
-      "dlg": "Preordained! Absolute."
+      "dlg": "Preordained!"
+    },
+	{
+      "id": "battle_special_10314_2-01",
+      "desc": "",
+      "dlg": "Absolute."
     },
 	{
       "id": "battle_special_10314_3",
