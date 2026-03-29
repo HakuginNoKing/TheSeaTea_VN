@@ -1,237 +1,334 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Fantasy Blood-shooting",
-      "model": "이발사",
-      "teller": "???",
-      "title": "???",
-      "content": "Oh, hey... that reminds me."
-    },
-    {
-      "id": 1,
-      "model": "이발사다침",
-      "teller": "???",
-      "title": "???",
-      "content": "How rude of me to... not say hello to our visitors... Right...?"
-    },
-    {
-      "id": 2,
-      "model": "싱클레어",
-      "content": "Ugh...!"
-    },
-    {
-      "id": 3,
-      "model": "단테",
-      "content": "<The mask...>"
-    },
-    {
-      "id": 4,
-      "model": "돈키호테",
-      "content": "…!"
-    },
-    {
-      "id": 5,
-      "model": "이발사다침",
-      "teller": "???",
-      "title": "???",
-      "content": "I have to be courteous... It's impolite to wear a mask in front of our guests..."
-    },
-    {
-      "id": 6,
-      "model": "료슈",
-      "content": "……."
-    },
-    {
-      "id": 7,
-      "model": "단테",
-      "content": "<…!>"
-    },
-    {
-      "id": 8,
-      "content": "The face hidden behind the mask... was bloody and mangled. To the point where it felt wrong to look at her in that state."
-    },
-    {
-      "id": 9,
-      "model": "이발사다침",
-      "teller": "???",
-      "title": "???",
-      "content": "Wh... no, don't look! Don't look at me like that!"
-    },
-    {
-      "id": 10,
-      "model": "이발사다침",
-      "teller": "???",
-      "title": "???",
-      "content": "If you're going to kill me, at least kill me with my mask on, please? I know you will. I know you will! What's a little favor between you and me?"
-    },
-    {
-      "id": 11,
-      "content": "The Bloodfiend's unmasked eyes glowered intensely at Don Quixote as she pleaded."
-    },
-    {
-      "id": 12,
-      "content": "As Don Quixote stood there, stunned by the sheer intensity of the screeching Bloodfiend, a slow voice began to echo from the void."
-    },
-    {
-      "id": 13,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "The Barber used to enjoy wearing cuter, prettier masks. Something with more charm, more elaborate design."
-    },
-    {
-      "id": 14,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "She thought these terrifying, rough masks only served to scare people."
-    },
-    {
-      "id": 15,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "Perhaps she believed that it was only fair that she wore a prettier mask, now that her face was shrouded."
-    },
-    {
-      "id": 16,
-      "model": "단테",
-      "content": "<…!>"
-    },
-    {
-      "id": 17,
-      "model": "오티스",
-      "content": "... That individual is wearing a mask as well, Executive Manager. We must stay alert."
-    },
-    {
-      "id": 18,
-      "model": "싱클레어",
-      "content": "But... isn't there just one overseer Bloodfiend for every Area...?"
-    },
-    {
-      "id": 19,
-      "model": "싱클레어",
-      "content": "Maybe he's from a different Area? But why would he..."
-    },
-    {
-      "id": 20,
-      "model": "오티스",
-      "content": "Tsk, we should've gotten more intel out of the traitor before he betrayed us..."
-    },
-    {
-      "id": 21,
-      "model": "히스클리프",
-      "content": "Shite... a little much, innit? Two bigwig Bloodfiends right by the entrance, seriously?"
-    },
-    {
-      "id": 22,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "Mhm, certainly. It appears to me that you are all rather spent from the struggle against the Barber here."
-    },
-    {
-      "id": 23,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "Then allow me to make a proposition."
-    },
-    {
-      "id": 24,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "You have gone there and back again on all kinds of adventures, yet I am but a mere guide and a greeter here at La Manchaland, a place of blossoming smiles and dreams."
-    },
-    {
-      "id": 25,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "So I will gladly open the path for you..."
-    },
-    {
-      "id": 26,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "... should you promise to tell me all about your wonderful adventures. So that you may find the prize you seek."
-    },
-    {
-      "id": 27,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "So that you may not lose your way this time."
-    },
-    {
-      "id": 28,
-      "model": "단테",
-      "content": "<What...?>"
-    },
-    {
-      "id": 29,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "However, if that is not what you seek, well... why else would you be slaughtering scores of Bloodfiends here now?"
-    },
-    {
-      "id": 30,
-      "content": "The masked Bloodfiend in blue, who suddenly appeared here..."
-    },
-    {
-      "id": 31,
-      "model": "돈키호테",
-      "content": "……."
-    },
-    {
-      "id": 32,
-      "content": "... was clearly speaking to Don Quixote, and only Don Quixote."
-    },
-    {
-      "id": 33,
-      "model": "돈키호테",
-      "content": "Forsooth, many a great adventure have I undertaken—so many that to recount them all would parch my throat before the tale's end."
-    },
-    {
-      "id": 34,
-      "model": "돈키호테",
-      "content": "... Yet thy trickery shan't fool me! While the treasure is of great worth, my true purpose here is to vanquish wicked Bloodfiends such as thee!"
-    },
-    {
-      "id": 35,
-      "model": "돈키호테",
-      "content": "I, Don Quixote! Shan't compromise with villains!"
-    },
-    {
-      "id": 36,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "Ha ha... I had a feeling you would say that. But that won't do."
-    },
-    {
-      "id": 37,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "You have to share it with everyone, the most wondrous adventures of yours."
-    },
-    {
-      "id": 38,
-      "model": "돈키호테",
-      "content": "Wha—"
-    },
-    {
-      "id": 39,
-      "content": "The masked Bloodfiend raises his staff, and Don Quixote's mouth shuts. As though a supernatural power was forcing its will on her movements."
-    },
-    {
-      "id": 40,
-      "content": "In that bizarre silence, her eyes shimmer quietly."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Trường Bắn Máu Huyễn Tưởng",
+                "model":"이발사",
+                "teller":"???",
+                "title":"???",
+                "content":"Ôi chết suýt quên..."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"이발사다침",
+                "teller":"???",
+                "title":"???",
+                "content":"Khách tham quan đến du lịch... mà ta lại không chào hỏi cho tử tế... Ai mà coi được...?"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Ặc...!"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Mặt nạ...>"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"...!"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"이발사다침",
+                "teller":"???",
+                "title":"???",
+                "content":"Phải lễ phép với khách tham quan... Trước mặt khách mà đeo mặt nạ là vô lễ đó..."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null,
+                "content":"……."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<...!>"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Gương mặt ẩn sau lớp mặt nạ đó... dính đầy máu và hư hại nặng. Đến cái mức thật sai trái để nhìn cô ta trong tình cảnh đó nữa."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"이발사다침",
+                "teller":"???",
+                "title":"???",
+                "content":"Á, đừng, đừng có nhìn! Đã bảo đừng có nhìn ta kiểu đó rồi cơ mà!"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"이발사다침",
+                "teller":"???",
+                "title":"???",
+                "content":"Nếu muốn giết quách ta đi thì hãy để nguyên mặt nạ cho ta rồi hẵng giết nha nha? Việc nhỏ dễ làm mà ha, xin cô nể tình ta đi mà!"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Cặp mắt của Huyết Quỷ giờ đã tháo chiếc mặt nạ sáng lên dữ dội khi nhìn Don Quixote trong lúc khẩn cầu van nài."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Còn Quixote đứng lặng đó, choáng ngợp trước tiếng thét thất thanh kinh hoàng của Huyết Quỷ ấy, thì bỗng một giọng nói chầm chập vang vọng từ hư vô."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"산손",
+                "teller":"???",
+                "title":"???",
+                "content":"Thợ Làm Tóc vốn đã quen với niềm vui sướng khi được diện những bộ cánh dễ thương hơn, những chiếc mặt nạ xinh đẹp hơn. Những thứ được thiết kế một cách cầu kỳ và cuốn hút."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"산손",
+                "teller":"???",
+                "title":"???",
+                "content":"Cô ấy nghĩ rằng những chiếc mặt nạ kinh tởm, thô ráp này chỉ khiến mọi người trở nên hoảng sợ."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"산손",
+                "teller":"???",
+                "title":"???",
+                "content":"Có lẽ cô ấy tin rằng nếu đã mất công che đi gương mặt của mình, thì ít nhất cũng phải chọn những chiếc mặt nạ đẹp đẽ hơn để mà đeo."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<...!>"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"... Tên kia cũng đang đeo một chiếc mặt nạ, thưa ngài Quản Lý Điều Hành. Chúng ta không được phép lơ là cảnh giác."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Nhưng... tôi tưởng chỉ mỗi Khu Vực chỉ có một huyết quỷ giám sát thôi chứ...?"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Hay là tên đó phụ trách một Khu Vực khác? Nhưng tại sao lại..."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Chậc, đáng ra ta nên móc thêm thông tin từ tên kia trước khi hắn phản bội..."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Đụ... hơi lố rồi đấy? Nã hẳn hai con Huyết Quỷ đáng gờm ngay lối vào thật luôn à?"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"산손",
+                "teller":"???",
+                "title":"???",
+                "content":"Ừm hửm, đúng là vậy nhỉ. Tôi có thể thấy mọi người đều đã mệt nhoài sau khi phải đối phó với Thợ Cắt Tóc."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"산손",
+                "teller":"???",
+                "title":"???",
+                "content":"Vậy cho phép tôi đưa ra một lời đề nghị nhé."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"산손",
+                "teller":"???",
+                "title":"???",
+                "content":"Ngoài kia quý vị đã trải vô số cuộc hành trình, nhưng tôi đây lại chỉ là một người hướng dẫn và tiếp đón tầm thường tại La Manchaland này, một nơi chất chứa những tiếng cười và cả những giấc mơ."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"산손",
+                "teller":"???",
+                "title":"???",
+                "content":"Vậy nên tôi sẽ rất vui lòng mà mở lối cho quý vị..."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"산손",
+                "teller":"???",
+                "title":"???",
+                "content":"...Nếu quý vị hứa với tôi rằng sẽ kể lại tường tận những cuộc phiêu lưu diệu kỳ của mình. Như thế quý vị sẽ tìm được phần thưởng mà mình mong muốn."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"산손",
+                "teller":"???",
+                "title":"???",
+                "content":"Chỉ như thế, quý vị sẽ không bị lầm đường lạc lối thêm lần nữa."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Cái gì cơ...?>"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"산손",
+                "teller":"???",
+                "title":"???",
+                "content":"Tuy nhiên, nếu đó không phải là thứ quý vị tìm kiếm, thì cớ gì lại tàn sát nhiều Huyết Quỷ đến thế này?"
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tên Huyết Quỷ đeo mặt nạ vận đồ xanh, kẻ bỗng dưng xuất hiện tại đây..."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"……."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"... rõ ràng đang nói với Don Quixote, và chỉ một mình Don Quixote mà thôi."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Thực vậy, ta đã có vô vàn những cuộc phiêu lưu kì thú— nếu có kể thì cổ họng ta sẽ khô cháy trước khi xong mất."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"... Nhưng cái trò tiểu nhân của ngươi đừng hòng gạt được ta! Kho báu có giá trị đấy, nhưng mục tiêu quan trọng nhất của ta chính là tiêu diệt bè lũ Huyết Quỷ ác độc như ngươi!"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Don Quixote ta đây sẽ không thương lượng với ác quỷ!"
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"산손",
+                "teller":"???",
+                "title":"???",
+                "content":"Ha ha... Tôi biết là quý vị sẽ nói như thế mà. Nhưng như thế là không được đâu."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"산손",
+                "teller":"???",
+                "title":"???",
+                "content":"Quý vị phải chia sẻ nó với tất cả mọi người chứ, những chuyến phiêu lưu tuyệt vời nhất của mình ấy."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Cá—"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Tên Huyết Quỷ đeo mặt nạ giơ cao chiếc gậy và khuôn miệng của Don Quixote dính chặt lại. Như thể thứ sức mạnh siêu nhiên nào đó đang kìm chặt chuyển động của cô ấy vậy."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Trong sự tĩnh lặng đáng sợ đó, đôi mắt của cô ấy phai nhoà đi."
+            }
+        ]
     }
-  ]
-}
+

@@ -1,90 +1,96 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "model": "힌들리늑대",
-            "content": "I know this for certain..."
-        },
-        {
-            "id": 1,
-            "model": "힌들리늑대",
-            "content": "That Catherine died... because you dared to set foot in our manor, interloper."
-        },
-        {
-            "id": 2,
-            "model": "힌들리늑대",
-            "content": "You... you are but a wretched devil..."
-        },
-        {
-            "id": 3,
-            "model": "힌들리늑대",
-            "content": "... that never should have come to our home..."
-        },
-        {
-            "id": 4,
-            "model": "어린히스클리프",
-            "content": "Well..."
-        },
-        {
-            "id": 5,
-            "model": "어린히스클리프",
-            "content": "Your father likes me more than he likes you."
-        },
-        {
-            "id": 6,
-            "model": "어린힌들리",
-            "content": "...!"
-        },
-        {
-            "id": 7,
-            "model": "어린히스클리프",
-            "content": "You might be the one warming yourself by the fireplace now, but..."
-        },
-        {
-            "id": 8,
-            "model": "어린히스클리프",
-            "content": "I'm the one your father truly cares about. Me, a poor child from the filthy Backstreets."
-        },
-        {
-            "id": 9,
-            "content": "Oh... poor Heathcliff. He should never have said such a thing."
-        },
-        {
-            "id": 10,
-            "model": "어린힌들리",
-            "content": "You... you fucking mutt...!"
-        },
-        {
-            "id": 11,
-            "model": "어린히스클리프",
-            "content": "Come on, hit me if you wanna. I can take it."
-        },
-        {
-            "id": 12,
-            "model": "어린히스클리프",
-            "content": "What do you think your father will have to say when he sees the wounds you've inflicted on me?"
-        },
-        {
-            "id": 13,
-            "content": "His words would turn into thorny roots and bury themselves in my brother's heart as long as he lived. No matter how many times he thrashed Heathcliff to exhaustion, no matter how much time passed after our father's death, they remained."
-        },
-        {
-            "id": 14,
-            "content": "Yes. That is when Hindley began to believe..."
-        },
-        {
-            "id": 15,
-            "content": "... that Heathcliff was here to take everything he ever had."
-        },
-        {
-            "id": 16,
-            "model": "어린힌들리",
-            "content": "Give it back..."
-        },
-        {
-            "id": 17,
-            "model": "어린힌들리",
-            "content": "Give it back...! My home! My violin! My future! Aaaahhhhhh!"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "model":"힌들리늑대",
+                "content":"Tao biết chắc điều này..."
+            },
+            {
+                "id":1,
+                "model":"힌들리늑대",
+                "content":"Rằng Catherine chết... vì mày dám bén mảng tới dinh thự của tao, tên xâm phạm."
+            },
+            {
+                "id":2,
+                "model":"힌들리늑대",
+                "content":"Mày... mày chỉ là một con quỷ bần cùng..."
+            },
+            {
+                "id":3,
+                "model":"힌들리늑대",
+                "content":"...thứ lẽ ra không được phép đặt một chân vào nhà tao..."
+            },
+            {
+                "id":4,
+                "model":"어린히스클리프",
+                "content":"Vậy à..."
+            },
+            {
+                "id":5,
+                "model":"어린히스클리프",
+                "content":"Ông già mày thương tao hơn cả thương mày."
+            },
+            {
+                "id":6,
+                "model":"어린힌들리",
+                "content":"...!"
+            },
+            {
+                "id":7,
+                "model":"어린히스클리프",
+                "content":"Ừ thì mày là thằng được ngồi ấm trước lò sưởi, nhưng..."
+            },
+            {
+                "id":8,
+                "model":"어린히스클리프",
+                "content":"Tao mới là đứa con được ông già mày thật sự quan tâm này. Tao, một thằng bé rách rưới từ cái Phố Sau bẩn thỉu như mày nói đấy."
+            },
+            {
+                "id":9,
+                "model":null,
+                "content":"Ôi... Heathcliff đáng thương. Lẽ ra anh không nên thốt ra những lời như thế."
+            },
+            {
+                "id":10,
+                "model":"어린힌들리",
+                "content":"Mày... thằng chó chết...!"
+            },
+            {
+                "id":11,
+                "model":"어린히스클리프",
+                "content":"Lại đây, lại mà đánh tao này. Đòn của mày nhằm nhò gì đối với tao."
+            },
+            {
+                "id":12,
+                "model":"어린히스클리프",
+                "content":"Mày nghĩ rằng ông già mày sẽ nói gì khi ổng thấy mấy vết thương tích mày gây lên người tao?"
+            },
+            {
+                "id":13,
+                "model":null,
+                "content":"Những lời Heathcliff thốt ra chẳng khác nào rễ gai sắc nhọn cứ thế bám rịt lấy tâm can anh trai tôi. Dẫu cho anh ấy có dồn bao nhiêu sức lực đánh đập Heathcliff, dẫu bao năm trôi qua kể từ ngày cha chúng tôi khuất núi, những lời ấy vẫn cứ trơ trơ ở đấy."
+            },
+            {
+                "id":14,
+                "model":null,
+                "content":"Đúng thế. Kể từ đó anh Hindley đã bắt đầu tin rằng..."
+            },
+            {
+                "id":15,
+                "model":null,
+                "content":"...Heathcliff tồn tại để tước đi mọi thứ anh ấy từng có."
+            },
+            {
+                "id":16,
+                "model":"어린힌들리",
+                "content":"Trả lại đây..."
+            },
+            {
+                "id":17,
+                "model":"어린힌들리",
+                "content":"Trả lại đây...! Nhà của tao! Vĩ cầm của tao! Tương lai của tao! Aaaaaaaaaaa!"
+            }
+        ]
+    }
+

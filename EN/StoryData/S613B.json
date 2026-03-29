@@ -1,336 +1,408 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Corridors",
-            "model": "로쟈",
-            "content": "What just happened? Everything went dark for a sec..."
-        },
-        {
-            "id": 1,
-            "model": "싱클레어",
-            "content": "I think the lightning caused a brief power outage... the power's back now, though."
-        },
-        {
-            "id": 2,
-            "model": "이스마엘",
-            "content": "What we just saw were..."
-        },
-        {
-            "id": 3,
-            "model": "이스마엘",
-            "content": "... Catherine's memories, right?"
-        },
-        {
-            "id": 4,
-            "model": "히스클리프",
-            "content": "... I think so."
-        },
-        {
-            "id": 5,
-            "model": "파우스트",
-            "content": "As it has been in the past, such occurrences can be attributed to the influence of the Golden Bough."
-        },
-        {
-            "id": 6,
-            "model": "이스마엘",
-            "content": "Hold on. This is..."
-        },
-        {
-            "id": 7,
-            "model": "이스마엘",
-            "content": "... This is the corridor we walked through earlier, isn't it? This isn't where we were before the power outage."
-        },
-        {
-            "id": 8,
-            "model": "단테",
-            "content": "<I don't see Hindley or Linton anywhere, either.>"
-        },
-        {
-            "id": 9,
-            "model": "넬리",
-            "content": "Oh my word... what just happened...?"
-        },
-        {
-            "id": 10,
-            "model": "로쟈",
-            "content": "But... we didn't, like, take a step or anything, did we?"
-        },
-        {
-            "id": 11,
-            "model": "이상",
-            "content": "Mm. I do not believe that any of our fellows have moved."
-        },
-        {
-            "id": 12,
-            "model": "홍루",
-            "content": "If we were all standing still, then I suppose this means that it's the house that moved!"
-        },
-        {
-            "id": 13,
-            "model": "그레고르",
-            "content": "What the... Know anything about this, Nelly?"
-        },
-        {
-            "id": 14,
-            "model": "넬리",
-            "content": "I-I haven't the slightest idea."
-        },
-        {
-            "id": 15,
-            "model": "넬리",
-            "content": "I have been away from this manor for many years myself. I seldom had any reason to return ever since Miss Catherine married Master Linton and left this place to live with him."
-        },
-        {
-            "id": 16,
-            "model": "오티스",
-            "content": "Catherine, the deceased... didn't someone mention that she purchased this manor, Wuthering Heights?"
-        },
-        {
-            "id": 17,
-            "model": "넬리",
-            "content": "Yes, indeed. But she did not immediately move here after the purchase."
-        },
-        {
-            "id": 18,
-            "model": "넬리",
-            "content": "Oh! Now that you mention it... I see that some changes have been made to this manor since I was gone."
-        },
-        {
-            "id": 19,
-            "content": "Nelly was probably referring to the numerous exposed cables, holes, and cracks that seemed to have been painted over."
-        },
-        {
-            "id": 20,
-            "model": "넬리",
-            "content": "Had I been the Chief Butler of this manor... I would not have let such slovenliness slide."
-        },
-        {
-            "id": 21,
-            "model": "넬리",
-            "content": "But..."
-        },
-        {
-            "id": 22,
-            "model": "홍루",
-            "content": "Maybe she was trying to make modifications to the manor?"
-        },
-        {
-            "id": 23,
-            "model": "로쟈",
-            "content": "Is it normal for rich folks to just buy a whole manor and modify it to their liking?"
-        },
-        {
-            "id": 24,
-            "model": "홍루",
-            "content": "Mm... I'd say it's kinda like changing your hairstyle once in a while!"
-        },
-        {
-            "id": 25,
-            "model": "홍루",
-            "content": "Maintaining the exact same style of hair for too long gets pretty boring, you know~"
-        },
-        {
-            "id": 26,
-            "model": "로쟈",
-            "content": "Uh-huh. So that's how, uh, casual a full-on house remodeling is like for rich folks. I see."
-        },
-        {
-            "id": 27,
-            "model": "넬리",
-            "content": "Heathcliff..."
-        },
-        {
-            "id": 28,
-            "model": "히스클리프",
-            "content": "……."
-        },
-        {
-            "id": 29,
-            "model": "넬리",
-            "content": "I hardly know what to tell you. I do not know what words could possibly comfort you now."
-        },
-        {
-            "id": 30,
-            "model": "넬리",
-            "content": "But what you said about Miss Catherine's death... and how you didn't believe that she was truly dead..."
-        },
-        {
-            "id": 31,
-            "model": "히스클리프",
-            "content": "... What."
-        },
-        {
-            "id": 32,
-            "model": "넬리",
-            "content": "... I gave that idea some thought."
-        },
-        {
-            "id": 33,
-            "model": "넬리",
-            "content": "And I agree. To an extent."
-        },
-        {
-            "id": 34,
-            "model": "히스클리프",
-            "content": "... What?"
-        },
-        {
-            "id": 35,
-            "content": "Heathcliff's pupils suddenly dilated."
-        },
-        {
-            "id": 36,
-            "model": "넬리",
-            "content": "Even I... haven't seen Miss Catherine's body."
-        },
-        {
-            "id": 37,
-            "model": "넬리",
-            "content": "I was so beside myself when Master Linton told me of Miss Catherine's passing... that I did not even care to verify it with my own eyes."
-        },
-        {
-            "id": 38,
-            "model": "히스클리프",
-            "content": "So what you're trying to say here is..."
-        },
-        {
-            "id": 39,
-            "model": "히스클리프",
-            "content": "Uh... is it really what I think it is? You're saying that Cathy might... still be alive?"
-        },
-        {
-            "id": 40,
-            "model": "넬리",
-            "content": "Nothing but a suspicion at this point. ... Besides, you know how Miss Catherine can be."
-        },
-        {
-            "id": 41,
-            "model": "넬리",
-            "content": "Stubborn as a mule, sometimes doing things so unexpected that they're almost frightening..."
-        },
-        {
-            "id": 42,
-            "model": "넬리",
-            "content": "Honestly, I even wondered if this whole funeral business was but an awful, elaborate jest from the Miss."
-        },
-        {
-            "id": 43,
-            "model": "히스클리프",
-            "content": "……."
-        },
-        {
-            "id": 44,
-            "model": "넬리",
-            "content": "What's certain is, however, that the will was undeniably in her own handwriting."
-        },
-        {
-            "id": 45,
-            "model": "넬리",
-            "content": "And Master Linton, he... never once stopped making modifications to the manor..."
-        },
-        {
-            "id": 46,
-            "model": "넬리",
-            "content": "... even after Miss Catherine passed."
-        },
-        {
-            "id": 47,
-            "model": "히스클리프",
-            "content": "That bastard Linton made these modifications to the manor?"
-        },
-        {
-            "id": 48,
-            "model": "넬리",
-            "content": "Yes. I haven't gotten a good look at this place, nor did I personally ask him of his motives, but..."
-        },
-        {
-            "id": 49,
-            "model": "넬리",
-            "content": "... it is quite evident that something is to transpire here, isn't it? ... Or that something had already happened."
-        },
-        {
-            "id": 50,
-            "model": "히스클리프",
-            "content": "Bollocks... I don't understand any of this."
-        },
-        {
-            "id": 51,
-            "model": "싱클레어",
-            "content": "What do you think the 'lightning' in her will is talking about?"
-        },
-        {
-            "id": 52,
-            "model": "이스마엘",
-            "content": "Maybe she meant it literally. Seven lightning strikes."
-        },
-        {
-            "id": 53,
-            "model": "오티스",
-            "content": "Are you suggesting that she knew we would arrive precisely under this weather, on the day of her funeral? Unless she moonlighted as a renowned prophet, I don't see that happening."
-        },
-        {
-            "id": 54,
-            "model": "그레고르",
-            "content": "Who knows? I don't even understand what Miss Catherine was trying to do here with that will."
-        },
-        {
-            "id": 55,
-            "model": "로쟈",
-            "content": "Right... We can't... ever know the will of the dead."
-        },
-        {
-            "id": 56,
-            "model": "넬리",
-            "content": "Oh...!"
-        },
-        {
-            "id": 57,
-            "model": "넬리",
-            "content": "Perhaps there is something, a clue, to be found in Miss Catherine's room?"
-        },
-        {
-            "id": 58,
-            "model": "넬리",
-            "content": "She did visit Wuthering Heights from time to time, even after her marriage to Master Linton."
-        },
-        {
-            "id": 59,
-            "model": "넬리",
-            "content": "Don't you remember, Heathcliff? Miss Catherine..."
-        },
-        {
-            "id": 60,
-            "model": "히스클리프",
-            "content": "... Yeah. She always liked riddles."
-        },
-        {
-            "id": 61,
-            "model": "넬리",
-            "content": "Not like you, who preferred a more... direct approach. Which involved smashing everything to pieces."
-        },
-        {
-            "id": 62,
-            "model": "히스클리프",
-            "content": "Got me in plenty of trouble for trying to brute force problems without even trying to think about the intent."
-        },
-        {
-            "id": 63,
-            "content": "A faint smile appeared on Heathcliff's face as he seemed to recall a fond memory..."
-        },
-        {
-            "id": 64,
-            "model": "히스클리프",
-            "content": "... I don't know if I've gotten any better at it since."
-        },
-        {
-            "id": 65,
-            "content": "But the heavy, somber expression soon returned."
-        },
-        {
-            "id": 66,
-            "model": "단테",
-            "content": "<I guess... our next order of things is to find where that room is.>"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Hành Lang Đồi Gió Hú",
+                "model":"로쟈",
+                "content":"Ủa nãy bị gì thế? Đột nhiên đèn tắt tối om..."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Chắc do sét đánh lúc nãy nên nhà mất điện một tí... giờ thì có lại rồi này."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Những hình ảnh vừa rồi..."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... là kí ức của Catherine đúng không?"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Chắc vậy."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"파우스트",
+                "content":"Hiện tượng này xảy ra do sức ảnh hưởng từ Cành Vàng, giống như những lần trước."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Khoan đã. Đây..."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Đây là cái hành lang lúc trước mà? Ban nãy chúng ta đều đang ở trong phòng chứ có phải ngoài hành lang đâu."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"단테",
+                "content":"<Tôi cũng không thấy Hindley hay Linton đâu.>"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"넬리",
+                "content":"Ôi trời ơi... chuyện gì vừa xảy ra vậy...?"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"로쟈",
+                "content":"Nhưng mà... bọn mình có di chuyển tí nào đâu nhở?"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"이상",
+                "content":"Ừm. Chắc chắn là vừa rồi không có ai di chuyển."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"홍루",
+                "content":"Nếu nói như vậy thì thứ đã di chuyển không phải là chúng ta, mà là chính ngôi nhà này?"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"그레고르",
+                "content":"Cái quái gì... Cô có biết vụ này là sao không, Nelly?"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"넬리",
+                "content":"T-ta cũng không hiểu chuyện gì đang diễn ra."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"넬리",
+                "content":"Từ ngày Tiểu Thư Catherine kết hôn với Cậu Chủ Linton, ta phải theo chân cô ấy tới tư dinh nhà Edgar nên cũng hiếm có dịp trở về chốn này nữa."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"오티스",
+                "content":"Vừa nãy có ai bảo rằng Cathrine... người đã khuất, đã mua dinh thự Đồi Gió Hú ấy nhỉ?"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"넬리",
+                "content":"Ừ, đúng là vậy. Nhưng cô ấy cũng không chuyển tới đây ngay sau khi mua lại căn biệt thự này."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"넬리",
+                "content":"Ồ! Giờ nhắc ta mới để ý... Căn dinh thự giờ đây trông khác xa so ngày trước nhiều quá."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":null,
+                "content":"Hẳn là Nelly đang nói tới mấy đường dây cáp lồ lộ trên tường, các lỗ hổng và vết nứt được giấu vội sau vài lớp sơn mỏng."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"넬리",
+                "content":"Với tư cách là Quản Gia Trưởng... ta chắc chắn sẽ không cho qua cái tình trạng lê thê nhếch nhác như này đâu."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"넬리",
+                "content":"Nhưng..."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"홍루",
+                "content":"Có lẽ cô ấy đã cố gắng tu sửa hoặc chỉnh trang căn dinh thự này nhỉ?"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"로쟈",
+                "content":"Bộ đám nhà giàu hay đi mua dinh thự xong rồi tự ý sửa lại xoành xoạch thế hả?"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"홍루",
+                "content":"Ừm... Chắc cũng như việc thường xuyên đi sửa sang kiểu tóc ấy ha!"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"홍루",
+                "content":"Tóc cứ để mãi một kiểu thì cũng nhàm chán lắm~"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ờ-hơ. Thế ra là giới lắm tiền của coi chuyện... trùng tu nguyên toà nhà như vầy là chuyện cơm bữa à. Hiểu rồi nhé."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"넬리",
+                "content":"Heathcliff à..."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"히스클리프",
+                "content":"……."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"넬리",
+                "content":"Khó thay cho ta, vì chẳng lời lẽ nào có thể xoa dịu nỗi lòng con lúc này."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"넬리",
+                "content":"Tuy vậy, khi nghe con phản ứng gay gắt, bảo rằng con không tin là tiểu thư Catherine đã chết..."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Sao."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"넬리",
+                "content":"... lúc ấy trong lòng ta đã có chút dao động."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"넬리",
+                "content":"Phải. Ta cũng hồ nghi như con, phần nào."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Hả?"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "content":"Đồng tử của Heathcliff bỗng dưng giãn to ra."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"넬리",
+                "content":"Đến cả ta... nói thật... vẫn chưa nhìn thấy thi thể của cô Catherine."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"넬리",
+                "content":"Tâm trạng ta đã quá rối bời khi nghe Cậu Chủ Linton báo tin Tiểu Thư Catherine qua đời... giờ nghĩ lại, ta lúc đó cũng đã không để tâm gì tới việc kiểm chứng thực hư."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Thế ý của cô đang nói là..."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Là... như lúc con bảo đó đúng không? Là chuyện... Cathy vẫn còn sống ấy?"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"넬리",
+                "content":"Con nghi ngờ cũng phải... dù sao, con vẫn là người hiểu rõ chính Tiểu Thư Catherine nhất mà."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"넬리",
+                "content":"Bướng bỉnh, cứng đầu, đôi lúc còn làm những việc không tài nào hiểu nổi, đến mức khiến ai nấy xung quanh cũng phải khiếp vía cả lên..."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"넬리",
+                "content":"Thật lòng mà nói, sau khi biết đến vậy thì ta cũng sẽ không lạ gì nếu cả đám tang này là một trò đùa tệ hại từ chính cô ấy đâu."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"히스클리프",
+                "content":"……."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"넬리",
+                "content":"Thế nhưng ta dám chắc rằng, nét chữ trong di thư đích thị là của Tiểu Thư."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"넬리",
+                "content":"Đồng thời thì Cậu Chủ Linton... vẫn tiếp tục ra lệnh tu sửa dinh thự..."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"넬리",
+                "content":"... kể cả khi Tiểu Thư đã qua đời."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Vậy là thằng chó Linton đó đã tu sửa dinh thự à?"
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"넬리",
+                "content":"Đúng như con nói, dù ta đã không trông coi kĩ lưỡng nơi này hay nghĩ tới việc tìm hiểu ý động cơ từ ngài ấy là gì..."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"넬리",
+                "content":"... nhưng rõ ràng là đang có uẩn khúc, con thấy có đúng không? ... Có khi nguồn cơn sự việc xảy ra từ lâu rồi cũng nên."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Chó má... Con chẳng hiểu cái mẹ gì cả."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Không biết \"ngọn sét\" trong bức di thư đó đang ám chỉ cái gì nhỉ?"
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Có khi cô ấy nói thẳng nghĩa đen ấy. Bảy tia sét."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"오티스",
+                "content":"Ý ngươi là ả biết chính xác rằng ta sẽ tới vào đúng cái thời tiết này, và vào đúng ngày tang của ả? Trừ khi ả có nghề tay trái là nhà tiên tri nổi tiếng thì ta không nghĩ việc như thế có thật đâu."
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"그레고르",
+                "content":"Ai mà biết được? Tôi cũng chẳng hiểu Quý Tiểu Thư Catherine tính làm gì với cái di chúc đó mà."
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"로쟈",
+                "content":"Đúng thật... Vì người chết rồi... đâu còn nói gì được."
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"넬리",
+                "content":"Phải rồi...!"
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"넬리",
+                "content":"Hay là thử tìm trong phòng của Tiểu Thư Catherine đi, biết đâu ta sẽ có gì đó như là... manh mối chẳng hạn?"
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"넬리",
+                "content":"Kể cả khi đã kết hôn với Cậu Chủ Linton rồi, cô ấy vẫn thường xuyên lui tới Đồi Gió Hú."
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"넬리",
+                "content":"Con còn nhớ chứ, Heathcliff? Tiểu Thư Catherine..."
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Phải. Em ấy luôn thích những câu đố."
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"넬리",
+                "content":"Không như con, chỉ thích... giải quyết nhanh gọn, bằng việc đập tan tành mọi thứ."
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ẻm dỗi ghê lắm. Bảo là con chẳng chịu để tâm gì tới ý đồ sâu xa gì cả, toàn tay nhanh hơn não thôi."
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":null,
+                "content":"Một nụ cười thoáng hiện lên trên gương mặt của Heathcliff khi anh ấy nhớ lại một kỉ niệm đẹp..."
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Mà có khi tới tận bây giờ con cũng chẳng khá hơn là bao."
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":null,
+                "content":"Nhưng rồi nụ cười ấy cũng sớm nhường chỗ cho gương mặt u ám, não nề."
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"단테",
+                "content":"<Chắc là bây giờ mình cứ đi tìm căn phòng ấy đi đã ha.>"
+            }
+        ]
+    }
+

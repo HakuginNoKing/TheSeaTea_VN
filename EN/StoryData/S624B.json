@@ -1,208 +1,326 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Basement",
-            "model": "이상",
-            "content": "……."
-        },
-        {
-            "id": 1,
-            "model": "료슈",
-            "content": "What an ostentatious production."
-        },
-        {
-            "id": 2,
-            "model": "싱클레어",
-            "content": "... Is everyone seeing this?"
-        },
-        {
-            "id": 3,
-            "model": "싱클레어",
-            "content": "There are people... in those glass tubes. Their eyes are closed... no, some of them are open..."
-        },
-        {
-            "id": 4,
-            "model": "싱클레어",
-            "content": "Are they... dead?"
-        },
-        {
-            "id": 5,
-            "model": "로쟈",
-            "content": "Dead or alive, it doesn't make sense either way. I just don't understand why there's something like this under this manor...?"
-        },
-        {
-            "id": 6,
-            "content": "The room was filled with rows upon rows of mysterious glass pods, each housing a completely still person inside."
-        },
-        {
-            "id": 7,
-            "model": "뫼르소",
-            "content": "... They are all dressed in different garbs. I don't see any recognizable age or gender patterns among them."
-        },
-        {
-            "id": 8,
-            "model": "뫼르소",
-            "content": "Recall that large-scale cases of missing persons have been sweeping T Corp. lately."
-        },
-        {
-            "id": 9,
-            "model": "뫼르소",
-            "content": "Then..."
-        },
-        {
-            "id": 10,
-            "model": "넬리",
-            "content": "T-there! Is that the Golden Bough you were searching for...?"
-        },
-        {
-            "id": 11,
-            "content": "At the end of the basement was a woman lying inside a coffin..."
-        },
-        {
-            "id": 12,
-            "model": "히스클리프",
-            "content": "CATHY!!!"
-        },
-        {
-            "id": 13,
-            "content": "... and Heathcliff was the only one who immediately recognized her face. She appeared to be at peace, as though in a pleasant dream."
-        },
-        {
-            "id": 14,
-            "model": "오티스",
-            "content": "... Look. There are machines attached to her coffin."
-        },
-        {
-            "id": 15,
-            "model": "뫼르소",
-            "content": "Mm. I see two levers, both pointed downward."
-        },
-        {
-            "id": 16,
-            "content": "Attached to the coffin was a Golden Bough, shimmering with the golden light we'd grown familiar with."
-        },
-        {
-            "id": 17,
-            "model": "히스클리프",
-            "content": "Cathy... Cathy, wait for me!"
-        },
-        {
-            "id": 18,
-            "content": "The room, the glass pods, the chaos... none of it seemed to register for Heathcliff. He began sprinting toward the coffin like a madman."
-        },
-        {
-            "id": 19,
-            "model": "단테",
-            "content": "<... Don Quixote?>"
-        },
-        {
-            "id": 20,
-            "content": "Don Quixote, who I was ready to see sprinting alongside Heathcliff, was standing still, aghast."
-        },
-        {
-            "id": 21,
-            "model": "돈키호테",
-            "content": "There... there ought to have been a misunderstanding..."
-        },
-        {
-            "id": 22,
-            "model": "단테",
-            "content": "<A misunderstanding?>"
-        },
-        {
-            "id": 23,
-            "model": "이스마엘",
-            "content": "What misunderstanding? Those people in the pods are clearly the same people who were kidnapped at T Corp."
-        },
-        {
-            "id": 24,
-            "model": "돈키호테",
-            "content": "Lo, at those who stand flanking the machines..."
-        },
-        {
-            "id": 25,
-            "model": "돈키호테",
-            "content": "We have seen them afore at the manor, have we not?"
-        },
-        {
-            "id": 26,
-            "model": "돈키호테",
-            "content": "... Fixers of the Öufi Association."
-        },
-        {
-            "id": 27,
-            "model": "돈키호테",
-            "content": "H-honorable sirs and ladies."
-        },
-        {
-            "id": 28,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi",
-            "content": "……."
-        },
-        {
-            "id": 29,
-            "model": "돈키호테",
-            "content": "Oft was I told that I am rather ignorant with the goings of the world and my surroundings, so I wish not to so carelessly assume..."
-        },
-        {
-            "id": 30,
-            "model": "돈키호테",
-            "content": "Thus I must implore thee to answer us."
-        },
-        {
-            "id": 31,
-            "model": "히스클리프",
-            "content": "All of you... out of my way. Now."
-        },
-        {
-            "id": 32,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi",
-            "content": "This area is off limits."
-        },
-        {
-            "id": 33,
-            "model": "히스클리프",
-            "content": "Off limits...?"
-        },
-        {
-            "id": 34,
-            "model": "히스클리프",
-            "content": "She's there. I can see Catherine right there, before my eyes."
-        },
-        {
-            "id": 35,
-            "model": "히스클리프",
-            "content": "I won't let you fucks stand between us."
-        },
-        {
-            "id": 36,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi",
-            "content": "……."
-        },
-        {
-            "id": 37,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi",
-            "content": "Didn't expect them to get here so soon... well, we need to buy some more time."
-        },
-        {
-            "id": 38,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi",
-            "content": "Unlease the dregs."
-        },
-        {
-            "id": 39,
-            "content": "The Fixers began fiddling with the lab machines..."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Tầng Hầm Đồi Gió Hú",
+                "model":"이상",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"료슈",
+                "content":"Quả là một sản phẩm đầy sự phô trương.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"싱클레어",
+                "content":"... Mọi người có đang nhìn thấy cái mà tôi đang thấy không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Có người... bên trong mấy cái ống thuỷ tinh đó. Mắt của họ đều nhắm lại hết... không, có vài người đang mở mắt...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Họ... chết rồi sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"로쟈",
+                "content":"Dù sống hay chết thì cũng thật vô lý. Chả hiểu tại sao trong một dinh thự mà lại có mấy thứ như thế này chứ...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"Căn phòng chất đầy những buồng chứa bằng thủy tinh xếp thành từng hàng ngay ngắn, mỗi chiếc đều chứa một người.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"뫼르소",
+                "content":"... Họ đều mặc những bộ quần áo khác nhau. Tôi không xác định được điểm chung về tuổi tác hay giới tính giữa họ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Ta có thể gợi lại các vụ mất tích quy mô lớn xảy ra gần đây ở Tập Đoàn T.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Vậy thì...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"넬리",
+                "content":"Đ-đằng kia! Đó có phải là Cành Vàng mà mọi người đang tìm kiếm không...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "content":"Ở phía cuối tầng hầm này là một người phụ nữ đang nằm trong chiếc quan tài...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"히스클리프",
+                "content":"CATHY!!!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "content":"... và Heathcliff là người duy nhất ngay lập tức nhận ra cô ấy. Gương mặt cô bình yên với đôi mắt nhắm nghiền, như thể đang trong một giấc mơ êm đềm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"오티스",
+                "content":"... Nhìn kìa. Có những thứ giống máy móc được gắn vào quan tài ả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Ừm. Tôi thấy có hai cần gạt cùng hướng xuống.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "content":"Gắn liền với quan tài là một Cành Vàng, tỏa ra thứ ánh sáng lấp lánh mà chúng tôi đã quá quen thuộc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Cathy... Cathy, chờ anh!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":null,
+                "content":"Căn phòng, buồng chứa thuỷ tinh, sự hỗn loạn... Heathcliff chẳng đề chúng vào mắt. Anh ấy bắt đầu phi thẳng đến chiếc quan tài như một kẻ điên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"단테",
+                "content":"<... Don Quixote?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":null,
+                "content":"Don Quixote, người tôi sẵn biết sẽ phi thẳng tới cùng Heathcliff, lại đang đứng đờ ra, tỏ vẻ kinh hoàng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Chắc... Chắc hẳn phải có sự nhầm lẫn gì ở đây...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"단테",
+                "content":"<Nhầm lẫn?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nhầm lãn7 gì cơ? Những người nằm trong buồng chứa kia đều là nạn nhân bị bắt cóc tại Tập Đoàn T còn gì.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Nhìn đi, hãy nhìn đám người đứng cạnh những cỗ máy kia...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Chúng ta đã gặp họ khi bước vào dinh thự rồi mà?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"돈키호테",
+                "content":"... Những Fixer từ Liên Đoàn Öufi đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"돈키호테",
+                "content":"K-Kính thưa các Quý Ngài và Quý Cô đáng kính.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"…….",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Öufi"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Có thể mọi người nói ta là kẻ khờ khạo, chẳng rành thế sự cũng chẳng giỏi nhìn ý người. Thế nên, không muốn tự mình hiểu lầm điều chi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Vậy nên, xin mọi người có thể cho ta giải đáp rõ ràng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Tất cả chúng mày... xéo ra. Ngay lập tức.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Đây là khu vực giới hạn.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Öufi"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Không được xâm phạm à...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Em ấy đang ở đó. Tao nhìn thấy Catherine ngay đó, trước mắt tao.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Tao sẽ không để lũ mặt lồn chúng mày ngáng đường đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"…….",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Öufi"
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Không nghĩ bọn họ lại tới được đây sớm tới thế... kệ đi, chúng ta cần câu kéo chút thời gian.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Öufi"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Thả đám bại phẩm ra.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Öufi"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":null,
+                "content":"Các Fixer bắt đầu loay hoay với các cỗ máy trong phòng thí nghiệm...",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

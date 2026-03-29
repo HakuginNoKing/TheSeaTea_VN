@@ -1,200 +1,251 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Confessional",
-      "model": "가시춘",
-      "title": "???",
-      "content": "... Who is he? He almost took out my entire faction with a single flick. We... we didn't even stand a chance."
-    },
-    {
-      "id": 1,
-      "model": "히스클리프",
-      "content": "That's what I'd like to know, lass."
-    },
-    {
-      "id": 2,
-      "model": "가시춘",
-      "title": "???",
-      "content": "By the way, you there."
-    },
-    {
-      "id": 3,
-      "model": "가시춘",
-      "title": "???",
-      "content": "Who are you?"
-    },
-    {
-      "id": 4,
-      "content": "Xichun pointed at Don Quixote."
-    },
-    {
-      "id": 5,
-      "model": "가시춘",
-      "title": "???",
-      "content": "That guy seemed very interested in her, for whatever reason."
-    },
-    {
-      "id": 6,
-      "model": "돈키호테",
-      "content": "Forsooth... that scoundrel must have recognized that I am the most dangerous threat against his villainous plan to foment evil...!"
-    },
-    {
-      "id": 7,
-      "model": "가시춘",
-      "title": "???",
-      "content": "…….\n"
-    },
-    {
-      "id": 9,
-      "content": "As the Sinners gathered themselves, Wei held the line, holding back the endless horde of Bloodfiends and Bloodbags."
-    },
-    {
-      "id": 10,
-      "content": "He was protecting his men, yes, but... his primary concern seemed to be with the horde getting in Jia Xichun's way."
-    },
-    {
-      "id": 11,
-      "model": "웨이",
-      "title": "???",
-      "content": "... While I do not like this... I must suggest that you accompany your blood relative."
-    },
-    {
-      "id": 12,
-      "model": "가시춘",
-      "title": "???",
-      "content": "Wei, what if he tries to take this opportunity to kill me?"
-    },
-    {
-      "id": 13,
-      "model": "웨이",
-      "title": "???",
-      "content": "But this young master is different. Unlike the others, he's..."
-    },
-    {
-      "id": 14,
-      "model": "가시춘",
-      "title": "???",
-      "content": "I know. He's not the type to do something like that. Imagine if it was big sister Yuanchun."
-    },
-    {
-      "id": 15,
-      "model": "웨이",
-      "title": "???",
-      "content": "She would have sent her assassins after you the moment you met."
-    },
-    {
-      "id": 16,
-      "model": "가시춘",
-      "title": "???",
-      "content": "... Right. I guess... if it was anyone else among my siblings, they would have sent their lackeys after us already."
-    },
-    {
-      "id": 17,
-      "model": "가시춘",
-      "title": "???",
-      "content": "... Or... maybe I'm not even worth that much effort already."
-    },
-    {
-      "id": 18,
-      "model": "웨이",
-      "title": "???",
-      "content": "... Thus, young master Baoyu is our only hope, my lady. There is no recourse."
-    },
-    {
-      "id": 19,
-      "model": "웨이",
-      "title": "???",
-      "content": "Do you hear it? The endless melodies..."
-    },
-    {
-      "id": 20,
-      "model": "가시춘",
-      "title": "???",
-      "content": "... I know. Something went wrong in Area 3."
-    },
-    {
-      "id": 21,
-      "model": "홍루",
-      "content": "Will you be coming with, Xichun?"
-    },
-    {
-      "id": 22,
-      "model": "가시춘",
-      "title": "???",
-      "content": "Just a temporary alliance, that's all."
-    },
-    {
-      "id": 23,
-      "model": "가시춘",
-      "title": "???",
-      "content": "From the looks of it, neither of us are interested in the reward money dividends. Which means that we're both here looking for something else."
-    },
-    {
-      "id": 24,
-      "model": "가시춘",
-      "title": "???",
-      "content": "So, at least until we get what we want, we'll..."
-    },
-    {
-      "id": 25,
-      "model": "홍루",
-      "content": "I know. We'll be fighting again once grandmother's snack runs out, right?"
-    },
-    {
-      "id": 26,
-      "model": "오티스",
-      "content": "She's quite haughty for someone who should be groveling at us for help."
-    },
-    {
-      "id": 27,
-      "model": "가시춘",
-      "title": "???",
-      "content": "Me and my men cleaned up Area 2 in less than an hour."
-    },
-    {
-      "id": 28,
-      "model": "가시춘",
-      "title": "???",
-      "content": "And you only got here way after we were finished."
-    },
-    {
-      "id": 29,
-      "model": "로쟈",
-      "content": "H-hey, we just forgot to pick something up so we had to backtrack, that's all. I'm tellin' ya, we wiped the floor with 'em in less than thirty min—"
-    },
-    {
-      "id": 30,
-      "model": "가시춘",
-      "title": "???",
-      "content": "Great. Then we should have no trouble cleaning this place up once I join you, right?"
-    },
-    {
-      "id": 31,
-      "model": "가시춘",
-      "title": "???",
-      "content": "Consider me a useful, first-rate silver sycee, why don't you? I'd say we're on quite the even ground; why would I grovel for help?"
-    },
-    {
-      "id": 32,
-      "model": "히스클리프",
-      "content": "Lass is so shameless that I'm at a loss for words."
-    },
-    {
-      "id": 33,
-      "model": "히스클리프",
-      "content": "Ohhh... yeah. I see the family resemblance now, mate."
-    },
-    {
-      "id": 34,
-      "model": "홍루",
-      "content": "Is that a compliment? Ha ha."
-    },
-    {
-      "id": 35,
-      "model": "가시춘",
-      "title": "???",
-      "content": "It's an insult."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phòng Xưng Tội",
+                "model":"가시춘",
+                "title":"???",
+                "content":"... Hắn là ai? Hắn ta suýt nữa tiêu diệt toàn bộ bang hội chỉ với một nhát. Bọn... bọn ta còn không kịp trở tay."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"히스클리프",
+                "title":null,
+                "content":"Tao cũng tò mò chuyện đấy như mày."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"À đúng rồi, cô kia."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"Cô là ai?"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "title":null,
+                "content":"Tích Xuân chỉ tay vào Don Quixote."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"Hắn có vẻ quan tâm tới cô gái ấy, vì một lí do gì đó."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"돈키호테",
+                "title":null,
+                "content":"Chắc chắn là... gã khả ố đó đã nhận ra rằng ta là mối nguy hại lớn nhất cho kế hoạch ấp ủ hạt giống xấu xa của tên ác nhân như hắn...!"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"……."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "title":null,
+                "content":"Lúc các Tội Nhân đang chuẩn bị thì Vệ đang cố thủ, đẩy lùi đám Huyết Quỷ và Túi Máu cứ xông lên không ngừng nghỉ."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":null,
+                "title":null,
+                "content":"Anh ấy đúng là đang bảo vệ người của mình... nhưng mà mối lo hàng đầu của anh ấy có vẻ là đám quỷ ngáng đường Giả Tích Xuân."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"웨이",
+                "title":"???",
+                "content":"... Mặc dù tôi cũng không thích điều này... nhưng tôi khuyên tiểu thư nên cân nhắc đi cùng huynh của mình."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"Vệ, nếu như hắn nhân cơ hội này để thủ tiêu ta thì sao?"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"웨이",
+                "title":"???",
+                "content":"Nhưng lần này thiếu gia có vẻ khác. Không giống như những người khác, ngài ấy..."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"Ta biết. Huynh không phải là loại người ấy. Thử tưởng tượng nếu đó là Nguyên Xuân đại tỷ."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"웨이",
+                "title":"???",
+                "content":"Đại tỷ chắc chắn sẻ cử thích khách đến thủ tiêu tiểu thư ngay khi gặp mặt."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"... Ừ. Ta đoán rằng... nếu như đó là ai đó khác trong gia tộc, thì họ đã cử thuộc hạ của mình để truy lùng chúng ta."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"... Hoặc là... ta cũng chả đáng gì mấy để mà bọn họ phải phí công sức."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"웨이",
+                "title":"???",
+                "content":"... Thế nên thiếu gia Bảo Ngọc là hy vọng duy nhất của chúng ta, tiểu thư ạ. Không còn lựa chọn nào khác."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"웨이",
+                "title":"???",
+                "content":"Tiểu thư có nghe thấy không? Tiếng nhạc không ngừng ấy..."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"... Ta biết. Có gì đó không ổn ở Khu Vực 3"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"홍루",
+                "title":null,
+                "content":"Muội đi cùng nhé, Tích Xuân?"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"Chỉ là một liên minh tạm thời thôi."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"Theo ta thấy, không ai chúng ta quan tâm tới tiền công. Điều này nghĩa là chúng ta đều ở đây để tìm kiếm gì đó khác."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"Thế nên, cho đến khi chúng ta có được thứ mình muốn, chúng ta sẽ..."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"홍루",
+                "title":null,
+                "content":"Huynh hiểu mà. Ngay khi chúng mình ăn hết bánh kẹo mà tổ mẫu cho... thì cuộc chiến cũng sẽ bắt đầu nhỉ?"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"오티스",
+                "title":null,
+                "content":"Cô ta khá kiêu ngạo so với một kẻ đáng ra phải quỳ gối cầu xin sự giúp đỡ từ ta đấy."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"Một mình ta và bang hội dọn sạch Khu Vực 2 chưa đầy một tiếng."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"Và mấy người đến đây sau khi bọn ta xong việc đã lâu."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"로쟈",
+                "title":null,
+                "content":"N-này, lúc nãy quên đồ nên mới chạy ngược về thôi. Mà nghe nè, chúng chị dọn sạch đám đó chỉ trong vòng ba mươi ph—"
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"Vậy thì tốt quá. Chúng ta sẽ dễ dàng dọn sạch nơi này khi có ta gia nhập hội phải không nào?"
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"Hãy xem ta như là vàng bạc châu báu vô giá. Chúng ta không ai hơn ai cả, việc gì mà ta phải quỳ gối cầu xin giúp đỡ?"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"히스클리프",
+                "title":null,
+                "content":"Tao cạn lời với độ mặt dày của con nhãi này luôn đấy."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"히스클리프",
+                "title":null,
+                "content":"Ồ... phải rồi. Bảo sao hai đứa chúng mày là anh em ruột."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"홍루",
+                "title":null,
+                "content":"Anh khen chúng tôi đấy à? Ha ha."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"Đó là một lời phỉ báng đấy."
+            }
+        ]
     }
-  ]
-}
+

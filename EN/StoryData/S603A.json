@@ -1,283 +1,430 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "T Corp.’s Streets",
-            "model": "히스클리프",
-            "content": "You..."
-        },
-        {
-            "id": 1,
-            "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "EEEEK!!!"
-        },
-        {
-            "id": 2,
-            "model": "히스클리프",
-            "content": "Quiet… Or you’ll attract even more of ‘em to us."
-        },
-        {
-            "id": 3,
-            "model": "히스클리프",
-            "content": "Shut your gob right now or we’ll feed you to the meat grinder back at our rickety, cannibal bus. Is that clear?"
-        },
-        {
-            "id": 4,
-            "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "T-then..."
-        },
-        {
-            "id": 5,
-            "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "You’re not here to kidnap me?"
-        },
-        {
-            "id": 6,
-            "model": "그레고르",
-            "content": "No. For the… I don’t even know how many times we’ve told you."
-        },
-        {
-            "id": 7,
-            "model": "돈키호테",
-            "content": "Of course not, indeed! For we are the Limbu— Fix— Justi—"
-        },
-        {
-            "id": 8,
-            "content": "… She is trying so, so hard not to say it."
-        },
-        {
-            "id": 9,
-            "model": "돈키호테",
-            "content": "… the passers-by. Of justice. Sir Heathcliff here can be rather brutish in his manner of speech, that is all..."
-        },
-        {
-            "id": 10,
-            "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "R-right… Passers-by of justice..."
-        },
-        {
-            "id": 11,
-            "model": "홍루",
-            "content": "So why are they asking us for time, not money?"
-        },
-        {
-            "id": 12,
-            "model": "로쟈",
-            "content": "… Maybe time’s just another commodity to be sold and bought here."
-        },
-        {
-            "id": 13,
-            "model": "이스마엘",
-            "content": "Guys… is it just me again…? The T Corp. pamphlet guide... did no one really...?"
-        },
-        {
-            "id": 14,
-            "content": "…Ishmael’s eyes start to glaze over. Once again, she may have been the only Sinner who bothered to read up on our destination…"
-        },
-        {
-            "id": 15,
-            "model": "이상",
-            "content": "In T Corp… also known as TimeTrack Corporation..."
-        },
-        {
-            "id": 16,
-            "model": "이상",
-            "content": "… its citizenry utilizes timepieces as personal identification. They oft trade with ‘time’ instead of physical currency; their means of transaction done via the timepieces they carry. Most laborers in these lands are rewarded for their efforts with time."
-        },
-        {
-            "id": 17,
-            "model": "이스마엘",
-            "content": "Haah… thanks for the explanation, Yi Sang. I’ll let it slide this time."
-        },
-        {
-            "id": 18,
-            "model": "단테",
-            "content": "<So… is this going to be a problem? Outis is the only one of us who carries a watch.>"
-        },
-        {
-            "id": 19,
-            "model": "홍루",
-            "content": "Ohh~ you mean her broken wristwatch? I always thought that wearing a stopped watch was a neat fashion statement—"
-        },
-        {
-            "id": 20,
-            "model": "오티스",
-            "content": "… It’s not a fashion item. It never was. How insolent of you to assume."
-        },
-        {
-            "id": 21,
-            "model": "그레고르",
-            "content": "Right, I’ve been meaning to ask… what got ya so freaked out about a kidnapping earlier?"
-        },
-        {
-            "id": 22,
-            "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "Oh… There’s a pretty scary rumor of indiscriminate kidnappings going around these T Corp. streets."
-        },
-        {
-            "id": 23,
-            "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "These are abandoned streets, so when I saw a dozen or so people running around together, I was scared that you guys might be the infamous kidnapping Syndicate or something..."
-        },
-        {
-            "id": 24,
-            "model": "오티스",
-            "content": "We need more details. I want the who, when, where, what, how, and why. Proceed."
-        },
-        {
-            "id": 25,
-            "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "P-people have been going missing around here."
-        },
-        {
-            "id": 26,
-            "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "This kinda became the last known location for a bunch of missing people. Everyone becomes a shut-in during the foggy days ‘cause they don’t wanna get kidnapped."
-        },
-        {
-            "id": 27,
-            "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "L-look, it’s even on the front page of this T-Times newspaper here. Mysterious Kidnapping Fear Sweeps District.… Not Even A Single Body Found… I can keep reading, if you want...?"
-        },
-        {
-            "id": 28,
-            "content": "Meursault, Rodya, and Don Quixote began enthusiastically reading the sensationalized titles and the attached articles on the newspaper he showed us."
-        },
-        {
-            "id": 29,
-            "model": "뫼르소",
-            "content": "Hm..."
-        },
-        {
-            "id": 30,
-            "model": "로쟈",
-            "content": "Oh… Ohoho… I gotta check out that award-winning eatery… it's not so far from where we are..."
-        },
-        {
-            "id": 31,
-            "model": "돈키호테",
-            "content": "Aha, so the time retrieval Fixers have said as such in these interviews..."
-        },
-        {
-            "id": 32,
-            "model": "단테",
-            "content": "<Are you guys even reading the same article?>"
-        },
-        {
-            "id": 33,
-            "model": "히스클리프",
-            "content": "... Lad’s right. There’s a lot less people around here than I remember."
-        },
-        {
-            "id": 34,
-            "model": "히스클리프",
-            "content": "This street used to be packed with workers headed to their factory jobs and inventors selling their useless trinkets… It’s never been this... empty."
-        },
-        {
-            "id": 35,
-            "content": "This empty street of T Corp. was thick with fog, the bustling crowd from Heathcliff's memories nowhere to be seen."
-        },
-        {
-            "id": 36,
-            "content": "Maybe the lack of color made the fog appear even thicker."
-        },
-        {
-            "id": 37,
-            "model": "오티스",
-            "content": "This reminds me of the kidnapping ‘rumor’ we heard when we were working on the Blade Lineage case."
-        },
-        {
-            "id": 38,
-            "model": "이스마엘",
-            "content": "Missing people… Maybe there really is a messed-up kidnapping, human trafficking Syndicate roaming this area."
-        },
-        {
-            "id": 39,
-            "model": "히스클리프",
-            "content": "I’ve never heard of such Syndicate strutting about this place. Back when I lived here, at least."
-        },
-        {
-            "id": 40,
-            "model": "뫼르소",
-            "content": "It is a statistical impossibility for a human trafficking Syndicate to leave zero evidence behind. There is bound to be one or two they let slip between their fingers."
-        },
-        {
-            "id": 41,
-            "model": "뫼르소",
-            "content": "Especially if this 'Syndicate' is so prolific to the point of indirectly discouraging the public from leaving their homes, a body or two will invariably be found."
-        },
-        {
-            "id": 42,
-            "model": "싱클레어",
-            "content": "If they really didn’t leave any bodies, then maybe it’s worse than just your usual murders..."
-        },
-        {
-            "id": 43,
-            "model": "홍루",
-            "content": "Maybe it’ll be more dangerous the more we look into it?"
-        },
-        {
-            "id": 44,
-            "model": "단테",
-            "content": "<If it’s not just another violent tragedy… then maybe there’s more to this than we think. Maybe there's some powerful organization pulling the strings...>"
-        },
-        {
-            "id": 45,
-            "model": "로쟈",
-            "content": "Y’know, that’s a lot of conjecture to make just from the fact that no bodies have been found."
-        },
-        {
-            "id": 46,
-            "model": "싱클레어",
-            "content": "I'm sorry?"
-        },
-        {
-            "id": 47,
-            "model": "로쟈",
-            "content": "Guys. The Night in the Backstreets."
-        },
-        {
-            "id": 48,
-            "model": "로쟈",
-            "content": "A single sweep from those Sweepers leaves nothing behind. Every trash in the Backstreets, including corpses, is completely cleaned up."
-        },
-        {
-            "id": 49,
-            "model": "그레고르",
-            "content": "Right… They'd clean up even the corpses, yeah."
-        },
-        {
-            "id": 50,
-            "model": "로쟈",
-            "content": "'Course, it's kinda scary that they clean up more than just trash~"
-        },
-        {
-            "id": 51,
-            "model": "단테",
-            "content": "<Yeah… The idea of Sweepers really freaked Sinclair out for a while.>"
-        },
-        {
-            "id": 52,
-            "model": "싱클레어",
-            "content": "… That’s because Rodya kept making funny noises and Sweeper impressions at me every night…!"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Đường Phố T.Đoàn T",
+                "model":"히스클리프",
+                "content":"Mày...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"T사시민",
+                "content":"ÉCCCC!!!",
+                "teller":"Thị Dân Làm To Chuyện",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Im miệng... Không thì mấy thằng kia lại kéo đến bây giờ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ngậm cái mõm mày lại, không là bọn tao thảy mày vào cái xe buýt ăn thịt người kia đấy. Rõ chưa?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"T사시민",
+                "content":"V-vậy...",
+                "teller":"Thị Dân Làm To Chuyện",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"T사시민",
+                "content":"Mấy cô cậu không định bắt cóc tôi à?",
+                "teller":"Thị Dân Làm To Chuyện",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"그레고르",
+                "content":"Không phải. Giời ạ... Bọn này còn phải giải thích bao nhiêu lần nữa đây.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Tất nhiên là không rồi! Vì bọn ta là những Fix— Công ty Limbu— Nghĩa—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "content":"... Cô ấy đang rất, rất cố gắng để không nói từ đó ra.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"돈키호테",
+                "content":"... những người qua đường. Nghĩa hiệp. Chỉ là Quý Ngài Heathcliff đây có cách ăn nói hơi bỗ bã một chút...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"T사시민",
+                "content":"R-ra vậy... ra là người qua đường nghĩa hiệp...",
+                "teller":"Thị Dân Làm To Chuyện",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"홍루",
+                "content":"Nhưng tại sao họ lại đòi thời gian chứ không đòi tiền bạc nhỉ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"로쟈",
+                "content":"... Có khi ở đây người ta mua bán bằng thời gian luôn đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Trời ơi lại nữa sao...? Tờ rơi hướng dẫn Tập Đoàn T ghi là... Mà thật đấy à? Không ai đọc luôn...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "content":"... Đôi mắt của Ishmael dần trở nên đờ đẫn. Cô ấy luôn là người duy nhất đọc trước tài liệu về điểm đến của cả đoàn, và lần này cũng vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"이상",
+                "content":"Ở Tập đoàn T... hay còn gọi là Tập đoàn TimeTrack...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"이상",
+                "content":"... cư dân sử dụng đồng hồ như vật định danh cá nhân. \"Thời gian\" được dùng như đơn vị tiền tệ và đồng hồ cá nhân đóng vai trò công cụ giao dịch. Người lao động cũng sẽ được trả công bằng thời gian.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ơn giời... Cảm ơn vì đã giảng hộ nhé Yi Sang. Lần này coi như tôi tạm tha cho mấy người.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"단테",
+                "content":"<Thế... này là không ổn rồi đúng không? Trong đoàn mình chỉ có mỗi Outis là đeo đồng hồ thôi.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"홍루",
+                "content":"À~ Cái đồng hồ đeo tay đã ngừng chạy kia ấy ạ? Tôi còn tưởng đấy chỉ là phụ kiện thời trang nào đó thôi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"오티스",
+                "content":"... Đây chưa bao giờ và sẽ không bao giờ là một món phụ kiện. Ngươi thật sự xấc xược lắm mới dám kết luận thế đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"그레고르",
+                "content":"Được rồi, tôi có thắc mắc này... tại sao lúc nãy ông lại sợ bị bắt cóc thế?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"T사시민",
+                "content":"À cái đó ấy hả... Là vì quanh khu phố này đang rộ lên tin đồn bắt cóc hàng loạt ấy mà.",
+                "teller":"Thị Dân Làm To Chuyện",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"T사시민",
+                "content":"Với cả khu phố này bị bỏ hoang lâu rồi, nên khi thấy một đoàn người đi cùng nhau thì tôi chỉ sợ đấy là Băng Đảng bắt cóc khét tiếng nào đó ấy, đại loại vậy...",
+                "teller":"Thị Dân Làm To Chuyện",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"오티스",
+                "content":"Tụi ta cần thêm thông tin. Là ai, ở đâu, thứ gì, khi nào, như thế nào và do đâu. Khai hết ra, mau.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"T사시민",
+                "content":"Ng-ngày càng có nhiều người mất tích ở quanh đây.",
+                "teller":"Thị Dân Làm To Chuyện",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"T사시민",
+                "content":"Chỗ này biến thành điểm nóng mất tích rồi. Chẳng ma nào dám ra đường vì sợ bọn bắt cóc phục kích giữa sương mù đấy.",
+                "teller":"Thị Dân Làm To Chuyện",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"T사시민",
+                "content":"Đây, đây! Nhìn đây này! Trên trang nhất của tờ T-Thời Báo cũng đăng rồi đây này. Bắt Cóc Liên Hoàn Diễn Ra Khắp Phố Phường... Người Người Biến Mất, Thi Thể Mất Hút... mấy vị muốn nghe thêm thì tôi đọc tiếp nhé...?",
+                "teller":"Thị Dân Làm To Chuyện",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":null,
+                "content":"Ông ta vừa đưa tờ báo cho chúng tôi thì ngay lập tức Meursault, Rodya và Don Quixote lao vào đọc từng đề mục, từ tin thời sự cho đến tin giật tít.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Hừm...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"로쟈",
+                "content":"Hô... Ô hố... Tôi phải ghé qua cái nhà hàng thắng giải đó mới được... từ đây tới đó cũng không xa lắm...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"돈키호테",
+                "content":"À há, vậy ra các Fixer chuyên thu hồi thời gian đã trả lời phỏng vấn như thế này...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"단테",
+                "content":"<Mấy người có đang đọc cùng một bài viết không vậy?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Tên này nói đúng đấy. Tao nhớ quanh đây không ít người đến vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Con phố này từng tấp nập công nhân đi làm ở xưởng và mấy tay phát minh chào hàng đống ve chai vô dụng... Nó chưa bao giờ... trống vắng thế này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "content":"Trái với kí ức của Heathcliff về một con phố sầm uất giữa lòng Tập Đoàn T, đường sá nơi đây chỉ dày đặc sương mù.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "content":"Màu sắc đơn điệu khiến màn sương như đang quánh lại theo từng phút.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"오티스",
+                "content":"Việc này làm ta nhớ lại \"lời đồn\" bắt cóc từ lúc chúng ta còn đang giải quyết vụ bên Gia Tộc Kiếm Sư.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Mất tích... Biết đâu có Băng Đảng nào đó chuyên bắt cóc người ở đây thật.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Tao thậm chí còn chưa nghe Băng Đảng nào tung hoành ở chốn này. Chí ít là lúc tao còn sống ở đây.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Số liệu thống kê cho thấy, việc một Băng Đảng buôn bán người không để lại bằng chứng nào là bất khả thi. Chúng sẽ luôn bỏ sót lại một hay hai dấu vết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Đặc biệt, nếu \"Băng Đảng\" này hoạt động mạnh tới mức có thể gián tiếp đe doa người dân ra khỏi nhà, thì chắc chắn họ sẽ phải để sót một hoặc hai thi thể.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Nếu họ thật sự không để lại một thi thể nào, thì có khả năng đây không chỉ là một vụ giết người thông thường...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"홍루",
+                "content":"Biết đâu chúng ta càng điều tra kĩ thì hiểm họa sẽ càng lớn đó?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"단테",
+                "content":"<Nếu đây không chỉ là một bi kịch tàn khốc nào đó... thì có khi chân tướng sự thật còn kinh khủng hơn nữa. Biết đâu có một tổ chức hùng mạnh nào đó đang giật dây sau màn cũng nên...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ôi chà, có mỗi việc không tìm thấy thi thể thôi mà ngài tự suy diễn ra nhiều thứ thế nhỉ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Gì cơ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"로쟈",
+                "content":"Mọi người à. Là Buổi Đêm ở Phố Sau đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"로쟈",
+                "content":"Bọn Quét Dọn kia không bao giờ để lại dấu vết gì. Mọi loại rác ở Phố Sau, bao gồm cả xác chết, đều bị quét sạch cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"그레고르",
+                "content":"Phải rồi... Chúng dọn cả xác chết mà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ừ ý, chúng nó quét dọn nhiều thứ hơn là rác, nghe mà rợn cả người~",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"단테",
+                "content":"<Ừa... Nghe kể xong mà Sinclair sợ khiếp vía suốt cả thời gian dài mà.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"싱클레어",
+                "content":"... Là tại đêm nào chị Rodya cũng nhại lại mấy âm thanh kì quái của bọn Quét Dọn cho tôi nghe đấy chứ...!",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

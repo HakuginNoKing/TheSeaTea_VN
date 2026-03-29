@@ -1,604 +1,982 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Hall",
-            "model": "히스클리프헝클어짐",
-            "content": "Ugh..."
-        },
-        {
-            "id": 1,
-            "model": "단테",
-            "content": "<Are you okay, Heathcliff?>"
-        },
-        {
-            "id": 2,
-            "model": "히스클리프헝클어짐",
-            "content": "... It's that classic Nelly technique, eh... Her secret technique to send us hurtlin' into the dreamlands. ... Been a while."
-        },
-        {
-            "id": 3,
-            "model": "넬리",
-            "content": "I am terribly sorry, Heathcliff. I was hoping to avoid having to use the 'sleepy smack' on you, and not after a reunion like this..."
-        },
-        {
-            "id": 4,
-            "model": "히스클리프헝클어짐",
-            "content": "……."
-        },
-        {
-            "id": 5,
-            "model": "히스클리프헝클어짐",
-            "content": "Is it true, Nelly...?"
-        },
-        {
-            "id": 6,
-            "model": "히스클리프헝클어짐",
-            "content": "Is Catherine really... gone?"
-        },
-        {
-            "id": 7,
-            "model": "넬리",
-            "content": "Yes."
-        },
-        {
-            "id": 8,
-            "model": "넬리",
-            "content": "And Miss Catherine..."
-        },
-        {
-            "id": 9,
-            "model": "넬리",
-            "content": "... wrote your name into her will."
-        },
-        {
-            "id": 10,
-            "model": "히스클리프헝클어짐",
-            "content": "……."
-        },
-        {
-            "id": 11,
-            "model": "이스마엘",
-            "content": "... Her will, huh? We should at least give it a listen to hear why she mentioned Heathcliff."
-        },
-        {
-            "id": 12,
-            "content": "Heathcliff sat down wordlessly."
-        },
-        {
-            "id": 13,
-            "model": "홍루",
-            "content": "So... was this manor Miss Catherine's?"
-        },
-        {
-            "id": 14,
-            "model": "넬리",
-            "content": "Well, it used to be Young Master Hindley's, once. Then..."
-        },
-        {
-            "id": 15,
-            "model": "힌들리",
-            "content": "... Catherine, that shrew. She stabbed me in the back."
-        },
-        {
-            "id": 16,
-            "model": "힌들리",
-            "content": "Why don't you elaborate on that injustice, Linton? Share the tale of how Catherine and Linton Edgar stabbed me in the back! How the pair of you destroyed me!"
-        },
-        {
-            "id": 17,
-            "model": "린튼",
-            "content": "There was no injustice. It was done in a perfectly legal manner; bring the case to T Corp. courts if you wish. It will change absolutely nothing."
-        },
-        {
-            "id": 18,
-            "content": "An Öufi Association Fixer carrying a piece of paper stepped in between Hindley and Linton as two men continued to growl at each other."
-        },
-        {
-            "id": 19,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "The allotted recess has expired. We will now proceed to the inheritance bequeathment will-reading."
-        },
-        {
-            "id": 20,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "This is the will of the deceased. It has been verified via multiple tests and screenings that no counterfeiting or tampering of a similar nature has occurred."
-        },
-        {
-            "id": 21,
-            "model": "로쟈",
-            "content": "If they're verifying if it's a counterfeit or not, who verifies if they're not just straight-up lying about it?"
-        },
-        {
-            "id": 22,
-            "model": "료슈",
-            "content": "Good question."
-        },
-        {
-            "id": 23,
-            "model": "홍루",
-            "content": "Maybe it's just a standard industry practice?"
-        },
-        {
-            "id": 24,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "Miss Catherine has requested that this letter be read in audience of the three attendees..."
-        },
-        {
-            "id": 25,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "... before the bequeathment of personal property commences."
-        },
-        {
-            "id": 26,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "I will now read the full contents of her will."
-        },
-        {
-            "id": 27,
-            "content": "<color=#c29a5f>At last.</color>"
-        },
-        {
-            "id": 28,
-            "content": "<color=#c29a5f>You are all gathered here.</color>"
-        },
-        {
-            "id": 29,
-            "content": "<color=#c29a5f>My only wish is that my words will be met with respect, without hostility among you.</color>"
-        },
-        {
-            "id": 30,
-            "content": "<color=#c29a5f>I hope that none of you become incensed during this occasion. It's my one and only funeral, after all.</color>"
-        },
-        {
-            "id": 31,
-            "content": "<color=#c29a5f>I am at peace; there is no pain, no suffering where I am.</color>"
-        },
-        {
-            "id": 32,
-            "content": "<color=#c29a5f>So do not consider my death a tragic one.</color>"
-        },
-        {
-            "id": 33,
-            "content": "<color=#c29a5f>Because by the time you are hearing this, I must have reached my own heaven.</color>"
-        },
-        {
-            "id": 34,
-            "content": "<color=#c29a5f>This is not to say that you mustn't let sorrow into your hearts.</color>"
-        },
-        {
-            "id": 35,
-            "content": "<color=#c29a5f>Weep, if you will.</color>"
-        },
-        {
-            "id": 36,
-            "content": "<color=#c29a5f>So that I may feel your grief and know that you have all truly loved me.</color>"
-        },
-        {
-            "id": 37,
-            "content": "<color=#c29a5f>Wuthering Heights. An old and desolate manor.</color>"
-        },
-        {
-            "id": 38,
-            "content": "<color=#c29a5f>I have always been afraid of this place. Fear and nightmares would consume me every night.</color>"
-        },
-        {
-            "id": 39,
-            "content": "<color=#c29a5f>... But now that I stand before the end of my life, I have come to accept this manor for what it is.</color>"
-        },
-        {
-            "id": 40,
-            "content": "<color=#c29a5f>This manor, which I will leave...</color>"
-        },
-        {
-            "id": 41,
-            "content": "<color=#c29a5f>... to my husband, Linton Edgar.</color>"
-        },
-        {
-            "id": 42,
-            "content": "<color=#c29a5f>Keep this manor, and remember me by its presence.</color>"
-        },
-        {
-            "id": 43,
-            "model": "린튼",
-            "content": "……."
-        },
-        {
-            "id": 44,
-            "model": "힌들리",
-            "content": "What the fu— Dammit...!"
-        },
-        {
-            "id": 45,
-            "content": "<color=#c29a5f>And my brother, Hindley. My one and only brother.</color>"
-        },
-        {
-            "id": 46,
-            "model": "힌들리",
-            "content": "Right...! I knew I'd be in there somewhere...!"
-        },
-        {
-            "id": 47,
-            "content": "Hindley's legs began to shake nervously. So did his voice."
-        },
-        {
-            "id": 48,
-            "content": "<color=#c29a5f>I heard that you are mired in quite the heavy debt.</color>"
-        },
-        {
-            "id": 49,
-            "content": "<color=#c29a5f>And that you have been spending most of your days drinking and gambling.</color>"
-        },
-        {
-            "id": 50,
-            "content": "<color=#c29a5f>So I...</color>"
-        },
-        {
-            "id": 51,
-            "model": "힌들리",
-            "content": "Come on, Catherine. Give me something, anything..."
-        },
-        {
-            "id": 52,
-            "content": "<color=#c29a5f>... signed you up for the 'Abyss Trauma Correctional Facility' at M Corp.</color>"
-        },
-        {
-            "id": 53,
-            "content": "<color=#c29a5f>If you don't visit the facility within 1 week after attending this will-reading...</color>"
-        },
-        {
-            "id": 54,
-            "content": "<color=#c29a5f>... they will come to take you in.</color>"
-        },
-        {
-            "id": 55,
-            "model": "힌들리",
-            "content": "Wha... what?"
-        },
-        {
-            "id": 56,
-            "content": "<color=#c29a5f>I truly hope that your heart will be healed, dear brother.</color>"
-        },
-        {
-            "id": 57,
-            "model": "힌들리",
-            "content": "NO! That's absolute nonsense...! How the hell am I even supposed to get to M Corp. in a week?!"
-        },
-        {
-            "id": 58,
-            "content": "<color=#c29a5f>Of course, I have already prepared a WARP train ticket to M Corp. for you, so please don't worry about the travel fees.</color>"
-        },
-        {
-            "id": 59,
-            "model": "힌들리",
-            "content": "No, this is a load of shite!!!"
-        },
-        {
-            "id": 60,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "Should another instance of disturbance to the execution of this will occur..."
-        },
-        {
-            "id": 61,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "... we will take forceful action without warning."
-        },
-        {
-            "id": 62,
-            "model": "힌들리",
-            "content": "H-how dare you, you plebs..."
-        },
-        {
-            "id": 63,
-            "content": "<color=#c29a5f>And you, Heathcliff.</color>"
-        },
-        {
-            "id": 64,
-            "model": "히스클리프헝클어짐",
-            "content": "……."
-        },
-        {
-            "id": 65,
-            "content": "<color=#c29a5f>Welcome home.</color>"
-        },
-        {
-            "id": 66,
-            "model": "히스클리프헝클어짐",
-            "content": "Cathy, I'm..."
-        },
-        {
-            "id": 67,
-            "model": "린튼",
-            "content": "……."
-        },
-        {
-            "id": 68,
-            "content": "<color=#c29a5f>Once the seventh strike of lightning falls upon this manor...</color>"
-        },
-        {
-            "id": 69,
-            "content": "<color=#c29a5f>... my Golden Bough shall be yours.</color>"
-        },
-        {
-            "id": 70,
-            "model": "이스마엘",
-            "content": "... Huh?"
-        },
-        {
-            "id": 71,
-            "content": "The mere mention of the Golden Bough..."
-        },
-        {
-            "id": 72,
-            "content": "... suddenly intensified the sensation I felt earlier. I definitely sensed that the Golden Bough was located somewhere within this manor."
-        },
-        {
-            "id": 73,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 74,
-            "content": "But I already figured that the Golden Bough was somewhere in here. I've known that ever since we stepped foot into this manor."
-        },
-        {
-            "id": 75,
-            "content": "Yet, I couldn't quite pinpoint its exact location, because..."
-        },
-        {
-            "id": 76,
-            "content": "<color=#c29a5f>I will leave my Golden Bough to you, Heathcliff.</color>"
-        },
-        {
-            "id": 77,
-            "model": "이스마엘",
-            "content": "The Golden Bough... was her personal property? Not even her estate's or her family's? Just her?"
-        },
-        {
-            "id": 78,
-            "model": "싱클레어",
-            "content": "Seventh strike of lightning? What do you think that means?"
-        },
-        {
-            "id": 79,
-            "model": "단테",
-            "content": "<It's not 'a' Golden Bough...>"
-        },
-        {
-            "id": 80,
-            "model": "힌들리",
-            "content": "What the bloody hell is that supposed to mean? What...!"
-        },
-        {
-            "id": 81,
-            "content": "There's more than one here."
-        },
-        {
-            "id": 82,
-            "model": "파우스트",
-            "content": "Dante. Are you all right?"
-        },
-        {
-            "id": 83,
-            "model": "단테",
-            "content": "<There is... a second Golden Bough in this manor.>"
-        },
-        {
-            "id": 84,
-            "model": "히스클리프헝클어짐",
-            "content": "No... this isn't at all what I... I..."
-        },
-        {
-            "id": 85,
-            "model": "히스클리프헝클어짐",
-            "content": "Come back, Cathy. Please..."
-        },
-        {
-            "id": 86,
-            "model": "히스클리프헝클어짐",
-            "content": "Hear my voice just this once, Cathy!!!"
-        },
-        {
-            "id": 87,
-            "model": "어린캐서린",
-            "content": "I'm serious! Oh Nelly, this room is haunted! I saw a ghost!"
-        },
-        {
-            "id": 88,
-            "model": "넬리",
-            "content": "Again with this, Miss Cathy? What did I say? I told you I would thrash that evil ghost and hang them to dry on the rack."
-        },
-        {
-            "id": 89,
-            "model": "어린힌들리",
-            "content": "Ghosts aren't real. She's such a big liar."
-        },
-        {
-            "id": 90,
-            "model": "어린캐서린",
-            "content": "I'm not lying!"
-        },
-        {
-            "id": 91,
-            "model": "언쇼",
-            "teller": "Mr. Earnshaw",
-            "title": "Wuthering Heights",
-            "content": "I'm sorry, children. Have you been waiting long?"
-        },
-        {
-            "id": 92,
-            "model": "어린힌들리",
-            "content": "Dad, where's my violin?"
-        },
-        {
-            "id": 93,
-            "model": "어린캐서린",
-            "content": "What about my X Corp. all-purpose wrench?!"
-        },
-        {
-            "id": 94,
-            "model": "언쇼",
-            "teller": "Mr. Earnshaw",
-            "title": "Wuthering Heights",
-            "content": "Again, I'm sorry. I did not have the room for the violin or the wrench."
-        },
-        {
-            "id": 95,
-            "model": "어린힌들리",
-            "content": "What room...? Ugh, what's that?"
-        },
-        {
-            "id": 96,
-            "model": "어린캐서린",
-            "content": "What's that dirty rag? Eww..."
-        },
-        {
-            "id": 97,
-            "model": "언쇼",
-            "teller": "Mr. Earnshaw",
-            "title": "Wuthering Heights",
-            "content": "I found this child dying alone in the streets. He was without parents or a home... the boy would surely have died in a weather like this."
-        },
-        {
-            "id": 98,
-            "model": "어린캐서린",
-            "content": "So what? I don't want that gross, dirty kid living here."
-        },
-        {
-            "id": 99,
-            "model": "어린힌들리",
-            "content": "Yeah! I want my violin! Throw that thing out..."
-        },
-        {
-            "id": 100,
-            "teller": "Heathcliff",
-            "title": "???",
-            "content": "... What are you gawkin' at?"
-        },
-        {
-            "id": 101,
-            "model": "어린캐서린",
-            "content": "……."
-        },
-        {
-            "id": 102,
-            "model": "어린힌들리",
-            "content": "Violin! I want! My violin!"
-        },
-        {
-            "id": 103,
-            "model": "어린캐서린",
-            "content": "... Papa, why was he all alone? In the streets?"
-        },
-        {
-            "id": 104,
-            "model": "언쇼",
-            "teller": "Mr. Earnshaw",
-            "title": "Wuthering Heights",
-            "content": "Because there wasn't anyone to take care of him. Poor child..."
-        },
-        {
-            "id": 105,
-            "model": "언쇼",
-            "teller": "Mr. Earnshaw",
-            "title": "Wuthering Heights",
-            "content": "There are other children like him in the Backstreets. No parents or relatives to look after them, no homes to shelter them..."
-        },
-        {
-            "id": 106,
-            "model": "어린캐서린",
-            "content": "Then... what does he have now?"
-        },
-        {
-            "id": 107,
-            "model": "언쇼",
-            "teller": "Mr. Earnshaw",
-            "title": "Wuthering Heights",
-            "content": "Well, Cathy, now he's got us to look after him. And this place as his home."
-        },
-        {
-            "id": 108,
-            "model": "어린힌들리",
-            "content": "NO! I don't want that ugly thing."
-        },
-        {
-            "id": 109,
-            "model": "어린캐서린",
-            "content": "So you're saying that you don't wanna have him... right?"
-        },
-        {
-            "id": 110,
-            "model": "캐서린",
-            "content": "Wind's howling. I can hear something wailing; its cry is echoing through the manor halls."
-        },
-        {
-            "id": 111,
-            "model": "넬리",
-            "content": "I hear it too, miss. Close the windows; there is a nip in the air outside."
-        },
-        {
-            "id": 112,
-            "model": "넬리",
-            "content": "Do you remember still? As a child, you were terribly afraid of these howling winds..."
-        },
-        {
-            "id": 113,
-            "model": "넬리",
-            "content": "That you're seeing ghosts..."
-        },
-        {
-            "id": 114,
-            "model": "캐서린",
-            "content": "Nelly. I see them still."
-        },
-        {
-            "id": 115,
-            "model": "넬리",
-            "content": "Miss. You've grown far too weak ever since Heathcliff departed the manor. That is why you are seeing things."
-        },
-        {
-            "id": 116,
-            "model": "캐서린",
-            "content": "That is all right, Nelly."
-        },
-        {
-            "id": 117,
-            "model": "캐서린",
-            "content": "I no longer fear the ghosts."
-        },
-        {
-            "id": 118,
-            "model": "캐서린",
-            "content": "Because all fear stems from the ignorance of its origin."
-        },
-        {
-            "id": 119,
-            "model": "캐서린",
-            "content": "... Where do you suppose he is? Heathcliff."
-        },
-        {
-            "id": 120,
-            "model": "넬리",
-            "content": "Miss..."
-        },
-        {
-            "id": 121,
-            "model": "캐서린",
-            "content": "He doesn't have anything left. I am everything he has..."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Đại Sảnh Đồi Gió Hú",
+                "model":"히스클리프헝클어짐",
+                "content":"Ựa...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"단테",
+                "content":"<Anh ổn chứ, Heathcliff?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"... Là tuyệt chiêu trứ danh của Nelly đó à... Chiêu thức bí mật này luôn đưa tao thẳng vào miền mộng mơ... Cũng lâu rồi không nếm nó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"넬리",
+                "content":"Ta xin lỗi con, Heathcliff à. Ta thật không muốn phải \"đánh yêu\" con đâu, và càng không phải là sau bao năm xa cách thế này...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"Có thật không, Nelly...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"Catherine thật sự... mất rồi sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"넬리",
+                "content":"Đúng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"넬리",
+                "content":"Và Tiểu Thư Catherine...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"넬리",
+                "content":"... đã viết tên con vào di nguyện của mình.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Di nguyện sao? Ít nhất thì ta cũng nên nghe thử xem vì sao cô ấy lại nhắc tới Heathcliff.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff im lặng ngồi xuống.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"홍루",
+                "content":"Nói như vậy... Thì dinh thự này thuộc quyền sở hữu của Tiểu Thư Catherine ư?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"넬리",
+                "content":"Chuyện là, nơi này từng thuộc về Cậu Chủ Hindley, từng là vậy... cho đến khi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"힌들리",
+                "content":"... Catherine, con đàn bà đanh đá đó. Nó dám đâm sau lưng tao.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"힌들리",
+                "content":"Sao mày không sủa thêm nữa đi, Linton? Kể xem tao đã bị đối xử bất công như thế nào. Kể xem đôi uyên ương Catherine và Linton Edgar chúng mày đã đâm sau lưng tao, hủy hoại tao ra sao đi!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"린튼",
+                "content":"Bất công? Từ đầu tới cuối việc gì cũng căn cứ vào luật mà làm rồi, cậu nói xem bất công ở chỗ nào? Muốn thì cứ đem ra tòa án Tập Đoàn T mà kiện. Cũng chả thay đổi được gì đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":null,
+                "content":"Hindley và Linton tiếp tục lời qua tiếng lại với nhau cho đến khi một Fixer từ Liên Đoàn Öufi chen vào, tay cầm theo mảnh giấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Thời gian nghỉ cho phép đã hết. Chúng tôi sẽ tiếp tục buổi đọc di chúc phân chia tài sản thừa kế.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Đây là di nguyện từ người đã khuất. Chúng tôi đã tiến hành kiểm tra và rà soát kỹ càng để chắc chắn rằng, không một dấu vết chỉnh sửa hay tác nhân bên ngoài nào ảnh hưởng tới bức di chúc này.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"로쟈",
+                "content":"Đích thân kiểm chứng thông tin á, nghe cũng tín đấy. Thế thì ai sẽ kiểm chứng độ trung thực của mấy người đó?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"료슈",
+                "content":"Hỏi hay đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"홍루",
+                "content":"Có thể đây chỉ là thủ tục trong nghề của họ thôi thì sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Tiểu Thư Catherine đã yêu cầu đọc lá thư này khi có sự tham gia đông đủ của ba người đại diện...",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"... trước khi tiến hành việc phân chia tài sản như đã định.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Bây giờ tôi sẽ đọc nguyên văn nội dung di nguyện của cô ấy.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Em đã chờ mãi.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Cuối cùng thì các anh cũng đã tề tựu nơi đây.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Em chỉ mong các anh hãy đón nhận những lời cuối của em bằng sự tôn trọng, không chút hiềm khích.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Cầu mong sao không ai trong các anh sẽ phẫn nộ, bởi dù sao đây cũng là tang lễ duy nhất suốt cuộc đời em mà.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Em đã ra đi thanh thản; không đau đớn, không khổ sở nơi chín suối.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Vậy nên đừng quá đau lòng trước cái chết của em.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Bởi khi những lời này được truyền đến tai các anh, em đã chạm tới ngưỡng cửa thiên đường rồi.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Những lời này nói ra không phải có ý ngăn cấm các anh giữ phiền muộn trong lòng.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Cứ khóc, nếu các anh muốn.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Hãy để em cảm nhận nỗi đau ấy như minh chứng cho tình yêu mà cả ba dành cho em.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Đồi Gió Hú. Khu dinh thự biệt lập và cũ kỹ.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Em đã luôn sợ sệt nơi này. Nỗi sợ ấy luôn hiện hữu như những cơn ác mộng đeo bám em hằng đêm.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>... Nhưng giờ đây, khi ở thời khắc gần đất xa trời, em phải học cách chấp nhận bản chất của nó.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Tòa dinh thự này, em sẽ trao lại...<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>... cho người chồng của em, Linton Edgar.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Hãy chăm sóc nơi này, bằng sự hiện diện của nó mà lưu giữ kí ức về em.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"린튼",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"힌들리",
+                "content":"Cái đéo g— Mẹ nó chứ...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Và ôi, người anh duy nhất trên đời này của em, Hindley.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"힌들리",
+                "content":"M-mẹ nó phải chứ...! Tao biết chắc gì cũng có p-phần mà...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":null,
+                "content":"Chân Hindley bắt đầu run cầm cập. Cả giọng nói cũng vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Em đã hay tin anh đang bị bủa vây bởi những món nợ khổng lồ.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Và cả việc anh đã tiêu xài phần lớn tài sản vào rượu chè và cờ bạc.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Em đành phải...<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"힌들리",
+                "content":"Thôi nào, Catherine. Để lại cho anh mày gì đó đi chứ, gì cũng được...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>... gửi anh vào \"Cơ Sở Hồi Phục Chấn Thương Tâm Lý Abyss\" tại Tập Đoàn M.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Nếu anh không tới cơ sở trong vòng 1 tuần sau khi buổi lễ đọc di nguyện kết thúc...<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>... họ sẽ tới cưỡng ép anh đi.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"힌들리",
+                "content":"H... hả?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Em thật sự mong rằng trái tim anh sẽ được chữa lành, hỡi người anh trai yêu dấu của em.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"힌들리",
+                "content":"CON CHÓ CHẾT! Thật hoang đường...! Mày làm như tao tới được Tập Đoàn M trong một tuần ấy?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Và dĩ nhiên, em cũng đã chuẩn bị vé tàu WARP chỉ dành cho riêng mình anh mà thôi, vì vậy đừng lo lắng gì thêm về chi phí di chuyển nữa.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"힌들리",
+                "content":"Lũ chó, có mà bọn mày đi hốt cứt ấy!!!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Nếu còn tái diễn thêm bất cứ hành động gây cản trở việc đọc di nguyện lần nữa...",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"... chúng tôi buộc phải dùng tới biện pháp cưỡng chế mà không báo trước.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"힌들리",
+                "content":"L-lũ khốn, sao bọn mày dám...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Và gửi tới Heathcliff.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Mừng anh đã về.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"Cathy, anh...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"린튼",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Khi ngọn sét thứ bảy đánh xuống căn dinh thự này...<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>... Cành Vàng của em sẽ chính thức thuộc về anh.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Hả?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":null,
+                "content":"Chỉ mới nhắc đến Cành Vàng thôi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":null,
+                "content":"... mà cảm quan của tôi đã bất chợt nhạy bén hơn hẳn rồi. Tôi dám chắc rằng Cành Vàng đang nằm đâu đó trong dinh thự này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"단테",
+                "content":"<…….>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":null,
+                "content":"Nói vậy chứ thực ra ngay từ lúc bước chân tới đây, tôi đã lờ mờ cảm nhận được rằng nó đang được giấu ở trong dinh thự rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":null,
+                "content":"Tuy nhiên, tôi không thể xác định được vị trí chính xác của nó, bởi vì...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":null,
+                "content":"<color=#c29a5f>Em sẽ để lại Cành Vàng của em cho anh, hỡi Heathcliff.<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Cô ta... sở hữu hẳn một cái Cành Vàng cho riêng mình ư? Không phải là tài sản của gia tộc mà chỉ mình cô ta thôi?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ngọn sét thứ bảy á? Là sao nhỉ, có ai có sáng kiến gì không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"단테",
+                "content":"<Không phải là \"một\" Cành Vàng...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"힌들리",
+                "content":"Cái thứ quái quỷ đó có nghĩa là gì vậy? Hả...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":null,
+                "content":"Có nhiều hơn một cái ở đây.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"파우스트",
+                "content":"Dante. Ngài không sao chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"단테",
+                "content":"<Có... cái Cành Vàng thứ hai ở trong dinh thự này.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"Không... đây không phải là thứ mà anh... Anh...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"Quay về đi Cathy. Làm ơn...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"Hãy lắng nghe anh dù chỉ lần này thôi, Cathy!!!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"어린캐서린",
+                "content":"Con nói thật mà! Nelly ơi, căn phòng này bị ám rồi! Con thực sự nhìn thấy ma!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"넬리",
+                "content":"Lại là câu chuyện đó à, Tiểu Thư Cathy? Tôi đã ủi sạch và treo đám hết ma quỷ xấu xa đó lên giá phơi đồ rồi mà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"어린힌들리",
+                "content":"Ma quỷ còn chẳng có thật. Em đúng là nói dối trắng trợn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"어린캐서린",
+                "content":"Em không có nói dối!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"언쇼",
+                "content":"Ta về rồi đây. Xin lỗi các con, hai đứa đợi lâu chưa?",
+                "teller":"Ông Earnshaw",
+                "title":"Đồi Gió Hú"
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"어린힌들리",
+                "content":"Cha, đàn vĩ cầm của con đâu?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"어린캐서린",
+                "content":"Cái cờ lê đa năng từ Tập Đoàn X của con nữa!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"언쇼",
+                "content":"Cái này, ta đành phải xin lỗi tiếp rồi. Ta không còn tay để cầm thêm vĩ cầm hay cái cờ lê khác được nữa.",
+                "teller":"Ông Earnshaw",
+                "title":"Đồi Gió Hú"
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"어린힌들리",
+                "content":"Tay nào...? Hở, cái gì kia?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":"어린캐서린",
+                "content":"Miếng giẻ dơ đó là gì vậy? Kinh quá...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"언쇼",
+                "content":"Ta tìm thấy đứa trẻ này đang chết cóng ngoài đường. Cậu nhóc này đã không còn người thân hay gia đình nữa... nếu cứ để mặc dưới tiết trời thế này thì nhóc ấy sẽ chết mất.",
+                "teller":"Ông Earnshaw",
+                "title":"Đồi Gió Hú"
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":"어린캐서린",
+                "content":"Thì sao chứ? Con không muốn thằng nhóc kinh tởm đó sống ở đây.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":"어린힌들리",
+                "content":"Đúng! Con muốn cây vĩ cầm! Ném cái thứ đó đi đi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":null,
+                "content":"... Mày dòm cái gì?",
+                "teller":"Heathcliff",
+                "title":"???"
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":"어린캐서린",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":"어린힌들리",
+                "content":"Con muốn! Vĩ cầm! Vĩ cầm của con!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":"어린캐서린",
+                "content":"... Cha ơi, sao cậu ta lại chỉ có một mình? Ở giữa phố chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":"언쇼",
+                "content":"Vì nhóc ấy không còn ai ở bên để chăm sóc cả. Tội cho đứa trẻ này...",
+                "teller":"Ông Earnshaw",
+                "title":"Đồi Gió Hú"
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":"언쇼",
+                "content":"Ngoài kia không thiếu gì những đứa trẻ như vậy ở Phố Sau. Không ba mẹ, không người thân thích để chăm lo, cũng không còn nơi để nương tựa nữa...",
+                "teller":"Ông Earnshaw",
+                "title":"Đồi Gió Hú"
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"어린캐서린",
+                "content":"Vậy... cậu ta còn lại gì?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":"언쇼",
+                "content":"Thật ra thì, Cathy à, giờ cậu nhóc này đã có chúng ta chăm sóc cho rồi. Cũng như nơi này sẽ là mái ấm đối với nhóc ấy kể từ giờ.",
+                "teller":"Ông Earnshaw",
+                "title":"Đồi Gió Hú"
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":"어린힌들리",
+                "content":"KHÔNG! Con không cần cái thứ bẩn tưởi đấy đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":"어린캐서린",
+                "content":"Thế nghĩa là anh sẽ vứt bỏ cậu ấy... nhỉ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":"캐서린",
+                "content":"Tiếng gió gầm rú. Tôi nghe thấy tiếng ai oán vang vọng khắp các hành lang trong dinh thự.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":"넬리",
+                "content":"Tôi cũng nghe rõ chúng, thưa tiểu thư. Tôi sẽ đi đóng cửa sổ lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":112,
+                "place":null,
+                "model":"넬리",
+                "content":"Tiểu thư vẫn nhớ chứ? Khi còn nhỏ, người lúc nào cũng bị tiếng gió hú dọa cho kinh hãi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":113,
+                "place":null,
+                "model":"넬리",
+                "content":"Rồi còn nói là đã thấy ma nữa...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":114,
+                "place":null,
+                "model":"캐서린",
+                "content":"Nelly. Tôi vẫn nhìn thấy chúng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":115,
+                "place":null,
+                "model":"넬리",
+                "content":"Thưa tiểu thư, xin cô hãy chú ý sức khỏe của mình hơn, cô chỉ đang thấy những điều hoang đường chỉ vì cơ thể cô đang dần ốm yếu kể từ lúc cậu Heathcliff rời đi mà thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":116,
+                "place":null,
+                "model":"캐서린",
+                "content":"Điều đó không còn quan trọng nữa, Nelly à.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":117,
+                "place":null,
+                "model":"캐서린",
+                "content":"Tôi không còn cảm thấy kinh sợ những bóng ma nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":118,
+                "place":null,
+                "model":"캐서린",
+                "content":"Bởi vì mọi nỗi sợ đều xuất phát từ việc thiếu hiểu biết nguồn cơn của nó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":119,
+                "place":null,
+                "model":"캐서린",
+                "content":"... Cô nghĩ anh ấy đang ở đâu? Heathcliff ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":120,
+                "place":null,
+                "model":"넬리",
+                "content":"Tiểu Thư...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":121,
+                "place":null,
+                "model":"캐서린",
+                "content":"Anh ấy không còn gì trong tay cả... Tôi là tất cả những gì anh ấy có.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

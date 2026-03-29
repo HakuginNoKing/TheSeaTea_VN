@@ -1,203 +1,246 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Stairwell to the Rooftop",
-            "model": "히스클리프",
-            "content": "Nelly..."
-        },
-        {
-            "id": 1,
-            "model": "히스클리프",
-            "content": "You... betrayed me?"
-        },
-        {
-            "id": 2,
-            "model": "넬리",
-            "content": "This manor has never been on your side. Not even once."
-        },
-        {
-            "id": 3,
-            "model": "넬리",
-            "content": "And Heathcliff, I find it rather vexing that you would use the expression 'betrayal'."
-        },
-        {
-            "id": 4,
-            "content": "Heathcliff slowly approaches Nelly."
-        },
-        {
-            "id": 5,
-            "content": "I can't imagine the level of betrayal he must be feeling."
-        },
-        {
-            "id": 6,
-            "model": "히스클리프",
-            "content": "……."
-        },
-        {
-            "id": 7,
-            "model": "히스클리프",
-            "content": "Tell me... tell me why."
-        },
-        {
-            "id": 8,
-            "model": "넬리",
-            "content": "You've really changed, Heathcliff."
-        },
-        {
-            "id": 9,
-            "model": "넬리",
-            "content": "The old you wouldn't have bothered to ask even a single question before swinging that big club at my skull."
-        },
-        {
-            "id": 10,
-            "model": "히스클리프",
-            "content": "I'm asking, because it's you!"
-        },
-        {
-            "id": 11,
-            "model": "히스클리프",
-            "content": "Do I really have to destroy... even our childhood?"
-        },
-        {
-            "id": 12,
-            "model": "넬리",
-            "content": "……."
-        },
-        {
-            "id": 13,
-            "model": "넬리",
-            "content": "Heathcliff... what are you most afraid of?"
-        },
-        {
-            "id": 14,
-            "model": "넬리",
-            "content": "I... wasn't afraid of the ghost that Miss Catherine claimed to have seen. I wasn't afraid of the tempest that sometimes shook this manor. Or how violent Mister Hindley would get when he was drunk."
-        },
-        {
-            "id": 15,
-            "model": "넬리",
-            "content": "Until one day... I became afraid."
-        },
-        {
-            "id": 16,
-            "model": "넬리",
-            "content": "I became afraid of an old woman whose heart and body were aged beyond their years."
-        },
-        {
-            "id": 17,
-            "model": "넬리",
-            "content": "I was that old woman. An old woman who suffered because of you, Heathcliff, and Miss Catherine in every world."
-        },
-        {
-            "id": 18,
-            "model": "넬리",
-            "content": "Round and round you and Miss Catherine went, both plagued by the hatred, the misunderstandings, the terrible obsessions..."
-        },
-        {
-            "id": 19,
-            "model": "넬리",
-            "content": "And I, in every world, was always dragged under that wheel of destruction, suffering and struggling to my last haggardly breath. Again, and again, and again..."
-        },
-        {
-            "id": 20,
-            "model": "넬리",
-            "content": "The worst thing..."
-        },
-        {
-            "id": 21,
-            "model": "넬리",
-            "content": "... was that all of us were ignorant of our doomed fates. I hadn't even an inkling that the two of you were consuming every minute of my life, little by little."
-        },
-        {
-            "id": 22,
-            "model": "넬리",
-            "content": "So... I showed it to her, too."
-        },
-        {
-            "id": 23,
-            "model": "넬리",
-            "content": "I told her that... it was a mirror shard that showed the beholder whatever their heart wished to see."
-        },
-        {
-            "id": 24,
-            "model": "파우스트",
-            "content": "The glass shards can make countless cracks in the hearts of humans."
-        },
-        {
-            "id": 25,
-            "model": "파우스트",
-            "content": "It shakes the very foundation of one's existence."
-        },
-        {
-            "id": 26,
-            "model": "파우스트",
-            "content": "The knowledge of Mirror Worlds can suck the meaning out of every struggle, everything that one has worked for their entire life..."
-        },
-        {
-            "id": 27,
-            "model": "파우스트",
-            "content": "... and plants the seeds of doubt in their heart."
-        },
-        {
-            "id": 28,
-            "model": "파우스트",
-            "content": "Doubts about the very path one seeks to take in their life. It's..."
-        },
-        {
-            "id": 29,
-            "model": "파우스트",
-            "content": "... enough to make them attempt to meddle with the selves in other worlds. Believing that it is the right thing to do."
-        },
-        {
-            "id": 30,
-            "model": "파우스트",
-            "content": "If someone has shown Nelly that mirror... then that must have been precisely their intended outcome."
-        },
-        {
-            "id": 31,
-            "model": "이상",
-            "content": "... Yet, a mirror technology that allows for such high degree of interactivity must be..."
-        },
-        {
-            "id": 32,
-            "model": "넬리",
-            "content": "Then... everything began to unravel all on its own."
-        },
-        {
-            "id": 33,
-            "model": "넬리",
-            "content": "She conversed with someone on the other end of the mirror for a long time. Someone who was suffering as much as she was."
-        },
-        {
-            "id": 34,
-            "model": "넬리",
-            "content": "Then the laboratory began to take shape."
-        },
-        {
-            "id": 35,
-            "model": "넬리",
-            "content": "Oh, she mustn't have known even in her wildest dreams. She never once doubted me, even as she closed her eyes forevermore in that coffin! As naive as any other sheltered child, a caged bird."
-        },
-        {
-            "id": 36,
-            "model": "넬리",
-            "content": "I suppose it wasn't only naïveté, but also her own temperament. She was the kind of person who always had to be the center of everything."
-        },
-        {
-            "id": 37,
-            "model": "히스클리프",
-            "content": "……."
-        },
-        {
-            "id": 38,
-            "model": "넬리",
-            "content": "But please, do not deny every memory we've shared together."
-        },
-        {
-            "id": 39,
-            "model": "넬리",
-            "content": "The pity I felt for you as they abused you, wishing that you would live your best life, a life better than anyone else's... were all my honest feelings."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Bậc Thang dẫn lên Tầng Thượng",
+                "model":"히스클리프",
+                "content":"Nelly..."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Cô... phản bội con sao?"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"넬리",
+                "content":"Nơi này chưa bao giờ đứng về phía con cả. Chưa từng một lần."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"넬리",
+                "content":"Và Heathcliff, trưng ra bộ mặt như thể bị \"phản bội\" khiến ta buồn lòng lắm đấy."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff từ từ tiếp cận Nelly."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Tôi không thể tưởng tượng được mức độ phản bội mà anh ấy đang cảm thấy bây giờ."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"히스클리프",
+                "content":"……."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Nói con... nói con nghe tại sao."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"넬리",
+                "content":"Con đã thực sự thay đổi nhỉ, Heathcliff."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"넬리",
+                "content":"Nếu là con của ngày xưa thì sẽ không ngần ngại vung cây chày sắt đó vào đầu ta từ lâu rồi."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Do là cô con mới đang hỏi đấy."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Không lẽ con phải thậm chí huỷ diệt... cả tuổi thơ của chúng ta?"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"넬리",
+                "content":"……."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"넬리",
+                "content":"Heathcliiff... điều gì khiến con sợ hãi nhất?"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"넬리",
+                "content":"Ta... không hề sợ hãi thứ bóng dáng Tiểu Thư Catherine luôn đinh ninh nhìn thấy. Dù đó có là cơn giông làm rung chuyển cả dinh thự hay là những lúc Ngài Hindley say khướt đi nữa, ta cũng sẽ không nao núng."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"넬리",
+                "content":"Ấy thế mà cái ngày định mệnh kia... ta lại bắt đầu sợ hãi."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"넬리",
+                "content":"Ta sợ hãi chính bóng dáng người phụ nữ già nua đang dần húa tàn theo năm tháng đó."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"넬리",
+                "content":"Và ta chính là mụ già đấy. Tên đàn bà yếu đuối đang khổ sở vì chính con đấy, Heathcliff, và cả Tiểu Thư Catherine ở bao thế giới khác kia."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"넬리",
+                "content":"Cả hai luôn cuốn vào một vòng xoáy hận thù, ngờ vực, ám ảnh và giày vò nhau không hồi kết,"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"넬리",
+                "content":"Và chính ta, ở từng thế giới đó, lại là người luôn bị cuốn vào vòng xoáy hủy diệt, đầy khổ sở kia, để rồi chỉ có thể vật lộn níu kéo từng hơi thở héo hắt cuối cùng. Lặp đi lặp lại, lặp đi lặp lại biết bao lần..."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"넬리",
+                "content":"Tệ nhất là..."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"넬리",
+                "content":"... tất cả chúng ta đều không hay biết gì đến số phận bi thảm đang ập tới. Ta cũng chẳng từng nghi ngờ rằng chính hai người lại đang hao phí từng giây, từng phút của bản thân ta như thế."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"넬리",
+                "content":"Thế là... ta cũng đã đưa nó cho cô chủ."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"넬리",
+                "content":"Ta đã nói với cô chủ rằng... thứ đó là mảnh gương có thể cho người cầm thấy được khung cảnh bản thân hẳng ao ước từ tận sâu tâm can mình."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"파우스트",
+                "content":"Những mảnh gương có thể tạo ra vô số vết nứt trong trái tim con người."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"파우스트",
+                "content":"Thứ đó đồng thời làm rung chuyển nền tảng tồn tại của họ."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"파우스트",
+                "content":"Kiến thức về Thế giới Gương có thể hút cạn ý nghĩa của mọi cuộc đấu tranh, mọi thứ mà một người đã nỗ lực trong suốt cuộc đời mình..."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"파우스트",
+                "content":"... và gieo mầm mống của sự ngờ vực vào trong trái tim bản thân."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"파우스트",
+                "content":"Những nghi ngờ về chính con đường mà một người tìm kiếm trong cuộc sống của họ. Nó..."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"파우스트",
+                "content":"... đủ để khiến người đó cố gắng can thiệp vào bản thân ở những thế giới khác. Và tin rằng đó là điều đúng đắn nên làm."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"파우스트",
+                "content":"Nên nếu ai đó đã cho Nelly xem tấm gương đó... thì đó hẳn chính xác là kết quả mà họ mong muốn."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"이상",
+                "content":"... Nhưng, một công nghệ gương cho phép một mức độ tương tác cao như thế phải..."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"넬리",
+                "content":"Vậy là... mọi thứ sụp đổ kể từ giây phút đó."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"넬리",
+                "content":"Cô chủ đã trò chuyện rất lâu với một ai khác ở phía bên kia tấm gương. Với một người cũng đang phải chịu đau khổ như cô ấy vậy."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"넬리",
+                "content":"Sau đó khu nghiên cứu dần được hình thành."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"넬리",
+                "content":"À, kể cả khi ở trong giấc mộng hoang đường nhất đi nữa, ta dám chắc cô ấy sẽ không ngờ vực gì đâu, dù cho có nhắm mắt xuôi tay vĩnh viễn ở trong cái quan tài kia! Ngây thơ như những con chim được bao bọc trong chính cái lồng của mình vậy."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"넬리",
+                "content":"Mà có khi cũng chẳng phải ngây thơ thôi đâu, tính khí của cô chủ vốn đã vậy rồi. Lúc nào cũng phải là trung tâm của mọi thứ."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"히스클리프",
+                "content":"……."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"넬리",
+                "content":"Nhưng ta mong con hiểu cho ta rằng, đừng chối bỏ những kỉ niệm đẹp thơ ấu mà chúng ta dành bên nhau."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"넬리",
+                "content":"Dù cho là những lần thương hại khi họ bóc lột con đi nữa, những lần cầu nguyện cho con được sống hạnh phúc, mong cho con có cuộc sống đẹp đẽ hơn tất thảy những ai khác... đó cũng đều là những cảm xúc thật lòng từ ta cả."
+            }
+        ]
+    }
+

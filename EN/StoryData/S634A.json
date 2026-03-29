@@ -1,433 +1,638 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights of a Distant World",
-            "model": "히스클리프과거",
-            "teller": "Heathcliff",
-            "title": "???",
-            "content": "Is she... dead?"
-        },
-        {
-            "id": 1,
-            "model": "히스클리프과거",
-            "teller": "Heathcliff",
-            "title": "???",
-            "content": "Tell me everything. Please, give me a true history of the event. How did... How did C-Cathy die? Did she pass away with the same kind smile on her face?"
-        },
-        {
-            "id": 2,
-            "model": "넬리",
-            "content": "Quietly, as a lamb."
-        },
-        {
-            "id": 3,
-            "model": "히스클리프과거",
-            "teller": "Heathcliff",
-            "title": "???",
-            "content": "And—did she ever mention me?"
-        },
-        {
-            "id": 4,
-            "model": "넬리",
-            "content": "She could not; for her senses never returned. She lay with a sweet smile on her face. Her life closed in a gentle dream... may her final slumber be a peaceful one."
-        },
-        {
-            "id": 5,
-            "model": "히스클리프과거",
-            "teller": "Heathcliff",
-            "title": "???",
-            "content": "No..."
-        },
-        {
-            "id": 6,
-            "model": "히스클리프과거",
-            "teller": "Heathcliff",
-            "title": "???",
-            "content": "No... May her... May Cathy..."
-        },
-        {
-            "id": 7,
-            "model": "히스클리프과거",
-            "teller": "Heathcliff",
-            "title": "???",
-            "content": "... May she wake in torment!"
-        },
-        {
-            "id": 8,
-            "model": "넬리",
-            "content": "Wha... what?"
-        },
-        {
-            "id": 9,
-            "model": "히스클리프과거",
-            "teller": "Heathcliff",
-            "title": "???",
-            "content": "I... I-I... I... I killed Cathy, didn't I? I am her murderer, aren't I?"
-        },
-        {
-            "id": 10,
-            "model": "히스클리프과거",
-            "teller": "Heathcliff",
-            "title": "???",
-            "content": "Haunt me then, Cathy! Be a ghost and haunt me, be with me always! Only do not leave me in this abyss, where I cannot find you. I cannot live without you!"
-        },
-        {
-            "id": 11,
-            "model": "넬리",
-            "content": "H-Heathcliff?"
-        },
-        {
-            "id": 12,
-            "model": "히스클리프과거",
-            "teller": "Heathcliff",
-            "title": "???",
-            "content": "Cathy, you... may you not rest as long as I am living! And nor shall I!"
-        },
-        {
-            "id": 13,
-            "place": "Aboard Mephistopheles",
-            "model": "단테",
-            "content": "<Why’d you leave Wuthering Heights? It's where the love of your life lives, isn't it?>"
-        },
-        {
-            "id": 14,
-            "place": "Abo*#d Mep@istopheles",
-            "model": "히스클리프",
-            "content": "Yeah, Clockhead. You've asked me that question once."
-        },
-        {
-            "id": 15,
-            "model": "히스클리프",
-            "content": "But that was a wrong question to ask. ... You should've asked me why I endured, not why I left."
-        },
-        {
-            "id": 16,
-            "place": "Ab&#$* M#$%ito@#eles",
-            "model": "히스클리프",
-            "content": "The thrashings, the humiliation, the scorn, the pain, the starvings... I could endure it all. I just had to weather it, let it pass over me. That's what I always did, anyway."
-        },
-        {
-            "id": 17,
-            "model": "히스클리프",
-            "content": "Despite all that, I decided to leave Wuthering Heights behind because..."
-        },
-        {
-            "id": 18,
-            "place": "&*@#!#$ @#%&@@&#^%les",
-            "model": "히스클리프",
-            "content": "... because I finally realized something."
-        },
-        {
-            "id": 19,
-            "place": "Wuthering Heights Past",
-            "model": "캐서린",
-            "content": "... So Linton will be made quite affluent soon. If I were to marry him... I shall be the greatest inventor of the neighborhood, no? Perhaps I shall be awarded the 'Inventor of the Year' award from T Corp!"
-        },
-        {
-            "id": 20,
-            "model": "넬리",
-            "content": "Then... what of Heathcliff, Miss Catherine?"
-        },
-        {
-            "id": 21,
-            "model": "캐서린",
-            "content": "Nelly, please! Don't say such foolish things. It would degrade me if I were to marry Heathcliff."
-        },
-        {
-            "id": 22,
-            "model": "캐서린",
-            "content": "We'd both be destitute if such a thing were to happen."
-        },
-        {
-            "id": 23,
-            "content": "<color=#dc3531>Tell me. Tell me why you couldn't bear to remain at Wuthering Heights anymore.</color>"
-        },
-        {
-            "id": 24,
-            "place": "&*%@#!#$% @#~*",
-            "model": "히스클리프",
-            "content": "Because I finally understood that Catherine..."
-        },
-        {
-            "id": 25,
-            "model": "히스클리프",
-            "content": "... did not love me."
-        },
-        {
-            "id": 26,
-            "model": "히스클리프",
-            "content": "And if I had to stay here and watch her marry Linton, right before my eyes..."
-        },
-        {
-            "id": 27,
-            "model": "히스클리프",
-            "content": "... I would have done something so violent, so brutal against Linton... or even against Cathy."
-        },
-        {
-            "id": 28,
-            "model": "히스클리프",
-            "content": "I could not stand that. Not even the idea of it."
-        },
-        {
-            "id": 29,
-            "model": "히스클리프",
-            "content": "So I ran."
-        },
-        {
-            "id": 30,
-            "model": "히스클리프",
-            "content": "From this manor that degraded me, made me a wretch."
-        },
-        {
-            "id": 31,
-            "model": "히스클리프",
-            "content": "From this manor that taught me love, only to deprive me of it."
-        },
-        {
-            "id": 32,
-            "model": "히스클리프",
-            "content": "... No. I was always a wretch. From the moment I was born."
-        },
-        {
-            "id": 33,
-            "model": "히스클리프",
-            "content": "A lowly thing like me should not have been allowed to be here in the first place. That's why I tore myself from it."
-        },
-        {
-            "id": 34,
-            "model": "히스클리프",
-            "content": "But... I've never given up on Cathy."
-        },
-        {
-            "id": 35,
-            "model": "히스클리프",
-            "content": "I only wanted her to realize that she was wrong. To regret what she's done. So that she'll one day return to me."
-        },
-        {
-            "id": 36,
-            "content": "<color=#dc3531>But... what about now?</color>"
-        },
-        {
-            "id": 37,
-            "model": "히스클리프",
-            "content": "Pointless. It's all pointless."
-        },
-        {
-            "id": 38,
-            "content": "<color=#dc3531>Then... what can you do now?</color>"
-        },
-        {
-            "id": 39,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi",
-            "content": "'As per the deceased's wishes, the will shall be read out aloud here, at Miss Catherine's manor...'"
-        },
-        {
-            "id": 40,
-            "model": "린튼",
-            "content": "‘Catherine, she's... dead.’"
-        },
-        {
-            "id": 41,
-            "model": "린튼",
-            "content": "'We were married.'"
-        },
-        {
-            "id": 42,
-            "model": "마왕히스클리프1",
-            "teller": "Heathcliff?",
-            "title": "???",
-            "content": "‘Catherine lies dead... because of you.'"
-        },
-        {
-            "id": 43,
-            "model": "마왕히스클리프1",
-            "teller": "Heathcliff?",
-            "title": "???",
-            "content": "‘Do you still fail to understand? We are her murderers.’"
-        },
-        {
-            "id": 44,
-            "model": "마왕히스클리프1",
-            "teller": "Heathcliff?",
-            "title": "???",
-            "content": "‘Every Catherine... was destined... to be miserable.’"
-        },
-        {
-            "id": 45,
-            "model": "마왕히스클리프1",
-            "teller": "Heathcliff?",
-            "title": "???",
-            "content": "‘Because of Heathcliff.’"
-        },
-        {
-            "id": 46,
-            "model": "마왕히스클리프1",
-            "teller": "Heathcliff?",
-            "title": "???",
-            "content": "Behold! The fragments of every possible world!"
-        },
-        {
-            "id": 47,
-            "model": "마왕히스클리프1",
-            "teller": "Heathcliff?",
-            "title": "???",
-            "content": "In every world, in every single strand of infinite possibilities... Heathcliff breaks her heart, condemning her to a death most wretched."
-        },
-        {
-            "id": 48,
-            "model": "히스클리프",
-            "content": "My head hurts."
-        },
-        {
-            "id": 49,
-            "model": "히스클리프",
-            "content": "I'm bleeding. And this..."
-        },
-        {
-            "id": 50,
-            "model": "히스클리프",
-            "content": "... this is the sound of my... distant self bashing his head against the tree trunk."
-        },
-        {
-            "id": 51,
-            "model": "히스클리프과거",
-            "teller": "Heathcliff",
-            "title": "???",
-            "content": "I'm back..."
-        },
-        {
-            "id": 52,
-            "model": "히스클리프과거",
-            "teller": "Heathcliff",
-            "title": "???",
-            "content": "I said I'm back, Cathy..."
-        },
-        {
-            "id": 53,
-            "content": "<color=#dc3531>Look at him. What do you feel?</color>"
-        },
-        {
-            "id": 54,
-            "model": "히스클리프",
-            "content": "... Is that even a human?"
-        },
-        {
-            "id": 55,
-            "model": "히스클리프",
-            "content": "Isn't that thing just a bundle of waste, wrapped in a filthy rag that only resembles human flesh?"
-        },
-        {
-            "id": 56,
-            "model": "히스클리프",
-            "content": "I've changed? That I'll show her how I've grown as a person?"
-        },
-        {
-            "id": 57,
-            "model": "히스클리프",
-            "content": "No. Of course not. It never could have worked from the start."
-        },
-        {
-            "id": 58,
-            "model": "히스클리프",
-            "content": "How could it, when I'm not even a person?"
-        },
-        {
-            "id": 59,
-            "content": "<color=#dc3531>What do you think of yourself, Heathcliff?</color>"
-        },
-        {
-            "id": 60,
-            "model": "히스클리프",
-            "content": "Do I even deserve to speak as humans do?"
-        },
-        {
-            "id": 61,
-            "model": "히스클리프",
-            "content": "I, who killed Catherine..."
-        },
-        {
-            "id": 62,
-            "model": "히스클리프",
-            "content": "You, who deprived me of Catherine..."
-        },
-        {
-            "id": 63,
-            "model": "히스클리프",
-            "content": "... Must be a thing lesser than a savage beast."
-        },
-        {
-            "id": 64,
-            "model": "히스클리프",
-            "content": "Then..."
-        },
-        {
-            "id": 65,
-            "model": "히스클리프",
-            "content": "... why should I even keep pretending to be human when I am not?"
-        },
-        {
-            "id": 66,
-            "model": "히스클리프",
-            "content": "If they were right... that if I really were to become nothing more than a howling, savage beast..."
-        },
-        {
-            "id": 67,
-            "content": "<color=#dc3531>A wild, heartbroken hound, abandoned by his master...</color>"
-        },
-        {
-            "id": 68,
-            "content": "<color=#dc3531>... that is the shape of your heart and its desire, isn't it?</color>"
-        },
-        {
-            "id": 69,
-            "model": "히스클리프",
-            "content": "Yes. I shall become an infernal hound; snarling, tearing at the fabric of the City... And I will shove its remnants into this sack... and grate it across the broken earth."
-        },
-        {
-            "id": 70,
-            "model": "히스클리프",
-            "content": "I curse myself... and everything that did this to me and Cathy..."
-        },
-        {
-            "id": 71,
-            "content": "<color=#dc3531>Then it can be as you wish.</color>"
-        },
-        {
-            "id": 72,
-            "model": "어린캐서린",
-            "content": "Run, Heathcliff!"
-        },
-        {
-            "id": 73,
-            "model": "어린캐서린",
-            "content": "Run!"
-        },
-        {
-            "id": 74,
-            "model": "어린히스클리프",
-            "content": "Cathy, your ankle...!"
-        },
-        {
-            "id": 75,
-            "model": "어린캐서린",
-            "content": "Go! I said go!"
-        },
-        {
-            "id": 76,
-            "model": "어린히스클리프",
-            "content": "I... I promise I'll...!"
-        },
-        {
-            "id": 77,
-            "model": "어린히스클리프",
-            "content": "I promise I'll come back for you."
-        },
-        {
-            "id": 78,
-            "content": "<color=#4e3076>Welcome home, Heathcliff.</color>"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Đồi Gió Hú của Một Thế Giới Xa Vời",
+                "model":"히스클리프과거",
+                "teller":"Heathcliff",
+                "title":"???",
+                "content":"Nàng... chết rồi ư?"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"히스클리프과거",
+                "teller":"Heathcliff",
+                "title":"???",
+                "content":"Nói cho con nghe đi. Làm ơn, hãy cho con phiên bản thật của câu chuyện đi. C-Cathy đã... đã chết như thế nào?"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"넬리",
+                "teller":null,
+                "title":null,
+                "content":"Lặng thinh, như chú cừu non."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"히스클리프과거",
+                "teller":"Heathcliff",
+                "title":"???",
+                "content":"Và—nàng có nhắc đến con không?"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"넬리",
+                "teller":null,
+                "title":null,
+                "content":"Cô ấy không hề. Cô chủ đã không còn tỉnh dậy được nữa. Cô đã ra đi với nụ cười thanh thản trên môi. Cuộc đời của cô ấy đã khép lại như một giấc mơ đẹp... cầu mong sao cho giấc ngủ cuối cùng của cô chủ được bình yên."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"히스클리프과거",
+                "teller":"Heathcliff",
+                "title":"???",
+                "content":"Không..."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"히스클리프과거",
+                "teller":"Heathcliff",
+                "title":"???",
+                "content":"Không... Cầu mong nàng... Cầu mong Cathy..."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"히스클리프과거",
+                "teller":"Heathcliff",
+                "title":"???",
+                "content":"... Cầu mong nàng thức dậy trong đau khổ!"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"넬리",
+                "teller":null,
+                "title":null,
+                "content":"Sa... sao lại?"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"히스클리프과거",
+                "teller":"Heathcliff",
+                "title":"???",
+                "content":"C...c-con... con... con đã giết Cathy, đúng không? Con là kẻ sát nhân của nàng, không phải sao?"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"히스클리프과거",
+                "teller":"Heathcliff",
+                "title":"???",
+                "content":"Vậy thì hãy ám tôi đi, Cathy! Hãy hiện hồn về trên cõi trần này và ám tôi đi. Hãy mãi ở bên tôi đến tận cùng! Đừng bỏ tôi lại trong địa ngục này, nơi mà tôi không thể với tới em. Tôi không thể sống thiếu em được!"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"넬리",
+                "teller":null,
+                "title":null,
+                "content":"H-Heathcliff à?"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"히스클리프과거",
+                "teller":"Heathcliff",
+                "title":"???",
+                "content":"Cathy, em... cầu mong em không yên nghỉ chừng nào tôi còn sống! Và cả tôi cũng vậy!!"
+            },
+            {
+                "id":13,
+                "place":"Ở trên chiếc Mephistopheles",
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Tại sao anh lại rời khỏi Đồi Gió Hú? Đó là nơi tình yêu của đời anh sống mà, phải không?>"
+            },
+            {
+                "id":14,
+                "place":"Ở tr*n chi#c Mep@istopheles",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Ừ, Đầu Đồng Hồ. Mày hỏi tao câu đó một lần rồi."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Nhưng hỏi vậy là sai rồi... Mày phải hỏi là tại sao tao ở lại chịu đựng, chứ không phải tại sao tao rời đi."
+            },
+            {
+                "id":16,
+                "place":"Ở tr&n #hi$c M#$%ito@#eles",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Những đòn roi, những lần bị hạ nhục, những câu chửi, những cơn đau, những lần đói... tao đã có thể cam chịu tất cả. Tao chỉ đứng vững, đợi cho nó qua. Trước giờ tao toàn làm vậy."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Dù vậy đi nữa, tao quyết định bỏ Đồi Gió Hú lại là vì..."
+            },
+            {
+                "id":18,
+                "place":"&*@#!#$ @#%&@@&#^%les",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"... vì tao cuối cùng đã nhận ra một thứ."
+            },
+            {
+                "id":19,
+                "place":"Đồi Gió Hú trong Quá Khứ",
+                "model":"캐서린",
+                "teller":null,
+                "title":null,
+                "content":"... Có vẻ như Linton sẽ sớm phất lên. Chẳng phải kết hôn với anh ấy... đồng nghĩa với việc tôi sẽ trở thành nhà phát minh vĩ đại nhất khu phố này sao? Có khi còn được Tập Đoàn T. trao giải \"Nhà phát minh của năm\" ấy!"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"넬리",
+                "teller":null,
+                "title":null,
+                "content":"Thế còn... Heathcliff thì sao, Tiểu Thư Catherine?"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"캐서린",
+                "teller":null,
+                "title":null,
+                "content":"Ôi Nelly, làm ơn! Đừng thốt lên những lời đường đột thế chứ. Nếu mà lấy Heathcliff thì tôi mất đi danh giá của bản thân đấy."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"캐서린",
+                "teller":null,
+                "title":null,
+                "content":"Cả hai chúng tôi sẽ lâm cảnh ăn mày nếu chuyện như thế xảy ra."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"<color=#dc3531>Hãy nói em nghe. Vì sao anh không thể chịu đựng được Đồi Gió Hú nữa.<\/color>"
+            },
+            {
+                "id":24,
+                "place":"&*%@#!#$% @#~*",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Bởi vì cuối cùng tao đã hiểu rằng Catherine..."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"... không hề yêu tao."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Và nếu tao phải nán lại đó và ngồi xem ẻm cưới Linton, ngay trước mắt tao..."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"... Tao chắc chắn sẽ làm một hành động gì đó vô cùng bạo lực, vô cùng hung tợn đến Linton... hay ngay cả đến Cathy."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Tao không thể chịu nổi điều đó. Thậm chí nghĩ đến thôi đã không yên lòng."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Nên tao đã chạy."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Chạy khỏi cái dinh thự đã làm nhục tao, khiến tao trở thành một thằng khốn nạn."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Chạy khỏi cái dinh thự đã dạy tao về tình yêu, cuối cùng chỉ để lấy thứ đó đi từ tao."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"... Không. Tao đã khốn nạn từ trước đến giờ rồi. Ngay từ khoảnh khắc tao được sinh ra."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Một thứ thấp hèn như tao lẽ ra không bao giờ được phép sống ở đây. Đó là lý do tại sao tao tự mình rời đi."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Nhưng... tao vẫn không bao giờ quên được Cathy."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Tao chỉ muốn ẻm nhận thấy được là ẻm sai rồi. Là ẻm hối hận những điều ẻm làm. Để một ngày ẻm trở về với tao."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"<color=#dc3531>Vậy... bây giờ thì sao?<\/color>"
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Vô nghĩa. Tất cả là vô nghĩa."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"<color=#dc3531>Thế... anh còn làm gì được?<\/color>"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"외우피협회보스F",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Öufi",
+                "content":"Theo như di nguyện của người đã khuất, chúng tôi sẽ đọc to rõ lời của người ra đi để lại, tại chính dinh thự của Tiểu Thư Catherine..."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"린튼",
+                "teller":null,
+                "title":null,
+                "content":"Catherine, cô ấy... đã chết.\""
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"린튼",
+                "teller":null,
+                "title":null,
+                "content":"Chúng tôi đã kết hôn với nhau.\""
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"마왕히스클리프1",
+                "teller":"Heathcliff?",
+                "title":"???",
+                "content":"Catherine ra đi... là vì ngươi\""
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"마왕히스클리프1",
+                "teller":"Heathcliff?",
+                "title":"???",
+                "content":"Ngươi vẫn chưa hiểu à? Chúng ta chính là những người đã giết nàng.\""
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"마왕히스클리프1",
+                "teller":"Heathcliff?",
+                "title":"???",
+                "content":"Tất cả Catherine... đều bị định phận... là sẽ khốn khổ.\""
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"마왕히스클리프1",
+                "teller":"Heathcliff?",
+                "title":"???",
+                "content":"Bởi vì Heathcliff.\""
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"마왕히스클리프1",
+                "teller":"Heathcliff?",
+                "title":"???",
+                "content":"Xem này! Những mảnh vỡ từ tất cả các thế giới!"
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"마왕히스클리프1",
+                "teller":"Heathcliff?",
+                "title":"???",
+                "content":"Trong bất kỳ thế giới nào, bất kỳ rẽ nhánh nào trong vô hạn viễn cảnh... Heathcliff đều phá tan nát trái tim nàng, và đẩy nàng vào một cái chết bần cùng nhất có thể."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Đầu tao đau."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Tao đang chảy máu. Và cái này..."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"... đây là âm thanh mà... bản thể khác của tao đập đầu hắn vào cái thân cây."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"히스클리프과거",
+                "teller":"Heathcliff",
+                "title":"???",
+                "content":"Tôi về rồi."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"히스클리프과거",
+                "teller":"Heathcliff",
+                "title":"???",
+                "content":"Cathy ơi tôi về rồi..."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"<color=#dc3531>Hãy nhìn anh ta đi. Anh thấy như thế nào?<\/color>"
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"... Nó còn có phải là con người không?"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Hay chỉ là một đống cặn bã, được gói trong cái giẻ rách gọi là da của nó?"
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Tao đã thay đổi? Rằng tao sẽ cho ẻm thấy tao là một con người đã trưởng thành?"
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Không. Tất nhiên là không được. Thậm chí ngay từ đầu cái kế hoạch này đã đổ bể."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Trưởng thành thế nào, khi tao còn không phải là con người?"
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"<color=#dc3531>Anh nghĩ gì về bản thân, hỡi Heathcliff?<\/color>"
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Tao có còn thậm chí xứng đáng nói tiếng người không?"
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Tao, người đã giết Catherine..."
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Mày, người đã lấy đi Catherine từ tao..."
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"... Cả hai ta chắc hẳn là một thứ hạ đẳng hơn cả súc vật."
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Thế thì..."
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"... tại sao tao cứ phải giả làm người khi tao còn không phải người?"
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Nếu tụi nó nói đúng... rằng nếu tao thật sự sẽ trở thành một con thú hoang man rợ, gào hú..."
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"<color=#dc3531>Một con chó săn hoang dại, tan nát cõi lòng và bị bỏ rơi bởi chủ nhân...<\/color>"
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"<color=#dc3531>... chẳng phải trái tim anh đang khao khát thứ dáng hình đó sao?<\/color>"
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Đúng. Tao sẽ trở thành một con chó săn địa ngục; gầm gừ, cắn xé đi tấm vải gọi là Thành Phố... Và tao sẽ nhồi hết tất cả những gì còn lại vào cái túi xác này... và nghiến khắp mặt đất hoang tàn."
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Tao nguyền rủa bản thân... và tất cả những gì đã khiến tao và Cathy trở nên như thế này..."
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"<color=#dc3531>Thế thì nó sẽ như ý muốn của anh.<\/color>"
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"어린캐서린",
+                "teller":null,
+                "title":null,
+                "content":"Chạy đi, Heathcliff!"
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"어린캐서린",
+                "teller":null,
+                "title":null,
+                "content":"Chạy đi!"
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"어린히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Cathy, mắt cá chân cậu...!"
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"어린캐서린",
+                "teller":null,
+                "title":null,
+                "content":"ĐI! Tớ đã bảo là đi rồi mà!"
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"어린히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Mình... Mình hứa mình sẽ...!"
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"어린히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Mình hứa mình sẽ quay trở lại vì cậu."
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"<color=#4e3076>Chào mừng quay trở lại, Heathcliff.<\/color>"
+            }
+        ]
+    }
+

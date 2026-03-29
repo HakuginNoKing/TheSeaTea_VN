@@ -1,1140 +1,1710 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": "Carnival Parade",
-      "model": "돈키호테",
-      "content": "Answer me now! What is it that thou claimest that I have?"
-    },
-    {
-      "id": 1,
-      "model": "돈키호테",
-      "content": "What weight did my name carry?! Speak!!"
-    },
-    {
-      "id": 2,
-      "model": "돈키호테",
-      "content": "Where— How— Where didst thou..."
-    },
-    {
-      "id": 3,
-      "model": "돌시네아다침",
-      "content": "... Everything. Everything that we Bloodfiends of this Area desire."
-    },
-    {
-      "id": 4,
-      "model": "돌시네아다침",
-      "content": "To exist in ignorance of the truth that we are but going in circles, not marching toward what lies ahead..."
-    },
-    {
-      "id": 5,
-      "model": "돌시네아다침",
-      "content": "Something that we all desire but own not, yet you have..."
-    },
-    {
-      "id": 6,
-      "model": "산손",
-      "content": "Oblivion."
-    },
-    {
-      "id": 7,
-      "model": "산손",
-      "content": "That which all who are lost in this Area yearn so desperately for."
-    },
-    {
-      "id": 8,
-      "model": "산손",
-      "content": "The privilege to flee from everything. From desires, from shame."
-    },
-    {
-      "id": 9,
-      "model": "산손",
-      "content": "The gift of oblivion, the innocence, the naïveté to endure and live through another day."
-    },
-    {
-      "id": 10,
-      "model": "히스클리프",
-      "content": "No, not again...!"
-    },
-    {
-      "id": 11,
-      "model": "돈키호테",
-      "content": "…!"
-    },
-    {
-      "id": 12,
-      "model": "산손",
-      "content": "I thought it was about time you missed me."
-    },
-    {
-      "id": 13,
-      "model": "산손",
-      "content": "It is high time you regaled us with that particular tale, isn't it?"
-    },
-    {
-      "id": 14,
-      "model": "산손",
-      "content": "Tell us how that grand adventure, for which you abandoned us all, ended."
-    },
-    {
-      "id": 15,
-      "model": "이스마엘",
-      "content": "What...?"
-    },
-    {
-      "id": 16,
-      "model": "산손",
-      "content": "Galloping on, and on..."
-    },
-    {
-      "id": 17,
-      "model": "산손",
-      "content": "As always, Rocinante was merrily and energetically galloping on with you upon its saddle..."
-    },
-    {
-      "id": 18,
-      "model": "로메로다침",
-      "content": "... Come on... just die!"
-    },
-    {
-      "id": 19,
-      "model": "로메로다침",
-      "content": "Hngh..."
-    },
-    {
-      "id": 20,
-      "model": "산손",
-      "content": "... while leaving us to slowly expire in a most painful death. Just like this poor soul."
-    },
-    {
-      "id": 21,
-      "model": "돈키호테",
-      "content": "... Enough."
-    },
-    {
-      "id": 22,
-      "model": "돈키호테",
-      "content": "Please... Enough..."
-    },
-    {
-      "id": 23,
-      "model": "돈키호테",
-      "content": "Thy strength must surpass mine; thus bound I have become by thy sorcery. Yes..."
-    },
-    {
-      "id": 24,
-      "model": "돈키호테",
-      "content": "So please, I must beseech thee so. I have no choice but to beg, for I cannot turn my tongue into a sharp spear to skewer thee...!"
-    },
-    {
-      "id": 25,
-      "model": "돈키호테",
-      "content": "I will pray unto thee, cower and grovel before thee... to cease this wickedness!"
-    },
-    {
-      "id": 26,
-      "model": "산손",
-      "content": "Well, why stop now? Don't you just love sharing the stories of your adventures with everyone? Isn't this exactly what you have always wished for?"
-    },
-    {
-      "id": 27,
-      "model": "산손",
-      "content": "You have such a captive audience before you, listening to your tale more intently than ever. You won't get another opportunity like this."
-    },
-    {
-      "id": 28,
-      "model": "돈키호테",
-      "content": "... I don't want to. Not anymore."
-    },
-    {
-      "id": 29,
-      "model": "산손",
-      "content": "But you will."
-    },
-    {
-      "id": 30,
-      "model": "산손",
-      "content": "You will share your tale."
-    },
-    {
-      "id": 31,
-      "model": "산손",
-      "content": "For that is your role in this play."
-    },
-    {
-      "id": 32,
-      "place": "Where None Shall Tread",
-      "model": "산손",
-      "content": "Thus you, Rocinante, and the Knight of the White Moon embark on your final adventure. Or, perhaps, it would be more accurate to say that... you fled."
-    },
-    {
-      "id": 33,
-      "model": "기사싱클",
-      "content": "We saw so many rivers on our way here, didn't we?"
-    },
-    {
-      "id": 34,
-      "model": "기사돈키",
-      "content": "All these rivers... were beneath the City all along?"
-    },
-    {
-      "id": 35,
-      "model": "기사싱클",
-      "content": "It is said that when an efflorescent tree comes to blossom, steeped and nurtured in the waters of many rivers since its saplinghood, it becomes imbued with a special power."
-    },
-    {
-      "id": 36,
-      "model": "기사싱클",
-      "content": "I can't even begin to imagine what powers a tree born from that particular river may hold."
-    },
-    {
-      "id": 37,
-      "model": "기사돈키",
-      "content": "Pray tell, what river is it that we seek?"
-    },
-    {
-      "id": 38,
-      "model": "기사싱클",
-      "content": "Well, none of the rivers we've walked by is the one we're looking for."
-    },
-    {
-      "id": 39,
-      "model": "기사돈키",
-      "content": "... Not this one either, then?"
-    },
-    {
-      "id": 40,
-      "model": "기사싱클",
-      "content": "Regrettably, no. Perhaps we should seek a river that flows even deeper into the abyss."
-    },
-    {
-      "id": 41,
-      "model": "기사싱클",
-      "content": "The depths of the Ruins are certainly dangerous, even for someone who's ventured down here in the past. It's giving even you a run for your money, isn't it?"
-    },
-    {
-      "id": 42,
-      "model": "기사돈키",
-      "content": "... What river is this...?"
-    },
-    {
-      "id": 43,
-      "model": "기사싱클",
-      "content": "Whoever drinks the waters of this river shall be granted a vision of... a certain future. It brings the drinker visions of what is to come, yet blinds them to all things save for those of the future, driving them to insanity."
-    },
-    {
-      "id": 44,
-      "model": "기사싱클",
-      "content": "And to the drinker, only a singular future remains: a vision of their own madness."
-    },
-    {
-      "id": 45,
-      "model": "기사싱클",
-      "content": "I call this the 'Mirae-mirae River'... or the River of Future-future. It must've had a name once, but this is the name I gave it."
-    },
-    {
-      "id": 46,
-      "model": "기사돈키",
-      "content": "Quite the irony, then."
-    },
-    {
-      "id": 47,
-      "model": "기사싱클",
-      "content": "Though it won't show you the exact moment you wish to see, you may look into the river to catch a glimpse of a certain moment in the future. It may be quite disorienting, but... would you like to try anyway?"
-    },
-    {
-      "id": 48,
-      "model": "기사돈키",
-      "content": "I ill wish to be so close to the waters, but... I shall."
-    },
-    {
-      "id": 49,
-      "model": "기사싱클",
-      "content": "What do you see?"
-    },
-    {
-      "id": 50,
-      "model": "기사돈키",
-      "content": "Chains... a great gate... and... a timepiece... A flaming timepiece...? And... a promise..."
-    },
-    {
-      "id": 51,
-      "model": "기사돈키",
-      "content": "It is as you have said. Visions I have seen, yet I fail to see the sense in each of them."
-    },
-    {
-      "id": 52,
-      "model": "기사싱클",
-      "content": "Right. You won't ever get a clear picture unless you drink the waters yourself."
-    },
-    {
-      "id": 53,
-      "model": "기사싱클",
-      "content": "Still, if you've seen that clock... and the visions of promise...? Hm. Perhaps this has something to do with that promise you made with him."
-    },
-    {
-      "id": 54,
-      "model": "기사돈키",
-      "content": "The promised timepiece, is it...?"
-    },
-    {
-      "id": 55,
-      "model": "산손",
-      "content": "After suffering through brutal trials upon trials, you arrive at the place you have been searching so hard for."
-    },
-    {
-      "id": 56,
-      "model": "산손",
-      "content": "And here, we return to the very first chapter of this tale."
-    },
-    {
-      "id": 57,
-      "model": "기사돈키",
-      "content": "This is...?"
-    },
-    {
-      "id": 58,
-      "model": "산손",
-      "content": "The River of Oblivion."
-    },
-    {
-      "id": 59,
-      "place": "Lethe, the River of Oblivion",
-      "model": "오티스",
-      "content": "Lethe..."
-    },
-    {
-      "id": 60,
-      "model": "가시춘",
-      "title": "???",
-      "content": "…!"
-    },
-    {
-      "id": 61,
-      "model": "산손",
-      "content": "Thus spake the Knight of the White Moon."
-    },
-    {
-      "id": 62,
-      "model": "기사싱클",
-      "content": "Are you certain?"
-    },
-    {
-      "id": 63,
-      "model": "기사싱클",
-      "content": "Drink from this well, and the life you have lived thus far will be no more."
-    },
-    {
-      "id": 64,
-      "model": "기사싱클",
-      "content": "All of it, gone in a sip."
-    },
-    {
-      "id": 65,
-      "model": "산손",
-      "content": "You reflexively gulp."
-    },
-    {
-      "id": 66,
-      "model": "기사돈키",
-      "content": "……."
-    },
-    {
-      "id": 67,
-      "model": "기사돈키",
-      "content": "I have... decided."
-    },
-    {
-      "id": 68,
-      "model": "기사싱클",
-      "content": "Will you answer me, were I to ask you why?"
-    },
-    {
-      "id": 69,
-      "model": "기사돈키",
-      "content": "I see it still, past the darkness of my eyelids."
-    },
-    {
-      "id": 70,
-      "model": "기사돈키",
-      "content": "I see a vision of that day. The screaming and shouting, the stench of blood, the..."
-    },
-    {
-      "id": 71,
-      "model": "기사돈키",
-      "content": "……."
-    },
-    {
-      "id": 72,
-      "model": "기사돈키",
-      "content": "The more I recall, the more I find myself cracking and crumbling like a castle of sand."
-    },
-    {
-      "id": 73,
-      "model": "기사돈키",
-      "content": "Thus I wish to forget everything that's happened and crawl into a deep slumber."
-    },
-    {
-      "id": 74,
-      "model": "기사돈키",
-      "content": "Because while I sleep, there will be no fear, no hope, no suffering, and no glory."
-    },
-    {
-      "id": 75,
-      "model": "기사싱클",
-      "content": "But there is an unsavory part to sleep, isn't there? It's..."
-    },
-    {
-      "id": 76,
-      "model": "기사돈키",
-      "content": "Yes. It is much like death. Yet it distinguishes itself in ways that matter."
-    },
-    {
-      "id": 77,
-      "model": "기사싱클",
-      "content": "You want to dream."
-    },
-    {
-      "id": 78,
-      "model": "기사돈키",
-      "content": "For those mere words which made us leave everything behind, only to shackle us in the end... I long to continue the dream I have been but a mere witness to."
-    },
-    {
-      "id": 79,
-      "model": "기사싱클",
-      "content": "Then..."
-    },
-    {
-      "id": 80,
-      "model": "기사싱클",
-      "content": "... I have no other way to help you, do I?"
-    },
-    {
-      "id": 81,
-      "model": "산손",
-      "content": "The name of this companion..."
-    },
-    {
-      "id": 82,
-      "model": "기사싱클",
-      "content": "Then... before oblivion takes my name away from you, allow me to introduce myself one last time."
-    },
-    {
-      "id": 83,
-      "model": "기사싱클",
-      "content": "I am the flower-seeker, a wanderer, a traveler across the City and the Ruins."
-    },
-    {
-      "id": 84,
-      "model": "기사싱클",
-      "content": "I am the one who marked the final period to this unforgotten adventure of a lifetime with you."
-    },
-    {
-      "id": 85,
-      "model": "기사싱클",
-      "content": "My name is Bari, the Knight of the White Moon."
-    },
-    {
-      "id": 86,
-      "model": "기사싱클",
-      "content": "I will now leave, and return to my search for the river and the flower born from its waters. As I always have."
-    },
-    {
-      "id": 87,
-      "model": "기사돈키",
-      "content": "... Even should I drink the waters of this river... will you tell me the tales of Fixers still?"
-    },
-    {
-      "id": 88,
-      "model": "기사싱클",
-      "content": "... I may pass by this area quite often through my journey."
-    },
-    {
-      "id": 89,
-      "model": "기사싱클",
-      "content": "Every chance I get, I'll leave a book or an item behind. Things that may be of help to you."
-    },
-    {
-      "id": 90,
-      "model": "기사돈키",
-      "content": "... Thank you."
-    },
-    {
-      "id": 91,
-      "model": "산손",
-      "content": "Thus, you lean over the river to drink its water."
-    },
-    {
-      "id": 92,
-      "model": "산손",
-      "content": "However valiant a knight Don Quixote was, she cannot help but shudder from an overwhelming sense of terror and omen."
-    },
-    {
-      "id": 93,
-      "model": "기사돈키",
-      "content": "I... no. I cannot have let such fear touch me. I, who have written such tales of brave adventures..."
-    },
-    {
-      "id": 94,
-      "model": "산손",
-      "content": "Well, every tale needs a rising action and a climax, doesn't it? It's the ups and downs that keeps things interesting."
-    },
-    {
-      "id": 95,
-      "model": "기사돈키",
-      "content": "Hgh, nngh...!"
-    },
-    {
-      "id": 96,
-      "content": "Sansón ignores Don Quixote's struggles and rapidly continues the tale, like he was incanting a spell."
-    },
-    {
-      "id": 97,
-      "model": "산손",
-      "content": "Our common, primeval fear of the flowing water. Your body shudders, horripilation of the skin spreading through every inch of your being as your psyche, your consciousness itself, furiously refuses to approach its undulating surface. Our blood, thicker than water, cycles through your system with inhuman rapidity as your heart begins to race like that of a rabid animal."
-    },
-    {
-      "id": 98,
-      "model": "산손",
-      "content": "Yet, you must conquer that fear. You had to."
-    },
-    {
-      "id": 99,
-      "model": "산손",
-      "content": "Moments before you take a sip of that river's water, a thought flickers through your mind. That to continue this adventure was meaningless."
-    },
-    {
-      "id": 100,
-      "model": "산손",
-      "content": "That is how you dismount Rocinante."
-    },
-    {
-      "id": 101,
-      "model": "산손",
-      "content": "Rocinante, only borrowed from its original master."
-    },
-    {
-      "id": 102,
-      "content": "Don Quixote looks down toward Rocinante."
-    },
-    {
-      "id": 103,
-      "content": "I... at least Faust and I know what Sansón's incantation is attempting to accomplish."
-    },
-    {
-      "id": 104,
-      "content": "He's trying to draw out her memories from the River of Oblivion..."
-    },
-    {
-      "id": 105,
-      "model": "단테",
-      "content": "<Don Quixote! No, don't...!>"
-    },
-    {
-      "id": 106,
-      "model": "단테",
-      "content": "<Faust! Do someth—>"
-    },
-    {
-      "id": 107,
-      "model": "파우스트",
-      "content": "... Nothing can be done."
-    },
-    {
-      "id": 108,
-      "model": "파우스트",
-      "content": "This flow is destined to be."
-    },
-    {
-      "id": 109,
-      "model": "히스클리프",
-      "content": "What... what's goin' on? You two look bloody serious all of a sudden."
-    },
-    {
-      "id": 110,
-      "model": "이스마엘",
-      "content": "Wait. If we connect all these tales into one, then..."
-    },
-    {
-      "id": 111,
-      "model": "이스마엘",
-      "content": "No way, is she...?"
-    },
-    {
-      "id": 112,
-      "model": "가시춘",
-      "title": "???",
-      "content": "... No. That's impossible."
-    },
-    {
-      "id": 113,
-      "model": "홍루",
-      "content": "Is there something you know, Xichun? Can you let me in on it?"
-    },
-    {
-      "id": 114,
-      "model": "가시춘",
-      "title": "???",
-      "content": "Don't get all excited. I'm probably wrong. But..."
-    },
-    {
-      "id": 115,
-      "model": "가시춘",
-      "title": "???",
-      "content": "... if this terrible prediction turns out to be correct, then you'll find out even if you don't want to."
-    },
-    {
-      "id": 116,
-      "model": "가시춘",
-      "title": "???",
-      "content": "... I'll compliment your nerves, at least."
-    },
-    {
-      "id": 117,
-      "place": "Carnival Parade",
-      "content": "Don Quixote's spine slowly bends forward."
-    },
-    {
-      "id": 118,
-      "content": "This cannot be stopped. She does not try to stop it, either. Don Quixote moves as though she was destined to, as though this was all but her part in the play."
-    },
-    {
-      "id": 119,
-      "content": "For a moment, she appears tranquil, even brave. Like a knight briefly dismounting from a beloved steed."
-    },
-    {
-      "id": 120,
-      "content": "Yet once she dismounts, once the repressed memories return..."
-    },
-    {
-      "id": 121,
-      "content": "The Sinners will come face-to-face with the red glow of her eyes and the metallic stench of blood that surrounds her."
-    },
-    {
-      "id": 122,
-      "content": "Once the truth comes out, we... the Sinners... will never be able to see her in the same light again."
-    },
-    {
-      "id": 123,
-      "model": "로쟈",
-      "content": "Dante...?"
-    },
-    {
-      "id": 124,
-      "model": "이상",
-      "content": "... This must have aught to do with her ragged running shoes..."
-    },
-    {
-      "id": 125,
-      "content": "What I've been fearing ever since the incident at the WARP train, the fear that has been madly scratching at the back of my mind..."
-    },
-    {
-      "id": 126,
-      "content": "The fear that the bond between the Sinners will be irrevocably broken."
-    },
-    {
-      "id": 127,
-      "content": "Will everyone be accepting of this deception, accidental though it may have been?"
-    },
-    {
-      "id": 128,
-      "content": "Even if we were to survive, will she return to how she once was, as one of us Sinners?"
-    },
-    {
-      "id": 129,
-      "content": "How will I appear in their eyes? I, who knowingly hid the truth from them? Can I truly face this Don Quixote, when I trembled from so much fear the last time?"
-    },
-    {
-      "id": 130,
-      "content": "... Yet..."
-    },
-    {
-      "id": 131,
-      "content": "As if to render all these raging thoughts in my head void..."
-    },
-    {
-      "id": 132,
-      "content": "Don Quixote takes off Rocinante..."
-    },
-    {
-      "id": 133,
-      "content": "and lets her bare feet touch the cold earth."
-    },
-    {
-      "id": 134,
-      "content": "All of a sudden, visions of Don Quixote's past begins flooding into me, raw and unfiltered."
-    },
-    {
-      "id": 135,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "Flee... for you must live. For you must live and continue my tale."
-    },
-    {
-      "id": 136,
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "But I'm a... ... I cannot live among humans. I cannot..."
-    },
-    {
-      "id": 137,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "Have you forgotten? With my Rocinante, no place shall be beyond your reach."
-    },
-    {
-      "id": 138,
-      "place": "???",
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "Rocinante, stop! Stop walking, NO!!!"
-    },
-    {
-      "id": 139,
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "I don't want to leave, I don't! Why do you refuse to obey me...?"
-    },
-    {
-      "id": 140,
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "Please, please! I don't want an adventure, stop! Please!"
-    },
-    {
-      "id": 141,
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "Please, Rocinante..."
-    },
-    {
-      "id": 142,
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "Don't take me away from here..."
-    },
-    {
-      "id": 143,
-      "model": "달기사실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "There are places called 'amusement parks' in the City."
-    },
-    {
-      "id": 144,
-      "model": "달기사실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "Everyone is happy at amusement parks, merely by being there."
-    },
-    {
-      "id": 145,
-      "model": "달기사실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "It's enough to make everyone dance, sing, and laugh."
-    },
-    {
-      "id": 146,
-      "model": "달기사실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "No wars. No strife of any kind..."
-    },
-    {
-      "id": 147,
-      "place": "Carnival Parade",
-      "content": "Red fluid wells in Don Quixote's eyes like it did back on the train. The very same sanguine color I feared so much, the eyes I never wished to see again."
-    },
-    {
-      "id": 148,
-      "model": "맨발돈키호테",
-      "content": "……."
-    },
-    {
-      "id": 149,
-      "content": "She inhales deeply, then exhales."
-    },
-    {
-      "id": 150,
-      "content": "Like she hadn't breathed in forever."
-    },
-    {
-      "id": 151,
-      "content": "She turns around and looks at—no, looks *down* at the Bloodfiends surrounding us."
-    },
-    {
-      "id": 152,
-      "content": "Reflected in her eyes are things infinitely beneath her."
-    },
-    {
-      "id": 153,
-      "model": "돌시네아다침",
-      "content": "... There you are."
-    },
-    {
-      "id": 154,
-      "model": "돌시네아다침",
-      "content": "Finally, the preparations for the Carnival... the scenes... are complete."
-    },
-    {
-      "id": 155,
-      "model": "돌시네아다침",
-      "content": "I remember those eyes... those eyes that regarded me as you so mercilessly tore through us. Without even a hint of regret or guilt."
-    },
-    {
-      "id": 156,
-      "model": "돌시네아다침",
-      "content": "Bravo. Now every path is opened."
-    },
-    {
-      "id": 157,
-      "model": "돌시네아다침",
-      "content": "The Parade is complete at last."
-    },
-    {
-      "id": 158,
-      "place": "???",
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "Sancho, I have come to a decision."
-    },
-    {
-      "id": 159,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "What is it now?"
-    },
-    {
-      "id": 160,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "I am going to be the best Fixer in the City."
-    },
-    {
-      "id": 161,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "I shall protect the weak and punish the wicked."
-    },
-    {
-      "id": 162,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "From what I hear, denizens of the City have been making these fellowships called 'Associations' by need."
-    },
-    {
-      "id": 163,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "Did you get this idea from that Knight of the Moon or whatever?"
-    },
-    {
-      "id": 164,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "I am telling you now, this new goal of yours is going to crash and burn in less than three days. Quit stirring trouble and stay put."
-    },
-    {
-      "id": 165,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "Remember your last momentary passion with... what was it? Knitting? Embroidery? That lasted a whole two days before you got tired of it. And that was after you sent us out to find all kinds of high-quality yarn for that little passion project."
-    },
-    {
-      "id": 166,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "Silence, Sancho. You keep balking at my passions with your chastisements. At this point, I am having a difficult time determining which one of us is the higher Kindred."
-    },
-    {
-      "id": 167,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "Right, but you always do whatever you want to do anyway."
-    },
-    {
-      "id": 168,
-      "place": -1,
-      "model": "싱클레어",
-      "content": "Don Quixote...?"
-    },
-    {
-      "id": 169,
-      "model": "싱클레어",
-      "content": "S-she IS Don Quixote, right...?"
-    },
-    {
-      "id": 170,
-      "model": "로쟈",
-      "content": "Where's she going all on her own...?"
-    },
-    {
-      "id": 171,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "Will she be coming today? Again?"
-    },
-    {
-      "id": 172,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "It is high time you put an end to this rivalry, isn't it? Or... Hm. I fear that time may already be long past."
-    },
-    {
-      "id": 173,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "Tsk, indeed. But... I have been having a certain thought as of late."
-    },
-    {
-      "id": 174,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "Why does it matter whether someone wins or loses?"
-    },
-    {
-      "id": 175,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "What matters is that I must hear what comes next in her tale. How dare that human cut her story short at its climax!"
-    },
-    {
-      "id": 176,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "I... have nothing. I don't know why you keep letting that human in here if you are not even going to fight."
-    },
-    {
-      "id": 177,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "Yet, Sancho... for all your chiding words of disapproval..."
-    },
-    {
-      "id": 178,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "Don't think for a moment I haven't noticed you constantly perking your ears in our direction. Especially at the part where the Hana Association Fixer encountered the monster that demanded that they pay a toll with a single rice cake on that winding hill path..."
-    },
-    {
-      "id": 179,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "I-I most certainly did not."
-    },
-    {
-      "id": 180,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "You most certainly did. Ah, speaking of which... do you suppose the Hana Association will eventually come out on top?"
-    },
-    {
-      "id": 181,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "No. I believe that the Fixer who hails from this 'Zwei' will overtake the—"
-    },
-    {
-      "id": 182,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "... Ah."
-    },
-    {
-      "id": 183,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "Case in point."
-    },
-    {
-      "id": 184,
-      "place": "Carnival Parade",
-      "model": "단테",
-      "content": "<Don Quixote!>"
-    },
-    {
-      "id": 185,
-      "content": "The name that feels so alien now. The ticking sounds of my clock. Neither stops Don Quixote."
-    },
-    {
-      "id": 186,
-      "place": "???",
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "But how, pray, will you become a Fixer yourself?"
-    },
-    {
-      "id": 187,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "Fixers are but a concept constructed by humans."
-    },
-    {
-      "id": 188,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "They will try to hunt us the moment we get anywhere near them."
-    },
-    {
-      "id": 189,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "Perhaps. For now, at least."
-    },
-    {
-      "id": 190,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "But I implore you to think, Sancho. Miss not the forest for the trees. Should we start paving the path for peace now, then..."
-    },
-    {
-      "id": 191,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "... one day, we shall find ourselves coexisting with humans, hand-in-hand."
-    },
-    {
-      "id": 192,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "And I shall be the first-ever Bloodfiend to become a Fixer. Is that not an idea most wondrous?"
-    },
-    {
-      "id": 193,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "Maybe they'll even make this 'fan club' in my honor."
-    },
-    {
-      "id": 194,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "Certainly, perhaps in that ridiculously grand dream of yours."
-    },
-    {
-      "id": 195,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "Yet that is how dreams are meant to be. Ridiculously grand."
-    },
-    {
-      "id": 196
-    },
-    {
-      "id": 197
-    },
-    {
-      "id": 198
-    },
-    {
-      "id": 199
-    },
-    {
-      "id": 200,
-      "model": "실루엣돈키호테",
-      "teller": "Sancho",
-      "title": "???",
-      "content": "……."
-    },
-    {
-      "id": 201,
-      "model": "돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "…!"
-    },
-    {
-      "id": 202
-    },
-    {
-      "id": 203
-    },
-    {
-      "id": 204,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "You have returned to me, my Sancho."
-    },
-    {
-      "id": 205,
-      "content": "A voice, foreign yet familiar. The sound of thick wooden doors and heavy chains."
-    },
-    {
-      "id": 206,
-      "content": "As soon as the door opened ajar, we could feel the powerful energy of the Golden Bough emanating from within."
-    },
-    {
-      "id": 207,
-      "content": "Was this the scent of rusted iron, or the dense, metallic smell of blood?"
-    },
-    {
-      "id": 208,
-      "content": "The speaker, his body one with the pillar from which the scent emanated..."
-    },
-    {
-      "id": 209,
-      "content": "... speaks to us through the Golden Bough impaling his torso."
-    },
-    {
-      "id": 210,
-      "content": "... Or, perhaps... he speaks to Don Quixote."
-    },
-    {
-      "id": 211,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "Now, tell me all about it."
-    },
-    {
-      "id": 212,
-      "model": "백발가면혈귀실루엣",
-      "teller": "???",
-      "title": "???",
-      "content": "<color=#cc2424>That dream of mine... you have dreamed in my stead...</color>"
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Diễu Hành Lễ Hội",
+                "model":"돈키호테",
+                "content":"Trả lời ta ngay! Ngươi bảo ta có thứ gì cơ?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Danh xưng của ta mang thứ sức mạnh đến nhường nào?! Nói mau!!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Đâu— Làm sao mà— Ngươi nghe từ đâu...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"돌시네아다침",
+                "content":"... Tất cả mọi thứ. Mọi thứ mà Huyết Quỷ bọn ta thèm khát.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"돌시네아다침",
+                "content":"Bọn ta tồn tại trong u mê, không hay rằng mình chỉ đi lòng vòng, không mảy may nghĩ tới việc bước tới những gì trước mặt...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"돌시네아다침",
+                "content":"Một thứ mà bọn ta đều muốn nhưng không có, mà ngươi lại có...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"산손",
+                "content":"Quên Lãng.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"산손",
+                "content":"Thứ mà kẻ nào lưu lạc ở nơi này đều khẩn thiết mong cầu.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"산손",
+                "content":"Đặc quyền được bỏ chạy khỏi tất cả. Khỏi dục vọng, tủi nhục.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"산손",
+                "content":"Khi đã quên, một người sẽ lại trở nên trong sáng, ngây thơ, đủ để sống tiếp tới ngày mai.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Trời đụ, lại nữa...!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"돈키호테",
+                "content":"...!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"산손",
+                "content":"Tôi đoán là lúc này mọi người cũng đang nhớ tôi lắm rồi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"산손",
+                "content":"Cũng đúng thời điểm để chiêu đãi chúng tôi bằng câu chuyện đó rồi nhỉ?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"산손",
+                "content":"Rằng chuyến phiêu lưu hoành tráng của quý vị đã kết thúc như thế nào khi bỏ mặc tất cả chúng ta ở lại đây?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Gì cơ...?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"산손",
+                "content":"Cà rộc... cà rộc...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"산손",
+                "content":"Rocinante cứ như thế, vui vẻ và tràn đầy năng lượng mà tiến về phía cùng với quý vị đang ngồi trên yên của nó.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"로메로다침",
+                "content":"... Mày... chết mẹ đi!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"로메로다침",
+                "content":"Ha... ưh...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"산손",
+                "content":"... Trong khi chúng ta thì đang chết dần chết mòn trong nỗi thống khổ cùng cực. Như kẻ khốn khổ này vậy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"돈키호테",
+                "content":"...Đủ rồi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Làm ơn đi mà... quá đủ rồi...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Sức mạnh của ngươi vượt xa ta; vậy nên ta bị chi phối bởi thứ ma thuật của ngươi. Đúng vậy...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Vậy nên làm ơn, ta khẩn xin ngươi đó. Ta không thể làm gì ngoài cầu xin ngươi, ta không thể dùng miệng lưỡi cay nghiệt để xuyên thủng ngươi như mũi giáo...!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ta cầu xin ngươi, ta dập đầu quỳ lạy khẩn xin ngươi... làm ơn hãy dừng chuyện kinh khủng này lại!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"산손",
+                "content":"Sao lại phải dừng? Không phải quý vị thích nhất là được kể lại những câu chuyện của mình sao? Đây không thứ quý vị hằng mong ước sao?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"산손",
+                "content":"Ngay trước mặt quý vị là những khán giả đang hào hứng theo dõi hơn bao giờ hết. Không phải ai cũng có được cơ hội như thế này đâu.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"돈키호테",
+                "content":"...Ta không muốn kể. Không muốn nữa.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"산손",
+                "content":"Nhưng quý vị sẽ làm thế.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"산손",
+                "content":"Quý vị sẽ kể cho mọi người nghe câu chuyện của mình.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"산손",
+                "content":"Vì đây là vai trò của quý vị.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":32,
+                "place":"Chốn Không Người Tới",
+                "model":"산손",
+                "content":"Thế nên, quý vị, Rocinante cùng Kỵ Sĩ Bạch Nguyệt cùng nhau lên đường cho chuyến phiêu lưu cuối cùng của mình. Hay nên nói đúng hơn là... cuộc bỏ trốn của quý vị.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Chúng ta cũng băng qua nhiều dòng sông rồi nhỉ?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Những dòng sông này... đều ở bên dưới Thành Phố hết sao?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Người ta truyền tai nhau rằng cây cối đơm lá đơm hoa, đong đầy nước từ khi còn là mầm non, dần thấm trong mình sức mạnh đặc biệt.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Nói thôi, tôi cũng khó mà tưởng tượng được liệu cái cây mọc lên từ dòng sông này có thể mang trong mình sức mạnh gì đây.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Hãy nói ta nghe đi, chúng ta cần tìm con sông nào vậy?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Ừm, thì, không phải là mấy con sông mình đi qua đâu ạ...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"기사돈키",
+                "content":"... Phải chăng cũng không phải cái này?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Dạ, không ạ. Hay là chúng ta đi tìm con sông chảy sâu trong vực thẩm này đi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Sâu phía trong Tàn Tích này nguy hiểm lắm đấy, đến cả những người từng mạo hiểm xuống cũng phải dè chừng. Đến cậu còn phải chật vật nữa, có phải không nè?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"기사돈키",
+                "content":"... Dòng sông gì đây...?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Bất cứ ai xuống nước từ con sông này sẽ được trao cho viễn cảnh... của tương lai định sẵn. Dòng nước cho người uống thấy những gì sẽ xảy ra, nhưng xung quanh họ tối dần, chỉ còn lại hình ảnh kia, và rồi nhấn chìm họ vào điên loạn.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Người uống chỉ còn thấy một thứ duy nhất trước mắt mình: Bản thân mình say trong sự điên loạn ấy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Tôi gọi nó là 'Sông Mirae-mirae'... hoặc là Sông tương tương-lai lai. Hình như trước đó nó có tên rồi thì phải, mà tôi hay gọi nó là vậy đấy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Quả thật là mỉa mai nhỉ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Nó không cho ngài thấy thứ mình muốn thấy, nhưng nếu ngài nhìn xuống mặt nước để thoáng thấy viễn cảnh tương lai định sẵn. Dễ khiến người ta choáng ngợp lắm, nhưng mà... ngài có muốn thử không?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Ta không có mong muốn đến gần nước chút nào, nhưng... ta sẽ thử.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Ngài thấy gì thế?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Những sợi xích... một cánh cổng khổng lồ... và... một chiếc đồng hồ... Một chiếc đồng hồ bốc cháy...? Và... một lời hứa...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Đúng như cô nói. Những viễn cảnh đó ta đã thấy, nhưng ta không giải mã được ý nghĩa của chúng.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Đúng rồi đấy. Ngài sẽ không thể thấy rõ viễn cảnh nếu ngài không thử uống nước đâu.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Nếu ngài có thấy chiếc đồng hồ kia... và những viễn cảnh đầy hứa hẹn kia...? Hừm. Xem chừng nó cũng có liên quan với lời hứa của ngài với cậu kia nhỉ?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Chiếc đồng hồ được hứa hẹn, đúng chứ...?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"산손",
+                "content":"Sau khi trải qua vô vàn những thử thách khó nhằn, quý vị cũng đã đến được nơi mà mình dốc lòng tìm kiếm.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"산손",
+                "content":"Và tại đây, hãy cùng lật ngược về trang đầu tiên của câu chuyện này.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Đây là...?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"산손",
+                "content":"Dòng Sông Quên Lãng.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":59,
+                "place":"Lethe, Dòng Sông Quên Lãng",
+                "model":"오티스",
+                "content":"Lethe...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"가시춘",
+                "content":"…!",
+                "title":"???",
+                "teller":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"산손",
+                "content":"Rồi người Kỵ Sĩ Bạch Nguyệt cất tiếng.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Ngài chắc chứ?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Chỉ cần uống trong cái giếng này thôi, thì cả đời ngài sẽ tan bành bay khói đấy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Uống ngụm, đi tong ca đời luôn",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"산손",
+                "content":"Quý vị nuốt đánh ực một cái.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"기사돈키",
+                "content":".......",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Ta... quyết định rồi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Nếu tôi hỏi hỏi ngài, liêu ngài trả lời tôi chứ?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Ta vẫn thấy nó kể cả trong lúc mắt đã nhắm nghiền.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Ta thấy được viễn cảnh của một ngày nọ. Tiếng la ó, gào thét, mùi máu tanh nồng, cái...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"기사돈키",
+                "content":"........",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Mỗi lần ta nhớ về nó, ta cảm thấy tâm hồn mình vụn vỡ dần như một toà lâu đài cát.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Vậy nên ta muốn quên đi tất cả, rồi ngủ say giấc một giấc nồng.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Bởi vì khi ta say giấc, sẽ không còn nỗi sợ, không còn hi vọng, không còn khổ đau, không còn vinh quang nữa.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Nhưng được say giấc cũng có cái hại, ấy nhỉ? Giống như...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Đúng vậy. Nó giống với cái chết. Nhưng nó có một điểm khác biệt quan trọng.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Ngài muốn mơ mộng.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Những ngôn từ làm chúng ta bỏ lại tất cả, để rồi bị xiềng xích bởi chúng...Ta hằng ao ước được tiếp tục giấc mộng mà ta mới chỉ được phép ngước nhìn.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Vậy thì...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"기사싱클",
+                "content":"... Tôi không còn cách nào để giúp ngài nữa, nhỉ?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"산손",
+                "content":"Tên của người bạn đồng hành này là...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Vậy thì... trước khi lãng quên xoá sạch tên tôi khỏi ký ức ngài, hãy để tôi giới thiệu bản thân mình lần cuối.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Tôi là kẻ theo đuổi những bông hoa, một nhà lữ hành, rong ruổi qua các ngõ ngách của Thành Phố và Tàn Tích.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Và là người đặt dấu chấm hết cho chuyến phiêu lưu bất tận chúng ta cùng chia sẻ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Tên tôi là Bari, Kỵ Sĩ Bạch Nguyệt.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Giờ tôi phải đi rồi, tiếp tục lên đường tìm con sông và những đoá hoa ươn mầm từ dòng nước áy. Như bao lần trước.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"기사돈키",
+                "content":"...Kể cả khi ta đã uống một ngụm nước từ dòng sông này... Cô sẽ vẫn kể cho ta những câu chuyện về các Fixer chứ?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"기사싱클",
+                "content":"... Có thể tôi sẽ đi qua chỗ này nhiều lần trên chuyến hành trình của mình.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"기사싱클",
+                "content":"Mỗi khi có dịp, tôi sẽ để lại cho ngài cuốn sách hoặc món đồ nào đó. Những thứ sẽ có ích với ngài.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"기사돈키",
+                "content":"... Cảm ơn cô nhiều.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"산손",
+                "content":"Và như thế, quý vị cúi người xuống dòng sông trước mặt để hớp một ngụm nước.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"산손",
+                "content":"Tuy nhiên, dù có là một kỵ sĩ gan dạ cỡ nào thì Don Quixote cũng không thể kiềm được cơn rùng mình từ nỗi sợ và những dự cảm không lành cào xé tâm can.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Ta... không. Ta không thể để nỗi sợ mò đến được. Ta là người đã viết nên những chuyến phiêu lưu dũng cảm đó...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"산손",
+                "content":"Câu chuyện nào rồi cũng phải đến phần cao trào nhỉ? Có thăng có trầm thì mới thú vị được.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Gự, hựựự...!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":null,
+                "content":"Sansón ngó lơ cảnh Don Quixote chật vật và tiếp tục câu chuyện như thể đang niệm chú.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"산손",
+                "content":"Đó là nỗi sợ thuần túy, nguyên thủy của chúng ta với dòng nước. Cả người quý vị run lẩy bẩy còn da gà thì nổi lên rõ mồn một trên da. Tiềm thức không ngừng chống cự kịch liệt khi mặt nước càng lúc càng gần. Dòng máu đỏ đặc hơn nước của chúng ta luân chuyển trong huyết quản quý vị với một tốc độ kinh người, khi trái tim kia điên cuồng đập loạn.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":"산손",
+                "content":"Nhưng quý vị cần phải vượt qua nỗi sợ ấy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":"산손",
+                "content":"Trong khoảnh khắc ngay trước khi quý vị chạm môi được vào dòng nước kia, một ý nghĩ không khỏi bật lên, rằng chẳng có ý nghĩa gì khi phải tiếp tục cuộc hành trình này.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":"산손",
+                "content":"Ấy là khi quý vị rời khỏi Rocinante.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":"산손",
+                "content":"Thứ vốn được mượn từ người chủ ban đầu của nó.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":null,
+                "content":"Don Quixote nhìn xuống Rocinante.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":null,
+                "content":"Tôi... cả tôi và Faust đều biết câu thần chú của Sansón đang định thực hiện cái gì.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":null,
+                "content":"Hắn ta đang cố lôi kéo những ký ức của Don Quixote từ Dòng Sông Quên Lãng trở lại...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":"단테",
+                "content":"<Don Quixote! Không, đừng...!>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"단테",
+                "content":"<Faust! Làm gì đ—>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":"파우스트",
+                "content":"... Không còn cách nào cả.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":"파우스트",
+                "content":"Dòng chảy này đã định sẵn rồi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Chuyện... chuyện quái gì thế? Tự nhiên hai đứa chúng mày căng như dây đàn là sao.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Khoan. Thử kết nối tất cả những câu chuyện kể từ trước đến giờ vào đi, nếu vậy thì có nghĩa là...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Rằng cô ấy thực sự là...?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":112,
+                "place":null,
+                "model":"가시춘",
+                "content":"... Không. Không thể nào.",
+                "title":"???",
+                "teller":null
+            },
+            {
+                "id":113,
+                "place":null,
+                "model":"홍루",
+                "content":"Tích Xuân nhận ra điều gì rồi à, nói cho huynh biết với?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":114,
+                "place":null,
+                "model":"가시춘",
+                "content":"Đừng có mà vội mừng. Ta có thể sai. Nhưng...",
+                "title":"???",
+                "teller":null
+            },
+            {
+                "id":115,
+                "place":null,
+                "model":"가시춘",
+                "content":"... nếu như lời tiên tri này là đúng, thì sớm muộn gì huynh cũng sẽ biết dù huynh có muốn hay không đi chăng nữa.",
+                "title":"???",
+                "teller":null
+            },
+            {
+                "id":116,
+                "place":null,
+                "model":"가시춘",
+                "content":"... nhưng chí ít huynh cũng có gan.",
+                "title":"???",
+                "teller":null
+            },
+            {
+                "id":117,
+                "place":"Diễu Hành Lễ Hội",
+                "model":null,
+                "content":"Tấm lưng của Don Quixote dần ngửa về phía trước.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":118,
+                "place":null,
+                "model":null,
+                "content":"Không thể ngừng chuyện này lại được. Cô ấy cũng không hề cố ngăn nó lại. Don Quixote chuyển động như thể định mệnh đang cố an bài mọi thứ, như thể rằng đây chính là vai trò của cô ấy trong vở kịch này.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":119,
+                "place":null,
+                "model":null,
+                "content":"Trong khoảnh khắc ấy, cô ấy tỏ ra vô cùng thanh bình, thậm chí có phần dũng cảm. Như một kỵ sĩ bình thản xuống khỏi yên ngựa.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":120,
+                "place":null,
+                "model":null,
+                "content":"Nhưng khi cô ấy xuống ngựa, khi những ký ức bị chôn vùi ấy hiện về...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":121,
+                "place":null,
+                "model":null,
+                "content":"Các Tội Nhân sẽ đối mặt với cặp mắt đỏ ngầu và mùi máu tanh phủ quanh người cô ấy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":122,
+                "place":null,
+                "model":null,
+                "content":"Một khi sự thật được phơi bày, chúng tôi... các Tội Nhân... sẽ không còn có thể nhìn nhận cô ấy một cách bình thường được nữa.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":123,
+                "place":null,
+                "model":"로쟈",
+                "content":"Dante ơi...?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":124,
+                "place":null,
+                "model":"이상",
+                "content":"... Chuyện này liên quan mật thiết đến đôi giày cũ nát của cô ấy...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":125,
+                "place":null,
+                "model":null,
+                "content":"Điều tôi luôn lo sợ kể từ sự cố ở tàu tốc hành WARP, nỗi sợ điên cuồng bào mòn tâm trí tôi...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":126,
+                "place":null,
+                "model":null,
+                "content":"Nỗi sợ rằng mối liên kết giữa các Tội Nhân sẽ tan vỡ không thể cứu vãn được.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":127,
+                "place":null,
+                "model":null,
+                "content":"Liệu rằng mọi người có chấp nhận được sự giả dối vô tình đã xảy ra bấy lâu nay?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":128,
+                "place":null,
+                "model":null,
+                "content":"Dù cho có sống sót trở về, liệu cô ấy có quay lại làm người cô ấy đã từng như trước đây, như một thành viên trong số các Tội Nhân?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":129,
+                "place":null,
+                "model":null,
+                "content":"Vậy trong mắt của mọi người thì tôi là người như thế nào? Chính tôi biết hết mọi chuyện nhưng cố che giấu đi sự thật? Liệu tôi còn có thể đối mặt với Don Quixote này không khi đến chính bản thân vẫn còn run rẩy vì sợ hãi từ sự cố trước kia?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":130,
+                "place":null,
+                "model":null,
+                "content":"... Cớ nhưng...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":131,
+                "place":null,
+                "model":null,
+                "content":"Như để xua tan đi toàn bộ nhiễu loạn trong đầu tôi...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":132,
+                "place":null,
+                "model":null,
+                "content":"Don Quixote tháo Rocinate ra...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":133,
+                "place":null,
+                "model":null,
+                "content":"và đưa đôi chân trần trở về với đất mẹ lạnh buốt.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":134,
+                "place":null,
+                "model":null,
+                "content":"Những viễn cảnh từ quá khứ của Don Quixote bất chợt đổ bộ vào tâm trí tôi, chân thật và trần trụi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":135,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Hãy chạy đi... con phải phải sống. Con phải sống và tiếp tục câu chuyện này của ta.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":136,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Nhưng con là... ...Con không thể chung sống cùng với con người được. Con không thể...",
+                "title":"???",
+                "teller":"Don Quixote?"
+            },
+            {
+                "id":137,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Con đã quên rồi sao? Chẳng có gì là không thể nếu con có Rocinante của ta cả.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":138,
+                "place":"???",
+                "model":"실루엣돈키호테",
+                "content":"Rocinante, dừng lại! Đừng đi nữa mà, KHÔNG!!!",
+                "title":"???",
+                "teller":"Don Quixote?"
+            },
+            {
+                "id":139,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Ta không muốn đi mà, ta không muốn đi! Sao ngươi lại bất tuân lời ta...?",
+                "title":"???",
+                "teller":"Don Quixote?"
+            },
+            {
+                "id":140,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Làm ơn đi mà, làm ơn! Ta không muốn đi phiêu lưu nữa, dừng lại đi! Làm ơn!",
+                "title":"???",
+                "teller":"Don Quixote?"
+            },
+            {
+                "id":141,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Làm ơn đi mà, Rocinante...",
+                "title":"???",
+                "teller":"Don Quixote?"
+            },
+            {
+                "id":142,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Đừng đem ta đi mà...",
+                "title":"???",
+                "teller":"Don Quixote?"
+            },
+            {
+                "id":143,
+                "place":null,
+                "model":"달기사실루엣",
+                "content":"Có những nơi được gọi là \"công viên giải trí\" trong Thành Phố.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":144,
+                "place":null,
+                "model":"달기사실루엣",
+                "content":"Chỉ cần tới nơi đó thì ai cũng sẽ trở nên vui vẻ.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":145,
+                "place":null,
+                "model":"달기사실루엣",
+                "content":"Đến mức có thể khiến mọi người nhảy múa, ca hát và cười đùa.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":146,
+                "place":null,
+                "model":"달기사실루엣",
+                "content":"Một nơi không có chiến tranh. Không có xung đột...",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":147,
+                "place":"Diễu Hành Lễ Hội",
+                "model":null,
+                "content":"Thứ dịch đỏ chảy ra từ mắt Don Quixote hệt như lúc trên đoàn tàu. Cặp mắt với thứ màu đỏ thẫm khiến tôi kinh hãi không bao giờ muốn chứng kiến thấy lần nữa lại hiện ra.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":148,
+                "place":null,
+                "model":"맨발돈키호테",
+                "content":"…….",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":149,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy hít một hơi thật sâu rồi thở ra.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":150,
+                "place":null,
+                "model":null,
+                "content":"Như chưa từng được làm thế trước đây.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":151,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy đảo mắt rồi nhìn vào—không, nhìn *xuống* đám Huyết Quỷ vây quanh chúng tôi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":152,
+                "place":null,
+                "model":null,
+                "content":"Phản chiếu trong đôi mắt ấy là vô vàn thứ thấp kém dưới bề.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":153,
+                "place":null,
+                "model":"돌시네아다침",
+                "content":"... A, đây chính là nó.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":154,
+                "place":null,
+                "model":"돌시네아다침",
+                "content":"Cuối cùng, công cuộc chuẩn bị cho Lễ Hội... những vở màn... đã được hoàn thiện.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":155,
+                "place":null,
+                "model":"돌시네아다침",
+                "content":"Ta còn nhớ đôi mắt ấy... đôi mắt lạnh lùng mà ngươi đã dùng để khinh miệt ta. Không bị vấy bẩn bởi tội lỗi hay nuối tiếc.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":156,
+                "place":null,
+                "model":"돌시네아다침",
+                "content":"Hoan hô. Giờ mọi con đường đã được mở ra.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":157,
+                "place":null,
+                "model":"돌시네아다침",
+                "content":"Chuyến Diễu Hành này cuối cùng đã trở nên hoàn mỹ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":158,
+                "place":"???",
+                "model":"백발가면혈귀실루엣",
+                "content":"Sancho à, ta đã quyết định rồi.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":159,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Lần này là cái gì vậy?",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":160,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Ta sẽ trở thành Fixer tuyệt vời nhất cái Thành Phố này.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":161,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Ta sẽ bảo vệ kẻ yếu thế và trừng phạt kẻ ô uế.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":162,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Ta có nghe nói là cư dân của Thành Phố thường hay lập một hội những người cùng chí hướng gọi là 'Liên Đoàn'.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":163,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Cha lấy cái ý tưởng này từ cái ả Nguyệt Đạo Sĩ gì gì đấy à?",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":164,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Con xin thưa, cái ước mơ cao cả của người sẽ đổ sông đổ bể trong vòng ba ngày thôi. Hãy ngồi yên đi và đừng quậy phá nữa.",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":165,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Người còn nhớ cái thú vui nhất thời gì mà... Thêu thùa? May vá? Cái đó người nghịch được hai ngày rồi bỏ. Ngay sau lúc người bắt chúng con tìm cả đống chỉ chất lượng cao cho cái 'dự án tâm huyết' này nữa chứ.",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":166,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Thôi đi Sancho. Con cứ chì chiết đam mê của ta mãi thế. Riết rồi ta không biết ai mới là người có vị trí cao hơn ở đây đấy.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":167,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Vâng, nhưng đằng nào thì người vẫn cứ thích gì làm nấy thôi.",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":168,
+                "place":-1,
+                "model":"싱클레어",
+                "content":"Cô Don Quixote...?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":169,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Khoan, đó là cô Don Quixote mà... nhỉ?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":170,
+                "place":null,
+                "model":"로쟈",
+                "content":"Con bé đang đi đâu vậy...?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":171,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Hôm nay ả có đến không? Lại nữa à?",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":172,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Đã đến lúc kết thúc kết thúc cái cuộc 'đối đầu' này rồi nhỉ? À... Hừm. Có lẽ đã quá muộn rồi.",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":173,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Chậc, quả thật là vậy. Mà này... một ý nghĩ đang luẩn quẩn trong đầu ta dạo gần đây.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":174,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Kẻ thắng người thua liệu có quan trọng đến vậy?",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":175,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Phần tiếp theo trong câu chuyện của con người đó mới quan trọng! Đang nghe cuốn thì cô ta dám dừng lại ở đoạn cao trào!",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":176,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Con... chẳng biết nói gì. Con không biết tại sao người lại để ả con người đó vào đây nếu người còn không định đấu với ả.",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":177,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Ấy vậy Sancho à... mặc dù con thốt ra những lời than phiền trẻ con đó...",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":178,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Đừng tưởng ta không để ý rằng con luôn dỏng tai về phía ta, chăm chú nghe ngóng. Nhất là ở đoạn Fixer thuộc Liên Đoàn Hana đối đầu với con quái vật đề nghị họ phải trả lộ phí để qua đoạn đồi lộng gió bằng một chiếc bánh gạo...",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":179,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"C-con chắc chắn đã không làm vậy.",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":180,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Chắc chắn con đã làm vậy. À, nhân tiện... con có nghĩ Liên Đoàn Hana sẽ vượt lên đỉnh cao không?",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":181,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Không. Con chắc chắn là người Fixer đến từ bên 'Zwei' sẽ đoạt được—",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":182,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"...A.",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":183,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Con tự nói đó nha.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":184,
+                "place":"Diễu Hành Lễ Hội",
+                "model":"단테",
+                "content":"<Don Quixote!>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":185,
+                "place":null,
+                "model":null,
+                "content":"Cái tên đó giờ cảm giác thật xa lạ. Cả tiếng đồng hồ của tôi nữa. Cũng chẳng thể ngăn Don Quixote lại.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":186,
+                "place":"???",
+                "model":"실루엣돈키호테",
+                "content":"Nhưng cho con biết đi, người định làm Fixer kiểu gì vậy?",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":187,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Fixer chỉ là một khái niệm đám con người sáng tạo nên thôi.",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":188,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Chúng sẽ săn lùng chúng ta nếu chúng ta dám lại gần.",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":189,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Cũng có thể. Nhưng hiện tại chỉ là có thể.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":190,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Nhưng ta cần con nghĩ lại, phải nhìn ra trông rộng. Giờ nếu ta mở ra con đường dẫn đến hòa bình, thì...",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":191,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"... một ngày không xa, chúng ta sẽ chung sống với con người, ôn hòa, hòa thuận.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":192,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Rồi ta sẽ trở thành Huyết Quỷ đầu tiên trở thành Fixer. Ý nghĩ đó chẳng phải tuyệt diệu biết bao sao?",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":193,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Biết đâu chúng sẽ lập ra cái 'fan club' để tôn vinh ta cũng nên.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":194,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Chắc chắn rồi, người cứ nằm mơ giấc mộng vĩ đại không tưởng đó đi.",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":195,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Ấy vậy ước mơ là phải thế mà con. Phải vĩ đại không tưởng.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":196,
+                "place":null,
+                "model":null,
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":197,
+                "place":null,
+                "model":null,
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":198,
+                "place":null,
+                "model":null,
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":199,
+                "place":null,
+                "model":null,
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":200,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"…….",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":201,
+                "place":null,
+                "model":"돈키호테",
+                "content":"…!",
+                "title":"???",
+                "teller":"Don Quixote?"
+            },
+            {
+                "id":202,
+                "place":null,
+                "model":null,
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":203,
+                "place":null,
+                "model":null,
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":204,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"Mừng con trở về, Sancho của ta.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":205,
+                "place":null,
+                "model":null,
+                "content":"Một giọng nói xa lạ nhưng thật thân thuộc cất lên. Âm thanh của cánh cửa gỗ dày cứng và những sợi xích vang vọng đâu đây.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":206,
+                "place":null,
+                "model":null,
+                "content":"Khi cánh cửa vừa hé mở, chúng tôi cảm nhận được nguồn năng lực mãnh liệt của Cành Vàng đang toả ra từ phía bên kia cửa.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":207,
+                "place":null,
+                "model":null,
+                "content":"Liệu đây có phải mùi rỉ sét của sắt hay là mùi máu nồng nặc đang phảng phất?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":208,
+                "place":null,
+                "model":null,
+                "content":"Cơ thể của người cất lên tiếng nói ấy đã hoà làm một với cây cột phát ra mùi hương kia...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":209,
+                "place":null,
+                "model":null,
+                "content":"... giao tiếp với chúng tôi qua cái Cành Vàng đâm xuyên thân thể mình.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":210,
+                "place":null,
+                "model":null,
+                "content":"... Hoặc có lẽ là... ông ấy đang nói với Don Quixote.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":211,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"GIờ hãy kể lại cho ta nào.",
+                "title":"???",
+                "teller":"???"
+            },
+            {
+                "id":212,
+                "place":null,
+                "model":"백발가면혈귀실루엣",
+                "content":"<color=#cc2424>Ước mơ... mà con thay ta mơ mộng...<\/color>",
+                "title":"???",
+                "teller":"???"
+            }
+        ]
     }
-  ]
-}
+

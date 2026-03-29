@@ -1,297 +1,366 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Confessional",
-      "model": "히스클리프",
-      "content": "So... that bizarre Bloodfiend nabbed the Priest as well, eh?"
-    },
-    {
-      "id": 1,
-      "model": "싱클레어",
-      "content": "Considering that he's also the one who took the Barber from Area 1..."
-    },
-    {
-      "id": 2,
-      "model": "히스클리프",
-      "content": "You know what else is naggin' me? It's the way he talks. Saying absolutely bonkers shite with a straight face like he's the only sane man."
-    },
-    {
-      "id": 3,
-      "model": "파우스트",
-      "content": "It can be said that the purpose of this behavior is to collect necessary stage props... or... perhaps, the main cast of a stageplay."
-    },
-    {
-      "id": 4,
-      "model": "파우스트",
-      "content": "In that case, we must keep our eyes on..."
-    },
-    {
-      "id": 5,
-      "model": "파우스트",
-      "content": "... the stageplay he wishes to show us."
-    },
-    {
-      "id": 6,
-      "model": "파우스트",
-      "content": "For we are yet to observe the specifics of his intent."
-    },
-    {
-      "id": 7,
-      "model": "오티스",
-      "content": "If only you kept your big mouth shut..."
-    },
-    {
-      "id": 8,
-      "model": "돈키호테",
-      "content": "... W-well, that is... I simply cannot put a stop to myself when he asketh me to regale thee with mine adventures... B-but they truly are most ingenious tales, I say...! Though I may speak them perforce, driven by villainous compulsion, prithee, listen well!"
-    },
-    {
-      "id": 9,
-      "model": "싱클레어",
-      "content": "And like Jia Xichun said, he could've easily taken us out if he wanted to. But he didn't."
-    },
-    {
-      "id": 10,
-      "model": "이스마엘",
-      "content": "Ugh... I hate this. I really don't like how it feels like we're just playthings in the palm of his hand."
-    },
-    {
-      "id": 11,
-      "model": "싱클레어",
-      "content": "Excuse me, manager... I mean, Dante."
-    },
-    {
-      "id": 12,
-      "content": "Sinclair carefully calls over to me."
-    },
-    {
-      "id": 13,
-      "model": "단테",
-      "content": "<Hm?>"
-    },
-    {
-      "id": 14,
-      "model": "싱클레어",
-      "content": "I'm sure you already noticed this, but... I just thought I might mention it. Just in case."
-    },
-    {
-      "id": 15,
-      "model": "싱클레어",
-      "content": "This mission..."
-    },
-    {
-      "id": 16,
-      "content": "Sinclair hesitated for a while, unsure how he should word this, then looked directly at me with a degree of conviction."
-    },
-    {
-      "id": 17,
-      "model": "싱클레어",
-      "content": "... it's all about Don Quixote."
-    },
-    {
-      "id": 18,
-      "model": "싱클레어",
-      "content": "And she... is completely oblivious to it."
-    },
-    {
-      "id": 19,
-      "model": "돈키호테",
-      "content": "Fie! What tragedy, what tragedy to let that abominable Bloodfiend slip away!"
-    },
-    {
-      "id": 20,
-      "model": "로쟈",
-      "content": "Yeah, ya looked totally torn up about it when you were excitedly telling us about that duel."
-    },
-    {
-      "id": 21,
-      "model": "돈키호테",
-      "content": "Nngh... hardly did I know that a request to hear my tale would have such seductive strength! 'Tis one of my dreams, indeed... yet... agh, how could I allow myself to be seduced like this! Once this mission is complete, I shall train my mind to the utmost—"
-    },
-    {
-      "id": 22,
-      "content": "I stared at Don Quixote, who was chattering away with the other Sinners in her usual blissful cluelessness, then back at Sinclair."
-    },
-    {
-      "id": 23,
-      "content": "... Clearly, he was as conflicted about this as I am."
-    },
-    {
-      "id": 24,
-      "model": "단테",
-      "content": "<... Yeah.>"
-    },
-    {
-      "id": 25,
-      "model": "싱클레어",
-      "content": "And I'm sure you have a good reason for not telling us what you know about her."
-    },
-    {
-      "id": 26,
-      "model": "단테",
-      "content": "<... Also... yeah.>"
-    },
-    {
-      "id": 27,
-      "model": "싱클레어",
-      "content": "Remember?"
-    },
-    {
-      "id": 28,
-      "model": "싱클레어",
-      "content": "Back when we all went to my hometown... Don Quixote gave me one real heck of a beatdown."
-    },
-    {
-      "id": 29,
-      "content": "I'm sure everyone, including myself, remembered what happened after Guido's death."
-    },
-    {
-      "id": 30,
-      "model": "싱클레어",
-      "content": "Thinking back to it now, it's a bit... embarrassing, but... I remember what Don Quixote said when I was starting to lose control. Told me that I had to return to my senses."
-    },
-    {
-      "id": 31,
-      "model": "싱클레어",
-      "content": "I'm sure it needs a degree of courage and determination to rise to the occasion like that."
-    },
-    {
-      "id": 32,
-      "model": "싱클레어",
-      "content": "But she stepped in without hesitation for my sake."
-    },
-    {
-      "id": 33,
-      "model": "싱클레어",
-      "content": "I want to be like her. And I've been trying my best to be like her... W-well, I probably have a long way to go, but still..."
-    },
-    {
-      "id": 34,
-      "model": "싱클레어",
-      "content": "It's not too much for me to hope for, right?"
-    },
-    {
-      "id": 35,
-      "model": "단테",
-      "content": "<No, I think that's a good kind of thing to hope for.>"
-    },
-    {
-      "id": 36,
-      "model": "돈키호테",
-      "content": "Pray tell! What 'good kind of hope' art thou speaking of?!"
-    },
-    {
-      "id": 37,
-      "model": "싱클레어",
-      "content": "AAAUGH?!"
-    },
-    {
-      "id": 38,
-      "model": "돈키호테",
-      "content": "Aught seems to have caught thee off guard! What is it?"
-    },
-    {
-      "id": 39,
-      "model": "단테",
-      "content": "<Oh... We were just chatting about this contract.>"
-    },
-    {
-      "id": 40,
-      "model": "돈키호테",
-      "content": "Oo!!! Hast thou wised up to it as well, then?!"
-    },
-    {
-      "id": 41,
-      "content": "... No way."
-    },
-    {
-      "id": 42,
-      "model": "돈키호테",
-      "content": "Verily, there is no other way to look at this. This mission... it must all be about..."
-    },
-    {
-      "id": 43,
-      "model": "돈키호테",
-      "content": "... Young Hong Lu! Dost thou see as I do?"
-    },
-    {
-      "id": 44,
-      "model": "단테",
-      "content": "<…….>"
-    },
-    {
-      "id": 45,
-      "model": "단테",
-      "content": "<... Hong Lu?>"
-    },
-    {
-      "id": 46,
-      "model": "돈키호테",
-      "content": "Hmm?! Manager Esquire, I espy a need for thee to improve thy insight! Young Hong Lu's expression hath appeared quite peculiar today, and..."
-    },
-    {
-      "id": 47,
-      "model": "싱클레어",
-      "content": "... I... don't see what's different about him today?"
-    },
-    {
-      "id": 48,
-      "model": "돈키호테",
-      "content": "... he hath even had a dramatic reunion with a long-lost blood relative!"
-    },
-    {
-      "id": 49,
-      "model": "돈키호테",
-      "content": "Ah, and forget thee not about the sudden onslaught of names of his other kin, and this potent aroma of secret enmities, which may signify a tragic history of familial drama..."
-    },
-    {
-      "id": 50,
-      "model": "돈키호테",
-      "content": "Though I myself have nary a one to call my kindred blood, I must imagine that such confrontations must be quite harrowing."
-    },
-    {
-      "id": 51,
-      "model": "돈키호테",
-      "content": "Thus! Manager Esquire!"
-    },
-    {
-      "id": 52,
-      "model": "단테",
-      "content": "<... Uh?>"
-    },
-    {
-      "id": 53,
-      "model": "돈키호테",
-      "content": "Prithee, take good care of young Hong Lu."
-    },
-    {
-      "id": 54,
-      "model": "돈키호테",
-      "content": "Verily, from a certain perspective, we are sailing through each of our own adventures, wouldst thou not say?"
-    },
-    {
-      "id": 55,
-      "model": "단테",
-      "content": "<That's... true.>"
-    },
-    {
-      "id": 57,
-      "model": "돈키호테",
-      "content": "And an adventure is very much like a journey of suffering. 'Tis imperative that thy heart remains steadfast through the trials and tribulations of the quest."
-    },
-    {
-      "id": 58,
-      "model": "돈키호테",
-      "content": "Allow me to share a tale of my old adventure, to demonstrate. This tale takes place in a tavern like any other, in which I..."
-    },
-    {
-      "id": 59,
-      "content": "Don Quixote's tale of adventure continued through our entire journey to Area 3."
-    },
-    {
-      "id": 60,
-      "content": "... Some Sinners and I did pay some attention to it, but we didn't find much of her story to be of any use."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phòng Xưng Tội",
+                "model":"히스클리프",
+                "content":"Vậy là... cái con Huyết Quỷ dị hợm kia hốt luôn con Cha Xứ rồi à?"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Thì tên đó cũng mang Thợ Cạo từ Khu Vực 1 đi luôn mà..."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Cái cách thằng chó đó sủa linh ta linh tinh mà mặt không biến sắc làm tao cáu vãi lồn."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"파우스트",
+                "content":"Cũng có thể nói rằng mục đích của hành vi này là để thu thập đạo cụ sân khấu... hoặc... có lẻ là, các vai chính của một vở kịch."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"파우스트",
+                "content":"Nếu là vậy thì chúng ta phải tiếp tục xem..."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"파우스트",
+                "content":"... màn kịch mà anh ta muốn cho chúng ta thấy."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"파우스트",
+                "content":"Bởi ý đồ thực sự của anh ta vẫn chưa tỏ tường cho tất cả cùng thấy."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"오티스",
+                "content":"Nếu ngươi nín được cái mỏ to như cái bô kia lại..."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"돈키호테",
+                "content":"...Ý-ý là, ta... ta không thể kiềm lòng được, khi mà hắn bảo ta kể lại những cuộc phiêu lưu kì thú của mình... Nh-nhưng chúng đều là những câu chuyện rất tài tình mà...! Dù cái ác đã điều khiển miệng lưỡi ta, xin hãy lắng nghe đi mà!"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Và như cô Giả Tích Xuân đã nói, tên đó đã có thể nghiền nát chúng ta nếu muốn. Nhưng hắn lại không làm vậy."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hừ... Bực mình thật ấy. Tôi cực kì không thích cái cảm giác bị biến thành đồ chơi trong lòng bàn tay hắn như thế này."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ngài Quản Lý ơi... À không, ngài Dante ơi."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "content":"Sinclair cẩn thận gọi tôi."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"단테",
+                "content":"<Hở?>"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Chắc là ngài cũng đã nhận ra rồi, nhưng... tôi vẫn muốn nói lại cho chắc."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Nhiệm vụ lần này..."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "content":"Sinclair chần chừ một chút, không biết nên nói thế nào cho đúng, rồi sau đó nhìn thẳng vào tôi như đang muốn phán quyết gì đấy."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"싱클레어",
+                "content":"... nó là về cô Don Quixote."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Mà cô Don Quixote thì lại... chẳng biết gì về điều đó cả."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Hừ! Đáng buồn thay, đáng buồn thay cho chúng ta lại để tên Huyết Quỷ đáng ghê tởm ấy trốn thoát!"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"로쟈",
+                "content":"Đúng đó, kể lại trận đấu tay đôi đầy quyết liệt đó thì cưng lúc đó cảm động đến phát khóc luôn ấy."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Gừ... Ai mà biết được rằng chỉ một yêu cầu kể lại các câu chuyện của ta lại có sức lôi cuốn đến vậy! Ta cũng đã ao ước điều này từ lâu... nhưng... ặc, sao ta lại để bị mê muội thế này! Xong vụ này rồi thì ta sẽ về tu dưỡng đầu óc đến khi nào—"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":null,
+                "content":"Tôi chăm chú nhìn Don Quixote đang tán gẫu với các Tội Nhân khác với vẻ vui tươi hồn nhiên vô tội, rồi quay sang đối mặt với Sinclair."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":null,
+                "content":"... Rõ ràng là cậu ấy cũng thấy vô cùng mâu thuẫn như tôi vậy."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"단테",
+                "content":"<... Đúng vậy.>"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Và chắc hẳn việc ngài không báo cho chúng tôi biết chuyện của cô ấy cũng có lý do chính đáng của nó."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"단테",
+                "content":"<... Cũng... đúng nốt.>"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ngài nhớ không?"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Hồi ở quê nhà của tôi... cô Don Quixote đã cho tôi ăn đập dữ dội luôn."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "content":"Tôi chắc tất cả mọi người, trong đó có cả tôi nữa, đều nhớ rõ chuyện gì đã xảy ra sau cái chết của Guido."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Giờ nghĩ lại thì khá là... xấu hổ, nhưng mà... tôi vẫn nhớ điều mà cô Don Quixote đã nói với tôi khi tôi mất đi lý trí rồi nổi điên lên. Cô ấy đã nói tôi phải tỉnh táo lại."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Để đứng lên hành động trong tình huống như thế chắc chắn không phải là chuyện dễ dàng"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ấy vậy mà cô ấy vẫn tiến lên không chút do dự vì tôi."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi muốn trở thành một người đồng đội như cô ấy. Và tôi đang cố gắng hết sức để được như cô ấy... Dù chắc phải còn lâu tôi mới được như vậy nhưng..."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi kỳ vọng như vậy cũng đâu có quá đáng đâu nhỉ?"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"단테",
+                "content":"<Không hề, tôi thấy chuyện đó cũng đáng để kỳ vọng lắm.>"
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Cho ta biết đi! Cái gì 'đáng để kỳ vọng' cơ?!"
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"싱클레어",
+                "content":"ÁAAAAA!?"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Dường như có cái gì đó đã làm cậu giật mình! Đó là cái gì?"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"단테",
+                "content":"<À... Chúng tôi chỉ đang nói về cái hợp đồng này thôi.>"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ôô!!! Ngài cũng đã hiểu ra rồi sao?!"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":null,
+                "content":"... Không đời nào."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Thực vậy, chỉ có một cách duy nhất thôi. Uỷ thác này... nó chắc chắn phải là..."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"돈키호테",
+                "content":"... Cậu Hong Lu! Cậu có nghĩ giống ta không?"
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"단테",
+                "content":"<.......>"
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"단테",
+                "content":"<... Hong Lu ư?>"
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Hửmm?! Quản Lý Thân Sĩ à, ta thấy ngài cần cải thiện cảm nhận của mình đó! Cậu Hong Lu hôm nay có biểu cảm hơi khác lạ, và..."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"싱클레어",
+                "content":"... Tôi... thấy anh ấy vẫn giống như thường ngày mà?"
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"돈키호테",
+                "content":"... cậu ấy còn có một cuộc hội ngộ căng thẳng với một người thân thích lâu chưa gặp nữa!"
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"돈키호테",
+                "content":"À, và cũng đừng quên vụ [...] đột ngột, và cái bầu không khí đầy thù hằn kín đáo này nữa, nó có thể đang báo trước một quá khứ gia đình tương tàn đau buồn nữa..."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Dù ta cũng chẳng có máu mủ ruột thịt gì, những cuộc đối đầu như vậy hẳn đau lòng lắm."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Vậy nên! Quản Lý Thân Sĩ à!"
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"단테",
+                "content":"<... Ờm?>"
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Xin hãy chăm sóc cậu Hong Lu cho thật tốt nhé."
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Hẳn vậy, nếu ta thay đổi góc nhìn một chút, chúng ta đang cùng nhau phiêu lưu trong từng câu chuyện của mỗi người, đúng chứ?"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"단테",
+                "content":"<Cũng... đúng.>"
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Một cuộc phiêu lưu cũng giống một con đường đầy chông gai vậy. Ta phải giữ vững trái tim kiên định để vượt qua mọi gian nan và thử thách phía trước."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Hãy cho ta kể về một chuyến phiêu lưu nọ để giải thích kĩ hơn nhé. Chuyện xảy ra ở một quán rượu bình thường như bao cái khác, và ta...."
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":null,
+                "content":"Sự tích về chuyến phiêu lưu của Don Quixote đưa đoàn chúng tôi đến với Khu Vực 3."
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":null,
+                "content":"... Tôi và một vài Tội Nhân có chú tâm đến câu chuyện nhưng hầu như chúng chẳng mấy hữu ích với chúng tôi cả."
+            }
+        ]
     }
-  ]
-}
+

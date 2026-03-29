@@ -1,307 +1,372 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Corridors",
-            "content": "Heathcliff was digging through the deceased Dead Rabbits' pockets."
-        },
-        {
-            "id": 1,
-            "model": "단테",
-            "content": "<What are you looking for, Heathcliff?>"
-        },
-        {
-            "id": 2,
-            "model": "히스클리프",
-            "content": "They don't have 'em."
-        },
-        {
-            "id": 3,
-            "model": "단테",
-            "content": "<The timepieces that Yi Sang mentioned earlier?>"
-        },
-        {
-            "id": 4,
-            "model": "히스클리프",
-            "content": "Yeah. Everyone born and raised in T Corp. carries a watch. They have to."
-        },
-        {
-            "id": 5,
-            "content": "Right... the Kurokumo Clan officer we fought in Yong-jin building was looking for a timepiece, too."
-        },
-        {
-            "id": 6,
-            "model": "히스클리프",
-            "content": "It's... like a form of personal identification. It's something you carry around to show others that you are who you are."
-        },
-        {
-            "id": 7,
-            "model": "히스클리프",
-            "content": "I abandoned my watch when I left T Corp., but..."
-        },
-        {
-            "id": 8,
-            "model": "넬리",
-            "content": "I see... They don't even have their pocket watch chains with them."
-        },
-        {
-            "id": 9,
-            "model": "넬리",
-            "content": "If they did carry a watch, we would have been able to learn at least where they were coming from."
-        },
-        {
-            "id": 10,
-            "model": "로쟈",
-            "content": "So someone either doesn't want people finding out who they are... or they're simply not from around here. Right?"
-        },
-        {
-            "id": 11,
-            "model": "이상",
-            "content": "I have witnessed such garb commonly worn about within the T Corp. territory. I have no doubts that they must be locals..."
-        },
-        {
-            "id": 12,
-            "model": "오티스",
-            "content": "There are many unanswered questions... but let us save that discussion for later."
-        },
-        {
-            "id": 13,
-            "model": "히스클리프",
-            "content": "... Here it is."
-        },
-        {
-            "id": 14,
-            "model": "넬리",
-            "content": "Whew... Now that was quite the journey, wasn't it? Shall we enter?"
-        },
-        {
-            "id": 15,
-            "model": "히스클리프",
-            "content": "... Nelly. Tell me."
-        },
-        {
-            "id": 16,
-            "model": "히스클리프",
-            "content": "After I... left without a word... how did Catherine fare?"
-        },
-        {
-            "id": 17,
-            "model": "넬리",
-            "content": "……."
-        },
-        {
-            "id": 18,
-            "model": "히스클리프",
-            "content": "Of course, I already know that she lived happily ever after with that sod, Linton. But..."
-        },
-        {
-            "id": 19,
-            "model": "넬리",
-            "content": "Are you sure you want to know?"
-        },
-        {
-            "id": 20,
-            "model": "히스클리프",
-            "content": "Dammit, I do. But... I also don't."
-        },
-        {
-            "id": 21,
-            "model": "히스클리프",
-            "content": "I must look so... pathetic. If Cathy was here, she would've mocked me mercilessly."
-        },
-        {
-            "id": 22,
-            "model": "넬리",
-            "content": "I would have brought you a mirror so you can see that priceless look on your face..."
-        },
-        {
-            "id": 23,
-            "model": "넬리",
-            "content": "... if I hadn't removed them all from the premises... Ha ha."
-        },
-        {
-            "id": 24,
-            "model": "히스클리프",
-            "content": "Tsk, I'm not interested in your stupid jests."
-        },
-        {
-            "id": 25,
-            "model": "히스클리프",
-            "content": "But has Catherine ever, even once, talked about me at all since I left?"
-        },
-        {
-            "id": 26,
-            "model": "넬리",
-            "content": "... No."
-        },
-        {
-            "id": 27,
-            "model": "히스클리프",
-            "content": "……."
-        },
-        {
-            "id": 28,
-            "model": "히스클리프",
-            "content": "Of course she didn’t. A witless brigand, a scoundrel like me… I’m sure it didn’t matter to Catherine whether I—"
-        },
-        {
-            "id": 29,
-            "model": "넬리",
-            "content": "I wouldn't be so sure, Heathcliff."
-        },
-        {
-            "id": 30,
-            "model": "넬리",
-            "content": "That is not what I meant."
-        },
-        {
-            "id": 31,
-            "model": "넬리",
-            "content": "When you left, Miss Catherine… she began withering away. She skulked in her room for days upon days, refusing to eat or even speak."
-        },
-        {
-            "id": 32,
-            "model": "넬리",
-            "content": "Then she’d suddenly grow lachrymose, scream, cry, whisper things to herself… Master Linton would come by to coax her, but it hardly helped matters."
-        },
-        {
-            "id": 33,
-            "model": "넬리",
-            "content": "She was so ill that I was worried that we might have to start making arrangements with a mortician in advance."
-        },
-        {
-            "id": 34,
-            "model": "히스클리프",
-            "content": "Really? I... Catherine… she was in that much pain?"
-        },
-        {
-            "id": 35,
-            "content": "Heathcliff asked, incredulously."
-        },
-        {
-            "id": 36,
-            "model": "넬리",
-            "content": "Yes. It pained us to even watch her suffer. And one day, she…"
-        },
-        {
-            "id": 37,
-            "model": "캐서린",
-            "content": "Nelly, look. Linton’s left a flower on my pillow."
-        },
-        {
-            "id": 38,
-            "model": "캐서린",
-            "content": "Oh, it’s golden. I didn’t know that spring had come to Wuthering Heights already. I suppose the snow has all but thawed, too."
-        },
-        {
-            "id": 39,
-            "model": "넬리",
-            "content": "Is that not so romantic of him, miss?"
-        },
-        {
-            "id": 40,
-            "model": "캐서린",
-            "content": "I suppose it could appear that way. He must have paid quite the fortune for this."
-        },
-        {
-            "id": 41,
-            "model": "캐서린",
-            "content": "But if Linton truly cared for me, truly wished to return a color to a flower for my sake..."
-        },
-        {
-            "id": 42,
-            "model": "캐서린",
-            "content": "... then he should have brought me a violet flower."
-        },
-        {
-            "id": 43,
-            "model": "넬리",
-            "content": "……."
-        },
-        {
-            "id": 44,
-            "model": "캐서린",
-            "content": "So... he did not bring this flower for my sake. This was only for his own satisfaction."
-        },
-        {
-            "id": 45,
-            "model": "넬리",
-            "content": "Are you... okay, Miss?"
-        },
-        {
-            "id": 46,
-            "model": "캐서린",
-            "content": "Whatever do you mean? I have never felt better than I do today."
-        },
-        {
-            "id": 47,
-            "model": "캐서린",
-            "content": "Walk with me, won't you? I would like to see which flowers have weathered the wintery cold and bloomed."
-        },
-        {
-            "id": 48,
-            "model": "넬리",
-            "content": "After that day, Miss Catherine truly appeared convalescent."
-        },
-        {
-            "id": 49,
-            "model": "넬리",
-            "content": "We were all happy to see Miss Catherine be herself again, but..."
-        },
-        {
-            "id": 50,
-            "model": "넬리",
-            "content": "... now that I think about it, it was a tad strange. She suffered for months upon months from fever; how could anyone so suddenly recover from all that after a single night's repose?"
-        },
-        {
-            "id": 51,
-            "model": "넬리",
-            "content": "That is also when she purchased Wuthering Heights from Mister Hindley Earnshaw..."
-        },
-        {
-            "id": 52,
-            "model": "넬리",
-            "content": "... and started making sweeping modifications to this place."
-        },
-        {
-            "id": 53,
-            "model": "넬리",
-            "content": "I thought the two of them had intended to return to Wuthering Heights, so I asked them what exactly they planned to do with it… but they never gave me a straight answer."
-        },
-        {
-            "id": 54,
-            "model": "넬리",
-            "content": "Haah. I'm just as in the dark as you are. I've not the slightest clue as to what she was thinking..."
-        },
-        {
-            "id": 55,
-            "model": "히스클리프",
-            "content": "What about... my letters?"
-        },
-        {
-            "id": 56,
-            "model": "히스클리프",
-            "content": "I sent her letters. I haven't been able to since I joined this company, but... when I was a part of that gang..."
-        },
-        {
-            "id": 57,
-            "model": "히스클리프",
-            "content": "... I wrote her letters. Though I didn't sign my name on 'em."
-        },
-        {
-            "id": 58,
-            "model": "히스클리프",
-            "content": "I... just wanted to let her know that I was doing fine."
-        },
-        {
-            "id": 59,
-            "model": "넬리",
-            "content": "Well, I don't recall her ever opening a letter."
-        },
-        {
-            "id": 60,
-            "model": "넬리",
-            "content": "Seriously, once she has her mind set on something, no one could convince her otherwise. No one..."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Hành Lang Đồi Gió Hú",
+                "content":"Heathcliff đang lục lọi túi của những cái xác từ Băng Dead Rabbits đã ngã xuống.",
+                "model":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"<Anh đang tìm gì thế Heathcliff?>",
+                "model":"단테"
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Bọn chúng không mang nó trong người.",
+                "model":"히스클리프"
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"<Chỗ đồng hồ mà Yi Sang đã đề cập trước đó sao?>",
+                "model":"단테"
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Ừ. Tất cả những ai sinh ra và lớn lên tại Tập Đoàn T đều mang đồng hồ. Họ bắt buộc phải làm thế.",
+                "model":"히스클리프"
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Phải rồi... tên Hắc Vân Hội cấp cao mà chúng tôi đánh nhau tại toà nhà Yong-jin cũng xem một cái đồng hồ nữa.",
+                "model":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Nó... giống như một dạng định danh vậy. Là vật mày cầm theo để cho mấy đứa khác biết mày là ai.",
+                "model":"히스클리프"
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Tao đã vứt đồng hồ của mình khi rời Tập Đoàn T, nhưng...",
+                "model":"히스클리프"
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Ra vậy... Bọn họ không mang đồng hồ bên người.",
+                "model":"넬리"
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Sẽ dễ nhận diện hơn nhiều nếu bọn họ mang theo mấy thứ như đồng hồ bỏ túi chẳng hạn.",
+                "model":"넬리"
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Vậy là ai đó không muốn người khác biết mình là ai, hoặc đơn giản là họ không phải là người ở nơi đây. Phải không vậy?",
+                "model":"로쟈"
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Phục trang như thế rất phổ biến trong địa phận Tập Đoàn T. Tôi đã hoàn toàn tin rằng họ là người bản địa...",
+                "model":"이상"
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Có rất nhiều câu hỏi cần được giải đáp... nhưng giờ tạm gác chúng sang một bên đi.",
+                "model":"오티스"
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"... Đây rồi.",
+                "model":"히스클리프"
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Phù... Chuyến hành trình này hơi gian nan quá nhỉ? Mấy vị có muốn tiếp tục chứ?",
+                "model":"넬리"
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"... Nelly. Hãy nói cho con biết.",
+                "model":"히스클리프"
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Sau khi... con rời đi mà không nói gì... Catherine đã sống như thế nào?",
+                "model":"히스클리프"
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"…….",
+                "model":"넬리"
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Tất nhiên là con đã biết em ấy sống hạnh phúc mãi mãi với tên khốn Linton đó. Nhưng...",
+                "model":"히스클리프"
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Có chắc là con muốn biết không?",
+                "model":"넬리"
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Mẹ kiếp, con cũng muốn chứ... Nhưng đồng thời con cũng không muốn.",
+                "model":"히스클리프"
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Con thật... thảm hại. Nếu Cathy còn ở đây, em ấy sẽ móc mỉa con không thương tiếc.",
+                "model":"히스클리프"
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Ha ha, khuôn mặt rũ rượi đó là sao vậy chứ, Heathcliff...",
+                "model":"넬리"
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"... ta nghĩ con nên thử ngắm nghía bản thân con lúc này đi ấy, chỉ tiếc là ta lại vứt hết gương trong dinh thự từ lâu rồi... không ngờ ta lại cảm thấy tiếc nuối như này...",
+                "model":"넬리"
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Quỷ tha ma bắt, con không có hứng nghe mấy lời đàm tiếu của cô đâu.",
+                "model":"히스클리프"
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Nhưng liệu Catherine có bao giờ, chỉ một lần nào đó, nhắc về con kể từ khi con rời đi không?",
+                "model":"히스클리프"
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"... Không.",
+                "model":"넬리"
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"…….",
+                "model":"히스클리프"
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Mắc gì Catherine phải để tâm tới một thằng vô lại ngu xuẩn như con—",
+                "model":"히스클리프"
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Không phải đâu, Heathcliff à.",
+                "model":"넬리"
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Ta không có ý nói thế.",
+                "model":"넬리"
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Chuyện là, kể từ lúc con rời đi, Tiểu Thư Catherine... dần trở nên chán nản. Cô Chủ luôn nhốt bản thân trong phòng nhiều ngày liền, không đói hoài gì tới việc ăn uống hay giao tiếp cả.",
+                "model":"넬리"
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Rồi cô ấy trở nên buồn rầu, la hét, khóc lóc, lúc nào cũng lầm bầm một mình... Cậu Chủ Linton cũng đã tới dỗ dành nhưng mọi chuyện chẳng khá hơn là bao.",
+                "model":"넬리"
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Đã lần ta đã mạo phạm nghĩ rằng, nếu tiểu thư cứ tiều tụy như thế thì sớm thôi, ta sẽ phải chuẩn bị hậu sự cho cô ấy mất.",
+                "model":"넬리"
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Thật sao? Con... Catherine... Em ấy đã đau đớn đến vậy à?",
+                "model":"히스클리프"
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Heathcliff gặng hỏi, không chấp nhận sự thật.",
+                "model":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Đúng, trong lòng bọn ta lúc đấy cũng day dứt lắm chứ, ai lại nỡ đứng nhìn tiểu thư khổ sở như vậy được. Ấy vậy mà...",
+                "model":"넬리"
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Trông kìa, Nelly. Linton đã để lại một bông hoa trên gối con.",
+                "model":"캐서린"
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Ôi, là màu vàng kim này. Không ngờ là mùa xuân đã về với Đồi Gió Hú thật rồi. Có lẽ là tuyết cũng đã tan hết.",
+                "model":"캐서린"
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Ngài ấy quả là một người lãng mạn nhỉ, thưa tiểu thư?",
+                "model":"넬리"
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Cô nghĩ thế cũng được. Anh ấy ắt hẳn đã chi một số tiền không nhỏ cho thứ này.",
+                "model":"캐서린"
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Nhưng nếu Linton thực sự quan tâm tới con, mong cầu hoàn trả màu sắc cho một bông hoa chỉ vì con...",
+                "model":"캐서린"
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"... thì lẽ ra anh ấy nên mang đến cho con một bông hoa màu tím.",
+                "model":"캐서린"
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"…….",
+                "model":"넬리"
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Hóa ra... anh ấy hái bông hoa này chỉ để thỏa chí chứ chẳng phải vì con.",
+                "model":"캐서린"
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Cô... ổn chứ, Tiểu Thư?",
+                "model":"넬리"
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Ý cô là sao? Chưa bao giờ con thấy thoải mái như hôm nay cả.",
+                "model":"캐서린"
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"Đi dạo cùng con đi, con muốn ngắm nhìn xem loài hoa nào đã nở rộ sau tiết trời đông lạnh giá kia.",
+                "model":"캐서린"
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Sau ngày hôm ấy, Tiểu Thư Catherine đột nhiên tươi tắn lạ thường.",
+                "model":"넬리"
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Chúng ta ai nấy cũng cảm thấy nhẹ nhõm khi trông thấy Tiểu Thư tươi tắn trở lại, nhưng mà...",
+                "model":"넬리"
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"... mọi chuyện không phải quá vô lý sao? Cô ấy đã phải dằn vặt, đau khổ trong suốt nhiều tháng liền chỉ vì bệnh tật, làm sao có thể đột nhiên bình phục được chứ?",
+                "model":"넬리"
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"Và đó cũng là lúc mà cô ấy đã mua Đồi Gió Hú từ chính Cậu Chủ Linton...",
+                "model":"넬리"
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"... và bắt đầu tu sửa hàng loạt.",
+                "model":"넬리"
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Ban đầu ta cứ tưởng cả hai đã quyết định quay trở về Đồi Gió Hú, thế là liền hỏi xem họ có dự định gì trong tương lai không... nhưng chẳng nhận lại được câu trả lời rõ ràng nào cả.",
+                "model":"넬리"
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Hầy. Đến ta cũng mù mờ như con thôi. Bản thân ta giờ cũng không thể hiểu nổi lúc ấy tiểu thư đang nghĩ gì nữa...",
+                "model":"넬리"
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"Vậy còn... những lá thư của con thì sao?",
+                "model":"히스클리프"
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Con có gửi thư cho em ấy. Kể từ ngày vào công ty này thì chưa, nhưng... hồi con còn ở cái băng nhóm đó...",
+                "model":"히스클리프"
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"... Con đã viết nhiều thư cho em ấy. Mặc dù không có ký tên.",
+                "model":"히스클리프"
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"Con... chỉ muốn cho em ấy biết là con vẫn ổn.",
+                "model":"히스클리프"
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Thành thật mà nói, ta không nhớ cô chủ có mở bất kì lá thư nào cả.",
+                "model":"넬리"
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"Khi tiểu thư đã quyết điều gì rồi thì có chúa mới khiến cô ấy đổi ý được...",
+                "model":"넬리"
+            }
+        ]
+    }
+

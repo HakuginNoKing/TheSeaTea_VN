@@ -1,1231 +1,1942 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": "Makeshift Command Tent",
-      "model": "단테",
-      "content": "<Hm? Who are those people accompanying Vergilius and Charon?>"
-    },
-    {
-      "id": 1,
-      "model": "로쟈",
-      "content": "Damn, not even a wave back, huh?"
-    },
-    {
-      "id": 2,
-      "content": "No, this wasn't about Vergilius..."
-    },
-    {
-      "id": 3,
-      "model": "돈키호테",
-      "content": "Hoooagh... Hooah...!"
-    },
-    {
-      "id": 4,
-      "content": "Don Quixote, who stood next to me, was very gradually starting to hyperventilate."
-    },
-    {
-      "id": 5,
-      "model": "단테",
-      "content": "<You... you okay, Don Quixote?>"
-    },
-    {
-      "id": 6,
-      "model": "뫼르소",
-      "content": "The gradual acceleration of her breathing patterns was first observed ten minutes ago. I did not report it, as it posed no real risk to her health and well-being."
-    },
-    {
-      "id": 7,
-      "model": "료슈",
-      "content": "I know a good way of dealing with a case of hyperventilation."
-    },
-    {
-      "id": 8,
-      "content": "Ryōshū regarded me with a look that clearly and concisely communicated that she wanted to choke out Don Quixote. I tried my best to look away."
-    },
-    {
-      "id": 9,
-      "model": "돈키호테",
-      "content": "HA... HAA..."
-    },
-    {
-      "id": 10,
-      "model": "돈키호테",
-      "content": "HAAA... HA... HAAAGGHHHHH..."
-    },
-    {
-      "id": 11,
-      "model": "료슈",
-      "content": "Haah...."
-    },
-    {
-      "id": 12,
-      "content": "Ishmael sighed and stepped forward, sensing that Ryōshū was about to do something we would rather not have her do."
-    },
-    {
-      "id": 13,
-      "model": "이스마엘",
-      "content": "Sigh, I can tell you what's going on. That Fixer's from the Hana Association."
-    },
-    {
-      "id": 14,
-      "model": "단테",
-      "content": "<Uhh, the 'Hana Association' is the one that's overseeing all Fixer Association activities, right?>"
-    },
-    {
-      "id": 15,
-      "content": "I guess all the times Don Quixote went on impromptu Fixer-related lectures weren't all for naught."
-    },
-    {
-      "id": 16,
-      "content": "I never paid much attention to it, but once you hear something enough times... those lectures just have a way of lodging themselves into your brain."
-    },
-    {
-      "id": 17,
-      "model": "엑스트라해결사1",
-      "teller": "Muttering Fixer",
-      "title": "???",
-      "content": "A Fixer from the Hana Association...?"
-    },
-    {
-      "id": 18,
-      "content": "That name alone clearly carried a lot of weight among other Fixers. As the Hana Association Fixer, dressed in pure white, walked into the room, they all slowly turned around to gaze upon her."
-    },
-    {
-      "id": 19,
-      "content": "And..."
-    },
-    {
-      "id": 20,
-      "model": "엑스트라해결사2",
-      "teller": "Amazed Fixer",
-      "title": "???",
-      "content": "The Red Gaze, too...?"
-    },
-    {
-      "id": 21,
-      "model": "엑스트라해결사2",
-      "teller": "Amazed Fixer",
-      "title": "???",
-      "content": "Holy crap, a Color Fixer? Here...?"
-    },
-    {
-      "id": 22,
-      "model": "로쟈",
-      "content": "Hey... looks like we've got another superstar here..."
-    },
-    {
-      "id": 23,
-      "content": "Vergilius, who we'd somehow grown used to seeing after such a long period of traveling together, was commanding the attention of everyone in the room merely by his presence."
-    },
-    {
-      "id": 24,
-      "content": "That reminds me. I heard that Don Quixote was overwhelmed by sheer excitement when she saw Vergilius on the bus. I'm pretty sure she was on the verge of passing out from the sheer joy of getting to work next to a Color Fixer."
-    },
-    {
-      "id": 25,
-      "model": "이스마엘",
-      "content": "I guess this was to be expected. Vergilius is one of the very few Fixers who has the honor of getting bestowed with the title of a Color."
-    },
-    {
-      "id": 26,
-      "model": "까미유카메라",
-      "content": "Chat, are you seeing this? Crazy, right? Look, that's none other than the Color Fixer Red Gaze himself, in the flesh. This is no mere backwaters, Backstreets operation we're talking about."
-    },
-    {
-      "id": 27,
-      "model": "까미유카메라",
-      "content": "Remember my pregame stream? I told you guys that this had to be more than an Urban Nightmare! Oh, you're worried about me? Guys. Listen. All I need is your support to..."
-    },
-    {
-      "id": 28,
-      "model": "오티스",
-      "content": "Tsk, tsk... youngsters these days..."
-    },
-    {
-      "id": 29,
-      "content": "Between Camille's nonstop jabbering and Outis' tongue clicking in even, 3-second intervals, I wasn't sure which one of the two was more annoying."
-    },
-    {
-      "id": 30,
-      "content": "... Thankfully, we weren't the only ones getting increasingly tired of Camille's antics."
-    },
-    {
-      "id": 31,
-      "model": "한울",
-      "teller": "???",
-      "title": "Hana Assoc. North",
-      "content": "From this point onward, any recording activity, save for official work-related recordings with prior authorization from the Hana Association, will no longer be permitted."
-    },
-    {
-      "id": 32,
-      "model": "한울",
-      "teller": "???",
-      "title": "Hana Assoc. North",
-      "content": "Should you be caught in violation of this decree, the Fixer Association will be levying penalty points to your name. And we who are gathered here must be well aware of the consequences of accumulating too many penalty points. Fixer License suspension, grade demotion..."
-    },
-    {
-      "id": 33,
-      "model": "까미유카메라",
-      "content": "Well, chat... seems like it's the curtain call for tonight's show. I'll give them a valorous, noble fight, and I'll see you guys next time. Oh, and don't forget about casting your votes for the 'Fixer I want to have dinner with' contest. It closes at midnight!"
-    },
-    {
-      "id": 34,
-      "content": "The Hana Fixer's cold declaration fell upon Camille and the Fixers inside the command tent like a heavy layer of snow. They all begin hurriedly fidgeting with their devices, trying to put them back in their respective cases and bags."
-    },
-    {
-      "id": 35,
-      "content": "With that, the commotion inside the tent rapidly simmered down."
-    },
-    {
-      "id": 36,
-      "model": "이스마엘",
-      "content": "Serves them right."
-    },
-    {
-      "id": 37,
-      "model": "한울",
-      "teller": "???",
-      "title": "Hana Assoc. North",
-      "content": "You there. That woman with... an apparently dislocated jaw... appears to be a part of your group. Is she alright?"
-    },
-    {
-      "id": 38,
-      "content": "The Fixer from the Hana Association asks in our direction, glancing at Don Quixote."
-    },
-    {
-      "id": 39,
-      "model": "베르길리우스",
-      "content": "... Don't mind her. It's easier that way."
-    },
-    {
-      "id": 40,
-      "content": "Soon, a P Corp. employee walked out in front of the Fixers."
-    },
-    {
-      "id": 41,
-      "model": "알레시오",
-      "teller": "???",
-      "title": "P Corp. Staff",
-      "content": "Right. Round four against La Manchaland, huh?"
-    },
-    {
-      "id": 42,
-      "model": "알레시오",
-      "teller": "???",
-      "title": "P Corp. Staff",
-      "content": "I am very glad to be here. Happy to see you all."
-    },
-    {
-      "id": 43,
-      "content": "For someone who's very happy to see us... he didn't so much as glance up in our direction."
-    },
-    {
-      "id": 44,
-      "model": "알레시오",
-      "content": "I am a Class 3 Documentation Staff Manager at P Corp. Archival Department. My name is Alessio."
-    },
-    {
-      "id": 45,
-      "model": "알레시오",
-      "content": "And she is..."
-    },
-    {
-      "id": 46,
-      "model": "한울",
-      "content": "Han-ul."
-    },
-    {
-      "id": 47,
-      "model": "싱클레어",
-      "content": "So... Head Manager Cesara isn't here to brief us herself."
-    },
-    {
-      "id": 48,
-      "model": "오티스",
-      "content": "Not willing to dirty her boots by coming all the way out here, I see."
-    },
-    {
-      "id": 49,
-      "model": "알레시오",
-      "content": "Right, then. Let's get on with the briefing, shall we?"
-    },
-    {
-      "id": 50,
-      "content": "As we were all standing here and sharing our predictions, the employee, who introduced himself as Alessio, started loading up various images on the monitor."
-    },
-    {
-      "id": 51,
-      "model": "히스클리프",
-      "content": "Yaaaaawn... Mate, do we really gotta go through all this bureaucracy?"
-    },
-    {
-      "id": 52,
-      "model": "이상",
-      "content": "T-the briefing is yet to even commence, however..."
-    },
-    {
-      "id": 53,
-      "content": "Heathcliff lets out a loud, exaggerated yawn. The reproachful glares of other Fixers were so palpable that I could almost feel them prickling at my skin..."
-    },
-    {
-      "id": 54,
-      "model": "이스마엘",
-      "content": "Can we pretend we don't know him...?"
-    },
-    {
-      "id": 55,
-      "model": "단테",
-      "content": "<Huh, it makes me feel like I'm something of a Fixer myself, sitting here with all these people...>"
-    },
-    {
-      "id": 56,
-      "model": "오티스",
-      "content": "Heh. Executive Manager, I have been a leader of numerous operations that would dwarf this little skirmish—"
-    },
-    {
-      "id": 57,
-      "model": "단테",
-      "content": "<Numerous...?>"
-    },
-    {
-      "id": 58,
-      "content": "I wanted to hear more about her story, but the mission briefing was actually getting started; I decided to table my curiosity until later."
-    },
-    {
-      "id": 59,
-      "model": "알레시오",
-      "content": "La Manchaland, which will manifest here within the next three hours, is an officially-recognized Urban Nightmare class phenomenon. Dozens of Fixers have attempted and failed to take it down."
-    },
-    {
-      "id": 60,
-      "model": "알레시오",
-      "content": "... We will now hold a moment of silence for its victims."
-    },
-    {
-      "id": 61,
-      "content": "Don Quixote immediately cast her gaze downward with a graven expression, but... I could count with my ten fingers the number of people who seemed to be taking it even remotely seriously."
-    },
-    {
-      "id": 62,
-      "content": "Some Fixers muttered amongst themselves that the victims were just fools who were in over their heads."
-    },
-    {
-      "id": 63,
-      "content": "Even I, with my endless naïveté, could tell that none of the Fixers really considered them 'victims'."
-    },
-    {
-      "id": 64,
-      "content": "A light buzz of murmurs and idle chatter fills the silence, a look of boredom clear on the Fixers' face as though they've heard it all before."
-    },
-    {
-      "id": 65,
-      "model": "알레시오",
-      "content": "Now, if I may direct your attention to this screen."
-    },
-    {
-      "id": 66,
-      "content": "Several low-resolution images began to load on the display."
-    },
-    {
-      "id": 67,
-      "model": "알레시오",
-      "content": "It is speculated that the origin of La Manchaland dates back two-hundred years in the past, by a conservative estimation."
-    },
-    {
-      "id": 68,
-      "model": "알레시오",
-      "content": "This has been determined based on photographic evidence, and the level of decay of the buildings and materials retrieved and analyzed from the phenomenon."
-    },
-    {
-      "id": 69,
-      "model": "알레시오",
-      "content": "However, La Manchaland was largely unknown and invisible to the public until two months ago. And the raw material that makes up this 'amusement park' is—"
-    },
-    {
-      "id": 70,
-      "model": "엑스트라해결사1",
-      "teller": "Muttering Fixer",
-      "title": "???",
-      "content": "Tsk, we know all this already. Just get on with it."
-    },
-    {
-      "id": 71,
-      "model": "알레시오",
-      "content": "Ah, mm... P Corp. has the responsibility to share sufficient information to all participants of this mission."
-    },
-    {
-      "id": 72,
-      "model": "엑스트라해결사1",
-      "teller": "Muttering Fixer",
-      "title": "???",
-      "content": "And like I said, we all have more than sufficient information, got that?! Let's stop wasting time and—"
-    },
-    {
-      "id": 73,
-      "model": "한울",
-      "content": "You seem to be under a rather severe misconception."
-    },
-    {
-      "id": 74,
-      "model": "한울",
-      "content": "Of course, I'm sure some of my present company are consummate professionals with the skill and grit most people wouldn't dare scoff at."
-    },
-    {
-      "id": 75,
-      "model": "엑스트라해결사1",
-      "teller": "Muttering Fixer",
-      "title": "???",
-      "content": "Heh..."
-    },
-    {
-      "id": 76,
-      "model": "오티스",
-      "content": "Heh..."
-    },
-    {
-      "id": 77,
-      "model": "한울",
-      "content": "But the truth is, most of you are... fodder. Common as muck, painfully average, garden variety, bargain bin Fixers who are most likely going to meet their dirt-filled miserable ends while stuck on Urban Nightmare duty their whole careers. That's all you'll ever be."
-    },
-    {
-      "id": 78,
-      "model": "한울",
-      "content": "... Most of you will fall by the wayside before this path leads to you anywhere of even passing significance, let alone joining the ranks of Grade 1 Fixers like myself."
-    },
-    {
-      "id": 79,
-      "model": "한울",
-      "content": "Some, maybe one or two of you, may make it to Grade 1, sure. But I can guarantee that you won't even dare dream of getting anywhere near The Red Gaze's greatness."
-    },
-    {
-      "id": 80,
-      "model": "한울",
-      "content": "Hm, maybe your best will be the honor of dying next to him. Feeling the disparity between yourselves and those who are at the top of the City."
-    },
-    {
-      "id": 81,
-      "content": "The grin on the Fixers' faces quickly faded away as the boisterous Fixer fell dead silent."
-    },
-    {
-      "id": 82,
-      "model": "히스클리프",
-      "content": "Blimey. So that Hana Fixer is... almost right up there with the guide, eh? Or at least somewhere right beneath his level?"
-    },
-    {
-      "id": 83,
-      "model": "돈키호테",
-      "content": "Aha, yet the Red Gaze shan't be outdone by a mere Grade 1 Fixer!"
-    },
-    {
-      "id": 84,
-      "model": "한울",
-      "content": "So, know your places and pay attention to the briefing."
-    },
-    {
-      "id": 85,
-      "model": "알레시오",
-      "content": "Thank you for your cooperation. Now, let's see..."
-    },
-    {
-      "id": 86,
-      "model": "알레시오",
-      "content": "The reason for La Manchaland's sudden appearance here is yet to be explained."
-    },
-    {
-      "id": 87,
-      "model": "알레시오",
-      "content": "Though its influence is still confined to the Backstreets, the uniqueness of La Manchaland poses a tangible threat to P Corp. merely by its existence."
-    },
-    {
-      "id": 88,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "Yeah, totally, dude. The local housing market hit rock bottom and continued to crash, didn't it~?"
-    },
-    {
-      "id": 89,
-      "content": "The Fixer from earlier, the one who tried to stop us from entering the scene before scuttling away, slowly sidled up to us and began chatting us up."
-    },
-    {
-      "id": 90,
-      "content": "Most of us ignored him, but Hong Lu responds to him in a kindly voice."
-    },
-    {
-      "id": 91,
-      "model": "홍루",
-      "content": "Oh, is that right?"
-    },
-    {
-      "id": 92,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "Yeah. It was insane when that thing showed up here for the first time."
-    },
-    {
-      "id": 93,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "It appeared in the middle of a dense population center. It was like two hells in one. All that screaming, all that blood and..."
-    },
-    {
-      "id": 94,
-      "model": "료슈",
-      "content": "Two hells in one, hm? What a beautiful phrasing."
-    },
-    {
-      "id": 95,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "Well, P Corp. buildings are well-known for their elasticity, so while they all got bent along the newly manifested phenomenon, they didn't like, crumble or anything."
-    },
-    {
-      "id": 96,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "Anyways... when La Manchaland suddenly appeared there, pulsing and pushing away all the buildings that used to be there, people got crushed and a bunch of buildings got bent."
-    },
-    {
-      "id": 97,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "There were really a lot of survivors for something so devastating. All thanks to P Corp.'s Singularity, which kept the people inside the buildings safe."
-    },
-    {
-      "id": 98,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "They set up a three-kilometer radius buffer zone to limit any construction in the Area where it manifests, but~"
-    },
-    {
-      "id": 99,
-      "model": "그레고르",
-      "content": "... Just three kilometers?"
-    },
-    {
-      "id": 100,
-      "model": "파우스트",
-      "content": "Buildings utilizing P Corp.'s Singularity have a very high level of elasticity, meaning that buildings made using their technology are very unlikely to collapse or fall apart in response to shock. It is probable that they have decided that it would be safe enough to let the periphery of La Manchaland slightly overlap with the residential zone."
-    },
-    {
-      "id": 101,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "Well, you know what they say. P Corp. can make a safe home anywhere."
-    },
-    {
-      "id": 102,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "So imagine the shock when all that disaster happened. Their only claim to fame crumbled, the faith in their technology growing shaky... no wonder the real estate market crashed through rock bottom around here."
-    },
-    {
-      "id": 103,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "I mean, it was so bad that the locals banded together and stormed La Manchaland. Pickets and all."
-    },
-    {
-      "id": 104,
-      "model": "단테",
-      "content": "<So that's what those banners were about, huh...>"
-    },
-    {
-      "id": 105,
-      "model": "한울",
-      "content": "As you can all see, La Manchaland presents itself as an extravagantly decorated amusement park."
-    },
-    {
-      "id": 106,
-      "model": "한울",
-      "content": "One of the most commonly heard testimonies from the reports state that there is an eight-kilometer range radius from the epicenter in which people have been hearing a disembodied music of sorts. Several curious civilians, drawn by the music, approached it. Most of them are yet to return."
-    },
-    {
-      "id": 107,
-      "model": "폴라",
-      "content": "Is it possible that the 'music' holds hypnogenic qualities?"
-    },
-    {
-      "id": 108,
-      "model": "알레시오",
-      "content": "Hm, that is indeed a possibility we won't be ruling out. Too many visitors have ignored the obvious warning signs and perimeter tapes to call it a coincidence. Possibly erring on the side of caution, we and the relevant individuals will be equipping ourselves with earplugs."
-    },
-    {
-      "id": 109,
-      "model": "혈귀사냥꾼",
-      "content": "What must we do once this 'La Manchaland' materializes?"
-    },
-    {
-      "id": 110,
-      "model": "한울",
-      "content": "Once you enter its perimeters, you will have to ready yourselves for imminent combat."
-    },
-    {
-      "id": 111,
-      "model": "한울",
-      "content": "There aren't any kindly pierrots giving away balloons, no amusement park employees popping popcorns, no staff members greeting you with a welcoming song."
-    },
-    {
-      "id": 112,
-      "model": "로메로",
-      "content": "……."
-    },
-    {
-      "id": 113,
-      "model": "로메로",
-      "content": "... Only Bloodfiends."
-    },
-    {
-      "id": 114,
-      "model": "엑스트라해결사1",
-      "teller": "Muttering Fixer",
-      "title": "???",
-      "content": "Huh? Bloodfiends...? They're real?"
-    },
-    {
-      "id": 115,
-      "model": "엑스트라해결사2",
-      "teller": "Amazed Fixer",
-      "title": "???",
-      "content": "Haven't you heard about the Blood-red Night, that infamous Star of the City? Some people say that the Blood-red Night was actually a really powerful Bloodfiend."
-    },
-    {
-      "id": 116,
-      "model": "엑스트라해결사1",
-      "teller": "Muttering Fixer",
-      "title": "???",
-      "content": "Yeah, and people say a lot of stuff. You know how rumors spread in the City. I bet it wasn't anything too crazy once you got down to it."
-    },
-    {
-      "id": 117,
-      "model": "혈귀사냥꾼",
-      "content": "... Hah, rumors? You'll never know how resilient, how devastatingly powerful and stubborn the Blood-red Night was. You ignoramuses do not have the right to talk about that thing so lightly."
-    },
-    {
-      "id": 118,
-      "model": "한울",
-      "content": "……."
-    },
-    {
-      "id": 119,
-      "model": "한울",
-      "content": "Yes, the only things you'll find in there..."
-    },
-    {
-      "id": 120,
-      "model": "한울",
-      "content": "... are Bloodbags and the Bloodfiends that turned them, sharpening their fangs to fill their ravenous hunger with your blood."
-    },
-    {
-      "id": 121,
-      "model": "알레시오",
-      "content": "Oh, here's a detail I was going to share earlier before I was cut off. The raw material that makes up every structure within La Manchaland... is human blood. Human blood dating back over two-hundred years in the past."
-    },
-    {
-      "id": 122,
-      "model": "싱클레어",
-      "content": "... Bloodfiends can make amusement parks out of blood?"
-    },
-    {
-      "id": 123,
-      "model": "로메로",
-      "content": "Oh, now I'm looking forward to this. If it's only Bloodfiends we'll find in there, I'm sure they'll waste no time making mincemeat out of the greenhorns."
-    },
-    {
-      "id": 124,
-      "model": "로쟈",
-      "content": "Is that how all Fixers talk? The way that guy's talking about Bloodfiends reminds me a lot of how Ishy used to talk about the Great Lake..."
-    },
-    {
-      "id": 125,
-      "model": "이스마엘",
-      "content": "... Hey, you can't blame us for being on edge all the time when the smallest mistake could cost us our lives. Not to mention how irritating it is when others, who don't even understand the dangers, are dozing off like there's no tomorrow..."
-    },
-    {
-      "id": 126,
-      "model": "히스클리프",
-      "content": "Uhnn. Didn't doze. Thanks to some sod who's been constantly stepping on my foot..."
-    },
-    {
-      "id": 127,
-      "model": "싱클레어",
-      "content": "... Mm. Mm... What a nice weather today, huh?"
-    },
-    {
-      "id": 128,
-      "content": "It was Sinclair who was stepping on his foot, at the rather forcible behest of Ishmael, but I held my silence. The last thing I wanted was to have the two of them bickering again..."
-    },
-    {
-      "id": 129,
-      "model": "한울",
-      "content": "... Anyway. If you manage to survive for six hours within La Manchaland, the music announcing the closure of the park will start playing. We were able to cross-reference this fact from testimonies of every Fixer and civilian who managed to make it out alive."
-    },
-    {
-      "id": 130,
-      "model": "한울",
-      "content": "Once the exit song starts playing, you will have thirty minutes to exit La Manchaland. Should you fail to do so... you'll be trapped inside La Manchaland until it manifests here again. Effectively putting you in an endless battle against the Bloodfiends."
-    },
-    {
-      "id": 131,
-      "model": "혈귀사냥꾼",
-      "content": "If anyone even survives that long..."
-    },
-    {
-      "id": 132,
-      "model": "알레시오",
-      "content": "There also were eyewitness reports where some Fixers identified missing people aboard certain amusement park rides, but that's not an important detail for those who are present."
-    },
-    {
-      "id": 133,
-      "model": "한울",
-      "content": "Based on testimonies and reports from the survivors, we have been able to establish a map of La Manchaland, comprised of four separate 'Areas'."
-    },
-    {
-      "id": 134,
-      "model": "한울",
-      "content": "No one has yet to make it to the final Area, which is located here."
-    },
-    {
-      "id": 135,
-      "model": "한울",
-      "content": "However, we were able to identify that a certain device in each Area... Area 1, 2, and 3 respectively, had to be activated first in order to unlock the final Area."
-    },
-    {
-      "id": 136,
-      "model": "한울",
-      "content": "The devices within Area 1 and 2 have been activated in the past, but no one has managed to activate the one in Area 3 just yet."
-    },
-    {
-      "id": 137,
-      "model": "혈귀사냥꾼",
-      "content": "Understood. I suppose we should beeline it to Area 3 to save some time, then?"
-    },
-    {
-      "id": 138,
-      "model": "한울",
-      "content": "No. It appears that the devices reset when La Manchaland disappears."
-    },
-    {
-      "id": 139,
-      "model": "알레시오",
-      "content": "In other words, we will have to divide and conquer. Team up with other Fixers, choose an Area to tackle."
-    },
-    {
-      "id": 140,
-      "model": "로메로",
-      "content": "Hm, I see. Split up, activate our respective devices, and rendezvous at the final Area."
-    },
-    {
-      "id": 141,
-      "model": "로메로",
-      "content": "... assuming that every team successfully activates the device they're responsible for."
-    },
-    {
-      "id": 142,
-      "model": "알레시오",
-      "content": "Correct. We suspect that the key to solving the La Manchaland problem lies within its final Area."
-    },
-    {
-      "id": 143,
-      "model": "로메로",
-      "content": "Pfft..."
-    },
-    {
-      "id": 144,
-      "model": "한울",
-      "content": "Is there something you'd like to share?"
-    },
-    {
-      "id": 145,
-      "model": "로메로",
-      "content": "Isn't it funny? That we have to go activate some kind of device in each section of La Manchaland to unlock the final Area..."
-    },
-    {
-      "id": 146,
-      "model": "로메로",
-      "content": "It's kind of like a game, isn't it? Like they're giving those who dare to challenge the might of La Manchaland stages to beat, conditions to fulfill."
-    },
-    {
-      "id": 147,
-      "model": "혈귀사냥꾼",
-      "content": "How should we know what the Bloodfiends are thinking? Those monsters are born twisted."
-    },
-    {
-      "id": 148,
-      "model": "폴라",
-      "content": "Hana, we have something we'd like to confirm."
-    },
-    {
-      "id": 149,
-      "model": "폴라",
-      "content": "The Zwei Association is here to rescue our client, not for the eradication reward."
-    },
-    {
-      "id": 150,
-      "model": "까미유",
-      "content": "Mm~ Don't you mean the Zwei and the Cinq? Don't leave me out~"
-    },
-    {
-      "id": 151,
-      "model": "폴라",
-      "content": "... Therefore, the Zwei and the Cinq have no reason to enter the three Areas to activate those devices."
-    },
-    {
-      "id": 152,
-      "model": "한울",
-      "content": "... I suppose you could take over from here for the sake of accuracy."
-    },
-    {
-      "id": 153,
-      "model": "알레시오",
-      "content": "Oh, sure."
-    },
-    {
-      "id": 154,
-      "model": "알레시오",
-      "content": "Right. I'm sure you all have your own reasons for being here, yes?"
-    },
-    {
-      "id": 155,
-      "model": "알레시오",
-      "content": "Therefore, we at P Corp. set up an eradication dividend fund, which means that we will be giving out the reward money based on how much you have contributed to the eradication of La Manchaland."
-    },
-    {
-      "id": 156,
-      "model": "로메로",
-      "content": "... Assuming a successful outcome, that is."
-    },
-    {
-      "id": 157,
-      "model": "알레시오",
-      "content": "If your goal isn't the eradication of La Manchaland, then feel free to roam on your own to fulfill your respective contracts. As long as you acknowledge that you won't be receiving any payout from that fund upon the successful completion of this expedition, you are free to do as you will."
-    },
-    {
-      "id": 158,
-      "model": "알레시오",
-      "content": "However, we would also like to request that you submit a copy of that contract so that we are aware of its details."
-    },
-    {
-      "id": 159,
-      "model": "폴라",
-      "content": "Understood. I will hand it over as soon as this meeting adjourns."
-    },
-    {
-      "id": 160,
-      "model": "혈귀사냥꾼",
-      "content": "Speaking of which, I'd like to take this opportunity to declare something. If you... and I mean if any of you intend to ride our coattails to pilfer more of that reward than you deserve... I'll hunt you down, too. Got that?"
-    },
-    {
-      "id": 161,
-      "model": "로메로",
-      "content": "Ladies and gents, I can attest that he isn't one for empty threats. Can't promise I'll be able to stop him, hmm?"
-    },
-    {
-      "id": 162,
-      "model": "싱클레어",
-      "content": "He sure is intense..."
-    },
-    {
-      "id": 163,
-      "model": "한울",
-      "content": "... I understand that a lot of money hinges on this contract. However, remember that our primary objective remains to minimize casualties and to prevent further disappearances. Leave some of that selfishness behind and cooperate for the greater good."
-    },
-    {
-      "id": 164,
-      "model": "혈귀사냥꾼",
-      "content": "... Fine, I'll cooperate. If that's even possible."
-    },
-    {
-      "id": 165,
-      "model": "한울",
-      "content": "……."
-    },
-    {
-      "id": 166,
-      "content": "The Hana Fixer did not contradict him."
-    },
-    {
-      "id": 167,
-      "content": "She was the kind of person who wouldn't hesitate to put her foot down... she could've easily forced us into cooperating. But it seemed that she wouldn't keep us from infighting, if it did come to that."
-    },
-    {
-      "id": 168,
-      "content": "... Don Quixote was the only one passionately nodding along to her advice."
-    },
-    {
-      "id": 169,
-      "model": "가시춘",
-      "title": "???",
-      "content": "So, who's going with who? And to which Area?"
-    },
-    {
-      "id": 170,
-      "content": "Xichun, Hong Lu's little sister who'd been listening quietly to the briefing, raised her hand with a question."
-    },
-    {
-      "id": 171,
-      "model": "한울",
-      "content": "You will be assigned to teams and Areas based on our internal data analyses of your individual capabilities, potential, and alignment."
-    },
-    {
-      "id": 172,
-      "model": "가시춘",
-      "title": "???",
-      "content": "So we should probably avoid overcrowding, huh."
-    },
-    {
-      "id": 173,
-      "model": "가시춘",
-      "title": "???",
-      "content": "Such as saddling us a group of dozen or so people, for example..."
-    },
-    {
-      "id": 174,
-      "model": "한울",
-      "content": "... We intend to avoid bottlenecking too many people in the same Area."
-    },
-    {
-      "id": 175,
-      "model": "로쟈",
-      "content": "She's not hiding her disdain at all, huh?"
-    },
-    {
-      "id": 176,
-      "model": "싱클레어",
-      "content": "W-well, i-it's not like we wanted her to tag along..."
-    },
-    {
-      "id": 177,
-      "model": "홍루",
-      "content": "……."
-    },
-    {
-      "id": 178,
-      "model": "알레시오",
-      "content": "If there are no further questions, I will be assigning you all to teams and Area pairs—"
-    },
-    {
-      "id": 179,
-      "model": "돈키호테",
-      "content": "HOOOOLD!"
-    },
-    {
-      "id": 180,
-      "content": "Every single Fixer in the room whipped around to look at Don Quixote at her bellowing roar. Perhaps it was the sheer fervor in her voice... or perhaps, they were simply annoyed by her asking that 'one last question' when the boring briefing was almost over."
-    },
-    {
-      "id": 181,
-      "model": "이스마엘",
-      "content": "Oh please... don't tell me this is actually happening."
-    },
-    {
-      "id": 182,
-      "model": "히스클리프",
-      "content": "Ooh. Oi, that actually woke me up this time."
-    },
-    {
-      "id": 183,
-      "model": "그레고르",
-      "content": "No, no. This might be the best time to go back to sleep, bud."
-    },
-    {
-      "id": 184,
-      "model": "오티스",
-      "content": "Would've resulted in a summary execution back in the day..."
-    },
-    {
-      "id": 185,
-      "model": "알레시오",
-      "content": "Okay... And the question is...?"
-    },
-    {
-      "id": 186,
-      "model": "돈키호테",
-      "content": "Hark, it appeareth that the information of the greatest import is missing from thy briefing."
-    },
-    {
-      "id": 187,
-      "model": "알레시오",
-      "content": "It... is...? Um, a moment, please."
-    },
-    {
-      "id": 188,
-      "content": "Alessio began flipping through the briefing, flustered."
-    },
-    {
-      "id": 189,
-      "model": "돈키호테",
-      "content": "When shall the rescue operation for the victims of this terrible amusement park commence?"
-    },
-    {
-      "id": 190,
-      "model": "돈키호테",
-      "content": "I believe that an operation of such a grand scale may be difficult to accomplish only with the help of Sirs and Ladies from the Zwei and the Cinq Association."
-    },
-    {
-      "id": 191,
-      "model": "폴라",
-      "content": "……."
-    },
-    {
-      "id": 192,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "Uhh..."
-    },
-    {
-      "id": 193,
-      "model": "까미유",
-      "content": "Hey, is that like, a character you're playing or something?"
-    },
-    {
-      "id": 194,
-      "model": "까미유",
-      "content": "That's not mainstream at all, I like it. Though I gotta say, playing a character's a bit old-fashioned. At least I know that my viewers won't enjoy something like that."
-    },
-    {
-      "id": 195,
-      "model": "폴라",
-      "content": "It appears that there has been some misunderstanding. Our contract has nothing to do with rescuing the visitors, let alone all of them. Our contract is a search-and-rescue operation for a specific visitor requested to us by our client."
-    },
-    {
-      "id": 196,
-      "model": "돈키호테",
-      "content": "Then..."
-    },
-    {
-      "id": 197,
-      "model": "돈키호테",
-      "content": "... whoever shall make up the rescue party for the rest of its victims?"
-    },
-    {
-      "id": 198,
-      "model": "까미유",
-      "content": "Hah, is she for real?"
-    },
-    {
-      "id": 199,
-      "model": "엑스트라해결사1",
-      "teller": "Muttering Fixer",
-      "title": "???",
-      "content": "Where'd these idiots come from?"
-    },
-    {
-      "id": 200,
-      "model": "엑스트라해결사2",
-      "teller": "Amazed Fixer",
-      "title": "???",
-      "content": "Dude, lemme see."
-    },
-    {
-      "id": 201,
-      "model": "이스마엘",
-      "content": "……."
-    },
-    {
-      "id": 202,
-      "model": "폴라",
-      "content": "Unless you have been specifically contracted to rescue someone, I recommend that you peruse the missing persons' flyers for the rewards."
-    },
-    {
-      "id": 203,
-      "model": "돈키호테",
-      "content": "Yet... it is not the promise of rewards that I desire."
-    },
-    {
-      "id": 204,
-      "model": "돈키호테",
-      "content": "So many valiant Fixers are gathered here, yet not one taketh up the role of a rescuer? Prithee, Fixer of the Zwei. Art thou not one of the Zwei, one of those who call themselves \"Your Shield\"—"
-    },
-    {
-      "id": 205,
-      "model": "까미유",
-      "content": "Yeah, they're shields all right. The iron shield of whoever enters an official contractual agreement with them."
-    },
-    {
-      "id": 206,
-      "model": "돈키호테",
-      "content": "Fie, yet a Fixer mustn't wager their own life on shallow promise of capital! Pray tell, when did the Fixers of Associations abandon honor for greed?!"
-    },
-    {
-      "id": 207,
-      "model": "까미유",
-      "content": "... Oh, jeez. Okay, that's enough playing around. Do you even have any idea who you're talking to—"
-    },
-    {
-      "id": 208,
-      "model": "돈키호테",
-      "content": "I am very well aware, young Camille of Cinq Association, Section 3. Frequent feature of the Fixers Monthly magazine. Currently #7 in the 'Fixers I want to have dinner with' contest."
-    },
-    {
-      "id": 209,
-      "model": "까미유",
-      "content": "H-huh, so you know your... wait, I'm only #7?"
-    },
-    {
-      "id": 210,
-      "model": "까미유",
-      "content": "Well, that's not important right now. If you're so knowledgeable about the Fixers, then I'm sure you know this as well."
-    },
-    {
-      "id": 211,
-      "model": "까미유",
-      "content": "That I, as a Fixer of the Cinq Association, am not one to waste breath on mere words. When we want to settle something or make a statement, we duel. An official duel to the death."
-    },
-    {
-      "id": 212,
-      "model": "돈키호테",
-      "content": "Then..."
-    },
-    {
-      "id": 213,
-      "model": "돈키호테",
-      "content": "Wilt thou heed mine words should I best thee in a duel?"
-    },
-    {
-      "id": 214,
-      "model": "까미유",
-      "content": "What?"
-    },
-    {
-      "id": 215,
-      "model": "돈키호테",
-      "content": "Should I best thee in a duel..."
-    },
-    {
-      "id": 216,
-      "model": "돈키호테",
-      "content": "... wilt thou swear on thine honor that thou shalt assist us in our rescue mission... for those who have gone missing?"
-    },
-    {
-      "id": 217,
-      "model": "까미유",
-      "content": "Wait. Are you seriously challenging me to a..."
-    },
-    {
-      "id": 218,
-      "model": "단테",
-      "content": "<No...>"
-    },
-    {
-      "id": 219,
-      "model": "돈키호테",
-      "content": "I, Don Quixote, perforce, shall not so lightly forsake my creed! I hereby challenge thee to a duel!"
-    },
-    {
-      "id": 220,
-      "content": "Things were quickly starting to spiral out of control."
-    },
-    {
-      "id": 221,
-      "content": "Almost panicking, I glanced toward Vergilius..."
-    },
-    {
-      "id": 222,
-      "model": "베르길리우스",
-      "content": "……."
-    },
-    {
-      "id": 223,
-      "content": "... but I couldn't read his expression. He was simply staring at us in that inscrutable silence."
-    },
-    {
-      "id": 224,
-      "content": "... Silence that almost felt like... warmth...?"
-    },
-    {
-      "id": 225,
-      "content": "Somehow, I found myself getting more intimidated by this than outright anger."
-    },
-    {
-      "id": 226,
-      "model": "알레시오",
-      "content": "... Okay, then. I'll end the briefing here."
-    },
-    {
-      "id": 227,
-      "model": "뫼르소",
-      "content": "It can be determined from prior experience that it will be impossible to stop the presently developing situation."
-    },
-    {
-      "id": 228,
-      "model": "뫼르소",
-      "content": "Pupils, dilated. Brows, furrowed at a steep angle. Clear refusal to heed any external input. Our attempts to coax her will not be met with any meaningful response."
-    },
-    {
-      "id": 229,
-      "model": "단테",
-      "content": "<So she's lost it...>"
-    },
-    {
-      "id": 230,
-      "model": "파우스트",
-      "content": "I neglected to mention this earlier at the empty lot, Dante, on account of the lack of prying eyes..."
-    },
-    {
-      "id": 231,
-      "model": "파우스트",
-      "content": "... I recommend against turning your clock when the eyes of every Fixer participating in this case are watching us intently. Especially for a duel in which there is very little benefit to be gained."
-    },
-    {
-      "id": 232,
-      "model": "파우스트",
-      "content": "This includes summoning Identities from different worlds or the use of E.G.O."
-    },
-    {
-      "id": 233,
-      "model": "단테",
-      "content": "<W-well, yeah. But... it's not like we won't be using them once we get inside, right? I don't see what's wrong with—>"
-    },
-    {
-      "id": 234,
-      "content": "Just as I was trying to convince Faust otherwise, Don Quixote stepped in and resolutely shook her head."
-    },
-    {
-      "id": 235,
-      "model": "돈키호테",
-      "content": "Nay, worry not. 'Tis an unnecessary crutch."
-    },
-    {
-      "id": 236,
-      "model": "단테",
-      "content": "<Wha... seriously?!>"
-    },
-    {
-      "id": 237,
-      "model": "돈키호테",
-      "content": "A duel against a member of the Cinq Association must be fair and just! Never did I intend to borrow thy strength, Manager Esquire, for this hallowed battle of mine!"
-    },
-    {
-      "id": 238,
-      "model": "단테",
-      "content": "<…….>"
-    },
-    {
-      "id": 239,
-      "model": "까미유",
-      "content": "... Fine."
-    },
-    {
-      "id": 240,
-      "model": "까미유",
-      "content": "Sucks that I don't have my fans here to watch me wipe the floor with you... But I'm sure someone here will spread the story by word of mouth."
-    },
-    {
-      "id": 241,
-      "model": "까미유",
-      "content": "I won't throw my gauntlet out of pity. En garde, petit nouveau!"
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Lều Chỉ Huy Dã Chiến",
+                "model":"단테",
+                "content":"<Hở? Những người đứng cạnh Vergilius và Charon là ai thế?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ấy chà, cũng không chào lại luôn sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "content":"Không, cái này không phải nói Vergilius...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Hơoaaa... Oaaaa...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "content":"Don Quixote, người đang đứng kế bên tôi bắt đầu thở gấp.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"단테",
+                "content":"<Nè... nè Don Quixote, cô ổn chứ?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Đã quan sát được nhịp thở của cô ta đang tăng dần đều từ mười phút trước. Do tình trạng này không gây nguy hiểm tới sức khỏe của cá nhân, tôi thấy việc báo cáo lại là không cần thiết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"료슈",
+                "content":"Ta biết một cách để xử lý tình trạng thở gấp đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "content":"Ryōshū nhìn tôi với cặp mắt ám chỉ rõ rằng cô ấy muốn kẹp cổ Don Quixote đến tắt thở. Tôi thì cố quay sang chỗ khác.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"돈키호테",
+                "content":"HA... HAA...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"돈키호테",
+                "content":"HAAA... HA... HAAAAAAAAA....",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"료슈",
+                "content":"Hầy...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "content":"Ishmael thở dài và bước lên can, nhận thấy Ryōshū sắp sửa thực hiện điều không ai muốn cô ấy làm cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hờ, rồi rồi, ra là như thế. Là Fixer của Liên Đoàn Hana đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"단테",
+                "content":"<Ờm, 'Liên Đoàn Hana' có phải cái nơi giám sát toàn bộ hoạt động của các Liên Đoàn Fixer không?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "content":"Xem bộ những lần Don Quixote ngẫu hứng kể sự tích về Fixer cũng không hề vô bổ nhỉ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "content":"Tôi chưa bao giờ chú tâm đến chúng lắm, nhưng mà khi đã nghe đi nghe lại đủ nhiều rồi... thì những bài kể ấy luôn tìm được cách đọng lại trong não bộ thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"엑스트라해결사1",
+                "content":"Fixer từ Hiệp Hội Hana á...?",
+                "teller":"Fixer Lẩm Bẩm",
+                "title":"???"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":null,
+                "content":"Chỉ riêng cái tên thôi cũng đủ toát ra sức nặng đáng kể giữa các Fixer khác rồi. Và khi vị Fixer của Liên Đoàn Hana với bộ phục trang trắng tinh khiết kia bước vào căn phòng, tất cả đều xoay lại ngước nhìn cô ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":null,
+                "content":"Rồi cả...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"엑스트라해결사2",
+                "content":"Chẳng phải đó là Xích Mục sao...?",
+                "teller":"Fixer Ngưỡng Mộ",
+                "title":"???"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"엑스트라해결사2",
+                "content":"Quỷ thần, Xích Mục thật á? Ở đây thật luôn...?",
+                "teller":"Fixer Ngưỡng Mộ",
+                "title":"???"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"로쟈",
+                "content":"Này... chúng ta lại có thêm một siêu sao nữa kìa....",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":null,
+                "content":"Vergilius, người mà chúng tôi đã quá quen mặt suốt chuyến đi dài dẵng này, chỉ cần xuất hiện thôi đã tập trung được sự chú ý của tất cả mọi người trong căn phòng rồi",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":null,
+                "content":"Nhắc mới nhớ, tôi từng nghe Don Quixote đã choáng ngợp bởi cảm xúc vui sướng tột độ khi chứng kiến Vergilius trên xe buýt. Tôi khá chắc cô ấy sắp ngất ngang lên vì vui sướng khi biết rằng bản thân sẽ làm việc và đồng hành cùng một Color Fixer.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Cũng chẳng có gì lạ lùng ở đây cả. Vergilius là một trong số ít những Fixer có vinh dự hiếm hoi được ban danh hiệu Color mà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"까미유카메라",
+                "content":"Cả nhà thấy gì chưa? Điên vãi nhỉ? Nhìn đằng đó đi, không ai khác chính là Color Fixer Xích Mục bằng xương bằng thịt. Đây không phải là mấy chiến dịch tầm thường ở mấy chỗ Phố Sau ngõ tận đâu nha.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"까미유카메라",
+                "content":"Nhớ cái stream trò chuyện trước nhiệm vụ chứ? Tui đã bảo với cả nhà là kiểu gì nó cũng phải từ tầm Ác Mộng Đô Thị trở lên mà. Ùi cả nhà đang lo cho tui hả? Nào mọi người. Nghe nè. Tui chỉ cần mọi người ủng hộ cho...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"오티스",
+                "content":"Chậc, chậc... giới trẻ ngày nay...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "content":"Giữa lời ba hoa không ngừng của Camille và tiếng tặc lưỡi liên tục mỗi 3 giây, thì tôi không biết được cái nào phiền phức hơn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":null,
+                "content":"... May thay, chúng tôi không phải người duy nhất cảm thấy phát mệt với những trò lố lăng của Camille.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"한울",
+                "content":"Từ giờ trở đi, mọi hoạt động ghi hình, trừ những bản ghi chính thức có liên quan mà đã được chấp thuận bởi Liên Đoàn Hana từ trước, đều bị cấm.",
+                "teller":"???",
+                "title":"Liên Đoàn Hana Phương Bắc"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"한울",
+                "content":"Nếu như ai bị bắt gặp vi phạm điều này, Liên Đoàn Fixer sẽ tích điểm phạt vào giấy phép của người vi phạm. Và tất cả mọi người ở đây ai cũng phải biết hậu quả. Trong trường hợp nhẹ thì giáng hạng, nặng hơn có thể tước giấy phép hành nghề, giáng hạng...",
+                "teller":"???",
+                "title":"Liên Đoàn Hana Phương Bắc"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"까미유카메라",
+                "content":"Chẹp... có vẻ là hôm nay phải kết show ở đây rồi cả nhà ạ. Tui sẽ cho chúng nó thấy thế nào là một trận đánh anh dũng và cao quý, xong rồi tui sẽ về với vòng tay của cả nhà. À, và đừng quên vote cho tui trong cuộc thi \"Fixer bạn muốn cùng ăn tối nhất\" nha. Nửa đêm đóng vote rồi đấy!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":null,
+                "content":"Lời tuyên bố đanh thép của vị Fixer từ Hana giáng xuống Camille và các Fixer trong lều chỉ huy như một cơn tuyết lở lạnh băng. Tất cả nhanh chóng điều chỉnh thiết bị của mình, cố nhét hết chúng lại vào trong hộp và túi của chính mình.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "content":"Theo đó, sự huyên náo bên trong chiếc lều cũng nhanh chóng lắng xuống.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Cho chừa cái thói ấy đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"한울",
+                "content":"Đằng kia. Cô gái trong nhóm mấy người đấy. Nãy giờ cứ há hốc mồm... Có bị sao không vậy?",
+                "teller":"???",
+                "title":"Liên Đoàn Hana Phương Bắc"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":null,
+                "content":"Vị Fixer của Liên Đoàn Hana nhìn Don Quixote rồi hỏi đến chỗ chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"... Kệ đi. Không nhìn là không thấy gì hết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":null,
+                "content":"Ít lâu sau, một nhân viên Tập Đoàn P bước lên phía trước các Fixer.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"알레시오",
+                "content":"À. Chúng ta đến với hiệp thứ tư nhé mọi người?",
+                "teller":"???",
+                "title":"Nhân Viên T.Đoàn P"
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"알레시오",
+                "content":"Rất hân hạnh được chào đón mọi người ở đây.",
+                "teller":"???",
+                "title":"Nhân Viên T.Đoàn P"
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":null,
+                "content":"Với một người cảm thấy vô cùng hạnh phúc khi gặp gỡ mọi người... thì anh ấy trông không mấy vui lắm khi hướng mắt về phía chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"알레시오",
+                "content":"Tôi là Quản Lý Ghi Chép Cấp 3, thuộc Cục Lưu Trữ tại Tập Đoàn P. Tên tôi là Alessio.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"알레시오",
+                "content":"Và cô ấy là...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"한울",
+                "content":"Han-ul.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Đó không phải là... Trưởng Ban Cesara chúng ta gặp hồi nãy nhỉ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"오티스",
+                "content":"Còn không thèm vác mặt tới đây vì sợ bẩn giày mà, ra vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"알레시오",
+                "content":"Được rồi. Chúng ta bắt đầu với một chút tóm tắt nhé?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":null,
+                "content":"Khi chúng tôi đều đứng tại chỗ và bày tỏ những suy đoán của mình, thì người nhân viên tự giới thiệu bản thân là Alessio bắt đầu tải lên vô số hình ảnh trên màn hình.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Oáppppp... Trời ạ, cả lũ thật sự phải ngồi nghe hết đống bùi nhùi vòng vo này à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"이상",
+                "content":"B-bản tóm lược còn chưa bắt đầu cơ mà...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff ngáp một hơi lớn vô cùng. Tôi có thể thấy rõ những ánh mắt đầy phán xét của các Fixer khác như đang đâm xuyên thấu da thịt tôi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Từ chối nhận người quen được không nhỉ...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"단테",
+                "content":"<Hửm, ngồi đây cùng những người này khiến tôi cảm thấy mình giống như một Fixer vậy...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"오티스",
+                "content":"Heh. Thưa ngài Quản Lý Điều Hành, tôi đã từng là lãnh đạo của vô số chiến dịch đủ làm lu mờ cái cuộc đụng độ bé tý này—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"단테",
+                "content":"<Vô số ư...?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":null,
+                "content":"Tôi muốn nghe thêm về chuyện của cô ấy, nhưng buổi họp chuẩn bị bắt đầu rồi. Nên tôi quyết định sẽ thoả mãn trí tò mò của mình sau.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"알레시오",
+                "content":"La Manchaland, cái thứ sẽ xuất hiện ở đây trong vòng ba giờ nữa, đã được công nhận là một hiện tượng cấp độ Ác Mộng Đô Thị. Nhiều người đã cố trừ khử nó nhưng không thành.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"알레시오",
+                "content":"... Bây giờ chúng ta sẽ dành một phút mặc niệm để tưởng nhớ những nạn nhân.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":null,
+                "content":"Don Quixote lập tức cúi đầu xuống với biểu cảm u buồn, nhưng mà... số người thực sự nghiêm túc làm theo thì quả đúng chỉ đếm trên đầu ngón tay thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":null,
+                "content":"Vài Fixer thì thầm rằng các nạn nhân chỉ là đám ngu xuẩn quá ngạo mạn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":null,
+                "content":"Thậm chí một kẻ vô cùng non nớt chẳng hề biết gì như tôi đây, có thể biết rõ chẳng có Fixer nào thật sự coi họ là 'nạn nhân' cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":null,
+                "content":"Những tiếng xì xào và tán gẫu nhanh chóng lấn át sự tĩnh lặng, còn vẻ chán chường hiện rõ trên mặt các Fixer chứng tỏ bọn họ đều đã nghe chuyện này trước rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"알레시오",
+                "content":"Bây giờ tôi sẽ cho các bạn xem những hình ảnh sau đây.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":null,
+                "content":"Một vài hình ảnh độ phân giải thấp bắt đầu hiện lên trên màn hình.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"알레시오",
+                "content":"Chúng ta đã áng chừng La Manchaland đã có nguồn gốc từ ít nhất hai trăm năm về trước.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"알레시오",
+                "content":"Điều này được xác định bởi những hình ảnh chụp lại, và từ phân tích mức độ phân hủy của các tòa nhà và chất liệu được thu thập ở hiện trường.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"알레시오",
+                "content":"Tuy nhiên, công chúng vẫn chưa biết về sự tồn tại của La Manchaland cho đến khi 2 tháng trước. Và chất liệu làm nên 'công viên giải trí' đó là—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"엑스트라해결사1",
+                "content":"Chậc, bọn tao biết hết rồi. Nói thẳng mẹ luôn đi.",
+                "teller":"Fixer Lẩm Bẩm",
+                "title":"???"
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"알레시오",
+                "content":"À, ờ... Tập Đoàn P có trách nhiệm chia sẻ thông tin cần thiết cho tất cả những người tham gia chiến dịch này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"엑스트라해결사1",
+                "content":"Nghe chưa thủng à, bọn tao có nguồn tin khác từ thuở tổ tông cụ rồi, mày bị chậm hiểu hay gì? Bớt phí thì giờ đi—",
+                "teller":"Fixer Lẩm Bẩm",
+                "title":"???"
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"한울",
+                "content":"Anh có vẻ như đang mắc một sự hiểu lầm khá là nghiêm trọng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"한울",
+                "content":"Tất nhiên, tôi tin rằng đồng nghiệp của tôi đều là những cán viên tinh nhuệ nhất sở hữu những kỹ năng phải nói là không chê vào đâu được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"엑스트라해결사1",
+                "content":"Hể...",
+                "teller":"Fixer Lẩm Bẩm",
+                "title":"???"
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"오티스",
+                "content":"Heh...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"한울",
+                "content":"Nhưng sự thật là, hầu hết mấy người chỉ là... rác rưởi. Mấy thứ Fixer tầm thường, nghiệp dư, rẻ rách, những con tốt thí mà chắc chắn sẽ xanh cỏ khi đang quanh quẩn mấy vụ Ác Mộng Đô thị cả sự nghiệp thôi. Dù có cố đến mấy cũng vô ích.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"한울",
+                "content":"... Hầu hết mấy người sẽ mục nát trước khi mà sự nghiệp của mấy người thăng tiến dù chỉ một chút, nói chi tới việc lên Fixer Hạng 1 như tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"한울",
+                "content":"Một số ít, có thể là một hoặc hai người, sẽ lên Hạng 1. Nhưng tôi dám cá rằng chẳng ai bao giờ sẽ đạt đến trình độ của Xích Mục, có mà mơ ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"한울",
+                "content":"Hừm, có lẽ kết cục khả quan nhất thì mấy người sẽ có vinh dự được hi sinh bên cạnh ông ta. Khi ấy, các bạn sẽ thấu hiểu sự phân cách giữa các bạn và những người đứng đầu Thành Phố.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":null,
+                "content":"Cái nhếch mép trên mặt các Fixer dần tan biến còn người Fixer hung bạo kia chết lặng đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Vãi lồn. Vậy cái đứa Hana Fixer kia... cũng phải cỡ ông dẫn đường à? Hay dưới ổng một tí?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Aha, chỉ là một Fixer Hạng 1 thôi thì không tài nào vượt qua được ngài Xích Mục đâu!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"한울",
+                "content":"Vậy thì, biết thân biết phận và tập trung đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"알레시오",
+                "content":"Cảm ơn vì sự hợp tác của các bạn. Giờ thì...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"알레시오",
+                "content":"Chũng ta vẫn chưa rõ lý do mà La Manchaland xuất hiện một cách đột ngột như vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"알레시오",
+                "content":"Mặc dù tầm ảnh hưởng của nó bị giới hạn trong khuôn khổ Phố Sau, bản thân sự tồn tại của La Manchaland là một mối đe dọa đối với Tập Đoàn P bởi sự khác biệt của nó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"휴고",
+                "content":"Anh bạn này nói quá trí lý luôn. Thị trường bất động sản ở địa phương chắc cũng toang luôn rồi ấy nhỉ~?",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":null,
+                "content":"Người Fixer ban nãy cố ngăn chúng tôi tiến vào hiện trường trước khi tháo chạy, từ từ đến bên chúng tôi và bắt đầu trò chuyện.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":null,
+                "content":"Hầu hết đều mặc kệ anh ta, ngoại trừ Hong Lu tiếp đón anh ta một cách tử tế và thân thiện.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"홍루",
+                "content":"A, có chuyện như vậy thật sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"휴고",
+                "content":"Đúng thế. Cậu không tưởng tượng nổi lúc đó điên tới cỡ nào đâu.",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"휴고",
+                "content":"Nó cứ thế ú òa ngay giữa lòng trung tâm đô thị. Nhìn cứ như hai địa ngục trong một vậy ấy. Đi vài ba bước là kiểu gì cũng có tiếng la hét, máu me tứ tung cả lên và...",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"료슈",
+                "content":"Hai địa ngục trong một, hử? Dùng từ hay đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"휴고",
+                "content":"Thì lại chả, cấu trúc tòa nhà ở Tập Đoàn P được biết tới rộng rãi nhờ sự đàn hồi của chất liệu mà, vì thế lúc hiện tượng xuất hiện là toàn bộ nhà cứ bị bẻ cong theo nó hết luôn ấy. Không có lấy một đống đổ nát luôn.",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":"휴고",
+                "content":"À mà thì... khi La Manchaland đột ngột xuất hiện ở đây ấy, kết quả hiển nhiên là nó kéo dãn và đẩy hết toàn bộ tòa nhà ra khỏi vị trí ban đầu, mấy con người khốn khổ ở xung quanh khi đó rõ là cũng bị ép bẹp dí và đi tong hết cả rồi.",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"휴고",
+                "content":"May mà cũng nhờ công nghệ Dị Điểm của Tập Đoàn P nên toàn bộ người dân bên trong mấy toàn nhà bị uốn cong kia mới sống sót được, thành ra số người tử vong cũng không quá nhiều.",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":"휴고",
+                "content":"Họ sau đó cũng đặt một vùng giới hạn cộng hưởng phạm vi ba cây số lên toàn bộ tòa nhà nằm trong khu vực lúc hiện tượng xảy ra, nhưng ấy nhá~",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":"그레고르",
+                "content":"... Chỉ ba kilomet thôi á?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":"파우스트",
+                "content":"Các kiến trúc ứng dụng Đặc Dị của Tập Đoàn P có độ đàn hồi rất cao, nghĩa là những tòa nhà xây dựng bằng công nghệ của họ gần như không bao giờ sụp đổ hay gặp tổn thất do rung chấn. Vì vậy, có khả năng rằng họ đã cho phép vùng ngoại vi của La Manchaland chồng chéo lên khu dân cư một chút và không phải lo về vấn đề an toàn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":"휴고",
+                "content":"Như ai nấy cũng nói rồi đấy. Ở Tập Đoàn P thì đâu đâu cũng nhà an toàn cả.",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":"휴고",
+                "content":"Đáng buồn là cũng vì cú sốc này mà danh tiếng của họ cứ thế chim cút luôn. Niềm tin vào công nghệ cứ thế lung lay, thứ làm nên tên tuổi của Tập Đoàn P cứ thế càng lúc càng bị nhiều người e dè... cũng không lạ gì khi mà giá nhà ở đây cũng bắt đầu chạm đáy không phanh rồi.",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":"휴고",
+                "content":"Ý tôi là, mọi chuyện tệ đến nỗi mà người dân đều đồng loạt xông vào La Manchaland. Đóng cọc đủ thứ hết trơn bên ngoài luôn.",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":"단테",
+                "content":"<Ra mấy cái biểu ngữ ấy là về chuyện đó à...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":"한울",
+                "content":"Như chúng ta đã thấy, La Manchaland là một công viên giải trí được trang trí rất màu mè.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"한울",
+                "content":"Chúng tôi nhận được nhiều báo cáo với nội dung sau: Nhiều người đã nghe thấy những bản nhạc bị đứt quãng, hoặc gì đó tương tự và nó diễn ra trong phạm vi tám cây số, từ vị trí trung tâm. Một vài thường dân hiếu kỳ đã bị thu hút bởi điệu nhạc ấy, và cho đến giờ chỉ có một số ít là có quay lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":"폴라",
+                "content":"Liệu việc 'đoạn nhạc' trên có chức năng thôi miên không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":"알레시오",
+                "content":"Hừm, đó cũng là một khả năng mà chúng ta sẽ không loại trừ. Có quá nhiều khách tham quan đã phớt lờ những biển cảnh báo và những dây ngăn cách để mà gọi đây là trùng hợp được. Để phòng hờ cảnh giác, những đối tượng có liên quan đến chiến dịch này sẽ được trang bị bịt tai.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":"혈귀사냥꾼",
+                "content":"Thế chúng ta sẽ làm gì khi cái 'La Manchaland' này xuất hiện đây?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":"한울",
+                "content":"Khi tất cả tiến vào khu vực, hãy chuẩn bị chiến đấu ngay lập tức.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":"한울",
+                "content":"Ở đó không có xiếc thú hay tiết mục văn nghệ chào mừng mọi người đâu. Cũng như là không có quà vặt hay đồ lưu niệm cho mọi người hết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":112,
+                "place":null,
+                "model":"로메로",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":113,
+                "place":null,
+                "model":"로메로",
+                "content":"... Chỉ có lũ Huyết Quỷ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":114,
+                "place":null,
+                "model":"엑스트라해결사1",
+                "content":"Hở? Huyết Quỷ á...? Bọn nó có thật à?",
+                "teller":"Fixer Lẩm Bẩm",
+                "title":"???"
+            },
+            {
+                "id":115,
+                "place":null,
+                "model":"엑스트라해결사2",
+                "content":"Thế anh chưa bao giờ nghe tới Đêm Huyết Quản à, cái sự kiện Ngôi Sao của Thành Phố siêu nổi tiếng ấy? Một số còn khẳng định là Đêm Huyết Quản thật chất là một Huyết Quỷ siêu mạnh luôn cơ.",
+                "teller":"Fixer Ngưỡng Mộ",
+                "title":"???"
+            },
+            {
+                "id":116,
+                "place":null,
+                "model":"엑스트라해결사1",
+                "content":"Rồi rồi, tao nghe mấy cái tin đồn đó riết quen rồi. Thằng nào lại chả quá rõ cách tin đồn ở Thành Phố hoạt động. Cá với mày luôn là lúc đính chính thì chả có cái khỉ khô gì đâu.",
+                "teller":"Fixer Lẩm Bẩm",
+                "title":"???"
+            },
+            {
+                "id":117,
+                "place":null,
+                "model":"혈귀사냥꾼",
+                "content":"... Hả, tin đồn gì cơ? Mày nói như thể một thằng đếch biết cái chó gì về độ cứng đầu, ngông cuồng của Đêm Huyết Quản ấy. Với cái thái độ xấc xược đó của mày thì mày tốt nhất nên ngậm mẹ mồm đi cho lành.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":118,
+                "place":null,
+                "model":"한울",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":119,
+                "place":null,
+                "model":"한울",
+                "content":"Vâng, những thứ duy nhất mà các bạn sẽ thấy...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":120,
+                "place":null,
+                "model":"한울",
+                "content":"... là những Túi Máu và lũ Huyết Quỷ đã sinh ra chúng. Từng giây bọn chúng mài sắc răng nanh để thỏa mãn cơn đói miên man với máu của các bạn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":121,
+                "place":null,
+                "model":"알레시오",
+                "content":"À đúng rồi, đây là chi tiết mà tôi định nói trước khi tôi bị cắt lời. Vật liệu thô mà làm nên cấu trúc bên trong La Machaland... đó chính là máu con người. Máu con người từ hai trăm năm trở về trước.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":122,
+                "place":null,
+                "model":"싱클레어",
+                "content":"... Huyết Quỷ dùng máu để làm công viên giải trí được á?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":123,
+                "place":null,
+                "model":"로메로",
+                "content":"Ồ, tôi bắt đầu có hứng thú rồi đấy. Nếu trong đó mà chỉ toàn Huyết Quỷ thì tôi khá chắc là bọn chúng sẽ không tốn đến một giây để băm vằm lũ tay ngang.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":124,
+                "place":null,
+                "model":"로쟈",
+                "content":"Mấy bọ Fixer thường hay nói chuyện như thế á? Cái cách mà ông kia nói bọn Huyết Quỷ làm tôi nhớ Ishy hồi ở Hồ Lớn quá...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":125,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Ê này, cái chuyện tôi lúc nào cũng căng như dây đàn vì sợ sai một li đi một mạng nó khác hoàn toàn nhé. Chưa kể là có những con người chưa hiểu tình hình nước sôi lửa bỏng ra sao mà vẫn cứ ngang nhiên gà gật như đúng rồi, thì lại chả khó chịu kinh khủng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":126,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ờ. Tao có gật gà đâu, nhờ ơn thằng nhãi nào cứ dẫm liên tục lên chân tao đấy...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":127,
+                "place":null,
+                "model":"싱클레어",
+                "content":"... Ừm. Ừm... Hôm nay trời đẹp nhỉ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":128,
+                "place":null,
+                "model":null,
+                "content":"Sinclair là người dẫm lên chân anh ấy theo từng chỉ thị đầy thúc ép của Ishmael. Nhưng tôi không muốn nói gì cả. Điều cuối cùng mà tôi muốn xảy ra là hai người họ tiếp tục gây gổ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":129,
+                "place":null,
+                "model":"한울",
+                "content":"... Dù sao đi nữa. Sau sáu tiếng trôi qua, những người chưa bỏ mạng sẽ nghe thấy điệu nhạc thông báo đóng cửa vang vọng khắp La Manchaland. Những lời khai từ các Fixer và thường dân còn sống đều xác thực thông tin này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":130,
+                "place":null,
+                "model":"한울",
+                "content":"Khi điệu nhạc đó bắt đầu vang lên, mọi người sẽ có ba mươi phút để rời La Manchaland. Nếu không ra kịp... mọi người sẽ bị kẹt bên trong La Manchaland cho đến khi nó xuất hiện lần nữa, và chiến đấu không ngừng với lũ Huyết Quỷ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":131,
+                "place":null,
+                "model":"혈귀사냥꾼",
+                "content":"Làm gì có thằng nào sống đủ lâu tới thế chứ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":132,
+                "place":null,
+                "model":"알레시오",
+                "content":"Có một vài Fixer khi đang điều tra công viên khai báo rằng họ đã nhận diện những người mất tích. Nhưng nó không phải là thứ mà các bạn cần bận tâm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":133,
+                "place":null,
+                "model":"한울",
+                "content":"Chúng ta đã lập được bản đồ La Manchaland dựa trên những lời khai và báo cáo từ những người còn sống. Nó bao gồm 4 'Khu Vực' riêng biệt.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":134,
+                "place":null,
+                "model":"한울",
+                "content":"Đây là Khu Vực cuối, và chưa ai có thể vào được Khu Vực này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":135,
+                "place":null,
+                "model":"한울",
+                "content":"Ở mỗi Khu Vực có một thiết bị, bao gồm Khu Vực 1, 2, và 3, và những thiết bị này cần phải được kích hoạt để mở khóa Khu Vực cuối.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":136,
+                "place":null,
+                "model":"한울",
+                "content":"Các thiết bị ở Khu Vực 1 và 2 đã được kích hoạt trong những chiến dịch trước, nhưng kích hoạt thiết bị Khu Vực 3 là một điều bất khả thi cho đến giờ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":137,
+                "place":null,
+                "model":"혈귀사냥꾼",
+                "content":"Đã rõ. Thế chẳng phải chúng ta cứ lao thẳng một mạch tới Khu Vực 3 cho nhanh đi nhể?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":138,
+                "place":null,
+                "model":"한울",
+                "content":"Không được. Các thiết bị đều được tái thiết lập khi La Manchaland biến mất.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":139,
+                "place":null,
+                "model":"알레시오",
+                "content":"Nói cách khác, chúng ta phải chia nhau ra. Lập đội với các Fixer khác, và chọn một Khu để xử lý.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":140,
+                "place":null,
+                "model":"로메로",
+                "content":"Hừm, hiểu rồi. Tách nhóm, kích hoạt thiết bị chỉ định, rồi cùng họp lại ở Khu Vực cuối cùng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":141,
+                "place":null,
+                "model":"로메로",
+                "content":"... Đó là nếu như đội nào cũng hoàn thành công việc được giao.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":142,
+                "place":null,
+                "model":"알레시오",
+                "content":"Đúng vậy. Chúng ta nghi rằng chìa khóa để giải quyết vấn đề La Manchaland nằm ở Khu Vực cuối.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":143,
+                "place":null,
+                "model":"로메로",
+                "content":"Phì...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":144,
+                "place":null,
+                "model":"한울",
+                "content":"Anh muốn nói cái gì à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":145,
+                "place":null,
+                "model":"로메로",
+                "content":"Buồn cười mà? Cái việc chúng ta phải đến từng nơi trong La Manchaland để kích hoạt thiết bị gì đấy để mở khóa Khu Vực cuối cùng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":146,
+                "place":null,
+                "model":"로메로",
+                "content":"Cứ như chơi trò chơi ấy nhỉ? Như thể bọn chúng đang đặt ra những màn chơi cần vượt qua, những điều kiện cần hoàn thành cho những kẻ dám thách thức La Manchaland",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":147,
+                "place":null,
+                "model":"혈귀사냥꾼",
+                "content":"Làm sao mà biết được cái lũ đó muốn gì chứ? Lũ Huyết Quỷ toàn lũ quái thai từ khi sinh ra rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":148,
+                "place":null,
+                "model":"폴라",
+                "content":"Hana, tôi muốn xác nhận vài chuyện.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":149,
+                "place":null,
+                "model":"폴라",
+                "content":"Hiệp Hội Zwei tới đây là để thực hiện nhiệm vụ giải cứu con tin, chứ không phải vì phần thưởng thanh trừng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":150,
+                "place":null,
+                "model":"까미유",
+                "content":"Ừm~ Phải là Zwei và Cinq chứ? Tính bỏ tôi lại à~",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":151,
+                "place":null,
+                "model":"폴라",
+                "content":"... Vậy nên, Zwei và Cinq không có lý do gì lại phải đi tới cả ba khu vực chỉ để kích hoạt thiết bị làm gì cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":152,
+                "place":null,
+                "model":"한울",
+                "content":"... Tôi tin rằng anh có thể tiếp quản từ đây.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":153,
+                "place":null,
+                "model":"알레시오",
+                "content":"Ồ, tất nhiên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":154,
+                "place":null,
+                "model":"알레시오",
+                "content":"Được rồi. Tôi chắc rằng mọi người đều có lý do riêng để ở đây đúng không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":155,
+                "place":null,
+                "model":"알레시오",
+                "content":"Thế nên, Tập Đoàn P chúng tôi sẽ thiết lập một quỹ diệt trừ, tức có nghĩa là chúng tôi sẽ phát tiền thưởng dựa trên sự đóng góp của các bạn trong sự diệt trừ La Manchaland.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":156,
+                "place":null,
+                "model":"로메로",
+                "content":"... Đó là nếu như ta thành công.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":157,
+                "place":null,
+                "model":"알레시오",
+                "content":"Nếu mục đích các bạn không phải là sự diệt trừ La Manchaland, thì hãy thong thả mà hoàn thành các nhiệm vụ hợp đồng các bạn. Miễn sao là các bạn hiểu rằng mình sẽ không nhận tiền công từ quỹ diệt sau khi chiến dịch này hoàn thành, thì các bạn có thể thoải mái làm bất cứ điều gì mình muốn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":158,
+                "place":null,
+                "model":"알레시오",
+                "content":"Tuy nhiên chúng tôi cần một bản sao của hợp đồng các bạn để chúng tôi biết được chi tiết của những hợp đồng ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":159,
+                "place":null,
+                "model":"폴라",
+                "content":"Rõ rồi. Tôi sẽ gửi một bản sao ngay sau khi cuộc họp kết thúc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":160,
+                "place":null,
+                "model":"혈귀사냥꾼",
+                "content":"Nhân tiện nói luôn, để tao tuyên bố rõ ràng với tụi mày điều này. Nếu kẻ nào... bất cứ kẻ nào trong lũ tụi bây có ý định nẫng tay trên và có ý định húp hết phần thưởng đáng nhẽ không thuộc về mình... thì tụi mày coi chừng tao đấy, rõ chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":161,
+                "place":null,
+                "model":"로메로",
+                "content":"Quý vị à, tôi có thể đảm bảo với quý vị anh ta không nói suông. Mà tôi không chắc là mình có thể cản anh ta lại đâu, nha?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":162,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Anh ta gắt quá nhỉ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":163,
+                "place":null,
+                "model":"한울",
+                "content":"... Tôi hiểu rằng có nhiều người đang tìm cơ hội kiếm tiền từ hợp đồng này. Nhưng hãy nhớ rằng mục tiêu chúng ta là giảm thiểu thương vong và ngăn chặn những vụ mất tích. Vì mục đích cao cả, hãy bỏ mặc cái tôi của mấy người đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":164,
+                "place":null,
+                "model":"혈귀사냥꾼",
+                "content":"... Rồi, tao sẽ hợp tác. Nếu như bọn kia cũng làm vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":165,
+                "place":null,
+                "model":"한울",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":166,
+                "place":null,
+                "model":null,
+                "content":"Vị Fixer của Hana không phủ nhận anh ta.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":167,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy là kiểu người sẽ không chần chừ mà phản đối luôn... cô ấy đã có thể dễ dàng ép chúng tôi hợp tác rồi. Nhưng nếu chuyện đã đành, thì chúng ta có đấu đá nội bộ lẫn nhau thì cô ấy cũng không thèm can đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":168,
+                "place":null,
+                "model":null,
+                "content":"... Don Quixote là người duy nhất nhiệt liệt gật đầu theo lời khuyên của cô ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":169,
+                "place":null,
+                "model":"가시춘",
+                "content":"Vậy thì, ai sẽ đi với ai? Và vào Khu Vực nào?",
+                "teller":null,
+                "title":"???"
+            },
+            {
+                "id":170,
+                "place":null,
+                "model":null,
+                "content":"Tích Xuân, tiểu muội của Hong Lu âm thầm lắng nghe cuộc họp, giơ tay lên chất vấn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":171,
+                "place":null,
+                "model":"한울",
+                "content":"Mọi người sẽ được chia thành đội dựa trên phân tích khả năng cá nhân, tiềm năng và thiên hướng dựa trên dữ liệu nội bộ của chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":172,
+                "place":null,
+                "model":"가시춘",
+                "content":"Nếu vậy chúng ta không nên đi theo số đông nhỉ?",
+                "teller":null,
+                "title":"???"
+            },
+            {
+                "id":173,
+                "place":null,
+                "model":"가시춘",
+                "content":"Ví dụ như là gán bọn ta với một nhóm đông người chẳng hạn...",
+                "teller":null,
+                "title":"???"
+            },
+            {
+                "id":174,
+                "place":null,
+                "model":"한울",
+                "content":"... Chúng tôi không có ý định cử quá nhiều người trong một Khu Vực bởi nó có thể gây ùn tắc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":175,
+                "place":null,
+                "model":"로쟈",
+                "content":"Cổ không ngại xem thấp người khác thiệt nhể?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":176,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Th-Thì cũng đâu phải chúng ta muốn cô ấy đi chung đâu...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":177,
+                "place":null,
+                "model":"홍루",
+                "content":"......",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":178,
+                "place":null,
+                "model":"알레시오",
+                "content":"Nếu không có câu hỏi gì khác, tôi sẽ phân bố mọi người vào các đội và Khu Vực mà—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":179,
+                "place":null,
+                "model":"돈키호테",
+                "content":"ĐỢI CHÚÚÚÚT!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":180,
+                "place":null,
+                "model":null,
+                "content":"Toàn bộ Fixer trong căn phòng quay ngoắt sang nhìn Don Quixote sau tiếng thét rền vang ấy. Hoạ chăng là do sự hăng hái quá độ trong tông giọng... hoặc có lẽ bọn họ cảm thấy khó chịu bởi vì cô ấy là người 'hỏi một câu cuối cùng' trước khi phiên họp nhàm chán này sắp kết thúc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":181,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ôi trời đất ơi... Lại nữa thế nữa, thật đấy à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":182,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ồoo. Ê, tao tỉnh rồi này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":183,
+                "place":null,
+                "model":"그레고르",
+                "content":"Thôi khỏi đi. Đây chắc là thời điểm thích hợp nhất để cậu đi ngủ tiếp đấy, người anh em...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":184,
+                "place":null,
+                "model":"오티스",
+                "content":"Ngày đấy việc như này thôi là đã bị đem ra xử tử ngay rồi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":185,
+                "place":null,
+                "model":"알레시오",
+                "content":"Được... Cô hỏi gì...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":186,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Nghe này, hình như cô đã bỏ qua phần thông tin tối quan trọng nhất trong bản tóm tắt của mình rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":187,
+                "place":null,
+                "model":"알레시오",
+                "content":"Thế... hả...? Ừm, đợi chút.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":188,
+                "place":null,
+                "model":null,
+                "content":"Alessio hớt hải lục soát bản báo cáo.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":189,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Khi nào thì chiến dịch giải cứu các con tin khỏi cái công viên giải trí kinh hoàng này bắt đầu vậy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":190,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Một chiến dịch tầm cỡ như thế này mà chỉ có sự trợ lực của các Quý Ngài và Quý Cô bên Liên Đoàn Cinq, Liên Đoàn Zwei thì có hơi khó nhằn đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":191,
+                "place":null,
+                "model":"폴라",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":192,
+                "place":null,
+                "model":"휴고",
+                "content":"Thật tình...",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":193,
+                "place":null,
+                "model":"까미유",
+                "content":"Êy, bộ nhỏ kiểu, đang roleplay hay gì à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":194,
+                "place":null,
+                "model":"까미유",
+                "content":"Cái đấy niche phết nha, tui thích. Cơ mà tui cũng phải nói là roleplay hơi bị lỗi thời rồi ấy. Ít nhất thì tui khá chắc là viewer của tui sẽ không thích mấy cái kiểu như này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":195,
+                "place":null,
+                "model":"폴라",
+                "content":"Hình như cô đang hiểu lầm gì đó ở đây rồi. Hợp đồng của chúng tôi không liên can gì tới việc giải cứu toàn bộ mọi người. Trong hợp đồng của chúng tôi chỉ ghi rằng là truy tìm và giải cứu con tin được chỉ định từ bên khách hàng mà thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":196,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Vậy...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":197,
+                "place":null,
+                "model":"돈키호테",
+                "content":"... đội ứng cứu những nạn nhân còn lại sẽ có những ai vậy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":198,
+                "place":null,
+                "model":"까미유",
+                "content":"Uầy, nhỏ này chơi thiệt luôn à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":199,
+                "place":null,
+                "model":"엑스트라해결사1",
+                "content":"Thật chứ, con ngu này ở đâu ra vậy?",
+                "teller":"Fixer Lẩm Bẩm",
+                "title":"???"
+            },
+            {
+                "id":200,
+                "place":null,
+                "model":"엑스트라해결사2",
+                "content":"Này anh bạn, kịch đang hay mà, kệ đi.",
+                "teller":"Fixer Ngưỡng Mộ",
+                "title":"???"
+            },
+            {
+                "id":201,
+                "place":null,
+                "model":"이스마엘",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":202,
+                "place":null,
+                "model":"폴라",
+                "content":"Nếu như cô không được chỉ định đích danh giải cứu ai đó, tôi khuyên là cô có thể truy tìm những người mất tích có trên các tờ rơi ngoài kia để được nhận thưởng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":203,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Nhưng... ta không mong cầu hậu thưởng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":204,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Biết bao nhiêu tấm gương Fixer anh dũng ở đây, mà chẳng ai muốn cứu giúp người khác hay sao? Làm ơn đi mà, ngài Fixer của Zwei. Chẳng phải các ngài là \"Tấm Khiên của Bạn\" hay sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":205,
+                "place":null,
+                "model":"까미유",
+                "content":"Ừ, bọn họ đúng là khiên mà. Nhưng mà là khiên cho những ai ký hợp đồng chính thức với họ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":206,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Hừ, đã là một Fixer thì không được đánh cược mạng sống của mình vì mấy đồng bạc cỏn con! Xin cho hay, từ khi nào mà Fixer Liên Đoàn lại từ bỏ danh dự để bị tha hoá bởi lòng tham vậy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":207,
+                "place":null,
+                "model":"까미유",
+                "content":"... Ôi giời. Thôi được rồi, quá đủ rồi. Cô có biết là cô đang nói chyện với ai không—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":208,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ta biết rõ là đằng khác chứ, Camille trẻ tuổi của Liên Đoàn Cinq, phân khu 3. Thường xuyên xuất hiện trên Tạp Chí Fixer Hàng Tháng. Hiện đang xếp hạng 7 trong cuộc thi 'Các Fixer mà tôi muốn dùng bữa tối cùng nhất'.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":209,
+                "place":null,
+                "model":"까미유",
+                "content":"Hả hở, cô thế mà cũng biết điều... khoan, cái gì mà tui mới chỉ hạng 7?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":210,
+                "place":null,
+                "model":"까미유",
+                "content":"Cơ mà cái đấy bây giờ không quan trọng. Nếu mà cô biết nhiều về Fixer như vậy thì cô cũng phải hiểu điều này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":211,
+                "place":null,
+                "model":"까미유",
+                "content":"Rằng một Fixer thuộc Liên đoàn Cinq như tôi, sẽ không rảnh để phí lời với cô. Nếu muốn đạt được tiếng nói chung hay muốn nêu ý kiến thì hãy đấu tay đôi với nhau một trận đi. Một trận tử chiến thực sự.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":212,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Vậy thì...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":213,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Nếu ta làm ngài khuất phục, ngài sẽ nghe ta nói chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":214,
+                "place":null,
+                "model":"까미유",
+                "content":"Hả?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":215,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Nếu ta làm ngài khuất phục...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":216,
+                "place":null,
+                "model":"돈키호테",
+                "content":"...ngài sẽ hứa danh dự rằng ngài sẽ hỗ trợ bọn ta... giải cứu những người bị mất tích chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":217,
+                "place":null,
+                "model":"까미유",
+                "content":"Khoan. Cô thực sự nghiêm túc muốn thách đấu tôi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":218,
+                "place":null,
+                "model":"단테",
+                "content":"<Không...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":219,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Bởi vì Don Quixote ta đây sẽ không ruồng bỏ nguyên tắc của bản thân dễ dàng như thế! Ta chính thức thách đấu tay đôi với ngài!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":220,
+                "place":null,
+                "model":null,
+                "content":"Mọi chuyện nhanh chóng vượt khỏi tầm kiểm soát...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":221,
+                "place":null,
+                "model":null,
+                "content":"Tôi hốt hoảng nhìn sang Vergilius...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":222,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":223,
+                "place":null,
+                "model":null,
+                "content":"... nhưng không thể đọc được biểu cảm của ông ấy. Ổng chỉ đứng đó nhìn ngược lại chúng tôi trong im lặng khó thể nào diễn tả được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":224,
+                "place":null,
+                "model":null,
+                "content":"... Sự im lặng ấy cảm giác rất... ấm áp...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":225,
+                "place":null,
+                "model":null,
+                "content":"Tôi cảm thấy rợn người và kinh hãi bởi cảm giác này hơn là trông thấy ông ấy bộc phát cơn thịnh nộ nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":226,
+                "place":null,
+                "model":"알레시오",
+                "content":"... Được rồi. Buổi tóm tắt đến đây là kết thúc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":227,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Từ kinh nghiệm trước đó cho thấy rằng, khó có thể ngăn chặn được tình huống đang leo thang.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":228,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Đồng tử giãn nở. Lông mày cau lại ở một góc dốc hơn. Nhất định từ chối mọi yêu cầu từ người khác.Có giữ cô ta lại đi nữa cũng sẽ không có kết quả khả quan nào.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":229,
+                "place":null,
+                "model":"단테",
+                "content":"<Vậy là cô ấy mất kiểm soát rồi...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":230,
+                "place":null,
+                "model":"파우스트",
+                "content":"Tôi đã bỏ qua việc nhắc nhở ngài khi tập hợp ở bãi đất trống, nguyên nhân bởi chưa có ánh nhìn dò xét nào hướng về phía chúng ta cả, Dante,...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":231,
+                "place":null,
+                "model":"파우스트",
+                "content":"... tôi khuyên ngài không nên quay đồng hồ khi sự chú ý của toàn bộ Fixer tham gia vụ này đang đau đáu đổ dồn về phía ta. Đặc biệt là một trận đấu tay đôi mà lợi thế hai phe vô cùng bất cân xứng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":232,
+                "place":null,
+                "model":"파우스트",
+                "content":"Lời khuyên bao gồm cả việc triệu hoán Danh Tính từ những thế giới khác hoặc sử dụng E.G.O.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":233,
+                "place":null,
+                "model":"단테",
+                "content":"<Ờ-ờm, được rồi. Cơ mà... chúng ta vẫn sẽ dùng chúng khi đã vào bên trong rồi đúng không? Tôi không thấy bất kỳ lý do gì để—>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":234,
+                "place":null,
+                "model":null,
+                "content":"Lúc tôi vừa chuẩn bị thuyết phục Faust thì Don Quixote chen ngang và lắc đầu một cách quả quyết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":235,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Đừng lo. Ta không cần dựa dẫm vào nó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":236,
+                "place":null,
+                "model":"단테",
+                "content":"<Cái... thiệt đấy à?!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":237,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Một trận tỷ thí với thành viên Liên Đoàn Cinq phải thật công bằng và sòng phẳng! Quản Lý Thân Sĩ à, ta chưa bao giờ muốn mượn sức mạnh của ngài cho trận chiến thiêng liêng này!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":238,
+                "place":null,
+                "model":"단테",
+                "content":"<.......>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":239,
+                "place":null,
+                "model":"까미유",
+                "content":"... Được thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":240,
+                "place":null,
+                "model":"까미유",
+                "content":"Cũng hơi buồn là fan của tôi không ở đây để xem tôi cho cô nằm đo đất... Nhưng mà chắc kiểu gì cũng có người đem chuyện ở đây đi kể khắp nơi thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":241,
+                "place":null,
+                "model":"까미유",
+                "content":"Thấy cũng tội nên tôi sẽ không xem đây là một trận đấu chính thức. En garde, nhỏ tay mơ!",
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

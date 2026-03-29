@@ -1,161 +1,223 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Confessional",
-      "model": "가시춘",
-      "title": "???",
-      "content": "... Do any of you know what technique he's using?"
-    },
-    {
-      "id": 1,
-      "model": "가시춘",
-      "title": "???",
-      "content": "I can't... move. Not even an inch."
-    },
-    {
-      "id": 2,
-      "model": "이스마엘",
-      "content": "Yeah, did you think we were all standing here like mannequins for the hell of it?"
-    },
-    {
-      "id": 3,
-      "model": "산손",
-      "content": "Allow me to interject and posit that... some were likely jealous of that friendship."
-    },
-    {
-      "id": 4,
-      "model": "산손",
-      "content": "A friendship so bold, especially between an adventurer and a knight, is bound to invite certain... envious hecklers."
-    },
-    {
-      "id": 5,
-      "model": "돈키호테",
-      "content": "Y... yes, indeed."
-    },
-    {
-      "id": 6,
-      "model": "돈키호테",
-      "content": "Many did grow envious of this fellowship between us."
-    },
-    {
-      "id": 7,
-      "model": "웨이",
-      "title": "???",
-      "content": "Lady Jia Xichun, stay on guard."
-    },
-    {
-      "id": 8,
-      "model": "가시춘",
-      "title": "???",
-      "content": "Wake up. Don't let the words of that man delude you, and—"
-    },
-    {
-      "id": 9,
-      "model": "산손",
-      "content": "Yes, that is exactly what those hecklers said."
-    },
-    {
-      "id": 10,
-      "model": "산손",
-      "content": "You wished to maintain this true friendship for as long as possible, however."
-    },
-    {
-      "id": 11,
-      "model": "산손",
-      "content": "So you swung your righteous lance of justice! Against those who dared to attempt to wedge a divide between you two."
-    },
-    {
-      "id": 12,
-      "model": "돈키호테",
-      "content": "……."
-    },
-    {
-      "id": 13,
-      "model": "산손",
-      "content": "You swung your lance."
-    },
-    {
-      "id": 14,
-      "model": "돈키호테",
-      "content": "Hngh... Agh..."
-    },
-    {
-      "id": 15,
-      "model": "가시춘",
-      "title": "???",
-      "content": "…! \n"
-    },
-    {
-      "id": 16,
-      "model": "단테",
-      "content": "<No, don't let him!>"
-    },
-    {
-      "id": 17,
-      "model": "돈키호테",
-      "content": "Foul... villain...!"
-    },
-    {
-      "id": 18,
-      "model": "돈키호테",
-      "content": "How darest thou employ such vile trickery again...!"
-    },
-    {
-      "id": 19,
-      "model": "산손",
-      "content": "Oh my."
-    },
-    {
-      "id": 20,
-      "model": "산손",
-      "content": "It seems the story was cut short."
-    },
-    {
-      "id": 21,
-      "model": "산손",
-      "content": "What tragic sort they are."
-    },
-    {
-      "id": 22,
-      "model": "산손",
-      "content": "The Priest had wished to care for them with all his heart, only to fail."
-    },
-    {
-      "id": 23,
-      "model": "산손",
-      "content": "All the while the one who created this place did not care for them."
-    },
-    {
-      "id": 24,
-      "model": "산손",
-      "content": "Do you hear it, too? Even today, the Parade continues."
-    },
-    {
-      "id": 25,
-      "model": "산손",
-      "content": "You do not want to miss out on La Manchaland's Carnival and its Parade. "
-    },
-    {
-      "id": 26,
-      "model": "산손",
-      "content": "It appears that our story must wait until next time."
-    },
-    {
-      "id": 27,
-      "content": "With that, Sansón lightly flicked his staff against Jia Xichun's posse."
-    },
-    {
-      "id": 28,
-      "content": "...Most of her men stumbled for a moment before slumping to the floor, unconscious."
-    },
-    {
-      "id": 29,
-      "content": "And as the Sinners stood there in shock, he disappeared from our sight."
-    },
-    {
-      "id": 30,
-      "content": "Bloodbags and Bloodfiends begin to fill the void Sansón left behind..."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phòng Xưng Tội",
+                "model":"가시춘",
+                "title":"???",
+                "content":"... Mấy người có biết đây là tà thuật gì không vậy?"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"Ta không thể... cử động. Một li cũng không."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이스마엘",
+                "title":null,
+                "content":"Ừ, bộ cô nghĩ cả đám muốn đứng im như phỗng ở đây chịu trận chắc?"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"산손",
+                "title":null,
+                "content":"Xin cho phép tôi được xen vào một chút... có lẽ có ai đó đang ghen tị với tình bạn của hai người họ."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"산손",
+                "title":null,
+                "content":"Giữa một mạo hiểm giả và một người kỵ sĩ mà lại có một tình bạn bền chặt như vậy, dĩ nhiên sẽ khiến có kẻ sinh lòng đố kỵ."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"돈키호테",
+                "title":null,
+                "content":"Ph...phải, đúng vậy."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"돈키호테",
+                "title":null,
+                "content":"Nhiều kẻ bắt đầu ganh ghét tình bạn hữu của bọn ta."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"웨이",
+                "title":"???",
+                "content":"Tích Xuân tiểu thư, hãy cẩn thận."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"Tỉnh lại đi. Đừng để hắn gạt mình bằng lời nói, và—"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"산손",
+                "title":null,
+                "content":"Đấy, đó chính xác là những gì mà những kẻ ghen ghét sẽ nói."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"산손",
+                "title":null,
+                "content":"Tuy vậy quý vị đã quyết tâm kéo dài tình bạn này lâu nhất có thể."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"산손",
+                "title":null,
+                "content":"Thế nên quý vị đã giương cao ngọn thương của chính nghĩa! Về phía những kẻ dám chia cắt mối quan hệ giữa hai người."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"돈키호테",
+                "title":null,
+                "content":"……."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"산손",
+                "title":null,
+                "content":"Rồi ngọn thương được chém xuống."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"돈키호테",
+                "title":null,
+                "content":"Hựựự... Aaa..."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"가시춘",
+                "title":"???",
+                "content":"…!"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"단테",
+                "title":null,
+                "content":"<Không, đừng để hắn điều khiển!>"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"돈키호테",
+                "title":null,
+                "content":"Tên ác nhân... đáng ghê tởm...!"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"돈키호테",
+                "title":null,
+                "content":"Sao ngươi dám giở trò đồi bại lần nữa...!"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"산손",
+                "title":null,
+                "content":"Ôi trời."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"산손",
+                "title":null,
+                "content":"Có vẻ như câu chuyện đã bị gián đoạn ở đây rồi."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"산손",
+                "title":null,
+                "content":"Thật là những con người đáng thương."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"산손",
+                "title":null,
+                "content":"Người Linh Mục chỉ mong có thể toàn tâm toàn ý chăm lo cho tất cả mọi người, nhưng anh đã thất bại."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"산손",
+                "title":null,
+                "content":"Trong khi ấy người tạo ra nơi này lại dửng dưng như không."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"산손",
+                "title":null,
+                "content":"Mọi người cũng nghe thấy chứ? Đến tận bây giờ Đoàn Diễu Hành vẫn đang tiếp diễn."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"산손",
+                "title":null,
+                "content":"Các vị sẽ không muốn lỡ dịp chiêm ngưỡng Lễ Hội La Manchaland cùng Đoàn Diễu Hành đâu."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"산손",
+                "title":null,
+                "content":"Còn câu chuyện hẵng còn dang dở, có lẽ lần sau chúng ta sẽ tiếp tục vậy."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":null,
+                "title":null,
+                "content":"Dứt lời, Sansón phẩy nhẹ cây gậy về phía nhóm của Giả Tích Xuân."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":null,
+                "title":null,
+                "content":"... Gần như tất cả người của cô ấy đều trở nên loạng choạng rồi đổ gục xuống đất bất tỉnh."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "title":null,
+                "content":"Còn các Tội Nhân thì đứng yên tại chỗ sửng sốt trước cảnh tượng đó, nhưng hắn ta thì đã biến mất không một dấu vết."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":null,
+                "title":null,
+                "content":"Đám Huyết Quỷ và Túi Máu bắt đầu tràn vào thế chỗ của Sansón..."
+            }
+        ]
     }
-  ]
-}
+

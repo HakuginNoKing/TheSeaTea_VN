@@ -1,179 +1,270 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Haunted: Bloody Mary",
-      "model": "싱클레어",
-      "content": "It's been so long since I visited one of these haunted mansions... The last time I was at a place like this, I thought when the next time came I'd be here with my family again. Not... all on my own like this..."
-    },
-    {
-      "id": 1,
-      "model": "로쟈",
-      "content": "All on your own? C'mon, kiddo... You're here with your coworkers~"
-    },
-    {
-      "id": 2,
-      "model": "히스클리프",
-      "content": "Ahm. Coworkers who are... kinda like family, innit?"
-    },
-    {
-      "id": 3,
-      "model": "료슈",
-      "content": "…….\n"
-    },
-    {
-      "id": 4,
-      "model": "오티스",
-      "content": "Enough chit-chat. Everyone, direct your attention to the floor. There's something there."
-    },
-    {
-      "id": 5,
-      "model": "오티스",
-      "content": "... Yes, there are numerous signs of battle. Just as I expected."
-    },
-    {
-      "id": 6,
-      "model": "이상",
-      "content": "A stench, this miasma of rot fills my lungs... it has been some time since the battle took place."
-    },
-    {
-      "id": 7,
-      "model": "이상",
-      "content": "... No body here appears to be a Fixer who participated in our ongoing mission."
-    },
-    {
-      "id": 8,
-      "content": "... Or maybe they've all been turned into Bloodbags and are shambling through the haunted mansion... but it's probably better to not share that kind of thought here."
-    },
-    {
-      "id": 9,
-      "model": "단테",
-      "content": "<There's blood everywhere...>"
-    },
-    {
-      "id": 10,
-      "content": "Tzzzt... zzzt..."
-    },
-    {
-      "id": 11,
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "I welcome you all with all my heart, dear guests, to Haunted: Bloody Mary."
-    },
-    {
-      "id": 12,
-      "content": "The portrait from which the voice was echoing from was torn in half."
-    },
-    {
-      "id": 13,
-      "content": "From what we could deduce from the remaining part of the portrait, it was likely a depiction of the king of this castle... or at least, that was the story it tried to convey."
-    },
-    {
-      "id": 14,
-      "model": "이스마엘",
-      "content": "... It's all torn up."
-    },
-    {
-      "id": 15,
-      "model": "뫼르소",
-      "content": "It can be extrapolated from the torn patterns that it was intended to be displayed in its current, tattered, form."
-    },
-    {
-      "id": 16,
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "You find yourselves in the castle of an ancient, once-prosperous kingdom that has long fallen to ruin."
-    },
-    {
-      "id": 17,
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "Now, you must explore every corner of this derelict castle to unveil the true secrets of the old kingdom."
-    },
-    {
-      "id": 18,
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "Please note that there are several installations with the explicit purpose of inducing fear. If you have a heart condition, or cannot handle horror very well, please reconsider partaking in this expedition."
-    },
-    {
-      "id": 19,
-      "model": "그레고르",
-      "content": "So he says."
-    },
-    {
-      "id": 20,
-      "model": "돈키호테",
-      "content": "W-well! V-v-v-v-verily, I have no such fear in my heart! Pah!"
-    },
-    {
-      "id": 21,
-      "model": "싱클레어",
-      "content": "Aagh! Don't squeeze me so tightly, Don Quixote!... Can you let go of my arm, please...?"
-    },
-    {
-      "id": 22,
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "Hm? Sancho, your grace, if you have something you would like to tell me, please come closer and..."
-    },
-    {
-      "id": 23,
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "I missed a line, you say? What... ah, I see."
-    },
-    {
-      "id": 24,
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "Ahm, ahm. Let the fire of courage light your way in this adventure of cold, bone-chilling fear."
-    },
-    {
-      "id": 25,
-      "model": "이스마엘",
-      "content": "The tour must start somewhere around here... Hm. That mirror's gotta be where the Bloodfiends used to hide to shock their guests. And look, that ceiling panel's slightly ajar. That's probably where—"
-    },
-    {
-      "id": 26,
-      "model": "신부부하",
-      "teller": "Angry Bloodfiend",
-      "title": "La Manchaland",
-      "content": "Keeeeeh! I hate smartasses who can't keep their mouths shut! Stop explaining things!"
-    },
-    {
-      "id": 27,
-      "model": "싱클레어",
-      "content": "HEEAAAAGH!!!!!"
-    },
-    {
-      "id": 28,
-      "model": "히스클리프",
-      "content": "Bloody hell!"
-    },
-    {
-      "id": 29,
-      "model": "단테",
-      "content": "<Huh, she was right...>"
-    },
-    {
-      "id": 30,
-      "model": "신부부하",
-      "teller": "Angry Bloodfiend",
-      "title": "La Manchaland",
-      "content": "Don't you understand that the real fun of Haunted: Bloody Mary is walking into a scare knowing that it's going to happen?! Why can't you just be a good guest?!"
-    },
-    {
-      "id": 31,
-      "model": "이스마엘",
-      "content": "Sorry, I'm just not that nice."
-    },
-    {
-      "id": 32,
-      "model": "신부부하",
-      "teller": "Angry Bloodfiend",
-      "title": "La Manchaland",
-      "content": "We were just going to let you through, but... she's really getting on my nerves!"
+        "dataList":[
+            {
+                "id":0,
+                "place":"Nhà Ma: Bloody Mary",
+                "model":"싱클레어",
+                "content":"Lâu lắm rồi tôi mới đi tham quan nhà ma lại... Hồi trước tôi tưởng lần tới mình sẽ quay lại chung với gia đình của mình, chứ không phải... một mình thế này...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"로쟈",
+                "content":"Một mình á? Bậy quá à... Ở đây em có cả đồng nghiệp đi cùng mà~",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Àm. Đồng nghiệp như thể... gia đình ấy nhờ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"료슈",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"오티스",
+                "content":"Tán gẫu đủ rồi. Tất cả, hướng sự chú ý của các ngươi về hướng sàn nhà đi. Có thứ gì ở đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"오티스",
+                "content":"... Phải, rất nhiều dấu hiệu của một trận chiến. Đúng như ta dự đoán.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"이상",
+                "content":"Mùi xác thịt hôi thối tràn vào lá phổi... Hẳn đã lâu rồi kể từ ngày cuộc chiến tại đây diễn ra.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"이상",
+                "content":"... Không có thi thể nào thuộc về những Fixer đang tham gia chiến dịch cùng chúng ta.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "content":"... Hoặc có thể bọn họ đều bị biến thành Túi Máu hết và đang lang thang trong cái dinh thự ma ám... nhưng tốt nhất thì không nên nói suy nghĩ ấy ra.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"단테",
+                "content":"<Máu ở khắp nơi...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":null,
+                "content":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "content":"Xin chân thành chào đón tất cả khách quý đến với Nhà Ma: Bloody Mary.",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "content":"Bức chân dung phát ra âm thanh đã bị xé làm đôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "content":"Suy luận từ những gì còn sót lại của bức chân dung, có vẻ như là bức hoạ nhà vua của lâu đài này... hoặc ít nhất là theo những gì mà câu chuyện cố gắng truyền tải lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Bị xé nát hết rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Những họa tiết rách rưới cho thấy họ cố tình để nơi này mang hình dáng tả tơi, mục rữa như hiện tại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "content":"Mọi người nhận thấy bản thân đang đứng trong tòa lâu đài của một tàn tích nơi đã từng là một vương quốc vô cùng thịnh vượng.",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":null,
+                "content":"Giờ đây các bạn phải khám phá mọi ngõ ngách trong lâu đài cổ nát này để vén màn những bí mật đã bị chôn vùi tại vương quốc cổ xưa này.",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":null,
+                "content":"Xin hãy lưu ý rằng rất nhiều dụng cụ tại đây sở hữu mục đích duy nhất là tạo ra nỗi sợ. Cho nên nếu quý khách mắc bệnh về tim hoặc không thể chịu được sự kinh dị sắp tới thì hãy cân nhắc lại quyết định tham gia vào chuyến đi này.",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"그레고르",
+                "content":"Ghê vậy sao.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ư-ừm! Th-th-th-th-thực vậy, ta không sợ những cái đó! Hừ!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ớ! Đừng có nắm chặt vậy chứ, cô Don Quixote... Làm ơn hãy buông tay tôi ra đi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":null,
+                "content":"Hm? Hỡi quý cô Sancho, nếu như có điều gì muốn nói, thì xin hãy bước tới đây và...",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":null,
+                "content":"Tôi sót lời kịch bản ư? Cá... a, thấy rồi.",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":null,
+                "content":"A... a... Hãy để ngọn lửa của lòng quả cảm soi chiếu hành trình lạnh buốt giá băng này.",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Lượt tham quan phải bắt đầu ở đâu đó quanh chỗ này... Hừm. Kiểu gì cũng sẽ có một đám Huyết Quỷ nấp sau cái gương đằng kia nhảy bổ ra hù dọa du khách. Với cả, nhìn đi, miếng trần bị hở một tí kìa. Chắc chắn là trên đấy có—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"신부부하",
+                "content":"Réeeee! Tao ghét bọn lẻo mép không biết khâu cái mồm lại! Thôi giải thích đi!",
+                "teller":"Huyết Quỷ Giận Dữ",
+                "title":"La Manchaland"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"싱클레어",
+                "content":"ÁAAAAAAAA!!!!!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Vãi lồn!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"단테",
+                "content":"<Hờ, cô ấy đoán trúng phóc luôn...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"신부부하",
+                "content":"Cô không hiểu cái trò vui của Nhà Ma: Bloody Mary là bj hù dọa mặc dù biết nó sẽ xảy ra à?! Cô không làm khách tham quan tử tế được hả?!",
+                "teller":"Huyết Quỷ Giận Dữ",
+                "title":"La Manchaland"
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thông cảm nha, tôi không được tử tế lắm ấy mà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"신부부하",
+                "content":"Bọn tôi định để mấy người qua rồi, nhưng... nhỏ này làm tôi thấy bức bối!",
+                "teller":"Huyết Quỷ Giận Dữ",
+                "title":"La Manchaland"
+            }
+        ]
     }
-  ]
-}
+

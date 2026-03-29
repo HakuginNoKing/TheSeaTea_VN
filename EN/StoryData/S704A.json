@@ -1,237 +1,366 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Backstreets of P Corp., Outside the Tent",
-      "model": "혈귀사냥꾼",
-      "teller": "Bloodfiend Hunter",
-      "title": "Fanghunt Office",
-      "content": "Your... transformations... I must say, I haven't seen anything like it before."
-    },
-    {
-      "id": 1,
-      "model": "히스클리프",
-      "content": "That enough demonstration for you, you twit?"
-    },
-    {
-      "id": 2,
-      "model": "혈귀사냥꾼",
-      "teller": "Bloodfiend Hunter",
-      "title": "Fanghunt Office",
-      "content": "... Fine. I'll admit, you've got some skill."
-    },
-    {
-      "id": 3,
-      "model": "로메로",
-      "teller": "???",
-      "title": "???",
-      "content": "Ooh, they're not half bad! We always welcome cooperation with fellow Fixers who can carry their own weight."
-    },
-    {
-      "id": 4,
-      "model": "로메로",
-      "content": "Hey, I recognize you. I saw you guys busily chatting away back at the WARP train platform. My name's Romero, by the way."
-    },
-    {
-      "id": 5,
-      "model": "오티스",
-      "content": "You just sat there and watched as your men were out here fighting?"
-    },
-    {
-      "id": 6,
-      "model": "로메로",
-      "content": "Yeah, but the fight was already underway when I got here. And I doubt I would've been able to talk them out of it. Besides, I had a feeling that you guys could hold your own against my men."
-    },
-    {
-      "id": 7,
-      "model": "로메로",
-      "content": "So please allow me to ask for your understanding. They're not bad people; they're just on edge. Anyone would be after what they've gone through in their struggles against the Bloodfiends."
-    },
-    {
-      "id": 8,
-      "model": "이상",
-      "content": "You have my understanding. Hunting entities such as those who lie beyond the ken must plant seeds of doubt in many a heart of men."
-    },
-    {
-      "id": 9,
-      "model": "로메로",
-      "content": "Right. And I do agree with them, at least partially. The bar set by P Corp. and the Hana Association for Fixers participating in this contract is... shockingly low and indiscriminate."
-    },
-    {
-      "id": 10,
-      "model": "로메로",
-      "content": "If it were up to me, I would've set a more strict set of conditions."
-    },
-    {
-      "id": 11,
-      "content": "His friendly smile faltered slightly as he gestured around the empty lot."
-    },
-    {
-      "id": 12,
-      "model": "로메로",
-      "content": "Look around, over there by the command tent. Just one look at who we're working with, and I'm sure it'll become plenty clear that they don't know what they're walking into. They should've hired only the professionals to take on this contract."
-    },
-    {
-      "id": 13,
-      "model": "단테",
-      "content": "<Around the command tent...?>"
-    },
-    {
-      "id": 14,
-      "content": "We all simultaneously turned to look at the large, noisy tent."
-    },
-    {
-      "id": 15,
-      "model": "까미유카메라",
-      "teller": "???",
-      "title": "???",
-      "content": "Wow. Chat, is this for real? There was a huge brawl by the entrance! It's real amateur hour out here, guys. Can you believe that I gotta stand shoulder-to-shoulder with these idiots for the contract...?"
-    },
-    {
-      "id": 16,
-      "model": "오티스",
-      "content": "What... the hell is he doing?"
-    },
-    {
-      "id": 17,
-      "content": "In the distance, we saw some guy running his mouth and striking several exaggerated, dramatic poses at a tiny device—most likely a camera of sorts."
-    },
-    {
-      "id": 18,
-      "content": "... I... no, we have all had experience with someone like him in the past."
-    },
-    {
-      "id": 19,
-      "model": "단테",
-      "content": "<That guy reminds me of a certain someone...>"
-    },
-    {
-      "id": 20,
-      "model": "이스마엘",
-      "content": "... He's taking pics like that guy, Siegfried."
-    },
-    {
-      "id": 21,
-      "content": "He ran around for a while, visiting every corner of the empty lot, trying to get every detail in the frame..."
-    },
-    {
-      "id": 22,
-      "content": "... and suddenly started striding toward us in an annoyed gait."
-    },
-    {
-      "id": 23,
-      "model": "까미유",
-      "teller": "???",
-      "title": "???",
-      "content": "Hello, yes, you guys over there!"
-    },
-    {
-      "id": 24,
-      "model": "돈키호테",
-      "content": "H-hast thou called upon us?!"
-    },
-    {
-      "id": 25,
-      "model": "까미유",
-      "teller": "???",
-      "title": "???",
-      "content": "Do you mind loitering around somewhere else? Shoo, you're getting in the way of my viewers, guys."
-    },
-    {
-      "id": 26,
-      "model": "이스마엘",
-      "content": "But... you're literally in our way. Guy."
-    },
-    {
-      "id": 27,
-      "content": "He whipped his attention back to the camera as though he was pretending not to hear what Ishmael said, or as if he decided that her words weren't worth entertaining."
-    },
-    {
-      "id": 28,
-      "model": "까미유카메라",
-      "teller": "???",
-      "title": "???",
-      "content": "Oh, you wanna know where I am? Hold onto your seats, guys. I'm at the Backstreets of District 16. Yep, where P Corp. is!"
-    },
-    {
-      "id": 29,
-      "model": "까미유카메라",
-      "teller": "???",
-      "title": "???",
-      "content": "Oh yeah. Remember the P Corp. 150 Vintage Semi-permanent Canned Ice Cream unboxing & review livestream? Yep, the very same. Unfortunately, I'm not here to eat ice cream today."
-    },
-    {
-      "id": 30,
-      "model": "그레고르",
-      "content": "So I've been meaning to ask... who's that fella even talking to? The heck's he doing?"
-    },
-    {
-      "id": 31,
-      "model": "싱클레어",
-      "content": "I think he's talking to his 'viewers' who are watching his show..."
-    },
-    {
-      "id": 32,
-      "model": "뫼르소",
-      "content": "It appears that he is the host of a certain show. It has been reported that, in certain parts of the City, a new culture of \"livestreaming\" via those cameras has been on the rise."
-    },
-    {
-      "id": 33,
-      "model": "로쟈",
-      "content": "What a rude piece of work. Don't let him get ya down, kiddo~"
-    },
-    {
-      "id": 34,
-      "model": "돈키호테",
-      "content": "What... what a..."
-    },
-    {
-      "id": 35,
-      "model": "로쟈",
-      "content": "H-huh...?"
-    },
-    {
-      "id": 36,
-      "model": "돈키호테",
-      "content": "Sob... what a glorious day it is..."
-    },
-    {
-      "id": 37,
-      "model": "돈키호테",
-      "content": "Behold! This man is Sir Camille of Cinq Association West, his name honored as one of the 'Top Ten Up-and-coming New Generation Fixers' featured in the October issue of 'Fixers Monthly', one of the big three Fixer Magazines of the City!"
-    },
-    {
-      "id": 38,
-      "model": "이스마엘",
-      "content": "I know we say this every single time, but most people don't know what— Haah, nevermind."
-    },
-    {
-      "id": 39,
-      "model": "돈키호테",
-      "content": "How?! Have ye not hearken'd when I shared this news of grave significance aboard the bus?! Hath none of you heeded mine words!?"
-    },
-    {
-      "id": 40,
-      "model": "히스클리프",
-      "content": "Are you mad? Why would I listen to you when I can nap instead?"
-    },
-    {
-      "id": 41,
-      "model": "이상",
-      "content": "Such haranguing over a winding path... is oft a cause for sickness on the road, Miss Don Quixote."
-    },
-    {
-      "id": 42,
-      "content": "The grumbling Sinners clearly existed outside Don Quixote's world; she was breathing very heavily, a look of admiration clear on her face."
-    },
-    {
-      "id": 43,
-      "model": "돈키호테",
-      "content": "Heeugh... I for one did not imagine even in mine wildest dreams that I should be shaking hands with Sir Camille in person..."
-    },
-    {
-      "id": 44,
-      "content": "... Of course, no one 'shook hands' or exchanged the simplest pleasantries with Camille just yet."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phố Sau T.Đoàn P, Ngoài Lều Dã Chiến",
+                "model":"혈귀사냥꾼",
+                "teller":"Thợ Săn Huyết Quỷ",
+                "title":"V. Phòng Fanghunt",
+                "content":"Cách thức... biến đổi đó... phải nói thật là tao chưa thấy nó bao giờ cả."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Sáng mắt ra chưa hả đồ ngu?"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"혈귀사냥꾼",
+                "teller":"Thợ Săn Huyết Quỷ",
+                "title":"V. Phòng Fanghunt",
+                "content":"... Rồi. Tao thừa nhận, bọn mày không gà như tao nghĩ."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"로메로",
+                "teller":"???",
+                "title":"???",
+                "content":"Ái chà, nhóm này không tệ nha. Tụi tôi lúc nào cũng sẵn lòng hợp tác với những Fixer có trình độ hết."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"로메로",
+                "teller":null,
+                "title":null,
+                "content":"Ấy, tôi nhận ra mọi người rồi. Lúc trước tôi có thấy mọi người đang bận bàn tán gì đấy ở sân ga tàu tốc hành WARP. Nhân tiện thì tôi tên là Romero."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Anh chỉ ngồi đây và xem người của mình ở ngoài kia chiến đấu à?"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"로메로",
+                "teller":null,
+                "title":null,
+                "content":"Ờ thì, nhưng mà lúc tôi tới thì cả đám đã lao vào nhau mất rồi còn đâu. Cũng chưa chắc là tự tôi đã đủ sức can ngăn được hai bên nữa. Với cả tôi có cảm giác là mọi người kiểu gì cũng đánh lại được mà."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"로메로",
+                "teller":null,
+                "title":null,
+                "content":"Nên là mong mọi người hiểu cho. Bọn này không phải người xấu, chỉ là đang hơi căng thẳng thôi. Nếu đã từng phải trải nghiệm cảm giác vật vã khi đối đầu với lũ Huyết Quỷ thì ai cũng sẽ cảm thấy như họ cả."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Tôi cũng thuận tình theo ý kiến của anh. Săn giết những thực thể vượt ngoài tầm hiểu biết, hẳn là đã gieo rắc mầm mống nghi ngại trong lòng người khôn xiết."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"로메로",
+                "teller":null,
+                "title":null,
+                "content":"Đúng vậy. Mà tôi cũng có thể thông cảm cho họ phần nào. Trong hợp đồng lần này, Tập Đoàn P và Liên Đoàn Hana đã đặt ra tiêu chí tuyển lựa Fixer... thấp một cách kỳ lạ, như chỉ để cho có."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"로메로",
+                "teller":null,
+                "title":null,
+                "content":"Nếu là tôi thì tôi đã đặt thêm vài điều kiện khắt khe hơn rồi."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Nụ cười thân thiện của anh ấy dần mất đi khi chỉ tay quanh bãi đất trống."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"로메로",
+                "teller":null,
+                "title":null,
+                "content":"Cứ quay ra nhìn thử mà xem, ngay chỗ lều chỉ huy. Chỉ cần liếc đám đồng minh kia một cái là biết ngay, bọn này rõ ràng không biết mình đang chuẩn bị đối mặt với cái gì. Đáng lẽ họ chỉ nên thuê dân chuyên để xử lý vụ này mới phải."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Quanh lều chỉ huy ư...?>"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Chúng tôi đồng loạt quay qua nhìn chiếc lều to lớn và ồn ào nhất."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"까미유카메라",
+                "teller":"???",
+                "title":"???",
+                "content":"Uầy. Cả nhà tin được không? Đánh nhau ngay trước cổng luôn! Đúng là giờ mấy con gà ra khỏi chuồng ha mọi người. Chỉ vì hợp đồng mà tui bị xếp ngang hàng với lũ này đấy hả cả nhà...?"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Hắn đang làm... cái quái gì vậy?"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Ở đằng xa, chúng tôi nhìn thấy ai đó đang huyên thuyên mồm mép và tạo dáng cầu kỳ độc lạ trước cái thiết bị nhỏ tẹo—trông như máy ảnh gì đó."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"... Tôi... không, chúng tôi từng có trải nghiệm với một người như anh ta trong quá khứ rồi."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<Tên đấy làm tôi nhớ đến một ai đó...>"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"... Ờ, là cái gã Siegfried thích chụp choẹt ấy đấy."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Anh ta chạy quanh khắp các ngõ ngách của bãi đất trống, cố gắng bắt trọn từng khung hình..."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"... rồi bỗng nhiên phi vọt vể chúng tôi với vẻ khó chịu."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"까미유",
+                "teller":"???",
+                "title":"???",
+                "content":"Ê này, đúng rồi đấy, mấy cô cậu ở đằng kia!"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"N-ngài gọi bọn ta ư?"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"까미유",
+                "teller":"???",
+                "title":"???",
+                "content":"Đi sang chỗ khác đứng được không? Mấy người đang chắn tầm nhìn viewer của tui đấy, xùy xùy."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Ê... Anh mới là người đang ngáng đường người ta ấy. Xì."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Anh ta quay ngoắt về phía máy ảnh vờ như không nghe thấy lời Ishmael nói, hoặc anh ta đã quyết rằng lời cô ấy nói chẳng đáng chú tâm là bao."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"까미유카메라",
+                "teller":"???",
+                "title":"???",
+                "content":"Mà này, cả nhà muốn biết tui đang ở đâu không? Nghe phát là hết hồn liền nè. Tui đang ở Phố Sau của Quận 16. Đúng vậy, là nơi tọa lạc của Tập đoàn P!"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"까미유카메라",
+                "teller":"???",
+                "title":"???",
+                "content":"À đấy. Cả nhà còn nhớ cái livestream ấy hông, cái mà tui unbox với review 150 hộp Kem Cổ Điển Đóng Lon Bán Vĩnh Cửu ấy? Kem của Tập Đoàn P á. Đấy đấy, đúng cái chỗ đấy. Nhưng mà rất tiếc với anh em là hôm nay tui không đến đây để ăn kem."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Cho tôi hỏi chút... cái tên đó nãy giờ nói chuyện với ai vậy? Hắn ta đang làm cái quái gì thế?"
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null,
+                "content":"Chắc là đang nói chuyện với mấy 'người xem' kênh của anh ta..."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null,
+                "content":"Có vẻ anh ta là người tổ chức một chương trình giải trí. Có thông tin cho rằng, ở một số nơi trong The City, văn hóa \"phát sóng trực tiếp\" qua camera như vậy đang trở thành xu hướng."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"Lại thêm một thằng đần khác nữa à. Thôi kệ nó đi bé~"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Thật là... Đúng thật là..."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null,
+                "content":"H-hả...?"
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Hức... đúng thật là một ngày huy hoàng mà..."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Hãy nhìn đi! Người đàn ông này chính là Quý Ngài Camille của Liên Đoàn Cinq phía Đông, người đã được vinh danh trong 'Tốp 10 Những Ngôi Sao Fixer Đang Lên của Thế Hệ Mới' trong số tháng Mười 'Tạp Chí Fixer Hàng Tháng', một trong tam đại Tạp Chí về Fixer trong Thành Phố đó!"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null,
+                "content":"Chả mấy ai quan tâm những thứ đó đâu, nói đi nói lại mãi mòn hết cả tai trâu rồi mà— Hầy, thôi kệ đi."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Sao lại thế?! Cô không nghe ta nhắc đến chuyện siêu cấp trọng đại như thế này lúc ở trên xe sao?! Có ai nghe ta nói gì hết không vậy trời!?"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Mày bị điên à? Tao thà ngủ còn hơn ngồi nghe mày lải nhải đấy."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Phải nghe những lời hô hào líu lo trên một tuyến đường quanh co thế này... sẽ dễ khiến cho bụng dạ nôn nao đấy, cô Don Quixote."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Những Tội Nhân càu nhàu rõ ràng không tồn tại trong thế giới trước mắt của Don Quixote; hơi thở của cô ấy trĩu nặng, và trên gương mặt lộ ra vẻ ngưỡng mộ."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null,
+                "content":"Hức hức... Ta có nằm mơ mười đời người cũng chưa bao giờ dám nghĩ tới ngày sẽ được bắt tay với Quý Ngài Camille ngoài đời nữa..."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"... Tất nhiên, không có ai 'bắt tay' hay mở một câu chào nào với Camille hết."
+            }
+        ]
     }
-  ]
-}
+

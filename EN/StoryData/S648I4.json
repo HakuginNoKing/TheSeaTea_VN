@@ -1,18 +1,20 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "model": "마왕히스클리프2",
-            "teller": "Erlking Heathcliff",
-            "title": "A Distant World",
-            "content": "Where are you? Come to me, Catherine!"
-        },
-        {
-            "id": 1,
-            "model": "마왕캐서린",
-            "teller": "Every Catherine",
-            "title": "A Certain Every World",
-            "content": "Heathcliff!"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "model":"마왕히스클리프2",
+                "teller":"Lâm Vương Heathcliff",
+                "title":"Một Thế Giới Xa Vời",
+                "content":"Em ở đâu? Hãy đến với tôi, Catherine!"
+            },
+            {
+                "id":1,
+                "model":"마왕캐서린",
+                "teller":"Tất Cả Catherine",
+                "title":"Một Thế Giới Tất Cả Nào Đó",
+                "content":"Heathcliff!"
+            }
+        ]
+    }
+

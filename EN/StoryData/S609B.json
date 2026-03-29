@@ -1,196 +1,334 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Hall",
-            "content": "Two people sat by a dying hearth, surrounded by their respective posse. It was quite apparent from the way they sat opposite of one another that their relationship was far from amicable."
-        },
-        {
-            "id": 1,
-            "content": "On one end was a group of people dressed in mysterious masks, surrounding a jumpy-looking man who looked like he was one little nudge away from hollering foul insults at everyone."
-        },
-        {
-            "id": 2,
-            "content": "On the other end was a group of people dressed in identical uniforms (Sinclair told me that they were wearing the outfit that most manor employees wear) to each other."
-        },
-        {
-            "id": 3,
-            "content": "One of them stood out, as he was the only one among them in a black suit. He appeared somewhat uncomfortable; it seemed as though he was in a great deal of pain merely by being here."
-        },
-        {
-            "id": 4,
-            "content": "And between the two groups were…"
-        },
-        {
-            "id": 5,
-            "model": "돈키호테",
-            "content": "Fixers…! I recognize their outfits! Forsooth, they must be Fixers from the O-Ou-Öufi Association!"
-        },
-        {
-            "id": 6,
-            "model": "돈키호테",
-            "content": "‘Tis quite rare to even get a sighting of a single Öufi Fixer…! They requireth quite the momentous occasion to even grace us with their presence!!!!!!"
-        },
-        {
-            "id": 7,
-            "model": "단테",
-            "content": "<Shh, shh… We’ll have time to ask for autographs later. Later, all right?>"
-        },
-        {
-            "id": 8,
-            "content": "I had to coax Don Quixote, who was practically quivering, from immediately running to them for signatures."
-        },
-        {
-            "id": 9,
-            "content": "… Because we had unintentionally become the center of attention from the entire room."
-        },
-        {
-            "id": 10,
-            "content": "The center of a very negative attention."
-        },
-        {
-            "id": 11,
-            "model": "조세핀",
-            "content": "By gum, that vagabond 'as returned. The bloody shame o' Wuthering Heights..."
-        },
-        {
-            "id": 12,
-            "model": "히스클리프꾸밈",
-            "content": "… Same old Josephine, huh…"
-        },
-        {
-            "id": 13,
-            "model": "조세핀",
-            "content": "Look at 'im, struttin' about like he owns this place... If our Mistress were to witness this travesty…"
-        },
-        {
-            "id": 14,
-            "model": "넬리",
-            "content": "Gosh, Josephine! That is quite enough!"
-        },
-        {
-            "id": 15,
-            "model": "넬리",
-            "content": "Don’t mind her, Heathcliff."
-        },
-        {
-            "id": 16,
-            "model": "조세핀",
-            "content": "This blessed land o' Wuthering Heights, reduced to an asylum for vagrants and drifters… if the Mistress had been here to witness this tragic, deplorable state o' affairs…"
-        },
-        {
-            "id": 17,
-            "content": "There was an old woman in the room who was muttering some choice words at us while staring with eyes full of hatred..."
-        },
-        {
-            "id": 18,
-            "model": "힌들리",
-            "content": "Ah, the witless brigand returns, and quite delayed at that! How dare you show your face—"
-        },
-        {
-            "id": 19,
-            "model": "린튼",
-            "content": "... Hindley, please. Exercise some restraint."
-        },
-        {
-            "id": 20,
-            "model": "린튼",
-            "content": "Heathcliff. I hardly did expect your return."
-        },
-        {
-            "id": 21,
-            "model": "린튼",
-            "content": "... You have yet to let Catherine go, still?"
-        },
-        {
-            "id": 22,
-            "content": "It was clear that the two had both been acquainted with Heathcliff for a while."
-        },
-        {
-            "id": 23,
-            "content": "But the nature of that acquaintance was more of a longstanding hatred stemming from the deep history of contention they shared."
-        },
-        {
-            "id": 24,
-            "content": "One of the two was hardly hiding his hatred, allowing it to fully seize control of his words and actions. But the other one’s hatred had sunk deep into his heart, boiling and writhing underneath."
-        },
-        {
-            "id": 25,
-            "model": "히스클리프꾸밈",
-            "content": "... Hah."
-        },
-        {
-            "id": 26,
-            "model": "히스클리프꾸밈",
-            "content": "Right. I wasn’t exactly expecting a grand welcome upon my return."
-        },
-        {
-            "id": 27,
-            "model": "히스클리프꾸밈",
-            "content": "But I ain’t here to see your ugly mugs. It's like you always said: my base nature's just incapable of change."
-        },
-        {
-            "id": 28,
-            "content": "Heathcliff shoots back with just as much vitriol."
-        },
-        {
-            "id": 29,
-            "content": "As though he was always used to this kind of scorn and humiliation."
-        },
-        {
-            "id": 30,
-            "model": "린튼",
-            "content": "……."
-        },
-        {
-            "id": 31,
-            "content": "The man in a black suit turns away, as though it would degrade him to even entertain him with an answer. But this man they called Hindley..."
-        },
-        {
-            "id": 32,
-            "model": "힌들리",
-            "content": "You unscrupulous shite! You bloody animal— No, a thing lesser than a savage beast!"
-        },
-        {
-            "id": 33,
-            "content": "… jumped up from his seat, his face turning bright red from anger."
-        },
-        {
-            "id": 34,
-            "model": "힌들리",
-            "content": "By the looks of it, you’ve found yourself a band of vagrants and vagabonds just like you, eh? Crawling back to see if there is something worth pilfering from this place?"
-        },
-        {
-            "id": 35,
-            "model": "힌들리",
-            "content": "You lot! Beat his arse and teach him a lesson. Break a bone or two!"
-        },
-        {
-            "id": 36,
-            "model": "데드레빗츠1",
-            "teller": "Hindley's Lackey",
-            "title": "???",
-            "content": "… No orders… from… boss…"
-        },
-        {
-            "id": 37,
-            "model": "힌들리",
-            "content": "Shut it! I’m your boss’ boss! I hired him and the rest of you!"
-        },
-        {
-            "id": 38,
-            "model": "힌들리",
-            "content": "I don’t expect these boneheaded fools to give you much trouble anyway."
-        },
-        {
-            "id": 39,
-            "model": "이상",
-            "content": "Head... of bone? What on earth is that fellow speaking of?"
-        },
-        {
-            "id": 40,
-            "model": "이스마엘",
-            "content": "He’s just expressing his explicit desire to get his ass beat. Well, since he asked for it...."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Đại Sảnh Đồi Gió Hú",
+                "content":"Có hai người đang ngồi cạnh cái lò sưởi sắp tắt, vây quanh là những nhóm người thuộc phe họ. Nhìn cái cách ngồi đối mặt nhau, cách xa cả quãng thế kia thì rõ ràng là mối quan hệ đôi bên không được yên ả cho lắm.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Một bên là nhóm người đeo mặt nạ kỳ bí, túm tụm sau lưng một người đàn ông nom tính khí thất thường, trông như chỉ cần đụng phải xíu chuyện thôi là anh ta sẽ văng ra những lời lẽ thô tục xúc phạm tất cả mọi người.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Ở bên kia là một nhóm người ăn vận những bộ đồng phục giống hệt nhau (mà Sinclair bảo tôi rằng hầu như gia nhân ở dinh thự nào cũng mặc như vậy cả).",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Trong số đó nổi bật hơn cả là người đàn ông vận bộ âu phục đen tuyền. Dáng ngồi điềm nhiên mà sắc mặt xem chừng không thoải mái lắm, tựa hồ chỉ riêng việc phải xuất hiện ở đây thôi đã đủ khiến anh ta đau khổ rồi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Và giữa hai nhóm người đó là...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Những vị Fixer đằng kia...! Ta nhận ra bộ phục trang của họ! Không nghi ngờ chi nữa, họ chính là những Fixer đến từ Liên Đoàn O-Ou-Öufi!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Không ngờ có thể tận mắt chứng kiến Fixer Öufi bằng xương bằng thịt...! Chỉ khi có những dịp quan trọng thì mới xuất hiện, ấy vậy mà họ lại ban phước chúng ta bằng sự hiện diện của họ!!!!!!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"<Suỵt, suỵt... Chúng ta sẽ có thời gian để xin chụp ảnh với ký tên sau. Để sau đi nhé, được chứ?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Tôi phải dỗ Don Quixote, người đang run lên vì sung sướng tới nỗi sẵn sàng lao tới xin chữ ký.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Bởi mọi ánh mắt trong căn phòng dã đổ dồn hết về chúng tôi...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"... với một thái độ khó chịu ra mặt.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Trời đất quỷ thần ơi, thằng đầu đường xó chợ đã trở về rồi. Nỗi ô nhục của Đồi Gió Hú...",
+                "model":"조세핀",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"... Vẫn là khọm già Josephine à...",
+                "model":"히스클리프꾸밈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Nhìn hắn kìa, khệnh khạng bước đi như thể hắn sở hữu toàn bộ chốn đây vậy... Phu Nhân của chúng ta mà chứng kiến được trò hề này...",
+                "model":"조세핀",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Khiếp thật, Josephine! Đủ rồi đấy!",
+                "model":"넬리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Đừng để ý bà ấy, Heathcliff à.",
+                "model":"넬리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Mảnh đất Đồi Gió Hú thiêng liêng này, giờ tan hoang thành cái nhà thương cho lũ du mục và kẻ lạc lối lui tới... nếu Phu Nhân đã có thể có mặt ở đây để chứng kiến tình trạng bi thảm tồi tệ này...",
+                "model":"조세핀",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Có một người đàn bà đứng tuổi lườm chúng tôi chằm chằm, ánh mắt hằn học, miệng không ngừng lầm bầm đay nghiến như thể có ai sắp sửa phá kho thóc nhà bà ta vậy...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"À, cái tên du côn đã đần độn còn lề mề quay trở lại rồi này! Còn gan để trưng cái bản mặt ch—",
+                "model":"힌들리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"... Hindley, làm ơn tiết chế lại giùm.",
+                "model":"린튼",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Và cả cậu nữa, Heathcliff. Ta không nghĩ sẽ lại có ngày cậu dám vác mặt về đây đấy.",
+                "model":"린튼",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"... Cậu vẫn chưa chịu buông bỏ Catherine sao?",
+                "model":"린튼",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Có thể thấy rõ rằng cả hai người họ đã quen biết Heathcliff được một khoảng thời gian rồi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Nhưng để mà nói thì, cái kiểu quen biết này giống như một mối hận thù dai dẳng đã bén rễ từ tận thuở xa xưa hơn.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Một người thì không thèm che giấu ác cảm, ruột gan có bao nhiêu nọc độc thì cứ thế dốc hết ra bằng câu từ và hành động. Một người thì đã từ lâu dằn mối thù ấy xuống sâu thẳm tâm can, chỉ còn lại một bề mặt sục sôi, âm ỉ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"... Ha.",
+                "model":"히스클리프꾸밈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Ờ. Tao cũng đéo mong chờ ai đó bắn pháo hoa chào mừng tao trở về đâu.",
+                "model":"히스클리프꾸밈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Nhưng tao không ở đây nhìn mấy cái mặt mốc của chúng mày. Chả phải chúng mày luôn bảo là bản tính khó dời sao?",
+                "model":"히스클리프꾸밈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Heathcliff đáp lại bằng những lời lẽ thậm tệ hơn.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Cứ như thể anh ấy đã quen với việc miệt thị và nhục mạ này rồi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"…….",
+                "model":"린튼",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Người đàn ông trong bộ đồ đen quay người đi, như thể đưa ra một câu trả lời sẽ làm anh ta mất đi phẩm giá của mình. Nhưng còn người đàn ông mang tên Hindley...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Thằng chó vô đạo bất lương! Súc vật khốn khiếp—Không, còn tệ hơn cả loài cầm thú!",
+                "model":"힌들리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"... nhảy dựng khỏi ghế, mặt anh ta đỏ hết lên vì tức giận.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Trông như mày đã tìm được một lũ vô công rồi nghề ăn mặc rách rưới y chang mày rồi, hể? Tính đồng loạt bò vào đây để xem còn cái gì đáng để ăn cắp được nữa à?",
+                "model":"힌들리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Chúng mày! Đánh chết mẹ thằng này cho tao! Gãy dăm ba cái xương thì càng tốt!",
+                "model":"힌들리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"... Không có lệnh... từ... sếp...",
+                "model":"데드레빗츠1",
+                "teller":"Tay Sai của Hindley",
+                "title":"???"
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Câm mồm! Tao là sếp của chúng mày! Tao thuê hắn và tất cả lũ chúng bây!",
+                "model":"힌들리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Đằng đéo nào thì lũ đầu đất dốt đặc cán mai đấy cũng chả làm khó tụi mày được đâu.",
+                "model":"힌들리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Dốt đặc... hoa mai? Anh ta nói vậy là có ý gì?",
+                "model":"이상",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Ý là đang thèm ăn đòn lắm rồi đấy. Nếu đã đòi như vậy rồi thì ta chiều lòng hắn nào.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

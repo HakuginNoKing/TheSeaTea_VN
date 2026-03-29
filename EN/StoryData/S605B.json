@@ -1,288 +1,366 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Aboard Mephistopheles",
-            "content": "The bus emerged from the Backstreets into a rather quiet looking village."
-        },
-        {
-            "id": 1,
-            "content": "The fog was still thick, and everything was still in that faded hue..."
-        },
-        {
-            "id": 2,
-            "content": "Even the occasional sightings of pedestrians had ceased. The very idea of color variation seemed like an alien concept here."
-        },
-        {
-            "id": 3,
-            "content": "All I see are orange-hued lights coming through the windows of misty, grey buildings. It was as though everyone decided to stay indoors for the day."
-        },
-        {
-            "id": 4,
-            "content": "I can’t even tell where we are, or how close we are from our destination anymore."
-        },
-        {
-            "id": 5,
-            "model": "단테",
-            "content": "<Have you been here by any chance, Yi Sang?>"
-        },
-        {
-            "id": 6,
-            "content": "He was the only other Sinner who had spent a while in T Corp., so I decided to ask if he recognized anything. But it was evident that this scenery was unfamiliar to him."
-        },
-        {
-            "id": 7,
-            "model": "이상",
-            "content": "Though I have resided here for some time, most of my hours were spent earning a living and conducting my research when I could afford to do so. Thus I have not ventured freely the streets of T Corp."
-        },
-        {
-            "id": 8,
-            "model": "단테",
-            "content": "<I can’t imagine doing any research at a place like this… Can’t have been easy.>"
-        },
-        {
-            "id": 9,
-            "model": "이상",
-            "content": "It is quite manageable once one grows accustomed to this monochromatic sight. The presence of variance in color itself is a concept alien to those who are born and raised in these lands."
-        },
-        {
-            "id": 10,
-            "model": "이상",
-            "content": "And I had shoulders of those that I could… lean on, even for a fleeting moment. It helps to have such support when acclimating to a place as foreign as this."
-        },
-        {
-            "id": 11,
-            "content": "Yi Sang looks away to a place far beyond from here. Memories of his past, most likely."
-        },
-        {
-            "id": 12,
-            "model": "이스마엘",
-            "content": "… Did you ever hear anything about what T Corp.’s Singularity is?"
-        },
-        {
-            "id": 13,
-            "model": "이상",
-            "content": "… As all Singularities are, its true nature, its mechanisms, and function are all something of an enigma. Yet..."
-        },
-        {
-            "id": 14,
-            "content": "Yi Sang paused, and carefully began to speak."
-        },
-        {
-            "id": 15,
-            "model": "이상",
-            "content": "I am aware is that it has aught to do with time. Though I am unsure of its use..."
-        },
-        {
-            "id": 16,
-            "model": "이상",
-            "content": "Well, I suppose all this is but meaningless conjecture, and only Miss Faust among us must be aware of the answers."
-        },
-        {
-            "id": 17,
-            "model": "파우스트",
-            "content": "……."
-        },
-        {
-            "id": 18,
-            "model": "파우스트",
-            "content": "Its singularity is one of the reasons T Corp. constantly drains colors from its inhabitants."
-        },
-        {
-            "id": 19,
-            "model": "로쟈",
-            "content": "What’s time got to do with… color?"
-        },
-        {
-            "id": 20,
-            "model": "파우스트",
-            "content": "If the control of time is so imperative to T Corp.'s operations... then they must also control the realm of ‘light’."
-        },
-        {
-            "id": 21,
-            "model": "파우스트",
-            "content": "As light inherently has much to do with the spectrum of colors, these two subjects eventually overlap."
-        },
-        {
-            "id": 22,
-            "model": "파우스트",
-            "content": "That is as far as I could deduce regarding the concept of time that I am aware of. Yet, it must also be said that it takes time for me to reach Faust’s specific knowledge regarding T Corp.’s Singularity."
-        },
-        {
-            "id": 23,
-            "content": "Faust, known among us for her ‘Hm.’, ‘Maybe.’, and ‘Perhaps.’… rarely ever gave us answers this detailed."
-        },
-        {
-            "id": 24,
-            "content": "Then now’s the time to ask her all my questions…!"
-        },
-        {
-            "id": 25,
-            "model": "이상",
-            "content": "Miss Faust, as we discuss the subject of time—"
-        },
-        {
-            "id": 26,
-            "model": "파우스트",
-            "content": "Indeed. It would be safe for us to move on from the subject of T Corp. at this time."
-        },
-        {
-            "id": 27,
-            "model": "단테",
-            "content": "<Aw...>"
-        },
-        {
-            "id": 28,
-            "model": "로쟈",
-            "content": "There she goes again, teasing us with stuff she’s not going to tell us anyway..."
-        },
-        {
-            "id": 29,
-            "content": "Well, I guess I should be glad that she decided to tell us this much. I doubt she'll tell us more no matter how much we pry."
-        },
-        {
-            "id": 30,
-            "model": "싱클레어",
-            "content": "That’s… kinda sad."
-        },
-        {
-            "id": 31,
-            "model": "싱클레어",
-            "content": "That there are people who’s never seen color their whole lives, all because of this Singularity."
-        },
-        {
-            "id": 32,
-            "model": "로쟈",
-            "content": "Well, that’s just how it goes, isn't it. In the eyes of a stranger, we’d be just another one of those poor, miserable people who’s never seen color."
-        },
-        {
-            "id": 33,
-            "model": "로쟈",
-            "content": "That's the danger in trying your very first bite of the 'meat'. You taste it once, and you’ll never un-know the flavor. And in the end, you’ll start to wish you never tried it."
-        },
-        {
-            "id": 34,
-            "model": "이스마엘",
-            "content": "Hm… It is pretty disappointing that even the sun loses its vibrancy here."
-        },
-        {
-            "id": 35,
-            "model": "이상",
-            "content": "Oft did I long to see the colors of the sky. Especially the sky that looms over a light shower of rain."
-        },
-        {
-            "id": 36,
-            "model": "로쟈",
-            "content": "Yeah. Things like the color of the sky, too. You long to see it only because you've seen its beauty. If you were born here, never to escape its borders to the last of your days without ever seeing the blue sky... then I'd hardly call that death miserable."
-        },
-        {
-            "id": 37,
-            "model": "로쟈",
-            "content": "Calling even that miserable... is nothing but sheltered arrogance."
-        },
-        {
-            "id": 38,
-            "model": "싱클레어",
-            "content": "I guess that could also be true..."
-        },
-        {
-            "id": 39,
-            "content": "The atmosphere in the bus suddenly became incredibly frosty."
-        },
-        {
-            "id": 40,
-            "model": "로쟈",
-            "content": "Oh! Hey, speaking of color, I got something to ask ya. Have you guys ever heard of the ‘colors game’? Apparently, each type of personality has a corresponding color!"
-        },
-        {
-            "id": 41,
-            "content": "Rodya, who was the one to chill the bus in the first place, was also the first to break the ice."
-        },
-        {
-            "id": 42,
-            "model": "로쟈",
-            "content": "If Yi Sang enjoys the light blue color of the sky, then… Let’s see. You must be a thinker and a philosopher who prefers the calm and quiet."
-        },
-        {
-            "id": 43,
-            "model": "이상",
-            "content": "Ooh… How did you come to know that? That is quite the remarkable talent you have."
-        },
-        {
-            "id": 44,
-            "model": "돈키호테",
-            "content": "Hark, hark! I wish my favorite color to be rated as well! Forsooth, I quite fancy the color red! Nay, yellow! Nay, red! Nay—"
-        },
-        {
-            "id": 45,
-            "model": "로쟈",
-            "content": "Now, wait your turn. Next in the order is… Faust."
-        },
-        {
-            "id": 46,
-            "model": "파우스트",
-            "content": "I—"
-        },
-        {
-            "id": 47,
-            "model": "로쟈",
-            "content": "Wait up, wait up. I know exactly what you’re about to say. You were about to say, ‘Faust does not hold much belief in such ideations~’ or something like that, right?"
-        },
-        {
-            "id": 48,
-            "model": "로쟈",
-            "content": "Which is exactly what people who like the color white would say. I'm right, aren't I? Like, your hair’s white, too!"
-        },
-        {
-            "id": 49,
-            "model": "파우스트",
-            "content": "I will not comment further on this subject."
-        },
-        {
-            "id": 50,
-            "model": "히스클리프",
-            "content": "… Me? My favourite colour…?"
-        },
-        {
-            "id": 51,
-            "model": "히스클리프",
-            "content": "Tsk, what a stupid question. That's naff, lass."
-        },
-        {
-            "id": 52,
-            "model": "히스클리프",
-            "content": "But I like…"
-        },
-        {
-            "id": 53,
-            "content": "He pauses."
-        },
-        {
-            "id": 54,
-            "content": "A great manor begins to emerge into our view from a distance. I could immediately tell that this was the ‘Wuthering Heights’ manor Heathcliff had mentioned."
-        },
-        {
-            "id": 55,
-            "model": "히스클리프",
-            "content": "... black."
-        },
-        {
-            "id": 56,
-            "model": "히스클리프",
-            "content": "It’s the colour you get when you dump an entire set of paint into a bucket, innit?"
-        },
-        {
-            "id": 57,
-            "model": "히스클리프",
-            "content": "And that’s exactly why I tolerate it. Keep throwing paint over paint over paint… and you get black. Simple."
-        },
-        {
-            "id": 58,
-            "content": "I can clearly hear that Heathcliff is muttering through gritted teeth."
-        },
-        {
-            "id": 59,
-            "content": "I have a feeling that black wasn’t always his favorite color."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Ở trên chiếc Mephistopheles",
+                "content":"Chiếc xe buýt ra khỏi Phố Sau và tiến vào một ngôi làng khá yên ắng.",
+                "model":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Sương mù vẫn dày đặc, lặng lẽ bao trùm tất cả trong cái sắc màu ảm đạm đó...",
+                "model":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Dòng người cứ thưa dần, thưa dần, cho đến khi chẳng còn ai. Bao sắc màu rực rỡ ngoài kia bỗng chốc trở thành một khái niệm hoàn toàn xa lạ, tựa như một thứ tri thức ngoại lai chưa từng tồn tại nơi đây.",
+                "model":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Những gì còn sót lại trong tầm nhìn là vài ánh đèn cam thoắt ẩn thoắt hiện sau ô cửa sổ xám xịt bụi mờ. Cứ như thể mọi người đều đồng lòng nhất trí sẽ ru rú trong nhà cả ngày vậy.",
+                "model":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Thậm chí tôi còn chẳng biết chúng ta đang ở đâu hay còn bao xa nữa mới tới đích đến.",
+                "model":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"<Anh đã từng đến đây bao giờ chưa, Yi Sang?>",
+                "model":"단테"
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Anh ấy là Tội Nhân duy nhất từng sống tại Tập Đoàn T, nên tôi hỏi xem liệu anh có nhận ra điều gì quen thuộc không. Nhưng rõ ràng là khung cảnh trước mắt chưa bao giờ xuất hiện trong kí ức của anh.",
+                "model":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Đúng là khi xưa tôi đã từng cư ngụ nơi đây, nhưng hầu hết ngần ấy thời gian tôi đều bận rộn không lúc nào ngơi tay; khi thì để kiếm miếng cơm manh áo, khi thì để thực hiện nghiên cứu. Bởi vậy nên tôi chưa từng có dịp thăm thú đường phố Tập Đoàn T bao giờ.",
+                "model":"이상"
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"<Thật khó tin khi phải làm công tác nghiên cứu tại một nơi như thế này... Chắc cũng chẳng dễ dàng gì.>",
+                "model":"단테"
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Một khi đã làm quen với cảnh vật đơn sắc rồi thì mọi chuyện cũng chẳng tệ đến mấy. Huống hồ với cư dân nơi đây, màu sắc từ lâu đã là khái niệm xa vời tới mức khó lòng tiếp thu.",
+                "model":"이상"
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Vả lại tôi cũng... từng có những bờ vai để dựa vào, dù chỉ trong một khoảnh khắc ngắn ngủi. Ở nơi đất khách quê người thì mọi cử chỉ tương trợ lẫn nhau đều đáng giá vô cùng.",
+                "model":"이상"
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Ánh mắt của Yi Sang dõi theo một nơi xa xăm nào đó. Một nơi mà có lẽ đã mãi mãi nằm lại trong quá khứ.",
+                "model":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"... Anh có biết Dị Biến của Tập Đoàn T hoạt động như thế nào không?",
+                "model":"이스마엘"
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"... Bản chất, cơ chế và tính năng của Dị Biến luôn là những bí ẩn khó giải đáp. Tuy nhiên...",
+                "model":"이상"
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Yi Sang ngưng lại, cẩn thận lựa chọn từ ngữ.",
+                "model":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Tôi dám chắc rằng nó có liên quan đến thời gian. Nhưng tôi không rõ về công dụng của nó...",
+                "model":"이상"
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Mà, âu cũng chỉ là những phỏng đoán vô nghĩa. Xét trong đoàn chúng ta thì có chăng chỉ mình cô Faust là biết rõ đáp án nhất.",
+                "model":"이상"
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"…….",
+                "model":"파우스트"
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Đó quả thực là một trong những lý do mà Tập Đoàn T có thể liên tục rút cạn màu sắc của người dân.",
+                "model":"파우스트"
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Thế... thời gian thì có liên quan gì tới màu sắc hở?",
+                "model":"로쟈"
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Nếu chìa khóa vận hành của Tập Đoàn T là khả năng kiểm soát thời gian... thì chắc chắn họ cũng kiểm soát lĩnh vực liên quan tới \"ánh sáng\".",
+                "model":"파우스트"
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Mà vốn dĩ ánh sáng là yếu tố cốt lõi ảnh hưởng tới quang phổ màu sắc, thế nên cả hai rồi sẽ giao nhau.",
+                "model":"파우스트"
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Đó là tất cả những gì mà tôi có thể suy luận được, dựa trên khái niệm về thời gian theo hiểu biết cá nhân. Nhưng cũng cần phải lưu ý rằng, tôi vẫn còn cả chặng đường dài cho đến khi đạt được tri thức cụ thể của Faust về Dị Biến của Tập Đoàn T.",
+                "model":"파우스트"
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Faust với câu cửa miệng luôn là \"Hừm\", \"Có thể\" và \"Có lẽ\"... chẳng mấy khi trả lời chúng tôi một cách chi tiết tới mức này.",
+                "model":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Cơ hội để hỏi cô ấy mọi thứ mà mình muốn biết đây rồi...!",
+                "model":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Cô Faust, nhân tiện chúng ta đang bàn về chủ đề thời gian—",
+                "model":"이상"
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Đúng vậy. Chúng ta nên chuyển sang chủ đề khác ngoài Tập Đoàn T thì sẽ an toàn hơn.",
+                "model":"파우스트"
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"<Ôi...>",
+                "model":"단테"
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Lại nữa rồi kìa, cứ nói một thôi một hồi xong lại úp úp mở mở, trêu người thật ấy...",
+                "model":"로쟈"
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Thôi thì, cô ấy chịu tiết lộ cho cả bọn nhiều thế này là mừng lắm rồi. Giờ mà có vòi vĩnh thêm thì chắc còn lâu cô ấy mới chịu mở miệng.",
+                "model":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Như vậy... khá buồn nhỉ.",
+                "model":"싱클레어"
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Có những người cả đời sẽ không bao giờ nhìn thấy màu sắc, chỉ vì cái Dị Biến này.",
+                "model":"싱클레어"
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Ây dà, chuyện là thế đó. Có khi trong mắt họ chúng ta cũng chỉ như bao con người khốn khổ khác, sống trong ngu muội y hệt những kẻ chưa một lần trông thấy màu sắc.",
+                "model":"로쟈"
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Thế nên cái lúc mà ta cắn miếng \"thịt\" đầu tiên là khoảnh khắc nguy hiểm nhất. Một khi đã nếm được mùi vị của nó thì sẽ chẳng bao giờ quên đi được. Cái ký ức mới mẻ đầy si mê ấy sẽ hằn sâu vào tâm trí, cho đến khi ta phải ước rằng mình chưa từng biết đến nó.",
+                "model":"로쟈"
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Ài... Buồn là đến cả mặt trời ở đây cũng trở nên nhạt nhòa hẳn đi.",
+                "model":"이스마엘"
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Nhiều lúc tôi khát khao được thấy sắc màu của bầu trời. Đặc biệt là cái màu trầm uất lắng xuống sau cơn mưa rào.",
+                "model":"이상"
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Ừ. Ví dụ như màu của bầu trời chẳng hạn. Mình chỉ mong được ngắm nhìn nó khi đã biết nó trông ra sao thôi. Còn một khi đã sinh ra và lớn lên ở đây, cả đời chưa một lần đặt chân ra khỏi biên giới của quận, chưa một lần biết được bầu trời thực sự có màu sắc như thế nào... thì khó mà nói cuộc sống của một người như vậy là bất hạnh được.",
+                "model":"로쟈"
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Dám gọi đó là một mảnh đời bất hạnh... chẳng qua chỉ là cái nhìn thiển cận của một kẻ cao ngạo mà thôi.",
+                "model":"로쟈"
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Nói như vậy có lẽ cũng không sai...",
+                "model":"싱클레어"
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Bầu không khí trong xe buýt bỗng nhiên trở nên cực kỳ buốt giá.",
+                "model":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Ấy! Nhắc tới màu mè thì tôi có trò này hay lắm nè. Có nghe tới \"trò chơi sắc màu\" lần nào chưa? Thực ra ý, tính cách của mỗi người sẽ tương ứng với một màu riêng biệt đó nha!",
+                "model":"로쟈"
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Rodya, mới vài giây trước còn đẩy bầu không khí trên xe trầm hẳn xuống, giờ chính tay cô lại kéo tâm trạng mọi người vui vẻ lên.",
+                "model":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"Anh Yi Sang thích màu xanh da trời nhỉ? Để xem nào... Anh là một người hay suy tư và triết lý, thích tìm đến cảm giác bình yên và tĩnh lặng.",
+                "model":"로쟈"
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Ồ... Làm cách nào mà cô biết được vậy? Quả là một tài năng ấn tượng đó.",
+                "model":"이상"
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Ta nữa, ta nữa! Hãy mau đánh giá màu sắc do ta chọn nữa! Quả nhiên, sắc màu mà ta đem lòng cảm mến nhất chính là đỏ! Gượm đã, há chẳng phải vàng sao? Không đâu, là màu đỏ đấy! Ồ khoan, thực ra là—",
+                "model":"돈키호테"
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Rồi rồi, chờ đến lượt nhé. Tiếp đến là... cô Faust.",
+                "model":"로쟈"
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Tôi—",
+                "model":"파우스트"
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"Khoan, từ từ nhá. Tôi biết ngay cô định nói gì rồi. Kiểu như \"Faust không có niềm tin vào những ý niệm như thế này\" chứ gì?",
+                "model":"로쟈"
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Chắc chắn những người thích màu trắng cũng sẽ nói thế. Đúng không nè? Kìa, tóc cô cũng màu trắng đó thôi!",
+                "model":"로쟈"
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Tôi sẽ không bình luận gì thêm về chủ đề này.",
+                "model":"파우스트"
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"... Tao à? Màu yêu thích hả...?",
+                "model":"히스클리프"
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"Chậc, mày hỏi mẹ gì vậy. Nghe xàm vãi.",
+                "model":"히스클리프"
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"Nhưng tao thích...",
+                "model":"히스클리프"
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Anh ấy ngừng lại.",
+                "model":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Từ đằng xa, một toà kiến trúc đồ sộ dần hiện ra trước mắt. Ngay tức khắc tôi có thể nhận ra đó chính là dinh thự \"Đồi Gió Hú\" mà Heathcliff đã nhắc tới.",
+                "model":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"... màu đen.",
+                "model":"히스클리프"
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Đáp hết màu vào một cái xô thì nó sẽ ra được như thế chứ còn gì nữa?",
+                "model":"히스클리프"
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"Thế nên nó là cái màu đậm nhất. Cứ trét hết vào. Màu này, màu kia, màu kìa nữa... rồi nó đen kịt. Thế thôi.",
+                "model":"히스클리프"
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"Tôi có thể nghe rõ những lời Heathcliff đang lầm bầm qua kẽ răng nghiến chặt.",
+                "model":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Linh tính mách bảo tôi rằng màu đen không phải lúc nào cũng là màu sắc anh ấy yêu thích nhất.",
+                "model":null
+            }
+        ]
+    }
+

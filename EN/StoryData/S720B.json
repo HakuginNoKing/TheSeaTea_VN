@@ -1,387 +1,486 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": -1,
-      "content": "<color=#cc2424>Nay, tease me not, jest me not as though my venture is one for fools.</color>"
-    },
-    {
-      "id": 1,
-      "content": "<color=#cc2424>I have already explained that you do not know of true adventure.</color>"
-    },
-    {
-      "id": 2,
-      "content": "<color=#cc2424>We shall soon walk a path of suffering, its intensity unprecedented and monumental.</color>"
-    },
-    {
-      "id": 3,
-      "content": "<color=#cc2424>Do you not see the grand gate of adventure risen, unlatched before us?</color>"
-    },
-    {
-      "id": 4,
-      "content": "<color=#cc2424>Thus, silence your prattling and resume the preparations; let us leave posthaste.</color>"
-    },
-    {
-      "id": 5,
-      "content": "<color=#ffef23>…….</color>"
-    },
-    {
-      "id": 6,
-      "content": "<color=#ffef23>... This is quite odd, however.</color>"
-    },
-    {
-      "id": 7,
-      "content": "<color=#ffef23>……. </color>"
-    },
-    {
-      "id": 8,
-      "content": "<color=#ffef23>Since when was Rocinante given the gift of speech?</color>"
-    },
-    {
-      "id": 9,
-      "place": "La Manchaland, Area 2",
-      "content": "While we had our reservations, we took the path Sansón opened for us and made it to the next Area."
-    },
-    {
-      "id": 10,
-      "model": "싱클레어",
-      "content": "I'm worried about Xichun and the other Fixers. They were assigned Area 2, right? I hope they're alright..."
-    },
-    {
-      "id": 11,
-      "model": "홍루",
-      "content": "Xichun will be okay, I'm sure. Oh, that reminds me... I have a funny family in-joke to share..."
-    },
-    {
-      "id": 12,
-      "model": "그레고르",
-      "content": "Oho, let's hear it."
-    },
-    {
-      "id": 13,
-      "model": "홍루",
-      "content": "It goes like this. Any of our siblings who managed to survive on their own up to the age of thirteen in our household will probably be a-okay even if they were to be tossed out to the middle of the Outskirts! Hehe..."
-    },
-    {
-      "id": 14,
-      "model": "그레고르",
-      "content": "... Ahm. Okay, we should hurry. I bet Area 2's just as bad... if not worse, than Area 1. If something bad were to happen to your sister in front your eyes—"
-    },
-    {
-      "id": 15,
-      "model": "홍루",
-      "content": "Then I will gather her remains and lay them in her final resting place when I return home, whenever that may be."
-    },
-    {
-      "id": 16,
-      "model": "홍루",
-      "content": "Xichun would have done the same for me."
-    },
-    {
-      "id": 17,
-      "model": "그레고르",
-      "content": "... Yeah?"
-    },
-    {
-      "id": 18,
-      "model": "그레고르",
-      "content": "... Anyways~ Whew! Ain't this place a bit drafty, fellas?"
-    },
-    {
-      "id": 19,
-      "content": "This place feels very different from Area 1."
-    },
-    {
-      "id": 20,
-      "content": "Unlike Area 1, which was extremely gaudy and overtly decorated..."
-    },
-    {
-      "id": 21,
-      "content": "... this place is teeming with ominous, depressing silence."
-    },
-    {
-      "id": 22,
-      "model": "이스마엘",
-      "content": "Yeah. This place is... how should I put it... It's eerily quiet. Almost spooky, even..."
-    },
-    {
-      "id": 23,
-      "model": "로쟈",
-      "content": "Welp, I hope this is the good kind of quiet~"
-    },
-    {
-      "id": 24,
-      "model": "로쟈",
-      "content": "Y'know, what if it's just quiet down here because the Fixers who made it here first already took out all the Bloodfiends?"
-    },
-    {
-      "id": 25,
-      "model": "단테",
-      "content": "<It is pretty suffocating to just sit here, not knowing who won the fight... or if there even was a fight.>"
-    },
-    {
-      "id": 26,
-      "model": "그레고르",
-      "content": "Let's try not to get added to that wall of missing persons posters..."
-    },
-    {
-      "id": 27,
-      "model": "싱클레어",
-      "content": "How much time do we have until La Manchaland closes?\n"
-    },
-    {
-      "id": 28,
-      "model": "이상",
-      "content": "Five hours, by my estimation."
-    },
-    {
-      "id": 29,
-      "model": "로쟈",
-      "content": "Nice, nice. I'd say we're moving at a decent pace. Hey, what if we're the first group that managed to activate their Area's device?"
-    },
-    {
-      "id": 30,
-      "model": "이스마엘",
-      "content": "Well, we did suffer some losses..."
-    },
-    {
-      "id": 31,
-      "model": "오티스",
-      "content": "Losses? I believe we've only pruned a traitor in our midst."
-    },
-    {
-      "id": 32,
-      "model": "이상",
-      "content": "Yet... aught sits ill at the back of my mind still."
-    },
-    {
-      "id": 33,
-      "model": "이상",
-      "content": "It was not as though we passed the first Area by our own will and effort; it was the command of the man in his magician's outfit by which we were 'made' to pass through."
-    },
-    {
-      "id": 34,
-      "model": "로쟈",
-      "content": "Well... he was a pretty weird Bloodfiend."
-    },
-    {
-      "id": 35,
-      "model": "싱클레어",
-      "content": "R-right? And... I couldn't quite tell what it was, but there was something familiar about him..."
-    },
-    {
-      "id": 36,
-      "model": "로쟈",
-      "content": "Something familiar? Hm, I guess he did seem kinda similar to Ryōshū, in that artsy-fartsy way."
-    },
-    {
-      "id": 37,
-      "model": "료슈",
-      "content": "…….\n"
-    },
-    {
-      "id": 38,
-      "content": "Ryōshū quietly let out a cloud of smoke. It briefly lingered midair before turning into a bizarre shape."
-    },
-    {
-      "id": 39,
-      "model": "싱클레어",
-      "content": "T-that's cute... is that a cat-shaped plume?"
-    },
-    {
-      "id": 40,
-      "model": "료슈",
-      "content": "Hoo... It's you. Weeping and sniveling."
-    },
-    {
-      "id": 41,
-      "model": "료슈",
-      "content": "An expression of the consequences, should you mistranslate me in the future."
-    },
-    {
-      "id": 42,
-      "model": "단테",
-      "content": "<…….>\n"
-    },
-    {
-      "id": 43,
-      "model": "그레고르",
-      "content": "Ooh...? Huh, this place is pretty neat."
-    },
-    {
-      "id": 44,
-      "model": "단테",
-      "content": "<Ooh, what is it?>"
-    },
-    {
-      "id": 45,
-      "model": "그레고르",
-      "content": "Look here, on the map. They have an infirmary."
-    },
-    {
-      "id": 46,
-      "model": "그레고르",
-      "content": "'Guests injured on a ride, guests who need a moment to calm down, or any Bloodfiends who are in urgent need of blood, you can find help here!'..."
-    },
-    {
-      "id": 47,
-      "model": "그레고르",
-      "content": "Huh, ain't that awfully nice of them."
-    },
-    {
-      "id": 48,
-      "model": "싱클레어",
-      "content": "They said that La Manchaland was intended to be where Bloodfiends and humans can peacefully, happily coexist."
-    },
-    {
-      "id": 49,
-      "model": "싱클레어",
-      "content": "Maybe... a long, long time ago... it really did work for a while. At least according to the descriptions on this map."
-    },
-    {
-      "id": 50,
-      "model": "돈키호테",
-      "content": "Nonsense! 'Twould be an impossible task, most evidently!"
-    },
-    {
-      "id": 51,
-      "model": "돈키호테",
-      "content": "An adventure such as this cannot possibly exist in any tale of Don Quixote. A place to coexist with villains...? Pah, absurd..."
-    },
-    {
-      "id": 52,
-      "model": "돈키호테",
-      "content": "Hmm, this subject doth remind me of a case Lord Siegfried had once resolved."
-    },
-    {
-      "id": 53,
-      "model": "돈키호테",
-      "content": "A battle atop a bridge, it was! Back then, the villains suggested a compromise most devious, not unlike the one suggested by the wicked ones who inhabit this place."
-    },
-    {
-      "id": 54,
-      "model": "돈키호테",
-      "content": "They sought to seduce him with promises of riches and power, to have him stand with them!"
-    },
-    {
-      "id": 55,
-      "model": "돈키호테",
-      "content": "Yet Lord Siegfried refused to bend his knee!"
-    },
-    {
-      "id": 56,
-      "model": "돈키호테",
-      "content": "He answered their suggestion with but a mighty socking against the villain's jaw...!"
-    },
-    {
-      "id": 57,
-      "model": "이스마엘",
-      "content": "Oh, that one-hour edit of the 'battle'? Wasn't it pretty obvious that it was staged—"
-    },
-    {
-      "id": 58,
-      "model": "돈키호테",
-      "content": "... and declared thusly!"
-    },
-    {
-      "id": 59,
-      "model": "돈키호테",
-      "content": "'Thou shan't make a purchasable product of I, Siegfried, with thy contemptible money!'"
-    },
-    {
-      "id": 60,
-      "model": "돈키호테",
-      "content": "AND! Fired off his super special laser beam cannon at the villain! ZWAAAAAHHHH—"
-    },
-    {
-      "id": 61,
-      "model": "오티스",
-      "content": "Attention, men."
-    },
-    {
-      "id": 62,
-      "content": "... A timely intervention from Outis put a stop to Don Quixote's story."
-    },
-    {
-      "id": 63,
-      "model": "오티스",
-      "content": "There are remains of Bloodbags strewn about in close proximity to this attraction."
-    },
-    {
-      "id": 64,
-      "model": "오티스",
-      "content": "It's called... let's see. 'Haunted: Bloody Mary'..."
-    },
-    {
-      "id": 65,
-      "model": "로쟈",
-      "content": "Hm. Is this one of those, uh, 'haunted mansion' attractions?"
-    },
-    {
-      "id": 66,
-      "model": "로쟈",
-      "content": "Hey, Sinclair. Do ya think these haunted mansions have actual—"
-    },
-    {
-      "id": 67,
-      "model": "싱클레어",
-      "content": "S-stop right there! Hey, my parents took me to an amusement park too, okay? S-so don't think you can use this to tease me or scare me like—"
-    },
-    {
-      "id": 68,
-      "model": "로쟈",
-      "content": "... It was a genuine question. I've never been to an amusement park, you know."
-    },
-    {
-      "id": 69,
-      "model": "이상",
-      "content": "Ahh..."
-    },
-    {
-      "id": 70,
-      "model": "싱클레어",
-      "content": "I-I'm sorry."
-    },
-    {
-      "id": 71,
-      "model": "로쟈",
-      "content": "Eh, don'tcha worry about it! So, do these places actually have ghosts or nah?"
-    },
-    {
-      "id": 72,
-      "model": "싱클레어",
-      "content": "I-I'm fairly sure they have some pretty cheap-looking animatronics or mannequins at worst."
-    },
-    {
-      "id": 73,
-      "model": "뫼르소",
-      "content": "As attractions of that category often admit guests of all ages, including children, they do not place real paranatural entities such as ghosts inside them. However, they often install various tools and visual effects to stimulate fear responses in their guests."
-    },
-    {
-      "id": 74,
-      "model": "싱클레어",
-      "content": "Yeah, these are usually family attractions."
-    },
-    {
-      "id": 75,
-      "place": -1,
-      "content": "<color=#cc2424>Where's your family? Your siblings?</color>"
-    },
-    {
-      "id": 76,
-      "content": "<color=#ffef23>I never had anyone, not even on the day I was born. I've only known... the cold... the loneliness...</color>"
-    },
-    {
-      "id": 77,
-      "content": "<color=#cc2424>Then let me…</color>"
-    },
-    {
-      "id": 78,
-      "content": "<color=#cc2424>... grant you the will to live.</color>"
-    },
-    {
-      "id": 79,
-      "content": "<color=#cc2424>The family I shall grant you will forever be by your side. Come with me.</color>"
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":-1,
+                "content":"<color=#cc2424>Đừng cười cợt ta, châm chọc ta như thể những thứ ta làm đây chẳng khác nào trò cười cho thiên hạ.<\/color>",
+                "model":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"<color=#cc2424>Lời ta nói vốn chẳng lọt tai ngươi, rằng ngươi cũng chẳng rõ thế nào là một chuyến phiêu lưu thực thụ.<\/color>",
+                "model":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"<color=#cc2424>Chúng ta rồi sẽ sớm dấn thân vào đoạn đường đầy khổ ải, mãnh liệt đến độ chưa từng có và cũng chẳng thể đoán định.<\/color>",
+                "model":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"<color=#cc2424>Ngươi không thấy rằng đằng sau cánh cổng đang rộng mở kia là những cuộc phiêu lưu vĩ đại đang chờ đón chúng ta sao?<\/color>",
+                "model":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"<color=#cc2424>Vậy nên, hãy dừng ngay cái điệu bộ càm ràm của ngươi lại và chuẩn bị ngay đi, chúng ta sẽ rời đi ngay bây giờ.<\/color>",
+                "model":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"<color=#ffef23>…….<\/color>",
+                "model":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"<color=#ffef23> ... Kì lạ thay.<\/color>",
+                "model":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"<color=#ffef23>…….<\/color>",
+                "model":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"<color=#ffef23> Rocinante được ban cho tiếng nói từ thuở nào vậy?<\/color>",
+                "model":null
+            },
+            {
+                "id":9,
+                "place":"La Manchaland, Khu Vực 2",
+                "content":"Khi đã hết bị hạn chế chuyển động, chúng tôi tiến vào con đường Sansón mở ra và đi đến Khu Vực kế tiếp.",
+                "model":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Tôi lo cho cô Tích Xuân và mấy Fixer khác quá. Bọn họ được phân công qua Khu Vực 2 mà nhỉ? Hy vọng mọi người đều ổn...",
+                "model":"싱클레어"
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Tích Xuân sẽ bình an vô sự thôi. À, tiện liên quan thì tôi có một chuyện cười này cũng hay ho lắm...",
+                "model":"홍루"
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Ồ hố, kể nghe xem.",
+                "model":"그레고르"
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Trong gia tộc của tôi nhé, hễ có huynh đệ tỷ muội nào của tôi mà sống sót được tới năm mười ba tuổi, thì các cụ sẽ bảo là \"có bị vứt ra giữa Ngoại Ô thì cũng sống nhăn răng\" đấy. Hì hì...",
+                "model":"홍루"
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"... À. Thế thì nhanh lên thôi nhỉ. Tôi cá là Khu Vực 2 nó cũng tệ... hoặc có khi còn tệ hơn cả Khu Vực 1 nữa. Nếu cậu phải tận mắt chứng kiến em gái mình gặp chuyện thì—",
+                "model":"그레고르"
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Nhỡ mà vậy thật, thì dù muội ấy chỉ còn là di thể, tôi cũng sẽ gom nhặt về. Chừng nào quy gia, tôi sẽ liệu đường an bài ổn thỏa cho muội ấy.",
+                "model":"홍루"
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Đổi lại là tôi, thì Tích Xuân cũng sẽ làm vậy thôi.",
+                "model":"홍루"
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"... Vậy à?",
+                "model":"그레고르"
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"... Thôi thì~ Phù! Cái chỗ này thông thoáng ghê nhỉ?",
+                "model":"그레고르"
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Nơi này hoàn toàn khác với Khu Vực 1.",
+                "model":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Không như Khu Vực 1 quá đỗi cầu kỳ và trang hoàng quá độ...",
+                "model":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"... nơi này toả ra bầu không khi đầy tĩnh lặng, trầm mặc, và âm u.",
+                "model":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Đúng đấy. Chỗ này nó cứ... nói sao nhỉ... im lặng quá mức. Kiểu như ma quái thì đúng hơn...",
+                "model":"이스마엘"
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Chỉ mong chỗ này êm ả là được rồi~",
+                "model":"로쟈"
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Mà lỡ như chỗ này yên ắng là do bọn Fixer kia xử hết đám Huyết Quỷ thì sao?",
+                "model":"로쟈"
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"<Ngồi trong đây ngột ngạt thật đấy, lại còn chẳng biết ai đã thắng luôn... hoặc có xảy ra trận chiến nào ở đây không nữa.>",
+                "model":"단테"
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Cố đừng để bị ghi tên lên cái bảng thông báo người mất tích đó nào...",
+                "model":"그레고르"
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Còn mấy tiếng nữa là La Manchaland đóng cửa vậy?",
+                "model":"싱클레어"
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Sẽ mất năm giờ theo dự tính của tôi.",
+                "model":"이상"
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Ngon, ngon. Chúng ta đang tiến triển khá tốt đấy. Mà nếu bọn mình là nhóm đầu tiên kích hoạt được thiết bị Khu Vực của họ thì sao nhề?",
+                "model":"로쟈"
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Ừm, đúng là có mất mát ít nhiều...",
+                "model":"이스마엘"
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Mất mát? Ta chỉ thấy mình mới loại bỏ được một tên phản bội trong đội à.",
+                "model":"오티스"
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Dẫu vậy... vẫn có đôi điều tôi còn vướng mắc.",
+                "model":"이상"
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Chúng ta thành công vượt qua 'Khu vực' đầu tiên cốt chẳng nhờ đồng tâm hiệp lực, mà là nhờ mệnh lệnh của người đàn ông khoác y phục ảo thuật gia.",
+                "model":"이상"
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Mà... tên Huyết Quỷ đó lạ ghê.",
+                "model":"로쟈"
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"N-Nhỉ? Mà không hiểu sao tên đó lại làm tôi thấy quen thuộc...",
+                "model":"싱클레어"
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Quen thuộc sao? Hừm, nghĩ lại thì nhìn ổng na ná Ryōshū lắm, cái kiểu nghệ thuật ấy.",
+                "model":"로쟈"
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"…….",
+                "model":"료슈"
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Ryōshū lặng lẽ phả ra một hơi khói. Chúng vương vấn lại ít lâu rồi hoá thành một hình thù kỳ lạ.",
+                "model":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"D-Dễ thương quá đi... Đó là một con mèo phải không?",
+                "model":"싱클레어"
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Phù... Là nhóc đấy. Khóc lóc sướt mướt.",
+                "model":"료슈"
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Lần sau mà dịch sai thì hậu quả liệu chừng trông như thế đấy.",
+                "model":"료슈"
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"<.......>",
+                "model":"단테"
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Ố ồ...? Uầy, chỗ này trông được phết nhở.",
+                "model":"그레고르"
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"<Ồ, gì đấy?>",
+                "model":"단테"
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Đây này, trên bản đồ ấy. Có một bệnh xá ở đằng kia.",
+                "model":"그레고르"
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Khách hàng bị thương khi đi tàu lượn, khách hàng cần thời gian tịnh tâm, hay bất kỳ Huyết Quỷ nào đang thèm máu khẩn cấp, đều có thể tới đây tìm trợ giúp!'...",
+                "model":"그레고르"
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"Nghe tốt bụng chưa kìa.",
+                "model":"그레고르"
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Hình như La Manchaland đáng lẽ phải là một nơi mà Huyết Quỷ và con người có thể chung sống với nhau một cách hòa bình và hạnh phúc.",
+                "model":"싱클레어"
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Nếu như miêu tả trên cái bản đồ này nói đúng thì... chắc là rất lâu về trước... chuyện đó thật sự đã xảy ra.",
+                "model":"싱클레어"
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"Vô lý! Đây rõ ràng là nhiệm vụ bất khả thi!",
+                "model":"돈키호테"
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"Một cuộc phiêu lưu như thế này không thể ở trong các câu chuyện của Don Quixote. Một nơi để chung sống với quỷ dữ...? Hừ, điên rồ...",
+                "model":"돈키호테"
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"Hừmm, chủ đề này làm ta nhớ đến một vụ mà Ngài Siegfried đã từng giải quyết.",
+                "model":"돈키호테"
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Đó là một trận chiến ở trên cầu! Hồi đó tên ác nhân đã thoả hiệp một thứ rất đỗi quỷ quyệt, không khác những gì những tên vô lại ở nơi đây là bao.",
+                "model":"돈키호테"
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Chúng dám cám dỗ ngài ấy bằng tiền tài và quyền lực, để ngài về theo phe chúng!",
+                "model":"돈키호테"
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"Nhưng Ngài Siegfried nào chịu quy phục!",
+                "model":"돈키호테"
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Ngài đã trả lời chúng bằng một cú đấm thẳng vào quai hàm...!",
+                "model":"돈키호테"
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"À, nguyên cái “trận đấu” cải biên dài một tiếng đó hả? Dàn dựng hết từ đầu tới cuối rõ ràng rồi còn gì—",
+                "model":"이스마엘"
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"...và đã tuyên bố như sau!",
+                "model":"돈키호테"
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Đừng làm như thể ngươi có thể mua chuộc Siegfried ta đây bằng thứ tiền bẩn tưởi của ngươi!",
+                "model":"돈키호테"
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"VÀ! Ngài đã bắn tia la-de siêu cấp đặc biệt của mình vào tên ác nhân! RÈÈÈÈÈÈÈÈ—",
+                "model":"돈키호테"
+            },
+            {
+                "id":61,
+                "place":null,
+                "content":"Các ngươi, chú ý.",
+                "model":"오티스"
+            },
+            {
+                "id":62,
+                "place":null,
+                "content":"... Sự can thiệp chuẩn xác từ Outis đã ngăn giờ kể chuyện của Don Quixote xảy ra.",
+                "model":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "content":"Có nhiều tàn tích của Túi Máu nằm rải rác gần điểm tham quan này.",
+                "model":"오티스"
+            },
+            {
+                "id":64,
+                "place":null,
+                "content":"Nó gọi là... để ta xem. 'Nhà Ma: Bloody Mary'...",
+                "model":"오티스"
+            },
+            {
+                "id":65,
+                "place":null,
+                "content":"Hừm. Hình như nó có phải là, ờ, 'biệt thự ma ám' không nhỉ?",
+                "model":"로쟈"
+            },
+            {
+                "id":66,
+                "place":null,
+                "content":"Này Sinclair. Em nghĩ mấy cái biệt thự này thật sự có—",
+                "model":"로쟈"
+            },
+            {
+                "id":67,
+                "place":null,
+                "content":"Ch-Chờ đã! Hồi nhỏ tôi có được ba mẹ dẫn đi công viên giải trí đấy nhé! N-Nên là đừng nghĩ chị có thể dùng chuyện đấy để chọc tôi rồi làm tôi sợ hay giật mình—",
+                "model":"싱클레어"
+            },
+            {
+                "id":68,
+                "place":null,
+                "content":"... Chỉ hỏi thôi mà. Chị có bao giờ được dẫn tới khu vui chơi lần nào đâu.",
+                "model":"로쟈"
+            },
+            {
+                "id":69,
+                "place":null,
+                "content":"Ôi...",
+                "model":"이상"
+            },
+            {
+                "id":70,
+                "place":null,
+                "content":"X-Xin lỗi chị.",
+                "model":"싱클레어"
+            },
+            {
+                "id":71,
+                "place":null,
+                "content":"Chả sao đâu, đừng lo gì hết! Mà mấy nơi đó thật sự có ma không thế?",
+                "model":"로쟈"
+            },
+            {
+                "id":72,
+                "place":null,
+                "content":"Kh-Khá chắc chắn là cùng lắm cũng chỉ có mấy con ma-nơ-canh rẻ tiền thôi à.",
+                "model":"싱클레어"
+            },
+            {
+                "id":73,
+                "place":null,
+                "content":"Những điểm vui chơi này thường chấp nhận khách hàng ở mọi lứa tuổi, kể cả trẻ con, do họ không có để thực thể ma quái th. Tuy nhiên, nhiều thiết bị cùng hiệu ứng đặc biệt có dùng để khơi gợi phản ứng kinh sợ của các khách đến đây.",
+                "model":"뫼르소"
+            },
+            {
+                "id":74,
+                "place":null,
+                "content":"Vâng, chúng thường là những điểm vui chơi dành cho gia đình mà.",
+                "model":"싱클레어"
+            },
+            {
+                "id":75,
+                "place":-1,
+                "content":"<color=#cc2424>Gia đình của ngươi đâu? Anh chị em gì đó?<\/color>",
+                "model":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "content":"<color=#ffef23>Tôi chưa từng có ai cả, từ khi sinh ra đã vậy. Tôi chỉ biết có... nỗi cô đơn...lạnh lẽo...<\/color>",
+                "model":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "content":"<color=#cc2424>Vậy hãy để ta…<\/color>",
+                "model":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "content":"<color=#cc2424>... ban cho ngươi lý do để tồn tại.<\/color>",
+                "model":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "content":"<color=#cc2424>Ta sẽ ban cho ngươi một gia đình sẽ vĩnh viễn bên cạnh ngươi. Đi với ta.<\/color>",
+                "model":null
+            }
+        ]
     }
-  ]
-}
+

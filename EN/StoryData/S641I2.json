@@ -1,89 +1,114 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Laboratory",
-            "model": "로쟈",
-            "content": "Why... why are you here? I mean, I'm not saying that you shouldn't be here, but still..."
-        },
-        {
-            "id": 1,
-            "model": "베르길리우스3",
-            "content": "I simply could not bear to walk past this familiar sensation emanating from underneath the manor."
-        },
-        {
-            "id": 2,
-            "model": "베르길리우스3",
-            "content": "The thick stench of the husks..."
-        },
-        {
-            "id": 3,
-            "model": "베르길리우스3",
-            "content": "... and the terrible wailings."
-        },
-        {
-            "id": 4,
-            "content": "Vergilius gazes at the destroyed laboratory and the march of the Wild Hunt in collected, assured silence."
-        },
-        {
-            "id": 5,
-            "content": "Though I couldn't know everything about the path he walked..."
-        },
-        {
-            "id": 6,
-            "content": "I could see the smallest glimpse of it."
-        },
-        {
-            "id": 7,
-            "model": "이스마엘",
-            "content": "But you... you've never..."
-        },
-        {
-            "id": 8,
-            "model": "베르길리우스3",
-            "content": "... involved myself? No, I haven't. And I shouldn't have."
-        },
-        {
-            "id": 9,
-            "model": "베르길리우스3",
-            "content": "But it is pointless to waste your time on those whose path has ended."
-        },
-        {
-            "id": 10,
-            "model": "그레고르",
-            "content": "On those whose path has ended...? You mean the Peccatula?"
-        },
-        {
-            "id": 11,
-            "model": "베르길리우스3",
-            "content": "Yes."
-        },
-        {
-            "id": 12,
-            "model": "베르길리우스3",
-            "content": "I will handle this 'Wild Hunt' and the Peccatula born from the basement."
-        },
-        {
-            "id": 13,
-            "model": "싱클레어",
-            "content": "But... there's literally no end to them. Can you..."
-        },
-        {
-            "id": 14,
-            "content": "... handle it? But we were in no shape to deny his help out of worry."
-        },
-        {
-            "id": 15,
-            "content": "Sinclair barely stops himself. He couldn't bring himself to finish his sentence."
-        },
-        {
-            "id": 16,
-            "content": "Yet Vergilius understood the meaning of that silence."
-        },
-        {
-            "id": 17,
-            "model": "베르길리우스3",
-            "content": "Yes. That is why I am handling this."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phòng Thí Nghiệm Đồi Gió Hú",
+                "model":"로쟈",
+                "content":"Sao... sao ông lại ở đây thế? Ý là, tôi không nói là ông không nên ở đây, nhưng mà..."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"베르길리우스3",
+                "content":"Ta không thể làm ngơ được cái cảm giác thân thuộc phát ra từ dưới biệt thự này."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"베르길리우스3",
+                "content":"Mùi nồng nặc từ những cái xác vô hồn..."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"베르길리우스3",
+                "content":"... và tiếng oai oán đầy tuyệt vọng."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "content":"Vergilius nhìn vào phòng thí nghiệm bị tàn phá và đoàn hành quân Cuộc Săn Hoang Dã trong lặng thinh."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Mặc dù tôi không thể biết hết mọi thứ về con đường mà ông ấy đang đi..."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"Nhưng tôi có thể nhìn thấy một khoảnh khắc thoáng qua về nó."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nhưng... nhưng ngài chưa bao giờ..."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"베르길리우스3",
+                "content":"... can thiệp vào, sao? Đúng ra ta không được phép và sẽ không bao giờ làm vậy."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"베르길리우스3",
+                "content":"Phí thời gian cho những kẻ đi tới tận cùng con đường, thật vô nghĩa."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"그레고르",
+                "content":"Con đường của ai kết thúc cơ...? Ý ông là của lũ Peccatula á?"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"베르길리우스3",
+                "content":"Đúng vậy."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"베르길리우스3",
+                "content":"Ta sẽ giải quyết cái ‘Cuộc Săn Hoang Dã’ này cùng đám Peccatula được sinh ra từ tầng hầm."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Nhưng mà... bọn chúng đông vô số kể. Liệu ngài..."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "content":"... có thể giải quyết chúng không? Nhưng chúng tôi đều không thể phủ nhận sự trợ giúp của ông ấy chỉ bởi vì lo lắng."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "content":"Sinclair ngừng lại. Cậu ấy không thể nào nói hết câu được."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":null,
+                "content":"Nhưng Vergilius hiểu ý nghĩa của sự im lặng đó."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"베르길리우스3",
+                "content":"Dĩ nhiên. Vì vậy ta sẽ đích thân giải quyết chuyện này."
+            }
+        ]
+    }
+

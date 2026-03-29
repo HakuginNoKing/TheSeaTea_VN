@@ -1,326 +1,502 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Backstreets of P Corp., Outside the Tent",
-      "content": "Cesara's directions led us to an empty lot in the Backstreets."
-    },
-    {
-      "id": 1,
-      "model": "히스클리프",
-      "content": "... The hell is this now?"
-    },
-    {
-      "id": 2,
-      "model": "히스클리프",
-      "content": "This ain't like the tight alleyways of the Backstreets I know. What's this huge empty lot doin' here?"
-    },
-    {
-      "id": 3,
-      "model": "로쟈",
-      "content": "Right? Weird, it's rare to see this much real estate go unused in the Backstreets."
-    },
-    {
-      "id": 4,
-      "model": "싱클레어",
-      "content": "There are a bunch of banners hanging by the buildings for some reason, too."
-    },
-    {
-      "id": 5,
-      "model": "베르길리우스",
-      "content": "Miss Faust and I will converse with the person in charge. The rest of you, assess the situation in the meantime."
-    },
-    {
-      "id": 6,
-      "model": "베르길리우스",
-      "content": "Don't start any troub..."
-    },
-    {
-      "id": 7,
-      "model": "베르길리우스",
-      "content": "... Don't start too much trouble until we return."
-    },
-    {
-      "id": 8,
-      "model": "돈키호테",
-      "content": "Thou mayest place thy faith in us!"
-    },
-    {
-      "id": 9,
-      "content": "... He's given up on the slim hope that we won't be getting into any trouble without him."
-    },
-    {
-      "id": 10,
-      "model": "그레고르",
-      "content": "Well, let's see what we're working with here..."
-    },
-    {
-      "id": 11,
-      "content": "The empty lot was surrounded by all kinds of warning signs and perimeter tapes, deterring anyone from haphazardly wandering inside..."
-    },
-    {
-      "id": 12,
-      "content": "... And when we reached out to grab the tapes to duck under them..."
-    },
-    {
-      "id": 13,
-      "model": "휴고",
-      "teller": "???",
-      "title": "???",
-      "content": "Dude, hey! Dude!!!"
-    },
-    {
-      "id": 14,
-      "content": "... a voice rang out, stopping us in our tracks."
-    },
-    {
-      "id": 15,
-      "model": "싱클레어",
-      "content": "Yeah? ... I mean, what?"
-    },
-    {
-      "id": 16,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "Alright, I'll be nice since it doesn't seem like you guys know what you just walked into. This place is off-limits, okay? Off-limits!"
-    },
-    {
-      "id": 17,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "Fixers only, like me and the rest of the people gathered here, yeah? F-I-X-E-R-S. Civvies aren't allowed on the operation grounds! Jeez, these P Corp. folks sure are sloppy with their perimeter job."
-    },
-    {
-      "id": 18,
-      "model": "싱클레어",
-      "content": "Wait, why did you look at me when you said that? Why—"
-    },
-    {
-      "id": 19,
-      "model": "돈키호테",
-      "content": "Ooh, thou art concerned for our safety? No worries, good man! No worries!"
-    },
-    {
-      "id": 20,
-      "model": "돈키호테",
-      "content": "Fixers we may not be, but the daring heart of justice that burns within thee is just as bright in our own! Forsooth, we are prepared to brave death to see it!"
-    },
-    {
-      "id": 21,
-      "content": "Don Quixote confidently leaps over the warning tape and scampers into the empty lot."
-    },
-    {
-      "id": 22,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "H-hey...! Do you have any idea what you're walking into—"
-    },
-    {
-      "id": 23,
-      "model": "돈키호테",
-      "content": "Hark! We arrive here on a contract, just as you! The contract for the eradication of La Manchaland!"
-    },
-    {
-      "id": 24,
-      "model": "해결사들",
-      "teller": "Crowd of Fixers",
-      "title": "???",
-      "content": "……."
-    },
-    {
-      "id": 25,
-      "content": "I could practically hear everyone in the empty lot turning around to look at us."
-    },
-    {
-      "id": 26,
-      "content": "The looks on their eyes could hardly be described as friendly; in fact, their alarm at our arrival was palpable."
-    },
-    {
-      "id": 27,
-      "content": "That's when one of the Fixers, wielding a massive weapon, strode in our direction."
-    },
-    {
-      "id": 28,
-      "model": "혈귀사냥꾼",
-      "teller": "Intimidating Fixer",
-      "title": "???",
-      "content": "You're here for the hunt? You twerps?"
-    },
-    {
-      "id": 29,
-      "model": "휴고",
-      "teller": "Overdramatic Fixer",
-      "title": "???",
-      "content": "Uh... uhm... Oh, oh man! Silly me, I forgot to do maintenance for my weapons. I don't have time for this! I guess I'll, uh, go take care of that now! Bye!"
-    },
-    {
-      "id": 30,
-      "content": "The obnoxious guy, who was clearly way in over his head, hurried away when the giant of a Fixer stomped his way into the conversation..."
-    },
-    {
-      "id": 31,
-      "content": "... and the other Fixers shook their heads as though they knew what was about to happen."
-    },
-    {
-      "id": 32,
-      "model": "혈귀사냥꾼",
-      "teller": "Intimidating Fixer",
-      "title": "???",
-      "content": "You're clearly not Fixers from an Association, obviously not anyone from an Office of even passing renown..."
-    },
-    {
-      "id": 33,
-      "model": "혈귀사냥꾼",
-      "teller": "Intimidating Fixer",
-      "title": "???",
-      "content": "How many more of these small-time freeloaders are we going to take on? Accept any more of them, and we'd end up having to split an Ahn of that reward money between us."
-    },
-    {
-      "id": 34,
-      "model": "히스클리프",
-      "content": "... We're already gettin' these bloody tossers rearin' for a fight, eh?"
-    },
-    {
-      "id": 35,
-      "model": "돈키호테",
-      "content": "Emblems on their garbs patently say \"Fanghunt Office\", yet... to hunt fangs has to mean..."
-    },
-    {
-      "id": 36,
-      "model": "혈귀사냥꾼",
-      "teller": "Intimidating Fixer",
-      "content": "You even seen one of 'em in person before?"
-    },
-    {
-      "id": 37,
-      "model": "돈키호테",
-      "content": "Prithee, seen what?"
-    },
-    {
-      "id": 38,
-      "model": "혈귀사냥꾼",
-      "teller": "Intimidating Fixer",
-      "content": "Bloodfiends."
-    },
-    {
-      "id": 39,
-      "model": "이스마엘",
-      "content": "Bloodfiends? Wait, we're dealing with Bloodfiends in this contract?"
-    },
-    {
-      "id": 40,
-      "model": "뫼르소",
-      "content": "We were not informed of any Bloodfiend involvement in this contract."
-    },
-    {
-      "id": 41,
-      "model": "혈귀사냥꾼",
-      "teller": "Intimidating Fixer",
-      "content": "Would you look at that. Know-nothing amateurs, all of 'em."
-    },
-    {
-      "id": 42,
-      "model": "혈귀사냥꾼",
-      "teller": "Intimidating Fixer",
-      "content": "It makes my blood boil to watch idiots like you rushing to nab a contract just for the promise of some cash and fame. Not only do you get in the way of the hunt, but you also really spoil the fun out of this activity."
-    },
-    {
-      "id": 43,
-      "model": "로쟈",
-      "content": "Say, what? What's so wrong with keeping your eye on the money?"
-    },
-    {
-      "id": 44,
-      "model": "싱클레어",
-      "content": "Rodya, I don't think they're here just for the contract reward..."
-    },
-    {
-      "id": 45,
-      "model": "오티스",
-      "content": "Hm, yes. This case seems to hold a special meaning to them. Fools driven by their creed are much more troublesome to deal with than simpletons motivated by money."
-    },
-    {
-      "id": 46,
-      "model": "혈귀사냥꾼",
-      "content": "I refuse to take part in an operation alongside these idiots who don't even know what it's like to deal with Bloodfiends."
-    },
-    {
-      "id": 47,
-      "model": "료슈",
-      "content": "S.T.F.U."
-    },
-    {
-      "id": 48,
-      "model": "혈귀사냥꾼",
-      "content": "As much as I would like to avoid entertaining you amateurs, I'll admit that curiosity has gotten the better of me. What did she just say to me?"
-    },
-    {
-      "id": 49,
-      "model": "싱클레어",
-      "content": "Shut the fuck up, you arrogant son of—!"
-    },
-    {
-      "id": 50,
-      "model": "료슈",
-      "content": "... It was \"Shut that flaphole, ugly\"."
-    },
-    {
-      "id": 51,
-      "model": "싱클레어",
-      "content": "Oh...!"
-    },
-    {
-      "id": 52,
-      "model": "홍루",
-      "content": "Looks like you let a bit of your personal feelings bleed into that interpretation~"
-    },
-    {
-      "id": 53,
-      "model": "료슈",
-      "content": "But yours wasn't half bad. Heh."
-    },
-    {
-      "id": 54,
-      "model": "싱클레어",
-      "content": "A-anyways! This isn't our first Bloodfiend contract, you know? It may not be much, but we've dealt with them before! W-we don't deserve to get talked down to by you like that! Not one of us!"
-    },
-    {
-      "id": 55,
-      "model": "싱클레어",
-      "content": "……."
-    },
-    {
-      "id": 56,
-      "model": "싱클레어",
-      "content": "... At least when it comes to fighting..."
-    },
-    {
-      "id": 57,
-      "model": "로쟈",
-      "content": "Great comeback, but I'm docking a few points for that hesitation there..."
-    },
-    {
-      "id": 58,
-      "model": "혈귀사냥꾼",
-      "content": "So this ain't your first rodeo, eh? Then show me what you've got. Let's see if you're all talk or if you're 'real hunters' ready for the real deal."
-    },
-    {
-      "id": 59,
-      "model": "히스클리프",
-      "content": "Wha— Haah... Mate, are we really doin' this? Here? Before we even set foot in there? I'm tellin' you, we've got permits and everything!"
-    },
-    {
-      "id": 60,
-      "model": "혈귀사냥꾼",
-      "content": "Don't be a baby. I'll hurt you just enough to send you home crying. Will a broken arm and a leg convince you?"
-    },
-    {
-      "id": 61,
-      "model": "혈귀사냥꾼",
-      "content": "You'll thank us on your train home. I'd say an arm and a leg are much more acceptable losses than getting your blood brutally drained by a Bloodfiend."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phố Sau T.Đoàn P, Ngoài Lều Dã Chiến",
+                "content":"Theo chỉ dẫn của Cesara, chúng tôi đến một bãi đất trống ở Phố Sau.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"... Con cặc gì đây?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Phố Sau toàn hẻm nhỏ hẹp mà tao biết thì làm đéo gì mà có cái bãi đất trống bự tổ chảng như này hả?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Thiệt luôn ấy? Đúng là lạ thật, ở Phố Sau mà lại có chỗ vắng hoe tới vậy luôn.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Không hiểu tại sao, nhưng mà có một đống bảng quảng cáo treo ở mấy tòa nhà nữa.",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Cô Faust và ta sẽ đi nói chuyện với người phụ trách. Mấy cô cậu còn lại, đang rảnh thì đi lòng vòng khảo sát đi.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Đừng có đi gây ch...",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"... Đừng có đi gây quá nhiều chuyện trong lúc bọn ta đi vắng.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Ngài hãy cứ tin tưởng bọn ta!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"... Ông ấy đã vứt luôn cái hy vọng mong manh rằng chúng tôi sẽ không gặp chuyện khi vắng mặt ông rồi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Rồi, để xem bọn mình phải làm việc với ai nào...",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Bãi đất trống được vây kín bởi đủ loại biển cảnh báo và băng rào hiện trường, ngăn cấm bất cứ ai vô tình lạc vào trong...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"... Và khi chúng tôi chuẩn bị với tay bám lấy chỗ băng rào cảnh báo để chui qua chúng...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Này! Thằng kia! Mày đấy nhóc!!!",
+                "model":"휴고",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"... một giọng nói bỗng cất lên, cản chúng tôi lại.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Ờ... Sao vậy?",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Nghe rõ đây, lần này tao cảnh báo thôi vì rõ là bọn mày chưa hiểu chuyện. Đây là khu vực giới hạn, khu vực giới hạn đấy, thông cái tai chưa hả?!",
+                "model":"휴고",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Chỉ có Fixer nhá, như tao và mấy vị Fixer đáng kính tụ tập trong kia kìa mới được vào, hiểu chưa? F-I-X-E-R. Mấy thằng dân đen đếch được bước nửa ngón chân vô đây! Xời ạ, tổ sư cả lũ người bên Tập Đoàn P không thằng nào việc cho hẳn hoi được à.",
+                "model":"휴고",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Này, anh vừa nói mấy cái đó vừa nhìn tôi là sao hả? Tại sao—",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Ồồ, anh đang lo lắng cho an nguy của bọn ta sao? Không cần đâu, chàng trai đáng kính! Không cần đâu!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Bọn ta có thể không phải là Fixer, nhưng ngọn lửa công lý trong trái tim quả cảm của anh cũng bừng sáng như ngọn lửa bên trong bọn ta vậy! Quả thực vậy, bọn ta dám thách thức cả cái chết để đạt được công lý!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Don Quixote nhảy qua chỗ băng rào đầy tự tin và lướt nhanh vào trong bãi đất trống.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Ê-ê...! Con ranh kia! Mày biết mày đang chạy vào đâu không đấy—",
+                "model":"휴고",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Nghe đây! Bọn ta cũng có uỷ thác hệt như anh thôi! Uỷ thác nhổ cái gai La Manchaland tận gốc!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"…….",
+                "model":"해결사들",
+                "teller":"Đám Đông Fixer",
+                "title":"???"
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Tôi có thể nghe thấy tiếng tất cả mọi người trong bãi đất trống quay sang nhìn chúng tôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Ánh mắt của bọn họ không hề thân thiện chút nào; nói một cách chính xác hơn, sự xuất hiện của chúng tôi đã khiến họ cảnh giác cao độ.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Cùng lúc đó, một Fixer vác theo món vũ khí khổng lồ đang sải bước về hướng của chúng tôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Mấy thằng ranh tụi bây á? Đi săn cái gì cơ?",
+                "model":"혈귀사냥꾼",
+                "teller":"Fixer Hầm Hố",
+                "title":"???"
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"À... ờ thì... À, phải, phải rồi! Ôi cái đầu ngốc này, mình quên bén mất việc bảo trì vũ khí rồi. Mình không có thời gian cho mấy thứ tầm phào này! Nên chắc là, ờ, tôi phải đi bảo trì đây! Bai nhá!",
+                "model":"휴고",
+                "teller":"Fixer Huênh Hoang",
+                "title":"???"
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Cái gã đang tỏ vẻ tự mãn và hống hách ấy, nhanh chóng bỏ đi khi người Fixer cao lớn hơn chen ngang cuộc đối thoại...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"... rồi những Fixer khác cũng lắc đầu ngao ngán như thể biết chuyện gì sắp sửa xảy ra.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Lũ tụi mày rõ không phải là người của Hiệp Hội, cũng đách phải là người của Văn Phòng chính thức nào cả...",
+                "model":"혈귀사냥꾼",
+                "teller":"Fixer Hầm Hố",
+                "title":"???"
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Bọn đó tính thuê thêm bao nhiêu thằng rách việc nữa chứ hả? Cứ thêm một đứa là lại phải chia thêm một Ahn tiền thưởng.",
+                "model":"혈귀사냥꾼",
+                "teller":"Fixer Hầm Hố",
+                "title":"???"
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"... Giờ phải đánh nhau với mấy con chó ngu thích gây sự nữa hả?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Những chiếc huy hiệu trên áo họ có chữ 'Văn Phòng Săn Nanh', mà... săn nanh ở đây chỉ có thể là...",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Trong lũ tụi mày có thằng nào thấy quỷ bao giờ chưa?",
+                "model":"혈귀사냥꾼",
+                "teller":"Fixer Hầm Hố",
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Thưa ngài, thấy gì cơ?",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Huyết Quỷ.",
+                "model":"혈귀사냥꾼",
+                "teller":"Fixer Hầm Hố",
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Hả, Huyết Quỷ? Từ từ đã nào, hợp đồng lần này bắt ta đối phó với lũ Huyết Quỷ á?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Chúng tôi không hề nghe một thông báo nào về sự xuất hiện của Huyết Quỷ trong hợp đồng này.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Ôi mẹ nhìn coi kìa. Lại thêm lũ ranh với cái mặt đếch biết gì cả, lúc đéo nào cũng vậy.",
+                "model":"혈귀사냥꾼",
+                "teller":"Fixer Hầm Hố",
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"Má, cứ phải nhìn mặt bọn ngu lúc nào cũng hí ha hí hửng nhận bất cứ cái hợp đồng chó má nào miễn là được dăm ba đồng, bọn nó lúc đéo nào cũng phải phá bĩnh mọi chuyến đi săn, lúc nào có mặt bọn nó thì đéo vui cho nổi được.",
+                "model":"혈귀사냥꾼",
+                "teller":"Fixer Hầm Hố",
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Xàm ba láp gì thế? Bộ muốn tiền thưởng có gì là sai à?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Chị Rodya à, có khi họ không đến đây chỉ vì tiền thưởng đâu...",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Hừm, phải đấy. Xem ra vụ này có một ý nghĩa đặc biệt với chúng. Mấy tên đần cuồng tín còn phiền phức hơn nhiều so với tụi ngốc bị tiền dụ dỗ.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Tao từ chối hiểu và đếch muốn hợp tác với cái lũ còn đéo bao giờ phải thử một lần đụng độ với bọn Huyết Quỷ.",
+                "model":"혈귀사냥꾼",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"C.M.M.D.T.M.L.",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Đéo muốn dây dưa với lũ tay mơ bọn mày nhưng phải thừa nhận là tao hơi thắc mắc. Sủa, cái con mặt hăm kia vừa mới nói gì về tao cơ?",
+                "model":"혈귀사냥꾼",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Câm mẹ mồm đi, thằng mặt lồ—!",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"... Nó là \"Câm mỏ mày đi, thằng mặt lợn.\"",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"Ồ...!",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"Dịch thuật lần này hơi dính líu cảm xúc cá nhân rồi nhỉ~",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Nhưng của nhóc cũng ra gì đấy. Hề.",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Nh-Nhưng mà nói cho biết nhé! Đây cũng không phải lần đầu chúng tôi nhận hợp đồng đối phó với Huyết Quỷ đâu, dù đúng là chưa nhận được nhiều lắm thật... Kh-Không một ai trong số chúng tôi đáng bị các người coi thường cả!",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"…….",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"... Ít nhất là về mặt chiến đấu...",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"Nói hay lắm cưng, nhưng vẫn còn vài chỗ bị khựng nhé...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"Thế đây đéo phải là lần đầu à, hở? Thế múa vài đường xem nào. Để tao xem lũ bọn mày có phải là chó nhà hay chó săn đây.",
+                "model":"혈귀사냥꾼",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Cái— Haa... Này bồ tèo, thực sự động tay động chân hả? Thật đấy à? Ngay trước khi bước chân vào kia? Tao đã bảo là bọn tao có giấy phép đây này!",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"Mè nheo vừa thôi, bồ tèo. Tao sẽ nhẹ nhàng với lũ tụi mày mà. Đừng nói là lũ tụi mày chỉ bị gẫy vài cái xương là khóc lóc rồi đấy nhá?",
+                "model":"혈귀사냥꾼",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "content":"Tí nữa lũ tụi mày về nhà sẽ phải cảm tạ tao liền ấy mà. Gãy vài ba cái xương cũng đếch khổ bằng việc bị rút sạch máu bởi lũ Huyết Quỷ đâu, khuyên thật đấy.",
+                "model":"혈귀사냥꾼",
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

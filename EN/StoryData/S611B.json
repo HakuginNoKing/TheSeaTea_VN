@@ -1,660 +1,1022 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Hall",
-            "model": "히스클리프꾸밈",
-            "content": "……."
-        },
-        {
-            "id": 1,
-            "content": "Linton looked up at Heathcliff. His eyes were bloodshot."
-        },
-        {
-            "id": 2,
-            "model": "린튼",
-            "content": "As you said earlier... none of us are here to see each other's 'ugly mugs'. What other reason could we possibly have to reconvene like this?"
-        },
-        {
-            "id": 3,
-            "model": "히스클리프꾸밈",
-            "content": "……."
-        },
-        {
-            "id": 4,
-            "model": "히스클리프꾸밈",
-            "content": "That... can't be real. What kind of insane—"
-        },
-        {
-            "id": 5,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "Now."
-        },
-        {
-            "id": 6,
-            "content": "Fixers of the Öufi Association, who have remained silent throughout the entire commotion, suddenly spoke up."
-        },
-        {
-            "id": 7,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "The promised hour is come."
-        },
-        {
-            "id": 8,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "Mister Hindley Earnshaw, a blood-relative of the deceased."
-        },
-        {
-            "id": 9,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "Mister Linton Edgar, the spouse of the deceased."
-        },
-        {
-            "id": 10,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "And Mister Heathcliff, an individual mentioned by name in the will."
-        },
-        {
-            "id": 11,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "Now that the three relevant parties are all present, we, as the executors of the deceased's will, may begin the ceremony."
-        },
-        {
-            "id": 12,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "The first order of business will be the execution of Miss Catherine's will."
-        },
-        {
-            "id": 13,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "Thus commences this solemn occasion of Miss Catherine's funeral rites. As per the deceased's wishes, the will shall be read out aloud here, at Miss Catherine's manor, in attendance of all those present. Then—"
-        },
-        {
-            "id": 14,
-            "model": "히스클리프꾸밈",
-            "content": "No."
-        },
-        {
-            "id": 15,
-            "model": "히스클리프꾸밈",
-            "content": "You... stop. Shut up for a second."
-        },
-        {
-            "id": 16,
-            "model": "히스클리프꾸밈",
-            "content": "Whose funeral rites?"
-        },
-        {
-            "id": 17,
-            "model": "히스클리프꾸밈",
-            "content": "And..."
-        },
-        {
-            "id": 18,
-            "model": "히스클리프꾸밈",
-            "content": "What... what was that about her 'spouse'?"
-        },
-        {
-            "id": 19,
-            "content": "The man they called Linton rose from his seat for the first time since we arrived here."
-        },
-        {
-            "id": 20,
-            "model": "린튼",
-            "content": "After you abandoned this place with nary a word to her..."
-        },
-        {
-            "id": 21,
-            "model": "린튼",
-            "content": "... Catherine immediately turned to me."
-        },
-        {
-            "id": 22,
-            "model": "린튼",
-            "content": "Then we married. Every waking hour we spent together were filled with happiness and joy. We were happy to the very last day, to her very last breath..."
-        },
-        {
-            "id": 23,
-            "model": "히스클리프꾸밈",
-            "content": "Shut your stupid gob."
-        },
-        {
-            "id": 24,
-            "model": "히스클리프꾸밈",
-            "content": "The moment I set my foot in this manor..."
-        },
-        {
-            "id": 25,
-            "model": "히스클리프꾸밈",
-            "content": "... I heard her voice. I *felt* her presence. So what the bloody hell are you even talking about?!"
-        },
-        {
-            "id": 26,
-            "model": "히스클리프꾸밈",
-            "content": "This has to be some ploy. These fucking bastards, they must've... This... This can't..."
-        },
-        {
-            "id": 27,
-            "content": "Heathcliff paused for a moment, struggling to find the words."
-        },
-        {
-            "id": 28,
-            "model": "히스클리프꾸밈",
-            "content": "... This can't be how it ends."
-        },
-        {
-            "id": 29,
-            "model": "히스클리프꾸밈",
-            "content": "I won't believe a single shite coming out of your mouths until I see her body with my own eyes! Where is she?! Bring her here, now!"
-        },
-        {
-            "id": 30,
-            "model": "린튼",
-            "content": "What a repulsive sight. The least you could have done was to show some proper respect for the dead, but I suppose even the bare minimum was too much to expect from someone like— cough."
-        },
-        {
-            "id": 31,
-            "model": "넬리",
-            "content": "I understand how you feel, Heathcliff. So please, calm yourself and take a seat—"
-        },
-        {
-            "id": 32,
-            "model": "히스클리프꾸밈",
-            "content": "Get your hands off me! You can't just decide for me that she's dead! I won't accept any of this, not until I see Cathy with my own—"
-        },
-        {
-            "id": 33,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "Warning. Should this interruption to the will-reading continue, we may have to resort to use of force to ensure the full execution of this will."
-        },
-        {
-            "id": 34,
-            "model": "히스클리프꾸밈",
-            "content": "Shut up! You don't know shite, so shut your fucking mouth!"
-        },
-        {
-            "id": 35,
-            "content": "Heathcliff was gasping. The sheer momentousness of the emotion overwhelmed him; it looked as though he was about to lunge at anyone who even dared to get close."
-        },
-        {
-            "id": 36,
-            "content": "I could hardly tell whether it was sorrow or wrath that came over him."
-        },
-        {
-            "id": 37,
-            "model": "힌들리",
-            "content": "Ha! Ha! Heathcliff, why don't you go have a look in the mirror yourself? What a pathetic mess you've become."
-        },
-        {
-            "id": 38,
-            "model": "힌들리",
-            "content": "It doesn't matter what posh garb plebs like you wrap yourselves in; that filth from your low birth seeps right through the fabric at the slightest provocation!"
-        },
-        {
-            "id": 39,
-            "model": "힌들리",
-            "content": "You'll eventually see Catherine's corpse all right. It's all part of the funeral process, so don't be in such a hurry to get there. I can't wait to see how well she's resting after what she's done to me."
-        },
-        {
-            "id": 40,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "Mister Hindley Earnshaw. Mister Heathcliff. We order that both of you immediately return to your seats. This is your final warning."
-        },
-        {
-            "id": 41,
-            "model": "돈키호테",
-            "content": "Manager Esquire...! We must do aught anon...! Fixers of the Öufi Association may even execute those involved should there be a breach of contract!"
-        },
-        {
-            "id": 42,
-            "model": "돈키호테",
-            "content": "I ill wish to see Sir Heathcliff be executed, nor do I wish to have to battle the honorable Fixers of the Öufi Association..."
-        },
-        {
-            "id": 43,
-            "content": "I agree with Don Quixote. There is... no need for us to get involved in an unnecessary conflict, but..."
-        },
-        {
-            "id": 44,
-            "model": "단테",
-            "content": "<I don't think Heathcliff's going to listen to us...>"
-        },
-        {
-            "id": 45,
-            "content": "I don't even know if there's anyone who can talk Heathcliff down when he's that agitated."
-        },
-        {
-            "id": 46,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "You have refused to comply."
-        },
-        {
-            "id": 47,
-            "model": "히스클리프헝클어짐",
-            "content": "Kah, gahh..."
-        },
-        {
-            "id": 48,
-            "content": "We had no choice but to watch as Fixers of the Öufi Association struck Heathcliff with their weapons. He fell to his knees with a painful cry."
-        },
-        {
-            "id": 49,
-            "model": "료슈",
-            "content": "... Y.S."
-        },
-        {
-            "id": 50,
-            "model": "이상",
-            "content": "Do speak."
-        },
-        {
-            "id": 51,
-            "model": "료슈",
-            "content": "Not you."
-        },
-        {
-            "id": 52,
-            "model": "이상",
-            "content": "... Speak still, your intentions notwithstanding."
-        },
-        {
-            "id": 53,
-            "model": "료슈",
-            "content": "You, Stop. All of you. Something's off about this whole thing."
-        },
-        {
-            "id": 54,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "Would you like to speak for this individual?"
-        },
-        {
-            "id": 55,
-            "model": "그레고르",
-            "content": "... Was what she was going to say, but she decided to remain silent in favor of not getting in trouble, ha ha ha ha ha...\n... Right?"
-        },
-        {
-            "id": 56,
-            "model": "료슈",
-            "content": "Haah? What are you doing, B.G.?"
-        },
-        {
-            "id": 57,
-            "model": "그레고르",
-            "content": "Ryōshū, I understand that seeing our fellow Sinner get smacked around like that can be pretty aggravating, but…"
-        },
-        {
-            "id": 58,
-            "model": "그레고르",
-            "content": "... once you get involved, peace will simply no longer be an option..."
-        },
-        {
-            "id": 59,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 60,
-            "model": "단테",
-            "content": "<... Didn’t know you cared so much about Heathcliff, Ryōshū…>"
-        },
-        {
-            "id": 61,
-            "model": "료슈",
-            "content": "... N.C."
-        },
-        {
-            "id": 62,
-            "content": "Ryōshū flicked her cigarette indifferently as though she was no longer interested. No comment."
-        },
-        {
-            "id": 63,
-            "model": "히스클리프헝클어짐",
-            "content": "You... you bastards..."
-        },
-        {
-            "id": 64,
-            "model": "히스클리프헝클어짐",
-            "content": "Fine. Let's crack some skulls then, shall we?"
-        },
-        {
-            "id": 65,
-            "content": "Heathcliff stumbled to his feet with the club in his hand, glaring at everyone that stood before him."
-        },
-        {
-            "id": 66,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "I see that you are still refusing to comply, despite our initial attempt."
-        },
-        {
-            "id": 67,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "Should you refuse to let go of your weapon within the next minute, we will have no choice but to escalate to our next steps."
-        },
-        {
-            "id": 68,
-            "model": "히스클리프헝클어짐",
-            "content": "I couldn't care less about your 'steps'. Give me Catherine, or..."
-        },
-        {
-            "id": 69,
-            "model": "히스클리프헝클어짐",
-            "content": "... none of us are leaving this manor alive. You lot, me... we're all goin' six feet under."
-        },
-        {
-            "id": 70,
-            "model": "단테",
-            "content": "<Heathcliff!>"
-        },
-        {
-            "id": 71,
-            "model": "히스클리프헝클어짐",
-            "content": "SHUT IT, CLOCKHEAD! This ain't the time to bring up shite like the company rules. Stay out of my way."
-        },
-        {
-            "id": 72,
-            "model": "단테",
-            "content": "<Ah...>"
-        },
-        {
-            "id": 73,
-            "model": "싱클레어",
-            "content": "I... I don't have anything to say. If someone that important to me died... I'd be blinded and deafened to all reason, too..."
-        },
-        {
-            "id": 74,
-            "model": "로쟈",
-            "content": "Hey, Heath... I understand how angry and frustrated you must be. But you can't—"
-        },
-        {
-            "id": 75,
-            "model": "히스클리프헝클어짐",
-            "content": "Shut your trap! All of you, don't you dare touch me unless you want your faces caved in too..."
-        },
-        {
-            "id": 76,
-            "model": "넬리",
-            "content": "... It's nap time, Heathcliff."
-        },
-        {
-            "id": 77,
-            "model": "히스클리프헝클어짐",
-            "content": "Gah!"
-        },
-        {
-            "id": 78,
-            "model": "이스마엘",
-            "content": "Woah..."
-        },
-        {
-            "id": 79,
-            "model": "로쟈",
-            "content": "D-did she just knock him out cold with her bare hands?"
-        },
-        {
-            "id": 80,
-            "model": "로쟈",
-            "content": "And it wasn't even a punch! It was just a light tap...!"
-        },
-        {
-            "id": 81,
-            "model": "뫼르소",
-            "content": "His breathing is stable. It appears that she gave the nerve on the back of his head a precise, focused strike, which led to his loss of consciousness."
-        },
-        {
-            "id": 82,
-            "model": "홍루",
-            "content": "What a flawless execution of that move... I can certainly say that I've seen something like that before. Reminds me of my family's—"
-        },
-        {
-            "id": 83,
-            "model": "돈키호테",
-            "content": "S-Sir Heathcliff hath been defeated with a single fell strike..."
-        },
-        {
-            "id": 84,
-            "model": "넬리",
-            "content": "Every self-respecting Butler has to be equipped with one such move. What other choice have we got when the child fusses and fusses for twenty hours instead of going to sleep?"
-        },
-        {
-            "id": 85,
-            "model": "돈키호테",
-            "content": "F-forsooth, I can say with quite the confidence that I can immediately slumber to the dreamlands upon tucking myself in bed! F-for truth!"
-        },
-        {
-            "id": 86,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "Though it was not by his own volition, we have confirmed that he is no longer in possession of a weapon, and has been... subdued."
-        },
-        {
-            "id": 87,
-            "model": "외우피협회보스F",
-            "teller": "Öufi Assoc. Director",
-            "title": "Öufi Association",
-            "content": "We will allow for a ten-minute recess to let things calm down for a moment, then we will proceed as planned."
-        },
-        {
-            "id": 88,
-            "model": "싱클레어",
-            "content": "Um, excuse me, Lady Nelly...?"
-        },
-        {
-            "id": 89,
-            "model": "넬리",
-            "content": "Lady Nelly?! No need for such honorifics! Please, just call me Nelly~"
-        },
-        {
-            "id": 90,
-            "model": "싱클레어",
-            "content": "The contractors that Mister... Linton Edgar brought... they once worked at this manor, right?"
-        },
-        {
-            "id": 91,
-            "model": "넬리",
-            "content": "Yes, indeed. Some Butlers from the Earnshaws, like myself, followed Miss Catherine to Master Linton's. Of course, most of Master Linton's Butlers are from his own Edgar Family."
-        },
-        {
-            "id": 92,
-            "model": "싱클레어",
-            "content": "So... if he gives the order to... attack us, Lady Nelly would..."
-        },
-        {
-            "id": 93,
-            "model": "넬리",
-            "content": "Oh, pish posh! Ridiculous!"
-        },
-        {
-            "id": 94,
-            "model": "넬리",
-            "content": "I was a Butler in direct service of Miss Catherine."
-        },
-        {
-            "id": 95,
-            "model": "넬리",
-            "content": "Young Master Linton could plead and beg all he wants, but I won't always be taking his side."
-        },
-        {
-            "id": 96,
-            "model": "그레고르",
-            "content": "So, uh..."
-        },
-        {
-            "id": 97,
-            "model": "그레고르",
-            "content": "What exactly are the Butlers?"
-        },
-        {
-            "id": 98,
-            "model": "돈키호테",
-            "content": "Butlers? Forsooth, I am quite well-acquainted with this matter! They are—"
-        },
-        {
-            "id": 99,
-            "model": "료슈",
-            "content": "House dogs on tight leash, groveling before their masters."
-        },
-        {
-            "id": 100,
-            "model": "홍루",
-            "content": "The most trustworthy and loyal people I've ever known, I'd say."
-        },
-        {
-            "id": 101,
-            "model": "돈키호테",
-            "content": "—Fixers bound to families!"
-        },
-        {
-            "id": 102,
-            "model": "그레고르",
-            "content": "... Nice. Gotcha. Some great help you fellas are."
-        },
-        {
-            "id": 103,
-            "model": "단테",
-            "content": "<Well, I'm glad that I'm not the only one out of the loop for once.>"
-        },
-        {
-            "id": 104,
-            "model": "넬리",
-            "content": "At least some of you know who we Butlers are. It is a rather rare occupation, so not many people even know that we exist."
-        },
-        {
-            "id": 105,
-            "model": "로쟈",
-            "content": "Mm~ doesn't sound like most normal folk would have a reason to know anything about 'em."
-        },
-        {
-            "id": 106,
-            "model": "로쟈",
-            "content": "... Unless they're in a position where they have no choice but to work at the rich folks' homes."
-        },
-        {
-            "id": 107,
-            "model": "그레고르",
-            "content": "Well, one of us is quite... a passionate fan of Fixers."
-        },
-        {
-            "id": 108,
-            "model": "넬리",
-            "content": "Quite. Oh, I'm very pleased to know that our dear Heathcliff made some very intelligent friends!"
-        },
-        {
-            "id": 109,
-            "model": "돈키호테",
-            "content": "Lady Nelly...!"
-        },
-        {
-            "id": 110,
-            "model": "돈키호테",
-            "content": "I promise thee that, once I make my return to the bus, I shall have my hands on the Butler figurine I had given up on acquiring! It shall stand tall and proud on the front-most row of my display shelf...!"
-        },
-        {
-            "id": 111,
-            "content": "Don Quixote's eyes were practically exploding with joy at having her Fixer obsession positively acknowledged and accepted for once."
-        },
-        {
-            "id": 112,
-            "model": "돈키호테",
-            "content": "Allow me to explain! Butlers are Fixers, indeed; yet they are raaather distinct from most Fixers thou hast encountered thus far."
-        },
-        {
-            "id": 113,
-            "model": "돈키호테",
-            "content": "A 'Fixer' oft refers to those who accept contracts as a part of an Association or an Office! Alas, there exists a distinction when it comes to Butlers!"
-        },
-        {
-            "id": 114,
-            "model": "돈키호테",
-            "content": "Butlers join families or manors to serve them, and only them, on long-term contracts! Forsooth, like any other Fixers, Butlers may be hired by a single person to serve them and only them as well!"
-        },
-        {
-            "id": 115,
-            "model": "넬리",
-            "content": "Do note that our service is not limited to combat; we also conduct household management and care as well."
-        },
-        {
-            "id": 116,
-            "model": "넬리",
-            "content": "It must also be mentioned that proficiency in many fields is a necessity to be a respected Butler~ This is no easy occupation, mind you!"
-        },
-        {
-            "id": 117,
-            "model": "돈키호테",
-            "content": "Yet from what I have learned... to hire a Butler is to pay an inordinate amount of salary..."
-        },
-        {
-            "id": 118,
-            "model": "넬리",
-            "content": "Indeed. While Butlers are always oh-so busy, we are promised expensive compensation at every contract extension, with stable bonuses such as pensions."
-        },
-        {
-            "id": 119,
-            "model": "넬리",
-            "content": "Many famous Association Fixers also retire to serve as Butlers as well."
-        },
-        {
-            "id": 120,
-            "model": "넬리",
-            "content": "I was once a Butler in service of Miss Catherine's family, and was transferred to Master Linton Edgar's family to join their ranks when she married him."
-        },
-        {
-            "id": 121,
-            "model": "넬리",
-            "content": "Still, after a rather peaceful, mutual 'debate' we came to the conclusion that I would be assuming the position of the Chief Butler... leader of the Butlers in that household."
-        },
-        {
-            "id": 122,
-            "model": "그레고르",
-            "content": "Gotcha... totally peaceful. Mhm... I'm sure it really was one peaceful transfer of power."
-        },
-        {
-            "id": 123,
-            "model": "돈키호테",
-            "content": "Ooh... 'tis quite fascinating to imagine that even Sir Heathcliff once had been a tiny bairn... How was he as a youth?"
-        },
-        {
-            "id": 124,
-            "model": "넬리",
-            "content": "Mm, he was... quite the special child. I do not believe that I would have become a Chief Butler had it not been for him."
-        },
-        {
-            "id": 125,
-            "model": "넬리",
-            "content": "Oh, what a lovely boy he was~"
-        },
-        {
-            "id": 126,
-            "model": "돈키호테",
-            "content": "Umm... lovely... quite..."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Đại Sảnh Đồi Gió Hú",
+                "model":"히스클리프꾸밈",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":null,
+                "content":"Linton nhìn về phía Heathcliff bằng ánh mắt sắc như dao cạo.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"린튼",
+                "content":"Chẳng phải quá rõ rồi à... không ai lại tới đây chỉ để trưng ra cái \"bản mặt chó chết\" cho nhau nhìn cả. Cậu nghĩ toàn bộ mọi người tập hợp tại đây để làm gì chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Điều đó... không thể nào. Cái thứ điên khùng—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Bây giờ.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"Các Fixer của Liên Đoàn Öufi, những người đã giữ im lặng xuyên suốt cuộc gây gổ này, bỗng dưng cất lời.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Thời gian đã điểm.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Ngài Hindley Earnshaw, với danh nghĩa người thân máu mủ của người đã khuất.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Ngài Linton Edgar, với danh phận là chồng hợp pháp của người đã khuất.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Và Ngài Heathcliff, đối tượng được nhắc tới tên trong bản di chúc.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Ba người hiện diện giờ đã có mặt tại đây, chúng tôi, với tư cách thay mặt người đã khuất để thực hiện di chúc, sẽ bắt đầu buổi lễ.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Việc ưu tiên trước mắt là thực hiện nguyện vọng của Tiểu Thư Catherine.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Như vậy, buổi lễ trang trọng này đánh dấu sự khởi đầu của nghi thức tang lễ cho cô Catherine. Theo nguyện vọng của người quá cố, di chúc phải được đọc to tại dinh thự của Tiểu Thư Catherine, với sự có mặt của tất cả những người hiện diện. Tiếp đ—",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Mày... câm ngay. Dừng lại đó cho tao.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Nghi thức tang lễ của ai?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Và...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Cái... cái gì mà \"chồng hợp pháp\" của ẻm?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":null,
+                "content":"Suốt từ lúc chúng tôi đến đây tới giờ, người đàn ông mang tên Linton mới chịu đứng dậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"린튼",
+                "content":"Sau khi cậu rời bỏ cô ấy mà không thèm để lại một lời từ biệt...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"린튼",
+                "content":"... Catherine đã ngay lập tức chấp nhận tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"린튼",
+                "content":"Sau đó chúng tôi đã kết hôn với nhau. Dành cho nhau những giây phút mặn nồng nhất, chất chứa đầy niềm vui và hạnh phúc của cả hai. Tôi và cô ấy đã sống bên nhau trọn vẹn từng ngày, đến khi cô ấy trút đi hơi thở cuối cùng của mình...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Câm cái mỏ mày lại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Kể từ lúc tao đặt chân vào dinh thự này...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"... Tao đã nghe thấy giọng em ấy. Tao *cảm nhận* được sự hiện diện của em ấy. Vậy mày đang sủa cái đéo gì vậy hả?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Chắc chắn đây là một âm mưu. Lũ chó má này, chúng mày đã… Không… Không thể…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff ngừng lại một lúc, chật vật tìm từ để nói.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"... Không thể kết thúc như thế này được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Tao sẽ đéo tin bất cứ thứ gì phát ra từ mồm chúng mày cho tới khi tận mắt tao nhìn thấy xác em ấy! Em ấy đang ở đâu? Mau đưa ẻm ra đây!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"린튼",
+                "content":"Ghê tởm quá rồi đấy. Cậu không thể dành ra chút tôn trọng nào cho người đã khuất ư, thật đáng thất vọng khi phải trông mong thứ phép tắc như vậy từ một tên như—khụ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"넬리",
+                "content":"Heathcliff, làm ơn hãy bình tĩnh lại. Ta hiểu cho tâm trạng của con lúc này nên hã—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Buông tay ra khỏi người con! Cô không thể nào bảo con là em ấy đã chết! Con không chấp nhận chuyện này, chừng nào mà con còn chưa nhìn thấy Cathy bằng—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Tôi cảnh cáo cậu. Nếu hành động quấy rối việc thực thi nguyện vọng của người đã khuất còn tiếp tục, chúng tôi sẽ phải dùng tới vũ lực để cưỡng chế tiếp tục buổi lễ.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Câm mồm! Mày đéo biết con mẹ gì hết, ngậm cái mỏ mày lại!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff thở gấp. Cảm xúc dâng trào choán ngợp tâm trí anh, mãnh liệt tới mức nếu bất kỳ ai bén mảng lại gần, dù địch hay ta, cũng sẽ bị anh ấy tấn công ngay lập tức.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "content":"Là cơn thịnh nộ hay nỗi u sầu, tôi không dám chắc cảm xúc nào đã lấn át anh ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"힌들리",
+                "content":"Ha! Ha! Heathcliff, sao mày không tự nhìn vào gương đi? Xem mày đã trở thành cái mớ hỗn tạp gì đây này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"힌들리",
+                "content":"Bộ mày nghĩ khoác lên vài bộ phục trang màu mè là mày khác rồi à? Thằng rác rưởi như mày dù có xịt nước hoa cũng đéo thể nào át nổi cái mùi thấp kém nồng nặc đâu!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"힌들리",
+                "content":"Đằng nào thì mày cũng sẽ được tận mắt thấy thi hài của con nhỏ Catherine thôi. Đám tang mà, kiểu gì cũng tới đoạn đó nên khỏi phải vội. Dám cả gan đắc tội với tao, để tao chống mắt lên xem nó an nghỉ thế nào.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Ngài Hindley Earnshaw. Ngài Heathcliff. Tôi yêu cầu hai vị quay lại vị trí chỗ ngồi ngay lập tức. Đây là lời cảnh cáo cuối cùng.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ngài Quản Lý Thân Sĩ...! Ta khuyên ngài nên can thiệp ngay...! Các Fixer từ Liên Đoàn Öufi không ngần ngại xuống tay những ai vi phạm hợp đồng đâu!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ta không muốn phải nhìn Quý Ngài Heathcliff bị xử tử, hay phải đánh nhau với những Fixer từ Liên Đoàn Öufi đáng kính...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":null,
+                "content":"Tôi đồng tình với Don Quixote. Vướng mắc vào... những cuộc xung đột vô bổ này là không cần thiết , nhưng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"단테",
+                "content":"<Tôi không nghĩ Heathcliff sẽ nghe lời chúng ta nói đâu...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":null,
+                "content":"Bị kích động đến mức này thì tôi còn chẳng biết có ai trấn an Heathcliff nổi không nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Cậu đã từ chối hợp tác.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"Khặc, aaa...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":null,
+                "content":"Chúng tôi không còn lựa chọn nào ngoài việc nhìn các Fixer của Liên Đoàn Öufi đánh gục Heathcliff bằng vũ khí của họ. Anh ấy ngã khuỵu xuống cùng tiếng kêu đau đớn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"료슈",
+                "content":"... Y.S.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"이상",
+                "content":"Nói đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"료슈",
+                "content":"Không phải ngươi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"이상",
+                "content":"... Vẫn cứ nói đi, ý của cô không rõ lắm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"료슈",
+                "content":"Yên, Sự. Tất cả các người. Toàn bộ chuyện này có gì đó không đúng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Cô có gì muốn nói thay cho vị này sao?",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"그레고르",
+                "content":"... Cô ấy có chút điều muốn nói, nhưng mà sau khi suy nghĩ lại thì đã quyết định giữ yên lặng để không gây thêm rắc rối ấy mà, ha ha ha ha ha...\n... Phải không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"료슈",
+                "content":"Hửm? Ngươi đang cố làm gì đấy, B.G. ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"그레고르",
+                "content":"Ryōshū, tôi hiểu là việc nhìn thấy một Tội Nhân trong đoàn ta bị đánh túi bụi vậy có thể gây khó chịu, nhưng mà...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"그레고르",
+                "content":"... một khi cô đã can thiệp vào việc này rồi, thì ta sẽ không còn đường lui đâu...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"단테",
+                "content":"<…….>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"단테",
+                "content":"<... Không ngờ cô quan tâm đến Heathcliff nhiều như thế đấy, Ryoshu...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"료슈",
+                "content":"... M.M.B.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":null,
+                "content":"Ryoshu gạt điếu thuốc một cách thờ ơ như thể cô ấy không còn hứng thú nữa. Mệt miễn bàn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"Mày... cái đồ chó chết...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"Được thôi. Đập vài cái sọ nào, nghe được đó chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff khệnh khạng đứng dậy cùng cây gậy trong tay, lườm tất cả mọi người đứng trước mặt anh ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Tôi thấy cậu vẫn từ chối hợp tác và mặc kệ những nỗ lực ban đầu từ phía chúng tôi.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Nếu cậu không buông bỏ vũ khí vào giây phút tiếp theo, chúng tôi không còn lựa chọn nào khác ngoài việc sử dụng phương pháp tối ưu hơn.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"Tao đéo quan tâm \"phương pháp\" cái mẹ gì của chúng mày. Trả tao Catherine, bằng không...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"... đéo một ai trong chúng ta rời khỏi dinh thự này toàn mạng. Cả lũ chúng mày, tao... tất cả sẽ bị chôn vùi dưới sáu tấc đất.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"단테",
+                "content":"<Heathcliff!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"CÂM CÁI MỎ LẠI, ĐẦU ĐỒNG HỒ! Đây đéo phải lúc mày sủa vào mặt tao ba cái luật công ty công chó. Tránh đường cho tao.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"단테",
+                "content":"<Ặc...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi... Tôi không biết phải nói gì đây nữa. Nếu một người quan trọng với tôi đến thế ra đi ngay trước mặt... Tôi cũng sẽ trở nên mù quáng và bỏ ngoài tai hết mọi lý lẽ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"로쟈",
+                "content":"Này Heath... Tôi biết anh đang giận dỗi đến cỡ nào. Nhưng anh không thể—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"Mày cũng ngậm cái mỏ lại! Tất cả chúng mày, dám động vào tao xem thử cái mặt chúng mày còn y nguyên không...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"넬리",
+                "content":"... Hãy ngủ một giấc đi, Heathcliff.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"히스클리프헝클어짐",
+                "content":"Ặc!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Uầy...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"로쟈",
+                "content":"C-cô ta vừa làm ảnh ngất tại chỗ mà chỉ dùng tay không thôi hả?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"로쟈",
+                "content":"Chỉ cần chạm nhẹ thôi đấy! Không cần phải đấm luôn đó...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Hô hấp của cậu ta vẫn ổn định. Có vẻ như cô ấy đã tác động một lực vừa đủ và chính xác vào dây thần kinh ở phần gáy của cậu ấy, dẫn tới bất tỉnh tạm thời.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"홍루",
+                "content":"Một động tác thật hoàn hảo... Phải nói là ra đòn vô cùng thuần thục đấy nhỉ? Làm tôi nhớ tới ở nhà tôi cũng có...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Qu-Quý Ngài Heathcliff bị hạ gục chỉ bằng một đòn thôi sao...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"넬리",
+                "content":"Đã là một Quản Gia thực thụ thì ai cũng sẽ có một chiêu thức riêng như vậy thôi. Đâu còn cách nào khác khi đứa trẻ cứ quấy khóc suốt mười hai tiếng đồng hồ không chịu ngủ chứ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ph-Phải rồi, ta tự tin bản thân mình chỉ cần đặt đầu lên gối thôi là có thể đánh ngựa tới thế giới mộng mơ liền! Th-Thề luôn!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Xét về tình hình hiện tại, chúng tôi xác nhận rằng cậu ấy đã buông bỏ vũ khí và hoàn toàn... khuất phục.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"외우피협회보스F",
+                "content":"Chúng tôi cho phép mười phút tạm hoãn để mọi chuyện lắng xuống, sau đó buổi lễ sẽ được phép tiếp diễn.",
+                "teller":"Giám Đốc Liên Đoàn Oufi",
+                "title":"Liên Đoàn Öufi"
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ừm, thưa Cô Nelly...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"넬리",
+                "content":"Thưa Cô Nelly sao?! Không cần phải câu nệ vậy đâu! Cứ thoải mái gọi ta Nelly là được~",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Những người làm thuê mà ngài... Linton mang đến... họ từng làm việc cho dinh thự này, phải không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"넬리",
+                "content":"Đúng là như vậy. Một số Quản Gia là từ Nhà Earnshaws, như ta đây chẳng hạn, sẽ đi theo phục vụ Tiểu Thư Catherine tại dinh thự của Cậu Chủ Linton. Dĩ nhiên là hầu hết các Quản Gia bên cạnh Cậu Chủ Linton cũng đến từ chính Nhà Edgar.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Vậy... nếu người đó ra lệnh tấn công chúng tôi, Cô Nelly cũng sẽ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"넬리",
+                "content":"Ôi trời, nực cười quá đấy! Không có chuyện đó đâu!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"넬리",
+                "content":"Ta vốn là Quản Gia phục vụ cho Tiểu Thư Catherine mà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"넬리",
+                "content":"Dù Cậu Chủ Linton có nài nỉ hay van xin đi nữa thì ta cũng sẽ không bao giờ đứng về phía ngài ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":"그레고르",
+                "content":"Vậy thì, ờm...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chính xác thì Quản Gia là nghề gì vậy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Quản Gia ư? Phải rồi, gì chứ ta đây thì còn xa lạ gì với những thứ này nữa! Họ là...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":"료슈",
+                "content":"Mấy con chó rách bị xích lại, biết mỗi hai việc: vẫy đuôi và quỳ lạy trước chủ nhân của chúng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":"홍루",
+                "content":"Có thể nói là những người trung thành và đáng tin cậy nhất mà tôi từng biết ấy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Những Fixer thuộc về một gia tộc!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":"그레고르",
+                "content":"... Hay thật. Tôi hiểu luôn rồi. Mấy người giải thích rõ ràng ghê luôn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":"단테",
+                "content":"<À thì, mừng là tôi không phải người duy nhất chẳng biết gì hết.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":"넬리",
+                "content":"Không phải ai cũng biết nghề Quản Gia là gì đâu, thậm chí nhiều khi người ta còn chẳng biết chúng tôi có tồn tại. Thật may khi các vị hiểu biết nhiều đến vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ừm~ Dân đen chẳng có lý do gì phải tìm hiểu về họ cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"로쟈",
+                "content":"... Trừ khi họ gặp tình huống éo le tới mức không còn lựa chọn nào khác ngoài việc đi hầu bọn nhà giàu kia.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chuyện là, có một người trong đoàn chúng tôi khá... hâm mộ các Fixer.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":"넬리",
+                "content":"Khá à. Coi bộ thằng nhóc Heathcliff nhà ta có một vài người bạn trông lanh lợi làm sao!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Quý cô Nelly...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ta thề với nàng, một khi đoàn ta trở lại xe buýt, đích thân ta sẽ đi thu thập những mô hình Quản Gia mà ta bỏ lỡ! Chính chúng sẽ đứng vững đầy tự hào trên kệ trưng bày của ta...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":null,
+                "content":"Mãi mới có người hưởng ứng niềm đam mê cuồng nhiệt về Fixer, hai mắt của Don Quixote sáng rực lên như thể sắp hóa thành sao trên trời tới nơi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":112,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Cho phép ta được trình diễn sân khấu này! Đúng, là Quản Gia cũng là Fixer, nhưng, họ khác hơơơi bị nhiều nếu so với những Fixer mà chúng ta đã gặp đó nha.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":113,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Bởi dĩ, từ \"Fixer\" thường ám chỉ những người làm theo hợp đồng của một Văn Phòng hay một Liên Đoàn vậy!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":114,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Các Quản Gia sẽ chỉ phục vụ cho các gia tộc và trong các dinh thự thôi, mà còn là những hợp đồng dài hạn nữa! Chính vì lẽ đó, một người có thể thuê thật nhiều Quản Gia chỉ để phục vụ riêng mình, tương tự như việc thuê Fixer vậy!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":115,
+                "place":null,
+                "model":"넬리",
+                "content":"Và nên nhớ rằng không chỉ giỏi chuyện chiến đấu thôi đâu, các Quản Gia còn phải quán xuyến việc nhà, chăm lo cho gia chủ nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":116,
+                "place":null,
+                "model":"넬리",
+                "content":"Gọn gàng, ngăn nắp, sạch sẽ luôn là tôn chỉ mà các Quản Gia như ta đây luôn lấy làm tự hào~ Nhưng nói thế không có nghĩa công việc sẽ nhẹ nhàng đâu đấy!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":117,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Thế nhưng mà, ta có nghe nhiều người nói... thuê Quản Gia cũng phải tốn cả bộn tiền nữa...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":118,
+                "place":null,
+                "model":"넬리",
+                "content":"Tất nhiên là vậy rồi. Chính vì các Quản Gia lúc nào cũng bận bịu đầu tắt mặt tối, nên mỗi lần gia hạn hợp đồng luôn phải kèm theo phí bồi thường, kèm tiền thưởng định kỳ nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":119,
+                "place":null,
+                "model":"넬리",
+                "content":"Mọi người có lẽ chưa biết, nhiều Fixer kỳ cựu từ các Liên Đoàn sau khi giải nghệ cũng chọn trở thành Quản Gia đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":120,
+                "place":null,
+                "model":"넬리",
+                "content":"Ta từng phục vụ gia đình Tiểu Thư Catherine. Sau khi cô ấy xuất giá thì ta đã chuyển sang hàng ngũ Quản Gia của Nhà Edgar.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":121,
+                "place":null,
+                "model":"넬리",
+                "content":"Và rồi, sau một buổi “tranh luận” đầy ôn hòa để chọn ra người kế vị chức Quản Gia Trưởng, ta đây… đã chứng tỏ mình là kẻ xứng đáng hơn cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":122,
+                "place":null,
+                "model":"그레고르",
+                "content":"Ra là vậy... rất là ôn hòa. Ừm hứm... Khá là chắc kèo rằng cuộc chuyển giao quyền lực diễn ra rất suôn sẻ ha.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":123,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ồ hôô... Giờ nghĩ lại, thật khó mà tưởng tượng tuổi thơ của Quý Ngài Heathcliff đây ra sao... Quý cô hãy kể ta xem, khi còn thơ ấu cậu ấy là một đứa trẻ như thế nào?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":124,
+                "place":null,
+                "model":"넬리",
+                "content":"Nói thế nào nhỉ, nhóc Heathcliff... khá là đặc biệt. Ta trở thành Quản Gia Trưởng được như ngày hôm nay cũng là nhờ nhóc ấy đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":125,
+                "place":null,
+                "model":"넬리",
+                "content":"Ôi, thằng nhóc lúc đó cưng chết đi được luôn~",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":126,
+                "place":null,
+                "model":"돈키호테",
+                "content":"À- Ồ- À ờm... cưng... phải rồi...",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

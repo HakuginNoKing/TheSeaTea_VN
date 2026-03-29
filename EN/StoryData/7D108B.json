@@ -1,689 +1,1062 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "model": "산초",
-      "content": "As we created La Manchaland, Father told us that numerous rules would only shackle us. He gave us freedom to enjoy it in any way we wanted."
-    },
-    {
-      "id": 1,
-      "model": "산초",
-      "content": "However, there was a singular rule he would never forgive us for breaking."
-    },
-    {
-      "id": 2,
-      "model": "산초",
-      "content": "That we mustn't hurt humans."
-    },
-    {
-      "id": 3,
-      "model": "산초",
-      "content": "Hemobars can sate our hunger."
-    },
-    {
-      "id": 4,
-      "model": "산초",
-      "content": "We can coexist with humans."
-    },
-    {
-      "id": 5,
-      "model": "산초",
-      "content": "So stay strong through this period of hardship."
-    },
-    {
-      "id": 6,
-      "model": "산초",
-      "content": "We shan't give up. We cannot give up."
-    },
-    {
-      "id": 7,
-      "place": "Shepherds' Village, Past",
-      "model": "키호테",
-      "content": "No Syndicate shall ever dare invade thy village again after my demonstration of might. Haven't I declared it upon mine arrival that no task is beyond us?"
-    },
-    {
-      "id": 8,
-      "model": "마을주민1",
-      "teller": "Townsfolk",
-      "title": "Shepherds' Ranch",
-      "content": "And you weren't kidding! Thank you so much, Don Quixote and Sancho."
-    },
-    {
-      "id": 9,
-      "model": "마을주민1",
-      "teller": "Townsfolk",
-      "title": "Shepherds' Ranch",
-      "content": "But, um... how could we repay you...? We don't have much money..."
-    },
-    {
-      "id": 10,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "Your running shoes look like they could fetch a nice price..."
-    },
-    {
-      "id": 11,
-      "model": "키호테",
-      "content": "Fie on thee! A Fixer doth not dole out justice based on promise of capital."
-    },
-    {
-      "id": 12,
-      "model": "키호테",
-      "content": "Still, if thou truly wishest to help, then... wouldst thou behold this flyer? Prithee, spread the word, invite thy fellows and families to this place."
-    },
-    {
-      "id": 13,
-      "model": "키호테",
-      "content": "My most loyal squire, Sancho, shall present thee a better explanation."
-    },
-    {
-      "id": 14,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "……."
-    },
-    {
-      "id": 15,
-      "model": "키호테",
-      "content": "Ahem, khm..."
-    },
-    {
-      "id": 16,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "……."
-    },
-    {
-      "id": 17,
-      "model": "키호테",
-      "content": "Don't just stand there, Sancho. Say something."
-    },
-    {
-      "id": 18,
-      "model": "키호테",
-      "content": "You are supposed to be... my loyal assistant of sorts here."
-    },
-    {
-      "id": 19,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "I... refuse to speak in that manner."
-    },
-    {
-      "id": 20,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "It's ridiculously juvenile."
-    },
-    {
-      "id": 21,
-      "model": "키호테",
-      "content": "It is that very ridiculous juvenility that adds color to life, Sancho."
-    },
-    {
-      "id": 22,
-      "model": "키호테",
-      "content": "Besides, how else will humans truly see us as just and valorous Fixers otherwise?"
-    },
-    {
-      "id": 23,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "It still eludes me how this embarrassing manner of speech has anything to do with being a Fixer."
-    },
-    {
-      "id": 24,
-      "model": "키호테",
-      "content": "Right, right. Let us try this again. Yes?"
-    },
-    {
-      "id": 25,
-      "model": "키호테",
-      "content": "Hearken to me, Sancho! My loyal squire!"
-    },
-    {
-      "id": 26,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "... Haaaah..."
-    },
-    {
-      "id": 27,
-      "model": "키호테",
-      "content": "Hark, San—"
-    },
-    {
-      "id": 28,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "V-verily!"
-    },
-    {
-      "id": 29,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "Thou mustn't relent, no... matter the hardship."
-    },
-    {
-      "id": 30,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "Slow not thy running pace until thou arrivest at thy destination; though hidden it may seem, perseverence shall see thee through."
-    },
-    {
-      "id": 31,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "Through to t-the L-la... La Manchaland of... uh, dr-dreams... and... hopes..."
-    },
-    {
-      "id": 32,
-      "model": "이발사하편",
-      "content": "However... O venerated ancestor, the First Kindred, our Father Don Quixote..."
-    },
-    {
-      "id": 33,
-      "place": "Fathoms of Ego - Maze",
-      "model": "이발사다침2",
-      "content": "I'm sorry. We couldn't possibly live up to those knights in your tales... haha... ha... ha...!"
-    },
-    {
-      "id": 34,
-      "model": "산초",
-      "content": "Nicolina, the Barber..."
-    },
-    {
-      "id": 35,
-      "model": "이발사다침2",
-      "content": "When Father's eyes lingered on us, he wasn't really looking at us. He gazed beyond where we stood, to the faraway lands..."
-    },
-    {
-      "id": 36,
-      "model": "이발사다침2",
-      "content": "So... so... we told him to go on an adventure he so wished to embark on."
-    },
-    {
-      "id": 37,
-      "model": "산초",
-      "content": "We're supposed to love him. More so than anyone."
-    },
-    {
-      "id": 38,
-      "model": "이발사다침2",
-      "content": "I know! I loved him, too! I looked up to him, I praised him, I spoke of his greatness between my every breath!"
-    },
-    {
-      "id": 39,
-      "model": "이발사다침2",
-      "content": "Do you think you're his only Child? I am too! We are! We all are of his noble bloodline!"
-    },
-    {
-      "id": 40,
-      "model": "산초",
-      "content": "What you've done... is filial impiety."
-    },
-    {
-      "id": 41,
-      "model": "산초",
-      "content": "We smelled the carnage upon our return to La Manchaland once our adventure was over."
-    },
-    {
-      "id": 42,
-      "model": "이발사다침2",
-      "content": "Yes... Burning with wrath, he descended upon La Manchaland amidst its festival to deliver swift retribution for our transgressions."
-    },
-    {
-      "id": 43,
-      "model": "이발사다침2",
-      "content": "Haha... haha...! But it was so much fun. That sense of satisfaction, that fullness..."
-    },
-    {
-      "id": 44,
-      "model": "이발사다침2",
-      "content": "Father did not find it within himself to forgive us. But we were prepared for that! That was exactly why we told him of the Relic's whereabouts after all."
-    },
-    {
-      "id": 45,
-      "place": "The Cave, Past",
-      "model": "키호테",
-      "content": "Behold, Sancho."
-    },
-    {
-      "id": 46,
-      "model": "키호테",
-      "content": "The legendary Relic, Helmet of Mambrino we had so fervently sought is before us. We have the Barber, the Priest, and Dulcinea to thank for telling us of its whereabouts."
-    },
-    {
-      "id": 47,
-      "model": "키호테",
-      "content": "But why..."
-    },
-    {
-      "id": 48,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "What is it?"
-    },
-    {
-      "id": 49,
-      "model": "키호테",
-      "content": "... It's nothing."
-    },
-    {
-      "id": 50,
-      "model": "키호테",
-      "content": "What is with that expression, Sancho? Is the ending of our adventure so truly disheartening?"
-    },
-    {
-      "id": 51,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "I must wonder how... our Family at La Manchaland fares."
-    },
-    {
-      "id": 52,
-      "model": "키호테",
-      "content": "They must be faring quite well. They are kinder, gentler souls than most."
-    },
-    {
-      "id": 53,
-      "model": "키호테",
-      "content": "Let us hurry back. Bari must be waiting for our arrival. She has always been a step ahead of us."
-    },
-    {
-      "id": 54,
-      "place": "Fathoms of Ego - Maze",
-      "model": "이발사다침2",
-      "content": "Ah, Sancho... you would have understood had you been here with us."
-    },
-    {
-      "id": 55,
-      "model": "이발사다침2",
-      "content": "The blissful, nearly ecstatic taste of human blood after such a long drought. Its flavor was madness."
-    },
-    {
-      "id": 56,
-      "model": "산초",
-      "content": "No, that was a horrible sight."
-    },
-    {
-      "id": 57,
-      "model": "이발사다침2",
-      "content": "How odd, though."
-    },
-    {
-      "id": 58,
-      "model": "이발사다침2",
-      "content": "That you, who was our Father's most loyal Child... was the first to flee."
-    },
-    {
-      "id": 59,
-      "model": "산초",
-      "content": "……."
-    },
-    {
-      "id": 60,
-      "model": "산초",
-      "content": "I did not flee."
-    },
-    {
-      "id": 61,
-      "model": "산초",
-      "content": "He forced Rocinante on my feet, and..."
-    },
-    {
-      "id": 62,
-      "place": "La Manchaland, Past",
-      "model": "키호테",
-      "content": "... Do you understand? You must continue the adventure in my stead."
-    },
-    {
-      "id": 63,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "N-no..."
-    },
-    {
-      "id": 64,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "Let me fight with you. I will fight by your side, even if—"
-    },
-    {
-      "id": 65,
-      "model": "키호테",
-      "content": "Follow Bari. She will lead you away from here."
-    },
-    {
-      "id": 66,
-      "model": "옛산초",
-      "content": "Rocinante, stop! Stop walking, NO!!!"
-    },
-    {
-      "id": 67,
-      "model": "옛산초",
-      "content": "I don't want to leave, I don't! Why do you refuse to obey me...?"
-    },
-    {
-      "id": 68,
-      "model": "옛산초",
-      "content": "Please, please! I don't want an adventure, stop! Please!"
-    },
-    {
-      "id": 69,
-      "model": "옛산초",
-      "content": "Please, Rocinante..."
-    },
-    {
-      "id": 70,
-      "model": "옛산초",
-      "content": "Don't take me away from here..."
-    },
-    {
-      "id": 71,
-      "place": "Fathoms of Ego - Maze",
-      "model": "이발사다침2",
-      "content": "Ha ha... so <i>that's</i> what happened! That is why our Father was so weakened, why we could not see even a trace of you anywhere within La Manchaland when the dust settled."
-    },
-    {
-      "id": 72,
-      "model": "이발사다침2",
-      "content": "Always stuck to him like glue, glaring at us with that haughty, condescending look whenever we approached..."
-    },
-    {
-      "id": 73,
-      "model": "산초",
-      "content": "I... never thought to condescend you."
-    },
-    {
-      "id": 74,
-      "model": "이발사다침2",
-      "content": "Lies! You never wore the clothes I'd made for you..."
-    },
-    {
-      "id": 75,
-      "model": "산초",
-      "content": "......"
-    },
-    {
-      "id": 76,
-      "model": "이발사다침2",
-      "content": "What... why are you looking at me like that?"
-    },
-    {
-      "id": 77,
-      "model": "이발사다침2",
-      "content": "It's disgusting, isn't it? We've become so hideous, haven't we?"
-    },
-    {
-      "id": 78,
-      "model": "산초",
-      "content": "The masks sewn onto every Bloodfiend's face here..."
-    },
-    {
-      "id": 79,
-      "model": "산초",
-      "content": "Was it your doing?"
-    },
-    {
-      "id": 80,
-      "model": "이발사다침2",
-      "content": "Hahahaha! Of course it was!"
-    },
-    {
-      "id": 81,
-      "model": "이발사다침2",
-      "content": "Who else among us could manage such intricate needlework?"
-    },
-    {
-      "id": 82,
-      "model": "이발사다침2",
-      "content": "I sewed the masks onto their faces, needle by needle! So they can be happier! So they can be more flamboyant!"
-    },
-    {
-      "id": 83,
-      "model": "이발사다침2",
-      "content": "So they will never... have to take them off again..."
-    },
-    {
-      "id": 84,
-      "model": "산초",
-      "content": "What I want to know..."
-    },
-    {
-      "id": 85,
-      "model": "산초",
-      "content": "... is what happened here at La Manchaland during my two hundred years of absence."
-    },
-    {
-      "id": 86,
-      "model": "산초",
-      "content": "What we found at the end of our adventure was no Relic of legends... it was a cursed Relic."
-    },
-    {
-      "id": 87,
-      "model": "산초",
-      "content": "That must have been your plan all along."
-    },
-    {
-      "id": 88,
-      "model": "산초",
-      "content": "Because defying our Father is so... terrifying and so <i>unnatural</i> to us..."
-    },
-    {
-      "id": 89,
-      "model": "산초",
-      "content": "You needed him to be gone for a while. To suppress that natural revulsion."
-    },
-    {
-      "id": 90,
-      "model": "산초",
-      "content": "Was that the only way you could scrounge up the courage to rebel against him?"
-    },
-    {
-      "id": 91,
-      "model": "이발사다침2",
-      "content": "How long..."
-    },
-    {
-      "id": 92,
-      "model": "이발사다침2",
-      "content": "... did you seriously think La Manchaland had left?"
-    },
-    {
-      "id": 93,
-      "model": "이발사다침2",
-      "content": "Rebellion...? Defiance...? It wasn't something so simple."
-    },
-    {
-      "id": 94,
-      "model": "이발사다침2",
-      "content": "While you were daydreaming, prancing around with that Knight of the White Moon..."
-    },
-    {
-      "id": 95,
-      "model": "이발사다침2",
-      "content": "...we were dying a slow, painful, unbearable death."
-    },
-    {
-      "id": 96,
-      "model": "이발사다침2",
-      "content": "'Oh no, a Bloodfiend doesn't die so easily,' he would say."
-    },
-    {
-      "id": 97,
-      "model": "이발사다침2",
-      "content": "No, we don't. But that existence was no different from death!"
-    },
-    {
-      "id": 98,
-      "model": "이발사다침2",
-      "content": "There is no meaning to life without human blood! Nothing!"
-    },
-    {
-      "id": 99,
-      "model": "이발사다침2",
-      "content": "No tomorrow to look forward to, nothing to spark our happiness."
-    },
-    {
-      "id": 100,
-      "model": "이발사다침2",
-      "content": "Still, we had to laugh! Because we were bound to love our Father!"
-    },
-    {
-      "id": 101,
-      "model": "이발사다침2",
-      "content": "For two hundred years we laughed and laughed!!!"
-    },
-    {
-      "id": 102,
-      "model": "이발사다침2",
-      "content": "When all... when... when all I ever wanted was to live as a Bloodfiend should!"
-    },
-    {
-      "id": 103,
-      "model": "돌시네아다침",
-      "content": "... Enough."
-    },
-    {
-      "id": 104,
-      "model": "돌시네아다침",
-      "content": "She won't ever understand us."
-    },
-    {
-      "id": 105,
-      "model": "돌시네아다침",
-      "content": "Besides, our Father has finally woken up from his delusions and came to his senses."
-    },
-    {
-      "id": 106,
-      "model": "산초",
-      "content": "……."
-    },
-    {
-      "id": 107,
-      "model": "돌시네아다침",
-      "content": "Clearly, from that look on your face..."
-    },
-    {
-      "id": 108,
-      "model": "돌시네아다침",
-      "content": "Your adventure wasn't very fulfilling, was it?"
-    },
-    {
-      "id": 109,
-      "model": "돌시네아다침",
-      "content": "I almost prefer that naive look from earlier."
-    },
-    {
-      "id": 110,
-      "model": "돌시네아다침",
-      "content": "I still hated your eyes, twinkling or not, but..."
-    },
-    {
-      "id": 111,
-      "model": "돌시네아다침",
-      "content": "At least they were bearable to look at."
-    },
-    {
-      "id": 112,
-      "model": "산초",
-      "content": "What do you mean... our Father woke up from his delusions?"
-    },
-    {
-      "id": 113,
-      "model": "돌시네아다침",
-      "content": "When you embarked on your long-awaited journey of dreams, astride Rocinante..."
-    },
-    {
-      "id": 114,
-      "model": "돌시네아다침",
-      "content": "... we remained trapped in here with Father."
-    },
-    {
-      "id": 115,
-      "model": "돌시네아다침",
-      "content": "Of course, he was furious with us, who failed to see as he did..."
-    },
-    {
-      "id": 116,
-      "model": "산초",
-      "content": "... Thus he sealed La Manchaland away."
-    },
-    {
-      "id": 117,
-      "model": "신부다침2",
-      "content": "And nothing but two-hundred years of darkness remained."
-    },
-    {
-      "id": 118,
-      "model": "신부다침2",
-      "content": "Even as we used the powers of the Relic to pervert our natural law, to suppress our taboo..."
-    },
-    {
-      "id": 119,
-      "model": "신부다침2",
-      "content": "... you will never understand our pain of having to stake our own Father's chest."
-    },
-    {
-      "id": 120,
-      "model": "이발사다침2",
-      "content": "Do you remember? The Priest, that fool, tried to kill himself! Hahaha!"
-    },
-    {
-      "id": 121,
-      "model": "이발사다침2",
-      "content": "Tears streaming down his face, bawling... you have no idea how funny that was!"
-    },
-    {
-      "id": 122,
-      "model": "신부다침2",
-      "content": "A punishment we deserved."
-    },
-    {
-      "id": 123,
-      "model": "신부다침2",
-      "content": "We have not only gone against our Father's wishes, but also committed the capital sin of bringing him harm."
-    },
-    {
-      "id": 124,
-      "model": "이발사다침2",
-      "content": "Were we... really that wrong?"
-    },
-    {
-      "id": 125,
-      "model": "이발사다침2",
-      "content": "For two hundred years, sealed within La Manchaland... we had nothing..."
-    },
-    {
-      "id": 126,
-      "model": "이발사다침2",
-      "content": "Bloodfiends resorted to digging through dirt for rotting beast carcasses..."
-    },
-    {
-      "id": 127,
-      "model": "이발사다침2",
-      "content": "I was trapped in here with nothing but their anguished cries, seeking death over this torturous existence..."
-    },
-    {
-      "id": 128,
-      "model": "이발사다침2",
-      "content": "From cries, to mad laughter, to despondent wailing... hahahahahaha!"
-    },
-    {
-      "id": 129,
-      "model": "산초",
-      "content": "Get out of my way."
-    },
-    {
-      "id": 130,
-      "model": "산초",
-      "content": "I must talk to him myself."
-    },
-    {
-      "id": 131,
-      "model": "이발사다침2",
-      "content": "You? You, who abandoned us and fled with Rocinante? Now you wish to talk to him?"
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "model":"산초",
+                "content":"Lúc tạo nên La Manchaland, Cha nói rằng luật lệ sẽ chỉ kiềm hãm bọn ta thôi. Người cho chúng ta thoải mái tận hưởng nơi này.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "model":"산초",
+                "content":"Tuy nhiên, có một luật duy nhất mà người sẽ không dung thứ nếu dám phá luật.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "model":"산초",
+                "content":"Chúng ta không được phép làm hại con người.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "model":"산초",
+                "content":"Chỉ cần có bánh huyết là không lo chết đói.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "model":"산초",
+                "content":"Chúng ta có thể chung sống với con người.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "model":"산초",
+                "content":"Vậy nên hãy kiên cường vượt qua khó khăn này.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "model":"산초",
+                "content":"Chúng ta sẽ không bao giờ bỏ cuộc. Chúng ta không thể bỏ cuộc.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "model":"키호테",
+                "content":"Qua màn phô trương tài lực của ta, từ giờ ngôi làng của các ngươi sẽ vắng bóng Băng Đảng. Chẳng phải ta nói khi vừa đặt chân tới đây rồi sao? Không trở ngại nào có thể ngăn cản hai ta!",
+                "place":"Làng Chăn Cừu, Quá khứ",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "model":"마을주민1",
+                "content":"Và đúng là ngài không nói đùa chút nào! Cảm ơn ngài rất nhiều, hỡi Don Quixote và Sancho thân mến.",
+                "place":null,
+                "teller":"Townsfolk",
+                "title":"Trang Trại Chăn Cừu"
+            },
+            {
+                "id":9,
+                "model":"마을주민1",
+                "content":"Nhưng, ừm... làm sao kẻ hòn mọn này có thể trả ơn ngài đây...? Chúng tôi quả thực nghèo khó...",
+                "place":null,
+                "teller":"Townsfolk",
+                "title":"Trang Trại Chăn Cừu"
+            },
+            {
+                "id":10,
+                "model":"옛산초",
+                "content":"Đôi giày chạy của ngươi nhìn cũng đáng giá đó...",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":11,
+                "model":"키호테",
+                "content":"Ăn nói hồ đồ! Đã là một Fixer thì không thực thi chính nghĩa vì tiền bạc.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "model":"키호테",
+                "content":"Ấy nhưng, nếu các ngươi có ý nguyện giúp đỡ thì... nhờ ngươi cầm lấy tờ rơi này được chứ? Truyền miệng nhau đi, mời bạn bè và thân quyến của ngươi tới chốn này.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "model":"키호테",
+                "content":"Sancho, cận thần trung thành bậc nhất của ta sẽ tường tận giải thích cho ngươi.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "model":"옛산초",
+                "content":"…….",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":15,
+                "model":"키호테",
+                "content":"E hèm, ờm...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "model":"옛산초",
+                "content":"…….",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":17,
+                "model":"키호테",
+                "content":"Con đừng đứng đực ra đó mà, Sancho. Nói gì đi.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "model":"키호테",
+                "content":"Giờ con đang là... trợ lý đắc lực của ta ấy.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "model":"옛산초",
+                "content":"Con... từ chối nói năng kiểu đấy.",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":20,
+                "model":"옛산초",
+                "content":"Nó nghe quá là trẻ con đi mà.",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":21,
+                "model":"키호테",
+                "content":"Chính cái giàu sự trẻ trung đó mới tô điểm cuộc đời thêm sắc màu chứ, Sancho.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "model":"키호테",
+                "content":"Hơn nữa, con tính làm gì để khiến con người coi chúng ta là những Fixer anh dũng chính trực?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "model":"옛산초",
+                "content":"Con vẫn không tài nào hiểu nổi cái kiểu nói ngớ ngẩn này thì liên quan gì đến Fixer cơ chứ.",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":24,
+                "model":"키호테",
+                "content":"Rồi rồi. Thế, con thử lại được không?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "model":"키호테",
+                "content":"Hãy trả lời ta, Sancho! Cận thần trung thành của ta!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "model":"옛산초",
+                "content":"...Hàààààà...",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":27,
+                "model":"키호테",
+                "content":"Nghe ta, San-",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "model":"옛산초",
+                "content":"Th-thực vậy!",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":29,
+                "model":"옛산초",
+                "content":"Đừng bỏ cuộc, dù cho... có khổ ải chông gai.",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":30,
+                "model":"옛산초",
+                "content":"Đừng bao giờ chậm bước tiến cho đến khi chạm đích; kể cả khi ta không thể nhìn thấy nó, ý chí quật cường sẽ giúp ta vượt qua tất cả.",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":31,
+                "model":"옛산초",
+                "content":"Nhờ v-vào L-la... La Manchaland đầy... ờ, nh-những ước mơ... và... hi vọng...",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":32,
+                "model":"이발사하편",
+                "content":"Nhưng mà... Hỡi Đệ Nhất Thân Quyến đầy vẻ vang ơi, hỡi Cha Don Quixote ơi...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "model":"이발사다침2",
+                "content":"Chúng con xin tạ lỗi với người. Chúng con không thể trở thành những kị sĩ trong câu chuyện kể của Cha được đâu ạ... Ha ha... ha... ha...",
+                "place":"Thâm Sâu Bản Ngã - Mê Cung",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "model":"산초",
+                "content":null,
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "model":"이발사다침2",
+                "content":"Có lúc ánh mắt Cha rơi lên người chúng ta. Nhưng Cha đâu có nhìn thấy chúng ta đâu, mà chỉ vấn vương về chốn huyễn tưởng xa vời nào đó thôi...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "model":"이발사다침2",
+                "content":"Nên là... nên là... Cha khao khát được khởi hành lên chuyến hành trình mộng mơ đó, chúng ta mới bảo, Cha cứ đi đi.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "model":"산초",
+                "content":"Chúng ta đáng ra phải thương yêu người hơn tất thảy chứ.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "model":"이발사다침2",
+                "content":"Ta biết mà! Ta cũng rất thương Cha mà! Ta thật lòng, ta hết mình tôn kính Cha, ngưỡng mộ Cha, yêu thương Cha mà!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "model":"이발사다침2",
+                "content":"Cô tưởng cô là con một hay gì? Tất cả chúng ta, tất cả đều vinh dự là những đứa con của Cha đó!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "model":"산초",
+                "content":"Tội ác các ngươi đã gây ra... là đại tội bất hiếu.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "model":"산초",
+                "content":"Bọn ta đã ngửi thấy mùi thảm sát kể từ lúc quay lại La Manchaland, sau khi những ngày phiêu lưu đi về hồi kết.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "model":"이발사다침2",
+                "content":"Đúng là vậy đó... Cơn phẫn nộ của Cha tựa như biển lửa vậy. Để tuyên bản án phạt giáng xuống chúng ta, Cha đã xuất hiện trở lại ở La Manchaland này... giữa hội hè tấp nập ồn ã này đó.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "model":"이발사다침2",
+                "content":"Hà ha... há há...! Nhưng mà vui thật mà, vui lắm. Lâu lắm rồi chúng ta mới được cảm nhận lại... cảm giác no đủ này...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "model":"이발사다침2",
+                "content":"Khi quay trở lại, Cha chắc chắn sẽ không tha thứ cho chúng ta đâu ha. Mà chúng ta cũng biết thừa! Chính vì thế nên chúng ta mới nói cho Cha biết vị trí của Bảo Vật đấy chứ.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "model":"키호테",
+                "content":"Nhìn đi, Sancho.",
+                "place":"The Cave, Past",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "model":"키호테",
+                "content":"Chúng ta đang đứng trước Bảo Vật huyền thoại mà ta đã vất vả tìm kiếm, Mũ Giáp của Mambrino. Chuyến này đều nhờ ơn Thợ Cạo, Cha Xứ và Dulcinea đã cất công tìm vị trí của nó.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "model":"키호테",
+                "content":"Nhưng vì cớ gì...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "model":"옛산초",
+                "content":"Sao vậy?",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":49,
+                "model":"키호테",
+                "content":"... Không có gì đâu.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "model":"키호테",
+                "content":"Sao con lại làm bản mặt đó vậy Sancho? Lẽ nào con phiền lòng vì chuyến phiêu lưu của ta đang tới hồi kết?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "model":"옛산초",
+                "content":"Con đang lo... không biết Gia Đình ta ở La Manchaland thế nào rồi.",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":52,
+                "model":"키호테",
+                "content":"Họ vẫn ổn thôi. Mỗi người đều mang trong mình tấm lòng dịu dàng, tốt bụng hơn ai hết.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "model":"키호테",
+                "content":"Cùng nhanh chân trở về nào. Chắc hẳn Bari đang chờ chúng ta rồi. Lúc nào cô ta cũng nhanh hơn một bước.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "model":"이발사다침2",
+                "content":"A, Sancho... Cô mà ở lại đây cùng chúng ta thì sẽ hiểu thôi à.",
+                "place":"Thâm Sâu Bản Ngã - Mê Cung",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "model":"이발사다침2",
+                "content":"Phải chịu cơn đói cồn cào biết bao năm tháng dài đằng đẵng, cuối cùng cũng được uống máu con người, cảm nhận hương vị ngon lành, mê hoặc đến mức phát cuồng đó.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "model":"산초",
+                "content":null,
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "model":"이발사다침2",
+                "content":"Mà lạ quá trời.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "model":"이발사다침2",
+                "content":"Cô vốn luôn luôn là kẻ hầu cận trung thành nhất của Cha mà ha, nhưng cũng chính cô lại là kẻ đào tẩu đầu tiên còn gì nữa.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "model":"산초",
+                "content":"…….",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "model":"산초",
+                "content":"Ta không hề đào tẩu.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "model":"산초",
+                "content":"Người đã cố tình đeo Rocinante cho ta, rồi...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "model":"키호테",
+                "content":"... Con không hiểu sao? Con phải thay ta tiếp tục chuyến phiêu lưu.",
+                "place":"La Manchaland, trong Quá Khứ",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "model":"옛산초",
+                "content":"Đ-đừng mà...",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":64,
+                "model":"옛산초",
+                "content":"Hãy để con chiến đấu với người. Hãy để con kề vai sát cánh với người, kể cả khi—",
+                "place":null,
+                "teller":null,
+                "title":"La Manchaland"
+            },
+            {
+                "id":65,
+                "model":"키호테",
+                "content":"Hãy đi theo Bari. Cô ấy sẽ dẫn con rời xa nơi này.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "model":"옛산초",
+                "content":"Rocinante, dừng lại! Đừng đi nữa mà, ĐỪNG!!!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "model":"옛산초",
+                "content":"Ta không muốn rời đi mà, ta không muốn! Sao ngươi lại không nghe lời ta...?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "model":"옛산초",
+                "content":"Làm ơn, làm ơn mà! Ta không muốn đi phiêu lưu đâu, dừng lại đi! Làm ơn đi mà!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "model":"옛산초",
+                "content":"Xin ngươi đó, Rocinante...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "model":"옛산초",
+                "content":"Đừng đem ta đi khỏi đây...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "model":"이발사다침2",
+                "content":"Há ha... Ra là <i>thế<i> ấy hả! Vì thế nên sức mạnh của Cha mới kiệt quệ đến vậy à! Vì thế nên chỉ có mình cô là biệt tăm biệt tích khỏi La Manchaland của chúng ta thôi đó à!",
+                "place":"Thâm Sâu Bản Ngã - Mê Cung",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "model":"이발사다침2",
+                "content":"Cô nha, suốt ngày bám dính lấy Cha như sam vậy... Rồi cứ hễ chúng ta muốn lại gần Cha, cô lại tỏ cái điệu bỏ khinh miệt, ghét bỏ đó...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "model":"산초",
+                "content":"Ta... chưa bao giờ khinh miệt ngươi.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "model":"이발사다침2",
+                "content":"Không phải giả vờ! Bao nhiêu phục trang ta cất công may vá... Cô có bao giờ chịu mặc đâu hả...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "model":"산초",
+                "content":"......",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "model":"이발사다침2",
+                "content":"Sao... Sao tự dưng lại bày ra cái vẻ mặt kia?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "model":"이발사다침2",
+                "content":"Trông chúng ta méo mó, dị hợm, gớm ghiếc quá nên cô thấy mắc ói chứ gì? Có đúng không?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "model":"산초",
+                "content":"Những chiếc mặt nạ khâu thẳng vào mặt của từng Huyết Quỷ ở đây...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "model":"산초",
+                "content":"Có phải do ngươi không?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "model":"이발사다침2",
+                "content":"Há ha ha ha! Chứ sao nữa hả!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "model":"이발사다침2",
+                "content":"Ngoài ta ra, thì còn ai có thể thêu ra từng đường kim mũi chỉ xuất sắc, tinh tế đến thế nữa hả giời?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "model":"이발사다침2",
+                "content":"Chính ta là kẻ đã đi kim, từng mũi từng mũi, để khâu mặt nạ lên cho mọi người đó. Để mọi người được vui lòng hơn đó! Đế mọi người được xinh đẹp hơn đó!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "model":"이발사다침2",
+                "content":"Để mọi người... không cần phải cởi mặt nạ ra nữa mà...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "model":"산초",
+                "content":"Cái mà ta muốn biết...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "model":"산초",
+                "content":"... là trong hai trăm năm ta vắng bóng, chuyện gì đã xảy ra ở La Manchaland này.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "model":"산초",
+                "content":"Thứ mà bọn ta tìm được không phải là Bảo Vật trong truyền thuyết... nó là Bảo Vật bị nguyền rủa.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "model":"산초",
+                "content":"Chắc hẳn đây cũng là âm mưu của các người từ đầu.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "model":"산초",
+                "content":"Vì việc phản nghịch Cha rất... đáng sợ, rất trái <i>luân thường đạo lý<i> với chúng ta...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "model":"산초",
+                "content":"Nên các ngươi cần người đi khỏi. Để kìm lại nỗi khiếp sợ rất đỗi tự nhiên ấy.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "model":"산초",
+                "content":"Đó là cách duy nhất để các ngươi có dũng khí nổi loạn sao?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "model":"이발사다침2",
+                "content":"Cô nghĩ xem...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "model":"이발사다침2",
+                "content":"La Manchaland có thể trụ thêm bao lâu nữa hả?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "model":"이발사다침2",
+                "content":"Muốn chúng ta phất cờ khởi nghĩa à...? Mồm nói thì dễ như ăn bánh ấy nhỉ.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "model":"이발사다침2",
+                "content":"Trong khi các người đang còn bận mộng tưởng viển vông với cái kẻ gọi là Kị Sĩ Bạch Nguyệt kia...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "model":"이발사다침2",
+                "content":"Thì chúng ta ở đây... chết dần chết mòn, từng ngày một đó có biết không.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "model":"이발사다침2",
+                "content":"Thể nào Cha cũng sẽ bảo cái gì mà, 'Thôi, Huyết Quỷ đâu có dễ chết như vậy chứ.'",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "model":"이발사다침2",
+                "content":"Đúng. Chúng ta không chết được thật. Nhưng mà sống thế này thì khác quái gì đi chết hả, giời ơi!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "model":"이발사다침2",
+                "content":"Không được uống máu của con người... thì còn sống tiếp làm cái cóc khô gì hả!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "model":"이발사다침2",
+                "content":"Chẳng trông mong khỉ gì vào ngày mai nữa. Chẳng trông chờ được khoái lạc từ cái quái gì nữa.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "model":"이발사다침2",
+                "content":"Thế rồi mà vẫn phải cố rặn ra mà cười! Vì sao, vì chúng ta nhất định phải thương Cha!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":101,
+                "model":"이발사다침2",
+                "content":"Hai trăm năm rồi đấy, chúng ta cứ hi hi ha ha thế đấy, cứ cười hềnh hệch ra như thế đấy!!!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "model":"이발사다침2",
+                "content":"Ta chỉ... Ta chỉ... muốn được sống tiếp như một Huyết Quỷ thôi cơ mà!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "model":"돌시네아다침",
+                "content":"... Đủ rồi.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":104,
+                "model":"돌시네아다침",
+                "content":"Cô ta sẽ không bao giờ hiểu.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "model":"돌시네아다침",
+                "content":"Vả lại, Cha của chúng ta cuối cùng cũng đã tỉnh ngộ từ những giấc mộng ấy và quay về thực tại.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "model":"산초",
+                "content":"…….",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":107,
+                "model":"돌시네아다침",
+                "content":"Từ cái ánh mắt ấy của ngươi hiển nhiên là...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "model":"돌시네아다침",
+                "content":"Chuyến phiêu lưu của ngươi không hẳn có ích nhỉ?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "model":"돌시네아다침",
+                "content":"Có lẽ ta thích cái bản mặt ngây thơ lúc trước của ngươi hơn.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "model":"돌시네아다침",
+                "content":"Ta vẫn ghét đôi mắt ấy, cho dù nó có long lanh hay không, nhưng...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":111,
+                "model":"돌시네아다침",
+                "content":"Ít ra ta còn chịu đựng được.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":112,
+                "model":"산초",
+                "content":"Ý ngươi là sao... Cha tỉnh ngộ khỏi những giấc mộng ấy?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":113,
+                "model":"돌시네아다침",
+                "content":"Khi ngươi ra đi trên chuyến lữ hành của những giấc mơ mà ngươi hằng mong ước, trên đôi hia Rocinante...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":114,
+                "model":"돌시네아다침",
+                "content":"... thì bọn ta bị giam cầm ở đây, cùng với Cha.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":115,
+                "model":"돌시네아다침",
+                "content":"Dĩ nhiên, ngài ấy rất phẫn nộ với bọn ta, những kẻ mà Cha cho rằng chẳng bao giờ thấu hiểu được người...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":116,
+                "model":"산초",
+                "content":"...Vậy nên người đã phong ấn La Manchaland.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":117,
+                "model":"신부다침2",
+                "content":"Và hai trăm năm không có gì ngoài bóng tối u sầu.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":118,
+                "model":"신부다침2",
+                "content":"Ta cũng đã dùng thử Bảo Vật để phá đi quy luật tự nhiên của mình, để tránh khỏi những thứ cấm kỵ....",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":119,
+                "model":"신부다침2",
+                "content":"... cô sẽ không hiểu được nổi đau mà nó mang lại khi phải gánh trách nhiệm của Cha.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":120,
+                "model":"이발사다침2",
+                "content":"Có nhớ không? Thằng Linh Mục óc chó đấy còn định tự sát nữa cơ, á ha ha!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":121,
+                "model":"이발사다침2",
+                "content":"Mắt mũi tèm nhèm khóc bù lu bù loa một mình cơ đấy... Mắc cười chết ta luôn á!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":122,
+                "model":"신부다침2",
+                "content":"Đó là hình phạt mà ta phải chịu.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":123,
+                "model":"신부다침2",
+                "content":"Chúng ta không chỉ chống lại ước mơ cùa Cha, mà còn phạm mối tội để hại lên chính ông nữa.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":124,
+                "model":"이발사다침2",
+                "content":"Chúng ta... có thật sự sai lầm đến mức đấy không thế?",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":125,
+                "model":"이발사다침2",
+                "content":"Hai trăm năm ròng rã, chúng ta bị cầm tù trong La Manchaland, chả có miếng ăn nào bỏ bụng...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":126,
+                "model":"이발사다침2",
+                "content":"Trong tầm mắt chỉ còn những Huyết Quỷ lọ mọ đào xới đất đen, hòng kiếm được tí xác chết động vật...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":127,
+                "model":"이발사다침2",
+                "content":"Bên tai chỉ còn tiếng bọn họ gào khóc đau đớn, cầu xin ai đó kết liễu cuộc đời rã rời đày đọa này đi...",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":128,
+                "model":"이발사다침2",
+                "content":"Khóc xong rồi thì cười rồ cười dại, cười xong rồi lại khóc vật khóc vã... Ha ha ha ha ha!",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":129,
+                "model":"산초",
+                "content":"Tránh đường mau.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":130,
+                "model":"산초",
+                "content":"Ta cần phải nói chuyện với người.",
+                "place":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":131,
+                "model":"이발사다침2",
+                "content":"Cô ấy hả, cái kẻ đã theo Rocinante ruồng bỏ chúng ta mà dám đòi đối chất với Cha ấy hả?",
+                "place":null,
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

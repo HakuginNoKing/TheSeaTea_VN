@@ -1,74 +1,110 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Basement",
-            "model": "힌들리",
-            "content": "Gah... Agh... Shite..."
-        },
-        {
-            "id": 1,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "Haha. What did I tell you, Mister Hindley? Again and again?"
-        },
-        {
-            "id": 2,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "Beware the obsidian grass."
-        },
-        {
-            "id": 3,
-            "model": "힌들리",
-            "content": "...!"
-        },
-        {
-            "id": 4,
-            "model": "힌들리",
-            "content": "You... You...!"
-        },
-        {
-            "id": 5,
-            "model": "이스마엘",
-            "content": "……."
-        },
-        {
-            "id": 6,
-            "model": "이스마엘",
-            "content": "Wait, wasn't the Dead Rabbits boss supposed to be working for Hindley?"
-        },
-        {
-            "id": 7,
-            "model": "이스마엘",
-            "content": "So why..."
-        },
-        {
-            "id": 8,
-            "model": "이스마엘",
-            "content": "... why does it look like he is provoking Hindley to fight us? Why is he trying to rile him up...?"
-        },
-        {
-            "id": 9,
-            "model": "그레고르",
-            "content": "And what's that about the obsidian grass?"
-        },
-        {
-            "id": 10,
-            "model": "로쟈",
-            "content": "Haha... Don'tcha get it?"
-        },
-        {
-            "id": 11,
-            "model": "로쟈",
-            "content": "He's talking about black clovers..."
-        },
-        {
-            "id": 12,
-            "model": "로쟈",
-            "content": "Like playing cards for poker. The shape and the color..."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Tầng Hầm Đồi Gió Hú",
+                "model":"힌들리",
+                "content":"Ặc... Ặc... Chết tiệt...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Haha. Tôi đã bảo rồi, Ngài Hindley? Biết bao nhiêu lần là đằng khác?",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Coi chừng ngọn cỏ đen.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"힌들리",
+                "content":"...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"힌들리",
+                "content":"Mày... Mày...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"이스마엘",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Khoan, chẳng phải trùm của Dead Rabbits làm việc cho Hindley ư?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thế thì tại sao...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"이스마엘",
+                "content":"...tại sao nghe như hắn đang kích động cho Hindley đánh nhau với chúng ta vậy? Để làm gì kia chứ...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"그레고르",
+                "content":"Và ngọn cỏ đen mà gã nói tới là sao cơ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"로쟈",
+                "content":"Haha... Anh không hiểu à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"로쟈",
+                "content":"Anh ta đang nói về con tép đen....",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"로쟈",
+                "content":"Như mình chơi bài tây ấy. Về hình dạng và màu sắc...",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+
