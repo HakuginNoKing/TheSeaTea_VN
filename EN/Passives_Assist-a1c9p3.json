@@ -60,26 +60,26 @@
     },
     {
       "id": 40000806,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter if this unit is killed after Alyssa is killed",
-      "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
+      "name": "Định Mệnh Lạc Lối",
+      "desc": "Thua Trận này nếu đơn vị này bị đánh bại",
+      "flavor": "Người ta có thể lầm đường lạc lối, nhưng sự phản kháng có chủ ý hay đi chệch khỏi dòng chảy đều bị nghiêm cấm bởi \"nó\"."
     },
     {
       "id": 40000901,
-      "name": "The Yellow Harpoon (named by: Ezra)",
-      "desc": "Encounter Start: Gain [YellowHarpoon]\n\nTurn Start: If this unit has 0+ SP and The Middle Nursefather has 2 [ReinforcedTattooSpider], gain [YellowHarpoonSin]\n\nAt less than 0 SP, lose [YellowHarpoonSin]",
-      "flavor": "<color=#fde55d>\"Okay, hear me out. Hear me out, Baby bee!\nYou're good with harpoons, right?\nYou use a super snazzy special harpoon, right?\nAnd you're shootin' for the Yellow Color, right?\nBam! There ya have it!\n\n<b>The Yellow Harpoon</b>!!!\"</color>"
+      "name": "Hoàng Lao (được đặt bởi: Ezra)",
+      "desc": "Bắt Đầu Trận: Nhận [YellowHarpoon]\n\nKết Lượt: Nếu đơn vị này có 0+ SP và Cha Đỡ Đầu Ngón Giữa có 2 [ReinforcedTattooSpider], nhận [YellowHarpoonSin]\n\nỞ mức thấp hơn 0 SP, mất [YellowHarpoonSin]",
+      "flavor": "<color=#fde55d>\"Ời, nghe này. Nghe chị nói này, Bé Ong!\nYEm dùng lao rất đỉnh, đúng không?\nEm cầm quả lao siu oách xà lách và độc nhất nữa, nhỉ?\nVà em cũng nhắm đến Màu Vàng chứ gì?\nBùm! Của nhóc đây!\n\n<b>Hoàng Lao!!!</b>!!!\"</color>"
     },
     {
       "id": 40000902,
-      "name": "The Wasp of the Distortion Detective Office",
-      "desc": "In the turn Moses equips 'Inhale Deep the Red Breath', this unit gains [YellowHarpoonSin] permanently"
+      "name": "Ong Bắp Cày Văn Phòng Thám Tử Biến Dị",
+      "desc": "Trong lượt Moses trang bị ‘Hít Sâu Hồng Khí’, đơn vị này nhận vĩnh viễn [YellowHarpoonSin]"
     },
     {
       "id": 40000904,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter if this unit is killed",
-      "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
+      "name": "Định Mệnh Lạc Lối",
+      "desc": "Thua Trận này nếu đơn vị này bị đánh bại",
+      "flavor": "Người ta có thể lầm đường lạc lối, nhưng sự phản kháng có chủ ý hay đi chệch khỏi dòng chảy đều bị nghiêm cấm bởi \"nó\"."
     },
     {
       "id": 40001001,
@@ -94,9 +94,9 @@
     },
     {
       "id": 40001003,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter if this unit is killed",
-      "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
+       "name": "Định Mệnh Lạc Lối",
+      "desc": "Thua Trận này nếu đơn vị này bị đánh bại",
+      "flavor": "Người ta có thể lầm đường lạc lối, nhưng sự phản kháng có chủ ý hay đi chệch khỏi dòng chảy đều bị nghiêm cấm bởi \"nó\"."
     },
     {
       "id": 40001101,

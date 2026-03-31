@@ -225,7 +225,7 @@
         {
           "level": 1,
           "name": "Gungnir",
-          "desc": "Deal +50% damage for every type of negative effect on target (max 100%)\n[WhenUse] Deal +20% damage for every 10 [Vibration] Potency on target\n[BeforeAttack] If target is at less than 50% HP, [VibrationExplosion] triggered by this Skill does not consume Tremor Count\n[WhenUse] At 0+ SP, generate 1 Mang (望)\n- Coin Power +1, deal +50% damage\n[WhenUse] Gain 3 [CriticalDmgUpVespa] next turn\n[EndSkill] If this Skill generated Mang (望), lose 2 SP",
+          "desc": "Gây thêm +50% sát thương cho mỗi loại hiệu ứng bất lợi trên mục tiêu (tối đa 100%)\n[WhenUse] Gây thêm +20% sát thương cho mỗi 10 Số [Vibration] trên mục tiêu\n[BeforeAttack] Nếu mục tiêu dưới 50% HP, [VibrationExplosion] do Kỹ Năng này kích hoạt sẽ không tiêu hao Tầng Chấn Động\n[WhenUse] Ở 0+ SP, tạo 1 Vọng (望)\n-Uy Lực Xu +1, gây thêm +50% sát thương\n[WhenUse] Nhận 3 [CriticalDmgUpVespa] vào lượt kế\n[EndSkill] Nếu Kỹ Năng này đã tạo Vọng (望), mất 2 SP",
           "flavor": "<color=#fde55d>\"This throw will strike and pierce through without fail.\"</color>",
           "coinlist": [
             {
@@ -234,7 +234,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +2 Tầng [Laceration]"
                 }
               ]
             },
@@ -244,7 +244,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +2 Tầng [Laceration]"
                 }
               ]
             },
@@ -254,7 +254,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] trên mục tiêu"
                 }
               ]
             },
@@ -264,7 +264,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [ArtifactBeeSting] on target"
+                  "desc": "[OnSucceedAttack] Gắn [ArtifactBeeSting] lên mục tiêu"
                 }
               ]
             }
@@ -277,8 +277,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rend Space - Apic Flashburst Blade [空間斬 - 閃蜂光劍]",
-          "desc": "Deal +50% damage for every type of negative effect on target (max 100%)\n[WhenUse] Deal +20% damage for every 10 [Laceration] Potency on target\n[WhenUse] At 0+ SP, generate 2 Mang (望)\n- Coin Power +2, deal +100% damage\n[BeforeAttack] If target is at less than 50% HP, [Laceration] triggered by this Skill does not consume Bleed Count\n[EndSkill] If this Skill generated Mang (望), lose 3 SP",
+          "name": "Không Gian Trảm - Thiểm Phong Quang Kiếm [空間斬 - 閃蜂光劍]",
+          "desc": "Gây thêm +50% sát thương cho mỗi loại hiệu ứng bất lợi trên mục tiêu (tối đa 100%)\n[WhenUse] Gây thêm +20% sát thương cho mỗi 10 Số [Laceration] trên mục tiêu\n[WhenUse] Ở 0+ SP, tạo 2 Vọng (望)\n- Uy Lực Xu +2, gây thêm +100% sát thương\n[BeforeAttack] Nếu mục tiêu dưới 50% HP, [Laceration] do Kỹ Năng này kích hoạt sẽ không tiêu hao Tầng [Laceration]\n[EndSkill] Nếu Kỹ Năng này đã tạo Vọng (望), mất 3 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -286,7 +286,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu 1 lần. Mục tiêu mất 1 Tầng [Laceration]"
                 }
               ]
             },
@@ -296,7 +296,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu 1 lần. Mục tiêu mất 1 Tầng [Laceration]"
                 }
               ]
             },
@@ -306,7 +306,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu 1 lần. Mục tiêu mất 1 Tầng [Laceration]"
                 }
               ]
             },
@@ -316,7 +316,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu 1 lần. Mục tiêu mất 1 Tầng [Laceration]"
                 }
               ]
             },
@@ -326,7 +326,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Stagger target"
+                  "desc": "[OnSucceedAttack] làm Choáng mục tiêu"
                 }
               ]
             }
