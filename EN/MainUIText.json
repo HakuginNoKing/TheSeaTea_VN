@@ -46,7 +46,7 @@
     },
     {
       "id": "mainui_stageinfo_recommendlevel",
-      "content": "Độ khó"
+      "content": "Độ Khó"
     },
     {
       "id": "mainui_stageinfo_enemyinfo",
@@ -1410,7 +1410,7 @@
     },
     {
       "id": "formation_force_participation_on",
-      "content": "[font=bebas]Bắt Buộc Tham Chiến"
+      "content": "[font=bebas]Bắt Buộc"
     },
     {
       "id": "formation_force_participation_off",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "formation_force_abstain",
-      "content": "Không Thể Triển Khai"
+      "content": "[font=bebas]Không Thể Tham Chiến"
     },
     {
       "id": "formation_view_detail",
@@ -1590,7 +1590,7 @@
     },
     {
       "id": "first_time",
-      "content": "First-time"
+      "content": "Lần Đầu"
     },
     {
       "id": "formation_Announcer_fixed",
