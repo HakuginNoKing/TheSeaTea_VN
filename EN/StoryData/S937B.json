@@ -2,14 +2,14 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Corridor of the Ring",
+      "place": "Hành Lang Ngón Nhẫn",
       "model": "호엔하임2",
-      "content": "If I might just add one more thing—you needn't try to comfort us over our conversation, Manager Saude. Consider this nothing more than harmless, humorous banter among us researchers."
+      "content": "Nếu được nói thêm một điều… cô không cần phải an ủi chúng tôi về cuộc trò chuyện này đâu, Quản Lý Saude. Cứ xem như đây là một màn tán gẫu vô hại, mang tính giải trí giữa mấy nhà nghiên cứu là được."
     },
     {
       "id": 1,
       "model": "호엔하임2",
-      "content": "It appears to me that if anyone needs comfort, it'd be him."
+      "content": "Mà nói thật là nếu có ai cần được an ủi thì chắc là cậu ta kia kìa."
     },
     {
       "id": 2,
@@ -19,88 +19,88 @@
     {
       "id": 3,
       "model": "싱클레어",
-      "content": "... All those Golden Boughs we've gone through so much to collect... gone. We've lost people, too. Even worse, we're separated from our manager... so we can't even immediately know how the others are doing."
+      "content": "... Biết bao nhiêu Cành Vàng mà chúng ta đã phải trả giá để gom lại... giờ thì mất sạch. Còn có người đã ngã xuống nữa. Tệ hơn là chúng ta lại bị tách khỏi quản lý của mình... nên ngay cả việc những người khác đang ra sao cũng không thể biết ngay được."
     },
     {
       "id": 4,
       "model": "싱클레어",
-      "content": "This isn't the first time we've been in this much danger, but... every time it happens, I can't help but—"
+      "content": "Đây đâu phải lần đầu chúng ta rơi vào  hiểm cảnh như thế này, nhưng mà... cứ mỗi lần như vậy là tôi lại không kìm được mà—"
     },
     {
       "id": 5,
       "model": "9장소드다침",
       "teller": "Radio",
-      "content": "—get nervous, right? Anxious, even."
+      "content": "—lo lắng, đúng không? Thậm chí là bất an."
     },
     {
       "id": 6,
       "model": "싱클레어",
-      "content": "... Yeah."
+      "content": "... Phải."
     },
     {
       "id": 7,
       "model": "싱클레어",
-      "content": "Do you guys... ever get this nervous, too...? Like I do?"
+      "content": "Mọi người... có bao giờ cảm thấy như vậy không...? Giống như tôi ấy?"
     },
     {
       "id": 8,
       "model": "이스마엘",
-      "content": "Well..."
+      "content": "Chà..."
     },
     {
       "id": 9,
       "model": "이스마엘",
-      "content": "I like to talk big and try to project confidence, but honestly... I still get anxious like everyone else."
+      "content": "Cho dù là tôi hay nói mạnh miệng và cố tỏ ra tự tin nhưng mà thú thật thì... tôi cũng lo như bất kỳ ai thôi."
     },
     {
       "id": 10,
       "model": "이스마엘",
-      "content": "We've still got a lot of people in the LCB who don't know where they're going in life, don't we? Like how I used to be."
+      "content": "Trong LCB vẫn còn rất nhiều người không biết mình đang đi đâu trong cuộc đời này đúng không? Giống như tôi trước đây vậy."
     },
     {
       "id": 11,
       "model": "이스마엘",
-      "content": "You know, with how Dante seems to feel a lot of pressure over their responsibilities, I guess you could say that I've sorta committed myself to sharing a bit of their load and helping the team navigate through the trials of our journey and... <size=80%>you know, all that stuff...</size>"
+      "content": "Mà nhìn ngài Dante có vẻ đang gánh áp lực khá nặng vì trách nhiệm của ngài ấy, nên tôi nghĩ mình cũng nên san sẻ bớt phần nào, giúp cả đội vượt qua những thử thách trên hành trình này...<size=80%>đại loại thế ấy...</size>"
     },
     {
       "id": 12,
       "model": "이스마엘",
-      "content": "So, I'm just trying to put on a brave face, at the end of the day. Someone needs to, right? To reassure everyone that it's all going to be okay."
+      "content": "Nói cho cùng thì tôi cũng chỉ đang cố tỏ ra mạnh mẽ thôi. Phải có ai đó làm vậy chứ, đúng không? Để mọi người còn tin rằng mọi chuyện rồi sẽ ổn."
     },
     {
       "id": 13,
       "model": "싱클레어",
-      "content": "... I... see."
+      "content": "... Tôi... hiểu rồi."
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "Ha... Outis'd give me a really harsh dressing-down if she heard me say all that. Just thinking about it hurts my ears..."
+      "content": "Ha... mà nếu Outis nghe được mấy lời này thì chắc tôi bị mắng cho tơi tả. Chỉ nghĩ thôi mà đã thấy ù tai rồi..."
     },
     {
       "id": 15,
       "model": "파우스트",
-      "content": "While there is no doubt that Faust does indeed know it all..."
+      "content": "Dù không thể phủ nhận rằng Faust biết mọi thứ..."
     },
     {
       "id": 16,
       "model": "파우스트",
-      "content": "... there were times when I also found myself grasping at straws,"
+      "content": "... nhưng cũng có lúc, tôi phải chới với trong vô định,"
     },
     {
       "id": 17,
       "model": "파우스트",
-      "content": "unable to make even the simplest decisions—whether I should move forward, whether I should stop, or whether I should go back the way I came."
+      "content": "đến mức không thể đưa ra nổi một quyết định đơn giản-khi nào thì nên tiến lên, khi nào tôi nên dừng lại, hay là khi nào mình quay đầu."
     },
     {
       "id": 18,
       "model": "파우스트",
-      "content": "And that made me realize anew..."
+      "content": "Và điều đó khiến tôi nhận ra..."
     },
     {
       "id": 19,
       "model": "파우스트",
-      "content": "... Faust is but a name that may leave at any time."
+      "content": "... rằng Faust cũng chỉ là một cái tên có thể biến mất bất cứ lúc nào."
     },
     {
       "id": 20,
@@ -110,210 +110,210 @@
     {
       "id": 21,
       "model": "호엔하임2",
-      "content": "... Well, I suppose it is my turn in this heart-to-heart roundtable. I'm not quite fond of these last-minute barings of one's soul as though we're walking to our collective death, but... if this should help raise the chance of our success by alleviating some of your concerns, then I see no reason not to participate."
+      "content": "... WĐược rồi, tới lượt tôi trong cái màn tâm sự mỏng này nhỉ. Tôi không mấy ưa cái kiểu đột ngột lột trần tâm can như thể cả bọn sắp cùng nhau đi chết, nhưng mà... nếu chuyện này giúp tăng cơ hội thành công bằng cách giảm bớt lo lắng của mọi người thì tôi cũng không có lý do gì để từ chối."
     },
     {
       "id": 22,
       "model": "호엔하임2",
-      "content": "My superiors have... repeatedly refused to authorize the plan that includes me as a combatant for this mission."
+      "content": "Cấp Trên của tôi... đã nhiều lần từ chối phê duyệt kế hoạch cho tôi tham gia chiến đấu trong nhiệm vụ này."
     },
     {
       "id": 23,
       "model": "호엔하임2",
-      "content": "I understand their logic."
+      "content": "Tôi hiểu logic của họ."
     },
     {
       "id": 24,
       "model": "호엔하임2",
-      "content": "Sending a research-specialized employee to near-certain death would indeed be an inefficient management of human resources, from the corporate perspective."
+      "content": "Xét theo góc độ doanh nghiệp thì việc đưa một nhân sự chuyên nghiên cứu đi vào chỗ gần như chắc chắn phải chết quả thực là một cách sử dụng nguồn lực vô cùng kém hiệu quả."
     },
     {
       "id": 25,
       "model": "호엔하임2",
-      "content": "Instead of accepting my request, they suggested that I take some time off. 3 months, give or take."
+      "content": "Thay vì chấp nhận đề nghị của tôi thì họ bảo tôi nên nghỉ phép một thời gian. Khoảng 3 tháng, hơn kém."
     },
     {
       "id": 26,
       "model": "호엔하임2",
-      "content": "They said everything will have returned to normal by the time I sauntered back into the office; that the LCE's job was to find normalcy again while LCA or LCB dealt with the consequences."
+      "content": "Họ nói là đến lúc tôi ung dung quay lại văn phòng thì mọi thứ sẽ lại đâu vào đấy mà thôi; rằng là LCE nên dành thời gian để trở lại đúng vị trí của mình còn hậu quả thì LCA hay LCB sẽ xử lý."
     },
     {
       "id": 28,
       "model": "호엔하임2",
-      "content": "It was a tempting offer, I must admit. Research was indeed an endeavor in which l could lose myself while the rest of the world slipped by."
+      "content": "Phải thừa nhận đó là một lời đề nghị rất hấp dẫn. Nghiên cứu vốn là thứ tôi có thể vùi đầu vào và quên hết mọi thứ xung quanh."
     },
     {
       "id": 29,
       "model": "호엔하임2",
-      "content": "I would take the 3-month vacation, return to the lab and bury myself in research after research, and... eventually, it'd really have been like nothing had happened."
+      "content": "Tôi sẽ nghỉ 3 tháng rồi quay lại phòng thí nghiệm để tiếp tục nghiên cứu hết thứ này đến thứ khác và rồi… mọi thứ sẽ thật sự trở nên như chưa từng có chuyện gì xảy ra."
     },
     {
       "id": 30,
       "model": "호엔하임2",
-      "content": "New employees would be hired to fill the vacancies with remarkable immediacy as though there had never been any loss of personnel in the first place."
+      "content": "Nhân sự mới sẽ nhanh chóng lấp đầy chỗ trống nhanh đến mức như thể chưa từng có ai biến mất."
     },
     {
       "id": 31,
       "model": "호엔하임2",
-      "content": "So yesterday, as I was arranging the office for my absence, I opened one of my desk drawers, and—"
+      "content": "Vậy nên hôm qua khi tôi đang sắp xếp lại văn phòng trước khi rời đi thì tôi mở một ngăn bàn, và—"
     },
     {
       "id": 32,
       "model": "알리사",
-      "content": "Oh. You really were gonna go on a vacation..."
+      "content": "Nói tóm lại là anh thực sự đã định xách mông đi nghỉ phép rồi chứ gì..."
     },
     {
       "id": 33,
       "model": "호엔하임2",
-      "content": "... And I saw our next year's research proposal peeking out from the middle of the paper pile."
+      "content": "... Và tôi thấy bản đề xuất nghiên cứu của năm sau ló ra giữa chồng giấy tờ."
     },
     {
       "id": 35,
       "model": "호엔하임2",
-      "content": "It's a funny thing, the way that corporate planning works."
+      "content": "Cái cách mà kế hoạch doanh nghiệp vận hành đôi khi cũng buồn cười thật."
     },
     {
       "id": 36,
       "model": "호엔하임2",
-      "content": "No one knows what the future holds, but they expect us to plan months ahead in our proposals."
+      "content": "Không ai biết tương lai sẽ ra sao nhưng lại yêu cầu chúng ta phải lập kế hoạch trước hàng tháng trời."
     },
     {
       "id": 37,
       "model": "호엔하임2",
-      "content": "When I'd written that research proposal, I'd planned it to be a collaborative research between me, Marton, and Alyssa."
+      "content": "Khi tôi viết bản đề xuất đó thì tôi đã lên kế hoạch làm nghiên cứu chung giữa tôi, Marton, và Alyssa."
     },
     {
       "id": 38,
       "model": "호엔하임2",
-      "content": "And now, I'll have to erase Marton's name, one by one, from dozens of its pages."
+      "content": "Và giờ thì tôi sẽ phải xóa tên Marton ở từng dòng một khỏi hàng chục trang giấy."
     },
     {
       "id": 39,
       "model": "이스마엘",
-      "content": "So... How did you manage to convince the higher-ups?"
+      "content": "Vậy... anh đã thuyết phục cấp trên kiểu gì thế?"
     },
     {
       "id": 41,
       "model": "호엔하임2",
-      "content": "My third request to have me included in this mission was accompanied by a resignation letter. A binary option, if you will—they had to choose one over the other."
+      "content": "Lần đề nghị thứ ba của tôi đi kèm với một lá đơn từ chức. Một lựa chọn hai đường, họ buộc phải chọn một trong hai."
     },
     {
       "id": 42,
       "model": "이스마엘",
-      "content": "Uh... you can do that?"
+      "content": "Ờ... làm vậy được luôn hả?"
     },
     {
       "id": 43,
       "model": "호엔하임2",
-      "content": "Who's to say that I can't?"
+      "content": "Ai nói là không?"
     },
     {
       "id": 44,
       "model": "9장소드다침",
       "teller": "Radio",
-      "content": "That last subject wasn't much about anxiety at all, but... has that helped calm your nerves at least, Sinclair?"
+      "content": "Chủ đề cuối nghe không giống “lo lắng” lắm, nhưng... ít nhất nó có giúp cậu bình tĩnh lại không, Sinclair?"
     },
     {
       "id": 45,
       "model": "싱클레어",
-      "content": "... I'm a bit better, I think."
+      "content": "... Tôi thấy đỡ hơn rồi."
     },
     {
       "id": 46,
       "model": "9장소드다침",
       "teller": "Radio",
-      "content": "That's good. Then let's all take a deep breath, and... commence operation."
+      "content": "Tốt. Vậy thì hít sâu một hơi và... bắt đầu chiến dịch thôi."
     },
     {
       "id": 47,
       "model": "9장소드다침",
       "teller": "Radio",
-      "content": "Enemy incoming."
+      "content": "Địch đang tới."
     },
     {
       "id": 49,
       "model": "약지제자1",
-      "content": "Sorry I'm late. Fascia was enjoying a nice nap, so I had to wake her up first."
+      "content": "Xin lỗi mọi người nhé tôi đến trễ. Fascia đang ngủ ngon quá, nên tôi phải đánh thức cậu ấy dậy trước."
     },
     {
       "id": 50,
       "model": "약지제자1",
-      "content": "She was heartbroken by how far behind schedule we were in her completion."
+      "content": "Cậu ấy buồn lắm vì tiến độ hoàn thiện của cậu ý đang bị chậm lại hơn kế hoạch."
     },
     {
       "id": 51,
       "model": "약지제자1",
-      "content": "It's because of Zenon's Tortoise Spiral."
+      "content": "Cũng là do cái Đinh Xoắn Rùa Zenon."
     },
     {
       "id": 52,
       "model": "약지제자1",
-      "content": "People struck with that weapon often end up with, quite literally, broken hearts... depriving us of the core ingredient."
+      "content": "Những người bị trúng thứ đó thường sẽ kết thúc với một trái tim vỡ nát… thế là bọn tôi mất đi nguyên liệu cốt lõi."
     },
     {
       "id": 53,
       "model": "약지제자1",
-      "content": "So, I'm glad we're able to meet here. None of you have replaced yourself with a prosthetic body... and I won't be using the Spiral."
+      "content": "Nên tôi mừng là được gặp các bạn ở đây. Không ai trong số các bạn thay thế cơ thể bằng máy móc... và tôi cũng sẽ không dùng Đinh nữa."
     },
     {
       "id": 54,
       "model": "싱클레어",
-      "content": "... You knew we'd be coming?"
+      "content": "... Ngươi biết tụi ta sẽ tới à?"
     },
     {
       "id": 55,
       "model": "약지제자1",
-      "content": "Mmhm. The Maestro asked me to go out and receive our guests."
+      "content": "Ừm. Ngài Nhạc Công bảo tôi ra đón khách."
     },
     {
       "id": 56,
       "model": "약지제자1",
-      "content": "Do you know of the Maestro's shattered child? She would've been a wonderful big sister for Fascia. I'm yet to reach that level of creation, unfortunately. You see, collecting ingredients without damaging them is still a bit tough for me."
+      "content": "Các bạn có biết đứa con vỡ vụn của ngài Nhạc Công không? Người ấy đáng lẽ đã trở thành một người chị tuyệt vời cho Fascia. Tiếc là tôi vẫn chưa đạt tới trình độ đó. Các bạn thấy đấy, việc thu thập nguyên liệu mà không làm hỏng chúng vẫn còn hơi khó với tôi."
     },
     {
       "id": 57,
       "model": "약지제자1",
-      "content": "So, I hoped to get some practice and started by cutting off my own arm. After all, whose body do we know better than our very own?"
+      "content": "Nên tôi nghĩ phải luyện tập trước. Và bắt đầu bằng việc tự chặt cánh tay của mình. Dù sao thì không ai hiểu cơ thể nào rõ hơn chính mình đúng không?"
     },
     {
       "id": 58,
       "model": "약지제자1",
-      "content": "But the corpus of others is still so challenging to work with. Which finger do they put the most pressure on when using their arms? Do they let their wrists handle much of the pressure, or their entire arm? Do they have any preexisting defects that may change how I interact with the medium? So, so many things to take into account before getting to the actual work."
+      "content": "Nhưng cơ thể người khác vẫn là một thứ rất khó xử lý. Họ dồn lực nhiều nhất vào ngón nào? Cổ tay chịu lực hay cả cánh tay? Có khiếm khuyết gì sẵn có thể làm ảnh hưởng tới cách tôi làm việc với nó không? Có quá nhiều thứ phải tính toán trước khi bắt tay vào sáng tác."
     },
     {
       "id": 59,
       "model": "약지제자1",
-      "content": "... Speaking of which, would you be so kind as to hear my request?"
+      "content": "... À mà, tiện thể thì các bạn có thể đáp ứng một yêu cầu nhỏ của tôi được không?"
     },
     {
       "id": 60,
       "model": "약지제자1",
-      "content": "How about we spend some time to get to know each other... and become friends?"
+      "content": "Hay là chúng ta dành chút thời gian làm quen với nhau... và trở thành bạn bè nhé?"
     },
     {
       "id": 61,
       "model": "싱클레어",
-      "content": "<i>Friends?</i>"
+      "content": "<i>Bạn bè á?</i>"
     },
     {
       "id": 62,
       "model": "약지제자1",
-      "content": "Mhm."
+      "content": "Ừm."
     },
     {
       "id": 63,
       "model": "약지제자1",
-      "content": "It's not so hard to become friends."
+      "content": "Trở thành bạn thật ra không khó đâu."
     },
     {
       "id": 64,
       "model": "약지제자1",
-      "content": "Sora told me that becoming friends is as simple as sharing the things we love, our hobbies, our dreams... Though I didn't become friends with her, as I wasn't planning on using Sora as an ingredient for Fascia."
+      "content": "Sora từng nói với tôi rằng chỉ cần chia sẻ những thứ mình yêu thích như là sở thích, ước mơ... Dù là tôi cũng không trở thành bạn với cậu ấy. Vì tôi không định dùng Sora làm nguyên liệu cho Fascia."
     },
     {
       "id": 65,
       "model": "약지제자1",
-      "content": "So... Ah, I know where to begin. Would you share something you love with me, everyone?"
+      "content": "Vậy nên...  à, tôi biết bắt đầu từ đâu rồi. Mọi người có thể chia sẻ với tôi một thứ mà mình yêu thích không?"
     },
     {
       "id": 66,
@@ -323,17 +323,17 @@
     {
       "id": 67,
       "model": "약지제자1",
-      "content": "Don't hesitate to ask me anything you'd like to know about me, either. Ever since I fed a few slices of my brain to Fascia, I've become a very, very bad liar."
+      "content": "À, các bạn cũng đừng ngần ngại mà có thể hỏi tôi bất cứ điều gì. Từ khi tôi cho Fascia ăn vài lát não của mình thì tôi đã trở thành một kẻ nói dối cực kỳ tệ rồi."
     },
     {
       "id": 68,
       "model": "싱클레어",
-      "content": "... What makes you think... we're going to tell you any of that?"
+      "content": "... Sao ngươi nghĩ... bọn ta sẽ nói cho ngươi nghe mấy chuyện đó"
     },
     {
       "id": 69,
       "model": "약지제자1",
-      "content": "Okay, then me first. My name is Albina. I'm learning Corporism art under Maestro Callisto's tutelage with my beloved Fascia."
+      "content": "Vậy thì tôi trước nhé. Tên tôi là Albina. Tôi đang học nghệ thuật trường phái Nhục Thể dưới sự chỉ dạy của ngài Nhạc Công Callisto… cùng với Fascia yêu quý của mình."
     }
   ]
 }
