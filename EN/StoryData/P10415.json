@@ -1,0 +1,754 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Lưỡi Đao của Tổ Nhện",
+      "content": "Cắt và đoạn tuyệt."
+    },
+    {
+      "id": 1,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Lưỡi Đao của Tổ Nhện",
+      "content": "Thiêu rụi và cắt đứt tất cả, cho tới khi không còn vấn vương nào dù là một sợi chỉ."
+    },
+    {
+      "id": 2,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Lưỡi Đao của Tổ Nhện",
+      "content": "Cả Tổ Nhện..."
+    },
+    {
+      "id": 3,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Lưỡi Đao của Tổ Nhện",
+      "content": "Cả lũ Cha Đỡ Đầu các ngươi..."
+    },
+    {
+      "id": 4,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Lưỡi Đao của Tổ Nhện",
+      "content": "Ta sẽ xoá sạch mọi dấu vết còn sót lại."
+    },
+    {
+      "id": 5,
+      "content": "Ta thấy một sợi chỉ."
+    },
+    {
+      "id": 6,
+      "content": "Nó hiện rõ trước mắt ta đến rợn người. Sợi chỉ mà ta đã không thể cắt đứt. Sợi chỉ mà ta buộc phải đoạn tuyệt."
+    },
+    {
+      "id": 7,
+      "content": "Theo sau là vô vàn ký ức bủa vây lấy tâm trí như sóng gió cuồn cuộn về những thứ ta chẳng muốn nhớ đến, chỉ vương vấn lại khát vọng hão huyền rằng thân này không bao giờ trở về nơi ấy..."
+    },
+    {
+      "id": 8,
+      "content": "Như một vỏ ốc trống rỗng trôi dạt vào bờ."
+    },
+    {
+      "id": 9,
+      "content": "Mớ thời gian rối tung ấy đang nuốt chửng ý thức của ta."
+    },
+    {
+      "id": 10,
+      "content": "Nơi đây chẳng có lấy một tờ lịch, nhưng ta biết được đã bao nhiêu ngày trôi qua."
+    },
+    {
+      "id": 11,
+      "content": "Cũng chẳng có đồng hồ, thế mà ta vẫn phân biệt được ngày lẫn đêm."
+    },
+    {
+      "id": 12,
+      "content": "Dẫu vậy vẫn có những thứ ta chẳng tài nào hiểu nổi."
+    },
+    {
+      "id": 13,
+      "content": "Tại sao ta lại bị nhốt trong cái Két này chứ? Tại sao cha mẹ lúc nào cũng cố nhốt ta ở đây?"
+    },
+    {
+      "id": 14,
+      "content": "Là để trừng phạt ta sao? Hay là... ta đã chẳng còn chút giá trị nào nữa rồi?"
+    },
+    {
+      "id": 15,
+      "content": "Những câu hỏi mãi chẳng có lời giải."
+    },
+    {
+      "id": 16,
+      "content": "Ôm lấy đống nghi hoặc ấy trong lòng, ta lại tiếp tục chịu đựng thêm một ngày chẳng biết bao giờ kết thúc, dù ta luôn biết chắc rằng rồi nó cũng sẽ tới hồi kết."
+    },
+    {
+      "id": 17,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Tổ Nhện",
+      "content": "Con... con sẽ không kêu tiếng nào nữa đâu! Sợ cũng không kêu đâu!"
+    },
+    {
+      "id": 18,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Tổ Nhện",
+      "content": "Những gì cha mẹ thích, con sẽ học thuộc lòng hết."
+    },
+    {
+      "id": 19,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Tổ Nhện",
+      "content": "Con... con sẽ học kiếm thuật. Con sẽ tiếp thu thật nhanh mà."
+    },
+    {
+      "id": 20,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Tổ Nhện",
+      "content": "Dù có đau đớn ra sao thì con cũng sẽ không chạy trốn đâu mà."
+    },
+    {
+      "id": 21,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Tổ Nhện",
+      "content": "Nên là làm ơn... xin hãy thả con ra đi..."
+    },
+    {
+      "id": 22,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Tổ Nhện",
+      "content": "Cha ơi... Mẹ ơi..."
+    },
+    {
+      "id": 23,
+      "content": "Ngay lúc ta bắt đầu tê liệt với mọi tầng bóng tối đang nhấn chìm mình,"
+    },
+    {
+      "id": 24,
+      "content": "cánh cửa mà ta cố đập phá, cào cấu đến bật máu nhưng vẫn không suy chuyển lấy một lần lại mở ra dễ dàng đến nực cười, đến mức mọi đau đớn ta từng chịu đựng bỗng chốc hóa thành trò hề vô nghĩa."
+    },
+    {
+      "id": 25,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Tổ Nhện",
+      "content": "C-Cha ơi... con xin hứa... từ giờ trở đi con sẽ..."
+    },
+    {
+      "id": 26,
+      "content": "Ta chẳng kỳ vọng gì cả."
+    },
+    {
+      "id": 27,
+      "content": "Cũng không mong nhận được lời dịu dàng hay ánh mắt quan tâm nào. Những thứ ấy vốn thuộc về một thế giới xa xôi tựa như hai đầu của một Hành Lang chẳng thể chạm tới nhau."
+    },
+    {
+      "id": 28,
+      "content": "Nhưng ít nhất ta muốn có câu trả lời."
+    },
+    {
+      "id": 29,
+      "content": "Rằng vì sao cánh cửa Két lại khoá chặt? Ta đã làm gì sai sao? Hay có cách nào để ta trở nên tốt hơn? Chỉ vậy thôi."
+    },
+    {
+      "id": 30,
+      "content": "Thế nhưng... ngay cả chừng đó cũng dường như là quá xa xỉ..."
+    },
+    {
+      "id": 31,
+      "teller": "???",
+      "title": "Cha Đỡ Đầu của Tổ Nhện",
+      "content": "... vẫn chưa tiến vào trạng thái Giao Thoa Thời Gian được à."
+    },
+    {
+      "id": 32,
+      "teller": "???",
+      "title": "Cha Đỡ Đầu của Tổ Nhện",
+      "content": "Hai ngày nữa thử lại xem sao."
+    },
+    {
+      "id": 33,
+      "content": "... Chỉ để lại vài lời hờ hững khô khốc, rồi các Cha Đỡ Đầu cứ thế quay về Hành Lang của riêng mình."
+    },
+    {
+      "id": 34,
+      "content": "Những trận đòn vô cớ tiếp diễn không hồi kết."
+    },
+    {
+      "id": 35,
+      "content": "Những cơn hứng thất thường luôn cố ép ta vào khuôn mẫu sở thích tùy tiện của chúng."
+    },
+    {
+      "id": 36,
+      "content": "Những tràng pháo tay khoái trá đi cùng ánh mắt săm soi đánh giá."
+    },
+    {
+      "id": 37,
+      "content": "Nỗi đau khủng khiếp của việc bị đối xử như một thứ \"chất liệu.\""
+    },
+    {
+      "id": 38,
+      "content": "Bốn sợi chỉ ấy xoắn lại thành chiếc thòng lọng siết quanh cổ ta."
+    },
+    {
+      "id": 39,
+      "content": "Mỗi sợi thi nhau giằng xé ta về muôn ngả, chẳng lúc nào ngơi nghỉ."
+    },
+    {
+      "id": 40,
+      "content": "Mỗi sợi đều cố khắc sâu sự hiện diện ghê tởm của nó."
+    },
+    {
+      "id": 41,
+      "content": "Đó là lý do tại sao, nếu thiếu vắng ta, chúng sẽ không thể nào sống tiếp."
+    },
+    {
+      "id": 42,
+      "content": "Chúng chỉ là thứ cặn bã bị bỏ rơi. Không còn sợi chỉ nào khác để bám víu."
+    },
+    {
+      "id": 43,
+      "content": "Vậy nên ta sẽ cắt đứt sợi chỉ cuối cùng còn sót lại của chúng."
+    },
+    {
+      "id": 44,
+      "content": "Và nếu muốn đoạn tuyệt khỏi chính mình, ta buộc lòng phải đoạn tuyệt những thứ khác."
+    },
+    {
+      "id": 45,
+      "content": "Ta vung kiếm trong điên loạn, chém nát mọi thứ lọt vào tầm mắt."
+    },
+    {
+      "id": 46,
+      "content": "Nhìn xem người cha ngu muội kia, kẻ chẳng bao giờ họa nổi một địa ngục nếu chưa từng tận mắt chứng kiến."
+    },
+    {
+      "id": 47,
+      "content": "Một tên ngu xuẩn chẳng hề nhận ra đầu cọ của mình từ lâu đã khô quắt, vậy mà vẫn điên cuồng khao khát thứ cảm hứng khô cạn cùng sự sáng tạo mục rữa."
+    },
+    {
+      "id": 48,
+      "content": "Mỗi lần mở mắt, ta như đang đặt chân qua ngưỡng cửa tử, đứng chênh vênh nơi bờ cõi âm ti."
+    },
+    {
+      "id": 49,
+      "content": "Mỗi nhát khắc gọt bỏ từng mảng thịt khỏi thân xác này, mỗi nét cọ nhuộm kín khung tranh bằng phong cảnh địa ngục ghê tởm ấy, cổ họng ta khàn đặc lại, còn tim thì đập nhanh đến mức như muốn xé toạc lấy lồng ngực này."
+    },
+    {
+      "id": 50,
+      "content": "Một màn kịch được dựng nên để phô diễn vẻ huy hoàng tàn độc nhất."
+    },
+    {
+      "id": 51,
+      "content": "Cứ ngỡ nỗi đau thấu tận tâm can lẫn thể xác sẽ kết liễu ta, thế nhưng ta đã lầm, gã Cha Đỡ Đầu đó hiểu quá rõ giới hạn cơ thể này hơn ta."
+    },
+    {
+      "id": 52,
+      "content": "Thứ chất liệu mang tên ta bị cắt gọt, chỉnh sửa cho tới khi chỉ còn thoi thóp hơi tàn, gào thét trong đau đớn đến khàn tiếng, nhưng vẫn chưa đủ để ngất đi."
+    },
+    {
+      "id": 53,
+      "content": "Vậy nên..."
+    },
+    {
+      "id": 54,
+      "content": "Vậy nên mỗi lần cảm nhận những vết bầm tím trên cơ thể âm ỉ nhức nhối, ta lại lần theo những ký ức rời rạc của chính mình."
+    },
+    {
+      "id": 55,
+      "content": "Nỗi đau này thuộc về <i>khi nào</i>? Là hiện tại? Từ quá khứ? Hay là một ngày nào đó trong tương lai còn chưa tới? Nếu nó thuộc về \"hiện tại\", thì đáng lẽ nó đã phải kết thúc rồi mới đúng, bởi \"bây giờ\" vốn quá đỗi ngắn ngủi. Ngay khoảnh khắc từ ấy chạm lên đầu lưỡi, nó đã lập tức trở thành hư ảo của quá khứ."
+    },
+    {
+      "id": 56,
+      "content": "Thế nhưng những nỗi đau, vết thương lẫn lằn sẹo này... Chúng không bao giờ tan biến. Mãi vương vấn lại nơi mắt trần có thể trông thấy, rồi lại tức khắc bén rễ ở nơi chẳng thể nhìn thấy được. Nỗi đau giống như vết tích tồn tại của quá khứ vừa trôi hoặc tương lai cận kề, thậm chí ngay tại lúc này đây, ta vẫn bị tước mất khả năng sống trong \"hiện tại\" mà chẳng thể cảm nhận được nỗi đau là gì..."
+    },
+    {
+      "id": 57,
+      "content": "Như cánh bướm dẫu thân xác nát tan vẫn không nỡ rời nhành hoa."
+    },
+    {
+      "id": 58,
+      "content": "Như cánh bướm dẫu bị xua đuổi muôn lần vẫn chẳng chịu bay đi."
+    },
+    {
+      "id": 59,
+      "content": "Chẳng phải nó luyến lưu, cũng chẳng phải nó quên cách sải cánh, mà có lẽ ngay từ thuở khai sinh, nó vốn chưa từng được dạy rằng mình có thể bay. Con bướm vừa phá kén đã sa vào lưới nhện. Vẫy vùng không phải là bay. Đôi cánh chỉ biết đập loạn trong vô vọng vốn chưa từng thật sự là đôi cánh."
+    },
+    {
+      "id": 60,
+      "content": "Con bướm ấy chính là ta, nhưng cũng chẳng phải ta và nó cũng chẳng hề biết bay. Nó không thể trôi qua như \"hiện tại\". Nó mãi mắc kẹt ở nơi đây."
+    },
+    {
+      "id": 61,
+      "content": "Sự thật ấy, ả Cha Đỡ Đầu nọ hiểu rõ hơn bất kỳ ai. Có lẽ vì vậy mà nắm đấm mụ luôn giáng xuống người ta mà chẳng chút do dự."
+    },
+    {
+      "id": 62,
+      "content": "Ta bị đánh đập đến khi ả vừa lòng. Trong cơn thịnh nộ, tất cả những gì có thể với tới được, ả đều phang hết vào thân thể này."
+    },
+    {
+      "id": 63,
+      "content": "Những lời chửi rủa ghim vào tim ta như kim nhọn, thế nhưng ả Cha Đỡ Đầu nọ biết rõ rằng ta chẳng thể nào chạy trốn."
+    },
+    {
+      "id": 64,
+      "content": "Ấy vậy mà dù ngày này qua ngày nọ ta vẫn hứng chịu những cú đấm ấy, chỉ mong cơn lôi đình của ả Cha Đỡ Đầu nguôi ngoai... Ta vẫn chẳng hiểu nổi cơn cuồng nộ đó đến từ đâu, hay tại sao bản thân phải chịu đựng tất cả chuyện này."
+    },
+    {
+      "id": 65,
+      "content": "Mỗi cơn thịnh nộ mù quáng để lại một vết sẹo trên người ta..."
+    },
+    {
+      "id": 66,
+      "content": "... cũng như một bài học."
+    },
+    {
+      "id": 67,
+      "content": "Rằng sống nơi cõi bên kia chẳng khác nào cố lê bước qua màn đêm chỉ với duy nhất một ngọn đèn dầu."
+    },
+    {
+      "id": 68,
+      "content": "Ta có thể ngao du qua mọi kẽ hở của thời gian, nhưng tuyệt nhiên chẳng thể thoát khỏi dãy Hành Lang định mệnh này. Vậy nên ta đã cố tìm lấy một lẽ sống. Một chấp niệm nhỏ bé nào đó có thể khiến tất cả trở nên dễ chịu hơn đôi chút, một xiềng xích trói chặt ta lại với cõi đời. Một ngọn đèn giúp ta bám trụ qua đêm thâu."
+    },
+    {
+      "id": 69,
+      "content": "Đôi khi, ta đi tìm nó nơi những kẻ bước vào Tổ với danh nghĩa \"gia sư\". Những lần khác, ta lại tìm trong những món đồ nhỏ nhặt bị vứt ngổn ngang trên sàn."
+    },
+    {
+      "id": 70,
+      "content": "Nhưng bất cứ thứ gì ta tìm thấy cũng đều bị tước đoạt khỏi tay ta, thậm chí bị đập nát tan tành, chỉ vì đó không phải thứ mà một trong số chúng muốn. Những gì thương xót ta và cả những thứ mà ta trân trọng, tất cả đều bị nghiền nát và hủy hoại chỉ bởi một ý thích nhất thời của ả Cha Đỡ Đầu khác."
+    },
+    {
+      "id": 71,
+      "content": "Bị gọt bỏ...không, bị băm nát... cũng không đúng. Là bị cắt lìa. Bị phanh thây. Bị cắt lìa và phanh thây trong cơn khoái lạc man rợ, vậy mà dù thế đi nữa... vẫn còn thứ chưa thể dứt bỏ. Cái dư vị bất an khó chịu ấy, cảm giác khi nhìn thấy những đầu chỉ rối chưa được buộc lại."
+    },
+    {
+      "id": 72,
+      "content": "Rồi còn cái tâm trí non nớt, hèn nhát kia nữa, một tâm trí chẳng thể chịu nổi dù chỉ chút khó chịu nhỏ nhoi, và sẽ không chịu dừng lại cho tới khi phá hủy sạch từng thứ khiến mình phiền lòng. Chỉ riêng sự tồn tại của mụ thôi cũng đủ khiến mọi đường chỉ quanh ta xoắn chặt và rối tung lên."
+    },
+    {
+      "id": 73,
+      "content": "Những lúc như thế, ta chỉ biết ở lại trong căn phòng trống rỗng mà ả Cha Đỡ Đầu vừa rời đi, chẳng thể ngăn nổi nước mắt cứ trào ra."
+    },
+    {
+      "id": 74,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Lưỡi Đao của Tổ Nhện",
+      "content": "......."
+    },
+    {
+      "id": 75,
+      "content": "Có lẽ bản thân của ngày mai đã cướp sạch phần đau buồn dành cho ta và tiêu xài hết chúng mất rồi,"
+    },
+    {
+      "id": 76,
+      "content": "bởi hôm nay, tâm tư ta tựa như giếng cạn, chẳng còn lấy một giọt lệ để mà tuôn rơi."
+    },
+    {
+      "id": 77,
+      "content": "Ta nghe thấy một âm thanh, là tiếng xiềng xích gỉ sét nặng nề lê trên mặt đất."
+    },
+    {
+      "id": 78,
+      "content": "Nhưng nó không phát ra từ dưới chân ta,"
+    },
+    {
+      "id": 79,
+      "content": "thay vào đó, nó vọng lên từ tận sâu trong ký ức."
+    },
+    {
+      "id": 80,
+      "content": "Thực tại bao vây lấy ta đều là tầng tầng lớp lớp những dối lừa. Chúng phủ đầy vỏ bọc đớn đau, chìm ngập trong thống khổ, xoắn tít quanh cuộc đời ta thành những nút thắt rối bời chẳng thể nào có thể gỡ ra được. Càng lúc bủa vây dày đặc, bóp nghẹt lấy từng chút hơi thở còn đọng lại."
+    },
+    {
+      "id": 81,
+      "content": "Ta muốn thoát ra. Ta <i>cần</i> phải thoát ra..."
+    },
+    {
+      "id": 82,
+      "content": "Nhưng chỉ tuyệt vọng thôi thì không thể mở được cánh cửa."
+    },
+    {
+      "id": 83,
+      "content": "Bóng tối bế tắc tuyệt vọng. Thanh âm tĩnh lặng não nề. Ta của hiện tại đã quá lớn để có thể thu mình trong chiếc Két bé nhỏ này thêm nữa. Mà dù có bước ra ngoài, căn phòng chật hẹp ấy cũng chẳng còn chỗ đứng cho ta. Vậy mà chính vì ta sống trong căn phòng ấy, trong Tổ Nhện, nên ta mới bị nhốt trong cái Két bé nhỏ không ánh sáng này."
+    },
+    {
+      "id": 84,
+      "content": "Thế giới bé nhỏ của ta. Căn phòng chật hẹp của ta. Chiếc lồng chim mà ta mãi mãi không thể thoát khỏi. Có lẽ đó là nơi ta hoài niệm, nhưng cũng là nơi chẳng hề bao dung ta. Tại sao ta cứ mải miết tìm đường thoát? Dù cánh cửa kia vẫn trơ lì đóng chặt."
+    },
+    {
+      "id": 85,
+      "content": "Và giả như ta có bước ra ngoài, liệu sẽ có ai chào đón ta không?"
+    },
+    {
+      "id": 86,
+      "content": "Như để chôn vùi nỗi sợ kéo theo sau câu hỏi ấy, những dư ảnh nhuốm đầy đau đớn lại tiếp tục quấn lấy cuộc đời ta, rối chồng lên nhau đến mức không thể tháo gỡ. Rồi tất cả đồng loạt đổ ập xuống người ta."
+    },
+    {
+      "id": 87,
+      "content": "Chúng dày đặc tới mức ta thấy mình ngạt thở. Tầng tầng lớp lớp những dư ảnh, cuộc đời, bản ngã, tất cả đều bao quanh ta..."
+    },
+    {
+      "id": 88,
+      "content": "Ta được sinh ra từ chính bản thân mình và cứ thế lớn lên trong vô vọng."
+    },
+    {
+      "id": 89,
+      "content": "<i>Con đã tiến vào trạng thái Giao Thoa Thời Gian rồi, Yoshihide.</i>"
+    },
+    {
+      "id": 90,
+      "content": "Chỉ đến lúc đó, một tia sáng le lói rạch ngang màn đêm."
+    },
+    {
+      "id": 91,
+      "content": "Chúng là những cây kim đâm vào mắt ta, là khởi đầu và kết cục mà ta phải đối mặt, là những sợi chỉ chẳng mang gì ngoài đau đớn."
+    },
+    {
+      "id": 92,
+      "content": "Có những thứ không thể mất đi chỉ bằng việc quên lãng. Cũng có những thứ chỉ có thể quên được khi đã đánh mất chúng."
+    },
+    {
+      "id": 93,
+      "content": "Ta phải cắt đứt mọi sợi chỉ quấn quanh mình."
+    },
+    {
+      "id": 94,
+      "content": "Ta phải kết liễu lũ Cha Đỡ Đầu ấy..."
+    },
+    {
+      "id": 95,
+      "content": "... Để chẳng còn thứ gì có thể tồn tại, để không kẻ nào còn có thể ngước mắt nhìn lên bầu trời xanh. Để không ai và không thứ gì còn có thể gọi tên ta nữa."
+    },
+    {
+      "id": 96,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Lưỡi Đao của Tổ Nhện",
+      "content": "……."
+    },
+    {
+      "id": 97,
+      "content": "Đầu óc ta nhẹ bẫng."
+    },
+    {
+      "id": 98,
+      "content": "Ta không còn cảm nhận được sự hiện diện khắp nơi của những ký ức kinh tởm từng bám chặt lấy tâm trí ta suốt thời gian dài."
+    },
+    {
+      "id": 99,
+      "content": "Như thể chỉ bằng việc vung lưỡi kiếm Arayashiki, ta đã chặt đứt sợi dây trói buộc từng đè nặng lên mình."
+    },
+    {
+      "id": 100,
+      "content": "Ta hít sâu, rồi thở ra. Ta siết tay lại thành nắm đấm, rồi mở ra lần nữa. Ngay cả cử động nhỏ bé ấy cũng khiến ta cảm nhận được sự sảng khoái."
+    },
+    {
+      "id": 101,
+      "content": "Yoshihide. Yoshihide. Yoshihide."
+    },
+    {
+      "id": 102,
+      "content": "Lũ Cha Đỡ Đầu gào lên gọi tên ta. Điều gì khiến những kẻ vô cảm chỉ biết đứng nhìn ta quằn quại trong đau đớn lại có thể gào khóc tuyệt vọng đến vậy?"
+    },
+    {
+      "id": 103,
+      "content": "Ta đã được gọi bằng cái tên ấy vô số lần rồi. Thế nhưng hôm nay nó lại vang vọng một cách khó chịu đến lạ."
+    },
+    {
+      "id": 104,
+      "content": "Vậy nên, ta chờ cho cơn đau kết thúc."
+    },
+    {
+      "id": 105,
+      "content": "... Kết thúc ư? Không. Không phải kết thúc. Cách nói ấy mâu thuẫn vô cùng. Ngay cả khi kết thúc thì sẽ có lợi ích gì? Ta sẽ phải làm gì sau tàn cuộc đây?"
+    },
+    {
+      "id": 106,
+      "content": "Một nỗi đau đã kết thúc cũng chỉ là một căn phòng trống rỗng không một bóng đồ đạc. Phía sau kết thúc chẳng có gì cả, giống hệt như những cuốn truyện tranh mà gã Cha Đỡ Đầu từng đọc cho ta nghe. Đã quá muộn để đứng trước hồi kết rồi hy vọng rằng điều gì đó sẽ thay đổi."
+    },
+    {
+      "id": 107,
+      "content": "Ta từng vùng vẫy trong đau khổ chỉ vì không nhận ra sự thật ấy. Ta từng cào cấu những bức tường, cố ép ngược dòng lệ chực tuôn rơi, và đôi lúc chỉ ngồi im vô cảm trong khi tâm trí quay cuồng giữa nỗi kinh hoàng vô định."
+    },
+    {
+      "id": 108,
+      "content": "Ngày nọ, gã Cha Đỡ Đầu đã đọc cho ta một câu chuyện."
+    },
+    {
+      "id": 109,
+      "content": "Đó là chuyện về một người đàn ông tự dệt đôi cánh cho mình, bay vút lên cao và đối diện với ánh sáng rực rỡ nơi bầu trời. Nhưng câu chuyện không dừng lại ở đó. Nó kết thúc khi người đàn ông ấy lao xuống những con sóng đang vỗ, gào thét trong ngọn lửa thiêu cháy đôi cánh của mình. Câu chuyện của gã Cha Đỡ Đầu vẫn ngoan cố kéo dài mãi cho tới cái kết ghê rợn ấy."
+    },
+    {
+      "id": 110,
+      "content": "Ta xin một câu chuyện khác, hy vọng có thể xóa đi cái dư vị khó chịu còn sót lại từ câu chuyện trước, nhưng tất cả đều kết thúc giống nhau:"
+    },
+    {
+      "id": 111,
+      "content": "Trong bi kịch. Những cuốn sách ta được chọn chỉ giới hạn trong những gì mà gã Cha Đỡ Đầu ấy đưa cho, ý chí của ta bị nhốt trong cái thế giới chật hẹp mà lũ Cha Đỡ Đầu dựng nên. Tất cả đều vô nghĩa khi mọi thứ đều được định đoạt sẵn."
+    },
+    {
+      "id": 112,
+      "content": "Dù có bước trên con đường nào đi nữa, ta vẫn ở trong Tổ Nhện. Dù đi tới đâu, ta vẫn đứng giữa tâm điểm của mạng nhện ấy."
+    },
+    {
+      "id": 113,
+      "content": "Dù giấc ngủ là nơi trú ẩn duy nhất giúp ta thoát khỏi cơn tuyệt vọng đang đè nặng lên người như quần áo ướt sũng, những khoảnh khắc kinh hoàng ấy vẫn tự tìm đến, trói chặt ta về lại thế giới tỉnh thức."
+    },
+    {
+      "id": 114,
+      "content": "Nhưng không, có lẽ không phải giấc ngủ của ta bị ngăn lại; hôm qua ta đã ngủ, nên hôm nay ta tỉnh giấc. Phải... chỉ đơn giản là vậy thôi."
+    },
+    {
+      "id": 115,
+      "content": "Sau ngày hôm nay chẳng phải là ngày mai, mà là ngày hôm qua; và giấc ngủ rồi sẽ lại kéo ta đi, bất kể ta có muốn hay không."
+    },
+    {
+      "id": 116,
+      "content": "Cứ thế, đối mặt với khoảnh khắc không thể tránh né cũng không thể ngăn cản, ta mở mắt ra trong luồng ánh sáng xanh thưa thớt mờ dần."
+    },
+    {
+      "id": 117,
+      "content": "Mọi câu chuyện từng được kể ra đều được định sẵn sẽ đi đến hồi kết."
+    },
+    {
+      "id": 118,
+      "content": "Bởi dù chúng ta có méo mó và rối tung đến nhường nào, thì tất cả vẫn từng cùng ngước nhìn về một thế giới duy nhất..."
+    },
+    {
+      "id": 119,
+      "content": "Để dòng thời gian thắt nút này không còn lẻ bóng..."
+    },
+    {
+      "id": 120,
+      "content": "Để chính ta không còn phải cô độc."
+    },
+    {
+      "id": 121,
+      "content": "Ta phải đọc câu chuyện này cho tới đoạn cuối, rồi chìm sâu vào bi kịch mà bản thân đã quá đỗi quen thuộc."
+    },
+    {
+      "id": 122,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Lưỡi Đao của Tổ Nhện",
+      "content": "Lũ các ngươi có lẽ chẳng hay... nhưng trên bất kỳ sợi chỉ nào, mọi bản ngã của ta cũng chưa từng buông bỏ chính mình."
+    },
+    {
+      "id": 123,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Lưỡi Đao của Tổ Nhện",
+      "content": "Đó là cách ta biết được khởi đầu lẫn kết cục của cái Tổ Nhện đã giam cầm ta suốt từng ấy năm."
+    },
+    {
+      "id": 124,
+      "content": "Một thế giới bé nhỏ chỉ thuộc về riêng ta vì ta được sinh ra. Vì ta tồn tại. Vì đã từng có ai đó nhớ đến ta."
+    },
+    {
+      "id": 125,
+      "content": "Lũ Cha Đỡ Đầu luôn hiện diện ở đó, trong từng phân cảnh có mặt ta, trong mọi khoảnh khắc diễn ra bên trong Tổ Nhện."
+    },
+    {
+      "id": 126,
+      "content": "Chưa từng có lấy một ngày, hay dù chỉ một giờ đời ta, mà chúng không hiện diện trong đó."
+    },
+    {
+      "id": 127,
+      "content": "Và bầy nhện đã dựng tổ bên trong những góc khuất ký ức của ta, còn lũ Cha Đỡ Đầu thì nhuộm bẩn từng giờ từng phút của cuộc đời mà chúng chạm tới."
+    },
+    {
+      "id": 128,
+      "content": "Lẽ đương nhiên, thứ ký ức này ta căm ghét đến tận xương tủy, nên chẳng điều gì đủ để ngăn thanh kiếm của ta lại."
+    },
+    {
+      "id": 129,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Lưỡi Đao của Tổ Nhện",
+      "content": "Các ngươi đã nhào nặn thế giới của ta thành thế giới của riêng các ngươi, một thế giới của đọa đày và bi ai, nơi những phiến lá không ngóng trông ánh dương mà chỉ mưu cầu cái chết."
+    },
+    {
+      "id": 130,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Lưỡi Đao của Tổ Nhện",
+      "content": "Hãy kết thúc bi kịch này đi. Nó đã kéo dài quá lâu rồi."
+    },
+    {
+      "id": 131,
+      "model": "료슈",
+      "teller": "Yoshihide",
+      "title": "Lưỡi Đao của Tổ Nhện",
+      "content": "Hãy cắt đứt và đoạn tuyệt tất cả."
+    },
+    {
+      "id": 132,
+      "content": "Bởi ta cảm thấy hân hoan trước sự tĩnh lặng tột cùng sau khi các ngươi bị khoét bỏ khỏi thực tại."
+    },
+    {
+      "id": 133,
+      "content": "Giọng nói của lũ Cha Đỡ Đầu dần nhạt đi ngay cả trong những khoảnh khắc bất chợt ập tới."
+    },
+    {
+      "id": 134,
+      "content": "Mọi thứ rơi rụng, bị cắt lìa, bị thiêu thành khoảng trắng rỗng tuếch, bị bóc tách khỏi thế giới,"
+    },
+    {
+      "id": 135,
+      "content": "chỉ còn lại những khoảnh khắc vụn vỡ dao động giữa đống ký ức tan nát."
+    },
+    {
+      "id": 136,
+      "content": "Những tiếng gào thét và vùng vẫy... tất cả rồi cũng chỉ còn là những khoảnh khắc vô nghĩa nằm ngoài rìa nhận thức."
+    },
+    {
+      "id": 137,
+      "content": "Tuyệt Duyên."
+    },
+    {
+      "id": 138,
+      "content": "Đoạn tuyệt ký ức, đoạn tuyệt lũ Cha Đỡ Đầu, đoạn tuyệt chính bản thân ta."
+    },
+    {
+      "id": 139,
+      "content": "Mọi thứ cấu thành nên một con người đều bị lóc bỏ từng lớp một; ngay cả những thứ lẽ ra có thể lấp đầy khoảng trống cũng trở nên trống rỗng."
+    },
+    {
+      "id": 140,
+      "content": "Chẳng còn mong cầu."
+    },
+    {
+      "id": 141,
+      "content": "Chẳng cần ngoái lại."
+    },
+    {
+      "id": 142,
+      "content": "​Sự tráng lệ khó tả tìm đến. Sự khoái lạc khó tả tìm đến."
+    },
+    {
+      "id": 143,
+      "content": "Sự trống rỗng khó tả tìm đến. Sự thống khổ khó tả tìm đến."
+    },
+    {
+      "id": 144,
+      "content": "Những nỗi niềm khó tả..."
+    },
+    {
+      "id": 145,
+      "content": "Tìm đến từ phía cuối con đường."
+    },
+    {
+      "id": 146
+    },
+    {
+      "id": 147
+    },
+    {
+      "id": 148
+    },
+    {
+      "id": 149,
+      "teller": "???",
+      "title": "Cố Vấn Ngón Cái",
+      "content": "Vậy là dự án này cuối cùng cũng đi đến hồi kết rồi. Phù... Có vẻ nó đã hoàn thành đúng như những gì ngài Capo dei Capi mong muốn."
+    },
+    {
+      "id": 150,
+      "teller": "???",
+      "title": "Maestro Ngón Nhẫn",
+      "content": "Tuyệt mỹ. Giá mà thứ này có thể mang đi được, ta đã rất muốn trưng bày nó trong phòng triển lãm chính của mình."
+    },
+    {
+      "id": 151,
+      "teller": "???",
+      "title": "Vì Sao của Ngón Út",
+      "content": "... Thiên Sát Tinh. Vì sao không nhìn vào vô vàn tồn tại và khoảnh khắc riêng lẻ trong dòng chảy thời gian, mà nhìn thấy toàn bộ bức tranh trải rộng khắp vũ trụ, soi xuống thứ ánh sáng cho phép giao thoa thời gian xuất hiện..."
+    },
+    {
+      "id": 152,
+      "teller": "???",
+      "title": "Vì Sao của Ngón Út",
+      "content": "Cứ như chính tinh cầu ấy đang mọc lên trước mắt ta vậy. Ánh sáng của nó bi thương chẳng khác gì một viên ngọc trai."
+    },
+    {
+      "id": 153,
+      "teller": "???",
+      "title": "Cố Vấn Ngón Cái",
+      "content": "Nhắc mới nhớ, có lẽ cũng tới lúc chúng ta bàn về phần thưởng cho những kẻ đã hoàn thành nó rồi nhỉ?"
+    },
+    {
+      "id": 154,
+      "teller": "???",
+      "title": "Cố Vấn Ngón Cái",
+      "content": "Ý ta là, phải có <i>ai đó</i> giữ vai trò chủ chốt trong việc hoàn thiện Dự Án Tổ Nhện chứ? Đáng tiếc thật, xem ra kẻ đó đã bị chính tác phẩm của mình nuốt chửng mất rồi."
+    },
+    {
+      "id": 155,
+      "teller": "???",
+      "title": "Chị Đại Ngón Giữa",
+      "content": "Thì cũng chỉ là vứt đi những thứ cần phải vứt thôi."
+    },
+    {
+      "id": 156,
+      "teller": "???",
+      "title": "Chị Đại Ngón Giữa",
+      "content": "Chẳng phải nơi này vốn là <i>bãi rác</i> sao?"
+    },
+    {
+      "id": 157,
+      "teller": "???",
+      "title": "Chị Đại Ngón Giữa",
+      "content": "Kẻ bị hút vào đó chắc cũng là thứ cặn bã đáng bị tống đi thôi."
+    },
+    {
+      "id": 158,
+      "teller": "???",
+      "title": "Người Đưa Tin Ngón Trỏ",
+      "content": "... Sắc Lệnh đã ban xuống. Kể từ 3 ngày sau, Ngón Trỏ sẽ tiếp quản hiện tượng này."
+    },
+    {
+      "id": 159,
+      "teller": "???",
+      "title": "Chị Đại Ngón Giữa",
+      "content": "Đụ má mấy thằng Ngón Trỏ đầu cặc tụi bây—"
+    },
+    {
+      "id": 160,
+      "teller": "???",
+      "title": "Người Đưa Tin Ngón Trỏ",
+      "content": "Khự...!"
+    },
+    {
+      "id": 161,
+      "teller": "???",
+      "title": "Cố Vấn Ngón Cái",
+      "content": "Dám mở miệng đòi chiếm đoạt thành quả làm của riêng, đó là lời lẽ không thể dung thứ trong bất kỳ hoàn cảnh nào. Chẳng lẽ Ý Chí của Sắc Lệnh coi rẻ tính mạng Người Đưa Tin của mình đến thế sao? Ta thật chẳng hiểu cái thứ quái quỷ đó đang muốn gì."
+    },
+    {
+      "id": 162,
+      "teller": "???",
+      "title": "Maestro Ngón Nhẫn",
+      "content": "Ai dám chắc rằng trong vòng 3 ngày tới, Ngón Trỏ sẽ không nhận thêm một Sắc Lệnh khác yêu cầu chia đều quyền sở hữu cho toàn bộ các Ngón? Cứ chờ xem tình hình phát triển thế nào rồi hãy hành động."
+    },
+    {
+      "id": 163,
+      "teller": "???",
+      "title": "Chị Đại Ngón Giữa",
+      "content": "Còn thằng Người Đưa Tin kia... cứ ném nó vào \"bãi rác\" đi. Rác thì phải bị đem đi \"chôn\", đúng không?"
+    },
+    {
+      "id": 164,
+      "teller": "???",
+      "title": "Vì Sao của Ngón Út",
+      "content": "... Vậy thì ngôi sao ấy sẽ còn lóe sáng thêm một khoảnh khắc ngắn ngủi nữa."
+    }
+  ]
+}
