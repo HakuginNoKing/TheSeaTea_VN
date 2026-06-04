@@ -1,49 +1,60 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Fantasy Blood-shooting",
-      "model": "돈키호테",
-      "content": "Thus, we vanquished the bear and claimed the fabled Helm of Mambrino ours!"
-    },
-    {
-      "id": 1,
-      "place": -1,
-      "content": "<color=#ffef23>Really, a bear?</color>"
-    },
-    {
-      "id": 2,
-      "content": "<color=#ffef23>I can obliterate that poor animal in less than three—</color>"
-    },
-    {
-      "id": 3,
-      "content": "<color=#cc2424>Oh, please. Where is the fun in that? We shall battle this fell beast like... ...from the books!</color>"
-    },
-    {
-      "id": 4,
-      "place": "Fantasy Blood-shooting",
-      "model": "싱클레어",
-      "content": "H-helm...? Do you think these stories are... actual adventures of Don Quixote?"
-    },
-    {
-      "id": 5,
-      "model": "이상",
-      "content": "Miss Don Quixote. Not once have we truly given you chance to regale us with your tales of adventure."
-    },
-    {
-      "id": 6,
-      "model": "홍루",
-      "content": "Mhm. She usually only talked about adventures of other Fixers."
-    },
-    {
-      "id": 7,
-      "model": "이스마엘",
-      "content": "Or she would persistently nag us about our own adventures."
-    },
-    {
-      "id": 8,
-      "model": "단테",
-      "content": "<... I'm not sure. Let's keep listening.>"
+        "dataList":[
+            {
+                "id":0,
+                "place":"Trường Bắn Máu Huyễn Tưởng",
+                "model":"돈키호테",
+                "content":"Vì thế, bọn ta đã quật ngã được con gấu và giành lấy được chiếc Mũ Giáp của Mambrino nổi tiếng về tay!"
+            },
+            {
+                "id":1,
+                "place":-1,
+                "model":null,
+                "content":"Thật luôn đấy, một con gấu?"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "content":"Con có thể cho sinh vật đáng thương đó về với đất mẹ trong ba—"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":null,
+                "content":"<color=#cc2424>Ô hay. Như vậy thì có gì vui chứ? Ta phải đối đầu với nó... ...như cách mà sách hay kể ấy!<\/color>"
+            },
+            {
+                "id":4,
+                "place":"Trường Bắn Máu Huyễn Tưởng",
+                "model":"싱클레어",
+                "content":"M-Mũ Giáp á...? Vậy những câu chuyện này thật sự nói về... cuộc phiêu lưu của cô Don Quixote sao?"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"이상",
+                "content":"Cô Don Quixote. Chưa từng có khi nào đoàn ta thật lòng dành ra một phút cho cô thuật lại những cuộc trường chinh vĩ đại ấy."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"홍루",
+                "content":"Đúng là cô ấy rất hay kể về cuộc phiêu lưu của những Fixer khác nhỉ."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hoặc là sẽ nằng nặc lải nhải với mọi người về những cuộc hành trình của chính chúng ta."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"단테",
+                "content":"<... Tôi không chắc lắm. Ta tiếp tục lắng nghe đi.>"
+            }
+        ]
     }
-  ]
-}
+

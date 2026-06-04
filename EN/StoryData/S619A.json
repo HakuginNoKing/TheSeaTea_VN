@@ -1,490 +1,782 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Catherine's Room",
-            "model": "넬리",
-            "content": "That's enough, Heathcliff!"
-        },
-        {
-            "id": 1,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "Gaah... Cough..."
-        },
-        {
-            "id": 2,
-            "model": "이스마엘",
-            "content": "We can't kill her. Otherwise we won’t know what they were looking for, or why."
-        },
-        {
-            "id": 3,
-            "model": "히스클리프",
-            "content": "... Speak."
-        },
-        {
-            "id": 4,
-            "model": "히스클리프",
-            "content": "I am going to take your utensils and cut off your fingers one by one with each dodgy answer you give me."
-        },
-        {
-            "id": 5,
-            "model": "히스클리프",
-            "content": "You must know how sharp your own blades are."
-        },
-        {
-            "id": 6,
-            "model": "넬리",
-            "content": "... Please cooperate, won't you? I don't want to have to use the sleepy smack on my own subordinates."
-        },
-        {
-            "id": 7,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "The... diary."
-        },
-        {
-            "id": 8,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "Master Linton told us that we must find the diary in Mistress Catherine's room."
-        },
-        {
-            "id": 9,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "That she must have hidden her diary somewhere in here as they were making modifications to the manor..."
-        },
-        {
-            "id": 10,
-            "model": "넬리",
-            "content": "I see. So why do you think Master Linton's looking for that diary?"
-        },
-        {
-            "id": 11,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "Master Linton told us that it was to find... a way."
-        },
-        {
-            "id": 12,
-            "model": "넬리",
-            "content": "Please, do keep up your mysterious attitude. A few more answers like that and I will personally demonstrate how I managed to become the Chief Butler."
-        },
-        {
-            "id": 13,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "It's the truth. He did not let us in on what this... 'way' is. I have told you all that I know."
-        },
-        {
-            "id": 14,
-            "model": "히스클리프",
-            "content": "That's it. Looks like I'll have to—"
-        },
-        {
-            "id": 15,
-            "model": "넬리",
-            "content": "That's enough, Heathcliff. I believe that she is telling the truth. All of you, leave us. Now."
-        },
-        {
-            "id": 16,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "……."
-        },
-        {
-            "id": 17,
-            "model": "넬리",
-            "content": "And please, do stay out of my sight."
-        },
-        {
-            "id": 18,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "Chief Butler Nelly..."
-        },
-        {
-            "id": 19,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "According to what intelligence we could gather..."
-        },
-        {
-            "id": 20,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "The 'Dead Rabbits', the Syndicate of an Urban Plague classification, had long been obliterated from the T Corp. Backstreets."
-        },
-        {
-            "id": 21,
-            "model": "히스클리프",
-            "content": "… What?"
-        },
-        {
-            "id": 22,
-            "model": "넬리",
-            "content": "…!"
-        },
-        {
-            "id": 23,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "They have been inactive for a long, long time—in other words, they have already been vanquished. Other gangs have not seen the Dead Rabbits in the Backstreets in a while, either."
-        },
-        {
-            "id": 24,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "We have no way of verifying their identities. Please, do be careful."
-        },
-        {
-            "id": 25,
-            "model": "넬리",
-            "content": "Who in the blazes did Mister Hindley let into this manor...? And that diary..."
-        },
-        {
-            "id": 26,
-            "model": "단테",
-            "content": "<A diary, huh... I'm not sure what to expect from it, but...>"
-        },
-        {
-            "id": 27,
-            "model": "이스마엘",
-            "content": "If we do find it, it'll at least clue us in as to what kind of situation we've just walked into."
-        },
-        {
-            "id": 28,
-            "model": "오티스",
-            "content": "A small container, a space to hide such a thing as a diary... would be these bookshelves or drawers."
-        },
-        {
-            "id": 29,
-            "model": "오티스",
-            "content": "But it appears that the Butlers have combed this room clean already."
-        },
-        {
-            "id": 30,
-            "model": "돈키호테",
-            "content": "Hm hm...! I have once beheld such a sight."
-        },
-        {
-            "id": 31,
-            "model": "돈키호테",
-            "content": "Forsooth, 'tis oft the case that a hidden button exists somewhere! We ought to scour this room from corner to corner with magnifying glasses much larger than even Gregor's...!"
-        },
-        {
-            "id": 32,
-            "model": "그레고르",
-            "content": "These are glasses for my myopia..."
-        },
-        {
-            "id": 33,
-            "model": "캐서린",
-            "content": "There are a thousand feathers of so many birds in this pillow."
-        },
-        {
-            "id": 34,
-            "model": "캐서린",
-            "content": "Other people of means like to collect rare bird feathers and stuff their pillows with them. But... I don't like that."
-        },
-        {
-            "id": 35,
-            "model": "캐서린",
-            "content": "Do you know... why?"
-        },
-        {
-            "id": 36,
-            "model": "히스클리프",
-            "content": "……."
-        },
-        {
-            "id": 37,
-            "model": "히스클리프",
-            "content": "Because birds are meant to fly. Not to be killed like that."
-        },
-        {
-            "id": 38,
-            "model": "캐서린",
-            "content": "Yes. Birds do not belong in their cages; they are beings born to soar the skies."
-        },
-        {
-            "id": 39,
-            "model": "캐서린",
-            "content": "So I am going to empty this pillow of their feathers."
-        },
-        {
-            "id": 40,
-            "model": "캐서린",
-            "content": "Instead, I will fill it with my secret."
-        },
-        {
-            "id": 41,
-            "model": "캐서린",
-            "content": "So that I will always have it at an arm's reach."
-        },
-        {
-            "id": 42,
-            "model": "홍루",
-            "content": "Heathcliff...? Why are you tearing that pillow open...?"
-        },
-        {
-            "id": 43,
-            "model": "히스클리프",
-            "content": "This is where... Cathy would have...!"
-        },
-        {
-            "id": 44,
-            "model": "오티스",
-            "content": "... A diary. Hidden within the pillow."
-        },
-        {
-            "id": 45,
-            "model": "홍루",
-            "content": "Hm... it's stained by ink. Even the cover, too."
-        },
-        {
-            "id": 46,
-            "model": "로쟈",
-            "content": "I wonder why anyone would do this to their own diary...?"
-        },
-        {
-            "id": 47,
-            "model": "홍루",
-            "content": "Mm... when I would hold my pen against the paper for a long, long time, because I'm not sure what to write..."
-        },
-        {
-            "id": 48,
-            "model": "홍루",
-            "content": "... the ink will start to pool and spread, leaving big stains like these."
-        },
-        {
-            "id": 49,
-            "model": "파우스트",
-            "content": "These ink stains appear to have been made from nonstandard, special ink. A pool of ink that stained this page has left no marks on the subsequent page."
-        },
-        {
-            "id": 50,
-            "model": "파우스트",
-            "content": "Perhaps..."
-        },
-        {
-            "id": 51,
-            "model": "파우스트",
-            "content": "... these stains were made on purpose to hide the words under them."
-        },
-        {
-            "id": 52,
-            "model": "이스마엘",
-            "content": "If that Linton guy's trying so hard to find this diary, then..."
-        },
-        {
-            "id": 53,
-            "model": "이스마엘",
-            "content": "... I'm willing to bet that it's something important."
-        },
-        {
-            "id": 54,
-            "model": "히스클리프",
-            "content": "Most of these pages are stained."
-        },
-        {
-            "id": 55,
-            "content": "True. Most of the pages were stained, and their contents were rather difficult to read."
-        },
-        {
-            "id": 56,
-            "model": "히스클리프",
-            "content": "... I would have liked to read them. Even a little bit."
-        },
-        {
-            "id": 57,
-            "content": "That's when..."
-        },
-        {
-            "id": 58,
-            "content": "... the pages suddenly began to flip rapidly, until it came to a stop at a page with actually legible words."
-        },
-        {
-            "id": 59,
-            "content": "It couldn't have been the wind. There weren't any open windows."
-        },
-        {
-            "id": 60,
-            "content": "XX/XX"
-        },
-        {
-            "id": 61,
-            "content": "Heathcliff left me. Without a word."
-        },
-        {
-            "id": 62,
-            "content": "A terrible thunderstorm rages outside."
-        },
-        {
-            "id": 63,
-            "content": "Will he cease to pain my heart and return home once the rain passes? Like Nelly said?"
-        },
-        {
-            "id": 64,
-            "content": "XX/XX"
-        },
-        {
-            "id": 65,
-            "content": "Fine. Don't come back."
-        },
-        {
-            "id": 66,
-            "content": "I don't want to see your face ever again, either."
-        },
-        {
-            "id": 67,
-            "content": "XX/XX"
-        },
-        {
-            "id": 68,
-            "content": "This manor and me... we're all you have. You don't have anything else."
-        },
-        {
-            "id": 69,
-            "content": "Will you truly abandon what is everything to you?"
-        },
-        {
-            "id": 70
-        },
-        {
-            "id": 71,
-            "model": "그레고르",
-            "content": "Boy, this all feels extremely private. Should we...?"
-        },
-        {
-            "id": 72,
-            "model": "싱클레어",
-            "content": "Why don't we leave Heathcliff alone so he can..."
-        },
-        {
-            "id": 73,
-            "model": "히스클리프",
-            "content": "... No. This entry seems... off."
-        },
-        {
-            "id": 74,
-            "content": "XX/XX"
-        },
-        {
-            "id": 75,
-            "content": "A guest paid me a visit. The first in a long time."
-        },
-        {
-            "id": 76,
-            "content": "Conversing with someone new... really cleared my head."
-        },
-        {
-            "id": 77,
-            "content": ""
-        },
-        {
-            "id": 78,
-            "content": "And I saw my shape in the mirror before me."
-        },
-        {
-            "id": 79,
-            "content": "I know what to do now."
-        },
-        {
-            "id": 80,
-            "content": "The basement."
-        },
-        {
-            "id": 81,
-            "content": "We... must descend there."
-        },
-        {
-            "id": 82,
-            "model": "싱클레어",
-            "content": "Who do you think this 'we' is?"
-        },
-        {
-            "id": 83,
-            "model": "넬리",
-            "content": "The basement... the basement...?"
-        },
-        {
-            "id": 84,
-            "model": "히스클리프",
-            "content": "From what I remember, Nelly..."
-        },
-        {
-            "id": 85,
-            "model": "넬리",
-            "content": "I agree, Heathcliff."
-        },
-        {
-            "id": 86,
-            "model": "넬리",
-            "content": "Everyone, it appears that our next destination lies at the basement of this manor."
-        },
-        {
-            "id": 87,
-            "model": "오티스",
-            "content": "What makes you say that?"
-        },
-        {
-            "id": 88,
-            "model": "넬리",
-            "content": "The old Mistress, who passed many years ago, ordered us to seal the entrance to the basement."
-        },
-        {
-            "id": 89,
-            "model": "히스클리프",
-            "content": "……."
-        },
-        {
-            "id": 90,
-            "model": "넬리",
-            "content": "Which means that the basement was unsealed when the modifications were made to the manor."
-        },
-        {
-            "id": 91,
-            "model": "히스클리프",
-            "content": "But why... why the basement...?"
-        },
-        {
-            "id": 92,
-            "model": "히스클리프",
-            "content": "Cathy hated the dark. Enough to keep her room always lit with several lanterns."
-        },
-        {
-            "id": 93,
-            "model": "넬리",
-            "content": "Indeed. I recall having to purchase an entire set of lanterns whenever I left the manor to procure the groceries."
-        },
-        {
-            "id": 94,
-            "model": "오티스",
-            "content": "That is certainly suspicious."
-        },
-        {
-            "id": 95,
-            "model": "그레고르",
-            "content": "Got any idea as to where we might find the basement, Nelly?"
-        },
-        {
-            "id": 96,
-            "model": "넬리",
-            "content": "Well~ It's usually by the kitchen, isn't it? Let us investigate that place first, shall we?"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phòng của Catherine",
+                "model":"넬리",
+                "content":"Đủ rồi, Heathcliff!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Kha... Khụ Khụ...",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Đừng giết ả vội. Ta còn phải biết chúng đang lùng sục cái gì, và vì sao nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Sủa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Sủa một câu xạo chó là tao lấy luôn con dao này của chúng mày rồi thẻo từng ngón một đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Mày cũng biết là dao này bén cỡ nào mà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"넬리",
+                "content":"... Xin các cô cậu, hãy hợp tác đi. Ta không muốn phải đánh ngất chính thuộc cấp của mình đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Cuốn... nhật ký.",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Cậu Chủ Linton căn dặn chúng tôi là phải tìm cho ra được cuốn nhật ký ở phòng Tiểu Thư Catherine.",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Ngài ấy còn không quên nhắc thêm là cô ấy hẳn phải giấu cuốn nhật ký ở đâu đó trong suốt quá trình tu sửa dinh thự...",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"넬리",
+                "content":"Hiểu rồi. Thế lý do vì sao Cậu Chủ Linton lại muốn cuốn nhật ký đó?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Cậu Chủ nói rằng, nó giúp ngài ấy... tìm ra cách.",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"넬리",
+                "content":"Rồi, cứ tỏ ra cái thái độ mập mờ đấy nữa đi. Nói thêm một câu như vậy nữa thì đừng trách ta nặng tay với cô cậu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Tôi nói thật mà. Ngài ấy không hề nói cho chúng tôi biết cái... \"cách\" mà ngài ấy nói tới là gì. Tôi chỉ đang nói những gì tôi biết mà thôi.",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Được rồi. Xem ra tao phải—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"넬리",
+                "content":"Đủ rồi đấy, Heathcliff. Ta tin rằng cô ấy đang nói thật. Mấy cô cậu, rời khỏi đây cho ta. Ngay.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"…….",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"넬리",
+                "content":"À còn nữa, biến khỏi tầm mắt của ta, rõ chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Thưa Quản Gia Trưởng Nelly...",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Theo như thông tin mà chúng tôi tiếp nhận được...",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Băng Đảng \"Dead Rabbits\", thuộc phân loại Tai Ương Đô Thị, từ lâu đã bị xóa sổ khỏi khu vực Phố Sau của Tập Đoàn T.",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Cái gì?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"넬리",
+                "content":"…!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Bọn họ đã dừng hoạt động từ rất lâu—nói theo cách khác, coi như đã hoàn toàn biến mất. Các băng phái khác cũng xác nhận rằng các thành viên Dead Rabbits đã không xuất hiện ở Phố Sau trong một khoảng thời gian dài rồi.",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Chúng tôi không còn cách nào để xác nhận danh tính của họ cả. Vì vậy, xin hãy thận trọng.",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"넬리",
+                "content":"Đám người này là ai mà Ngài Hindley cho đặt chân vào dinh thự vậy...? Và cuốn nhật ký kia...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"단테",
+                "content":"<Nhật ký sao... Không biết là trong đó có gì, nhưng...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tìm ra rồi thì ít nhất cũng sẽ phải moi được một hai manh mối gì đó thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"오티스",
+                "content":"Một thứ giống chiếc hộp nhỏ, vừa đủ để giấu một thứ như cuốn nhật kí thì... hợp lý nhất sẽ là những hộc tủ hoặc kệ sách.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"오티스",
+                "content":"Nhưng xem ra những Quản Gia kia đã dọn dẹp sạch sẽ căn phòng từ lâu rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Khụ khụ...! Trước kia ta đã từng thấy thứ như thế rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Đúng vậy đấy, ta chắc chắn là có cái nút bí mật được giấu kín đâu đó trong căn phòng này! Nếu ta có trong tay chiếc kính lúp lớn hơn cặp kính của Quý Ngài Gregor thì ta có thể...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"그레고르",
+                "content":"Cặp kính này là do tôi bị cận thị mà...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"캐서린",
+                "content":"Có hàng nghìn lông vũ của vô số loài chim ở trong cái gối này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"캐서린",
+                "content":"Người ta ưa sưu tầm những sợi lông vũ của các loài chim quý hiếm và nhét đầy vào gối của mình. Nhưng... tớ không thích như thế.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"캐서린",
+                "content":"Cậu có biết... tại sao không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"히스클리프",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Bởi vì chim thì phải bay chứ không phải bị giết như này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"캐서린",
+                "content":"Đúng vậy. Loài chim không nên ở trong lồng; chúng là những thực thể được sinh ra để sải cánh trên bầu trời.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"캐서린",
+                "content":"Vậy nên tớ sẽ giải phóng toàn bộ lông vũ của chúng khỏi cái gối này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"캐서린",
+                "content":"Thay vào đó, tớ sẽ đong đầy bí mật của mình vào đây.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"캐서린",
+                "content":"Vậy là nó sẽ luôn trong tầm với của tớ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"홍루",
+                "content":"Anh Heathcliff? Sao lại xé cái gối ra...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Đây là nơi... Cathy sẽ...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"오티스",
+                "content":"... Một cuốn nhật kí được giấu dưới gối.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"홍루",
+                "content":"Ừm... Sách bị dính mực rồi. Cả ở ngoài bìa cũng có mực.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"로쟈",
+                "content":"Sao lại có người làm thế với nhật ký của mình nhỉ...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"홍루",
+                "content":"Hưm... Nếu mà một lúc lâu tôi không nghĩ ra mình nên viết gì, rồi cứ cầm bút nhấn lên giấy như thế mãi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"홍루",
+                "content":"...thì giọt mực sẽ thấm lên mặt giấy rồi cứ thế lan ra dần~ Để lại những vết mực như thế này đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"파우스트",
+                "content":"Những vũng mực kia có vẻ là từ một loại mực đặc biệt. Nó ngấm vào mặt này nhưng lại không có dấu vết ở mặt kia.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"파우스트",
+                "content":"Có lẽ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"파우스트",
+                "content":"... người tạo ra vết mực kia cố tình làm vậy để giấu đi nội dung nhật ký.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nếu đám người của Linton đã lục tung cả căn phòng lên chỉ vì cuốn nhật kí này thì...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"이스마엘",
+                "content":"...dám cá là nó cực kì quan trọng đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Mấy cái trang này lấm lem mực cả rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":null,
+                "content":"Đúng thật. Hầu hết mọi trang giấy đều lấm lem mực, và nội dung trong đó rất khó đọc được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"히스클리프",
+                "content":"...Tao cũng muốn đọc nó. Chỉ một chút thôi cũng được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":null,
+                "content":"Đó là khi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":null,
+                "content":"... những tờ giấy bắt đầu lật lia lịa, đến khi nó dừng lại tại một trang có thể đọc rành mạch từng câu từ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":null,
+                "content":"Không thể nào là do gió được. Không hề có cửa sổ nào đang mở cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":null,
+                "content":"XX\/XX",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff đã rời bỏ tôi. Không một lời từ biệt.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":null,
+                "content":"Một cơn giông bão tồi tệ đang gầm rú ngoài kia.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":null,
+                "content":"Liệu anh ấy có ngừng làm trái tim tôi đau và trở về nhà một khi mưa tạnh? Như Nelly đã nói?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":null,
+                "content":"XX\/XX",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":null,
+                "content":"Được thôi. Anh đừng có về nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":null,
+                "content":"Tôi cũng chẳng muốn nhìn mặt anh lần nào nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":null,
+                "content":"XX\/XX",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":null,
+                "content":"Căn dinh thự này và tôi... là tất cả đối với anh. Anh không hề nắm trong tay điều gì cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":null,
+                "content":"Anh sẽ thực sự bỏ lại tất cả những gì mình có sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":null,
+                "content":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chà, vụ này có vẻ khá riêng tư đấy. Ta có nên...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Hay là giờ chúng ta cứ để anh Heathcliff yên tĩnh một mình để...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Không. Cái mục này trông... lạ lắm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":null,
+                "content":"XX\/XX",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":null,
+                "content":"Có một vị khách đã ghé thăm tôi. Đã lâu lắm rồi mới có người.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":null,
+                "content":"Trò chuyện với một người xa lạ... thật sự khuây khỏa đầu óc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":null,
+                "content":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":null,
+                "content":"Và tôi nhìn thấy dáng hình mình trong tấm gương trước mắt.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":null,
+                "content":"Tôi biết phải làm gì rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":null,
+                "content":"Tầng hầm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":null,
+                "content":"Chúng ta... phải tiến xuống đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"싱클레어",
+                "content":"\"Chúng ta\"... Là đang nói đến ai vậy nhỉ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"넬리",
+                "content":"Tầng hầm... sao...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Nelly, theo trí nhớ của con thì...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"넬리",
+                "content":"Ta đồng ý với con, Heathcliff.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"넬리",
+                "content":"Mọi người, xem ra đích đến kế tiếp của chúng ta sẽ là tầng hầm của khu dinh thự này rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"오티스",
+                "content":"Vì sao ngươi lại nghĩ như thế?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"넬리",
+                "content":"Nhiều năm về trước, vị Phu Nhân quá cố đã ra lệnh cho chúng tôi phải niêm phong lối vào khu vực tầng hầm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"히스클리프",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"넬리",
+                "content":"Mà như thế thì có nghĩa là người ta đã gỡ niêm phong sau đợt tu sửa dinh thự.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Nhưng tại sao... tại sao lại là tầng hầm...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Cathy ghét bóng tối tới độ lúc nào phòng em ấy cũng sáng đèn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"넬리",
+                "content":"Phải. Ta nhớ là bản thân từng phải mua nguyên bộ đèn lồng mỗi lần rời dinh thự để mua sắm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"오티스",
+                "content":"Việc này thật sự đáng ngờ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"그레고르",
+                "content":"Cô có biết chỗ của cái tầng hầm ở đâu không, Nelly?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":"넬리",
+                "content":"Dĩ nhiên rồi~ Nó ở gần nhà bếp mà nhỉ? Cùng tới đó điều tra trước đã nhé?",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

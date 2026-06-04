@@ -1,685 +1,1126 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": "P Corp. WARP train platform",
-      "content": "So she's the one we were supposed to meet here at the station..."
-    },
-    {
-      "id": 1,
-      "model": "체사라",
-      "teller": "???",
-      "title": "The Client",
-      "content": "My, my... what an honor this is, to meet the Red Gaze himself in the flesh."
-    },
-    {
-      "id": 2,
-      "model": "체사라",
-      "content": "Everyone, I am pleased to meet you all. I am Cesara, Head Manager of P Corp. Archival Department."
-    },
-    {
-      "id": 3,
-      "model": "오티스",
-      "content": "Archival Department? So you are... bookkeepers, then?"
-    },
-    {
-      "id": 4,
-      "model": "체사라",
-      "content": "In a manner of speaking, yes. It is a rather significant department within P Corp., regardless of how other Wings treat their own archivists."
-    },
-    {
-      "id": 5,
-      "model": "그레고르",
-      "content": "If a bigwig like the Head Manager of such an important Department is here to see us herself, then... boy, I guess we really are putting our names out there."
-    },
-    {
-      "id": 6,
-      "model": "체사라",
-      "content": "Not an entirely incorrect assessment. I did hear some things about you and Limbus Company through the word of mouth."
-    },
-    {
-      "id": 7,
-      "model": "체사라",
-      "content": "What was it...? Ah, yes. A medium-sized enterprise with its employees gladly braving death to see a contract to its end. All just to obtain these... 'Golden Boughs'."
-    },
-    {
-      "id": 8,
-      "model": "그레고르",
-      "content": "That's true, I guess, but..."
-    },
-    {
-      "id": 9,
-      "model": "단테",
-      "content": "<Hey, she's actually making us sound pretty impressive, huh...?>"
-    },
-    {
-      "id": 10,
-      "model": "돈키호테",
-      "content": "For-sooth! I, and my dearest compatriots, have vanquished countless evils through all kinds of hardships and deadly foes! Braved death, indeed."
-    },
-    {
-      "id": 11,
-      "content": "The other Sinners were more confused than impressed by her description, but it was clear from Don Quixote's practically twinkling eyes that she was immensely infatuated by it."
-    },
-    {
-      "id": 12,
-      "model": "베르길리우스",
-      "content": "We did receive a brief of this contract."
-    },
-    {
-      "id": 13,
-      "model": "베르길리우스",
-      "content": "A particularly stubborn Urban Nightmare case, which all kinds of Fixers have failed to rout despite their repeated attempts."
-    },
-    {
-      "id": 14,
-      "model": "체사라",
-      "content": "Correct."
-    },
-    {
-      "id": 15,
-      "model": "베르길리우스",
-      "content": "I doubt it is customary for the Head Manager of an entire department to greet every no-name Fixer Office looking to make a name for themselves."
-    },
-    {
-      "id": 16,
-      "model": "체사라",
-      "content": "Correct again."
-    },
-    {
-      "id": 17,
-      "model": "베르길리우스",
-      "content": "And seeing how you've gone to the lengths to privately deliver this particular contract to our hands..."
-    },
-    {
-      "id": 18,
-      "model": "베르길리우스",
-      "content": "... this isn't a simple Urban Nightmare eradication contract, is it?"
-    },
-    {
-      "id": 19,
-      "model": "베르길리우스",
-      "content": "I sense that your expectations of us extend beyond simply defeating it."
-    },
-    {
-      "id": 20,
-      "model": "베르길리우스",
-      "content": "There must be a particular task you're expecting us to 'brave death' for, given your emphasis."
-    },
-    {
-      "id": 21,
-      "model": "체사라",
-      "content": "... Hm. What an odd feeling. I wasn't going to hide it from you anyway, but... it feels as though you're reading me like an open book."
-    },
-    {
-      "id": 22,
-      "content": "We stared in dumbfounded silence as Vergilius effortlessly cut through the hoops to get to the core of the contract."
-    },
-    {
-      "id": 23,
-      "model": "체사라",
-      "content": "Yes. Your people were quite blunt about this when you contacted us first. That there's this 'Golden Bough' somewhere near our eradication target."
-    },
-    {
-      "id": 24,
-      "model": "체사라",
-      "content": "My, I was so astonished when I picked up that call. Your people refused to answer our questions, refused to tell us what those 'Golden Boughs' are, insisted that we let your people inside the zone to confirm the exact coordinates... I almost thought it was a prank call or something."
-    },
-    {
-      "id": 25,
-      "model": "베르길리우스",
-      "content": "I believe we also made you an offer you couldn't refuse."
-    },
-    {
-      "id": 26,
-      "model": "체사라",
-      "content": "... Haah. I don't know if it's a particularly versatile agent or a very proactive intelligence department, but your company has some serious intel gathering capabilities."
-    },
-    {
-      "id": 27,
-      "content": "Cesara let out a deep sigh and leaned against a wall, her shoulders slumping slightly."
-    },
-    {
-      "id": 28,
-      "model": "이스마엘",
-      "content": "So what exactly are we eradicating this time?"
-    },
-    {
-      "id": 29,
-      "model": "이스마엘",
-      "content": "Given that we have hopeful Fixers queuing up to join the mission... what, is an escaped Abnormality wreaking havoc somewhere like last time? Or is it a Distortion, because if it is—"
-    },
-    {
-      "id": 30,
-      "content": "Cesara wordlessly stared at Ishmael as she began to rapid-fire her list of questions."
-    },
-    {
-      "id": 31,
-      "model": "이스마엘",
-      "content": "Oh, uh... ah, right. Forgot to explain. So Abnormalities and Distortions are the kind of 'monsters' that may look similar at first glance—"
-    },
-    {
-      "id": 32,
-      "model": "체사라",
-      "content": "... If only our problem was just another monster to deal with."
-    },
-    {
-      "id": 33,
-      "content": "Something had caught my eye immediately after we arrived at this place."
-    },
-    {
-      "id": 34,
-      "model": "단테",
-      "content": "<The missing persons flyers...>"
-    },
-    {
-      "id": 35,
-      "content": "Countless flyers, each in search of a different person, were taped to the pillars inside the station."
-    },
-    {
-      "id": 36,
-      "content": "Looks like people of P Corp. are randomly going missing in no discernible age or gender patterns."
-    },
-    {
-      "id": 37,
-      "content": "Cesara, realizing that we were staring at the wall of missing person flyers, began."
-    },
-    {
-      "id": 38,
-      "model": "체사라",
-      "content": "As you can see, the flyers are all old, faded, and tattered to the point where the papers are starting to peel off."
-    },
-    {
-      "id": 39,
-      "model": "체사라",
-      "content": "... Which means that none of them have returned home safely."
-    },
-    {
-      "id": 40,
-      "model": "오티스",
-      "content": "……."
-    },
-    {
-      "id": 41,
-      "model": "오티스",
-      "content": "So we're not dealing with an entity, then..."
-    },
-    {
-      "id": 42,
-      "model": "오티스",
-      "content": "... It is a phenomenon."
-    },
-    {
-      "id": 43,
-      "model": "체사라",
-      "content": "The land where the happiest smiles bloom."
-    },
-    {
-      "id": 44,
-      "model": "체사라",
-      "content": "The 'amusement park' of fables and legends, La Manchaland."
-    },
-    {
-      "id": 45,
-      "model": "싱클레어",
-      "content": "La Manchaland..."
-    },
-    {
-      "id": 46,
-      "model": "체사라",
-      "content": "More than several dozen people have been reported missing. But the real number is likely much higher."
-    },
-    {
-      "id": 47,
-      "model": "체사라",
-      "content": "Most of the guests who visited La Manchaland, which mysteriously materialized two months ago at the Backstreets of P Corp... are still trapped within."
-    },
-    {
-      "id": 48,
-      "model": "돈키호테",
-      "content": "They have gone 'missing', thou sayest? Yet how can that be? 'Tis against the nature of amusement parks to be so full of horror, not joy...!"
-    },
-    {
-      "id": 49,
-      "model": "체사라",
-      "content": "I simply did not have enough manpower under my authority to deal with this. It was designated an Urban Plague three days after its first appearance, and now it's been escalated to an Urban Nightmare."
-    },
-    {
-      "id": 50,
-      "model": "베르길리우스",
-      "content": "Curious. If it is a mere Urban Nightmare, not even a Star of the City, then shouldn't P Corp. be able to easily handle this on its own?"
-    },
-    {
-      "id": 51,
-      "model": "체사라",
-      "content": "Mm... that's the thing. The other departments aren't really interested in this phenomenon, which means that the Martial Department won't be sending their elite employees to handle this case."
-    },
-    {
-      "id": 52,
-      "model": "돈키호테",
-      "content": "Wha— Yet wherefore? Wherefore doth P Corp. not deploy their elite forces to swiftly vanquish this risk to the lives of the innocent?!"
-    },
-    {
-      "id": 53,
-      "content": "Don Quixote was now completely and emotionally invested in this gripping tale of tragedy that our client was sharing."
-    },
-    {
-      "id": 54,
-      "content": "... Cesara seemed to be enjoying Don Quixote's excessive, almost theatrical reaction."
-    },
-    {
-      "id": 55,
-      "model": "체사라",
-      "content": "Because the phenomenon only affects the Backstreets."
-    },
-    {
-      "id": 56,
-      "model": "체사라",
-      "content": "Imagine if it happened somewhere within the Nest; squadrons of elite agents from the Compression Department would've descended the moment it manifested."
-    },
-    {
-      "id": 57,
-      "model": "베르길리우스",
-      "content": "That's enough beating around the bush, Head Manager Cesara. What more are you hiding?"
-    },
-    {
-      "id": 58,
-      "model": "베르길리우스",
-      "content": "It would've been a walk in the park for someone of your status and station to requisition agents from a different department."
-    },
-    {
-      "id": 59,
-      "model": "베르길리우스",
-      "content": "So, explain. Why did you really go through the trouble of hiring Limbus Company?"
-    },
-    {
-      "id": 60,
-      "model": "체사라",
-      "content": "Yes, yes. My, you really are unrelenting."
-    },
-    {
-      "id": 61,
-      "model": "체사라",
-      "content": "Fine. I confess. The goal of our department..."
-    },
-    {
-      "id": 62,
-      "model": "체사라",
-      "content": "... isn't the eradication of La Manchaland."
-    },
-    {
-      "id": 63,
-      "model": "단테",
-      "content": "<... Huh?>"
-    },
-    {
-      "id": 64,
-      "model": "체사라",
-      "content": "Now, you will soon be heading into La Manchaland with the other Fixers."
-    },
-    {
-      "id": 65,
-      "model": "체사라",
-      "content": "A piece of advice, if you will; do not let the other Fixers know that you are here to find the Golden Bough."
-    },
-    {
-      "id": 66,
-      "model": "체사라",
-      "content": "If they were to somehow find out that there is this mysterious artifact called the 'Golden Bough' hidden somewhere within that zone..."
-    },
-    {
-      "id": 67,
-      "model": "체사라",
-      "content": "... it could start attracting unwanted attention from Fixers who consider it a bounty separate from the eradication reward. No need to stir the pot, hm?"
-    },
-    {
-      "id": 68,
-      "model": "체사라",
-      "content": "And I'm sure you are all savvy enough to know that it would be wise to keep quiet about the true objective of our department... if you know what I mean."
-    },
-    {
-      "id": 69,
-      "model": "이스마엘",
-      "content": "I hear you loud and clear. Let's keep this hush-hush between P Corp. and Limbus Company, we both get what we want, and we can go our separate ways once this business is over. No fuss, no muss. Did I get that right?"
-    },
-    {
-      "id": 70,
-      "model": "체사라",
-      "content": "That's a pretty good summary."
-    },
-    {
-      "id": 71,
-      "model": "오티스",
-      "content": "Who do you think we are? I can tell you right now that, when it comes to OPSEC—"
-    },
-    {
-      "id": 72,
-      "model": "오티스",
-      "content": "... some of us might fall slightly behind."
-    },
-    {
-      "id": 73,
-      "model": "베르길리우스",
-      "content": "It's about time we got to the point. We're only attracting more unwanted eyes by lingering here."
-    },
-    {
-      "id": 74,
-      "model": "체사라",
-      "content": "... That's true."
-    },
-    {
-      "id": 75,
-      "model": "체사라",
-      "content": "Here is your mission. Enter La Manchaland. Find the thing—or someone—that created La Manchaland, and bring it to me."
-    },
-    {
-      "id": 76,
-      "model": "오티스",
-      "content": "Or someone...?"
-    },
-    {
-      "id": 77,
-      "model": "뫼르소",
-      "content": "\"The thing—or someone\" is too insufficient a description. We do not even know if what we seek is made of organic or inorganic material."
-    },
-    {
-      "id": 78,
-      "model": "싱클레어",
-      "content": "So why do you need the... thing... person... who created La Manchaland? Shouldn't eradicating it be enough?"
-    },
-    {
-      "id": 79,
-      "model": "체사라",
-      "content": "... Hah."
-    },
-    {
-      "id": 80,
-      "content": "Cesara's eyes twinkled for a brief moment as they lingered on Sinclair."
-    },
-    {
-      "id": 81,
-      "model": "싱클레어",
-      "content": "D-did I say something wrong...?"
-    },
-    {
-      "id": 82,
-      "model": "체사라",
-      "content": "I don't know. I suppose I was flabbergasted by your boldness of daring to ask a question like that."
-    },
-    {
-      "id": 83,
-      "model": "체사라",
-      "content": "Notice how I'm not asking you why you're looking for the Golden Boughs?"
-    },
-    {
-      "id": 84,
-      "model": "싱클레어",
-      "content": "Ahh..."
-    },
-    {
-      "id": 85,
-      "model": "체사라",
-      "content": "Well, it's not like a big secret or anything."
-    },
-    {
-      "id": 86,
-      "model": "체사라",
-      "content": "If you really do want to know, here it is. I just want whoever, or whatever it is behind this case to be held responsible for the damages they've caused."
-    },
-    {
-      "id": 87,
-      "model": "돈키호테",
-      "content": "Mm, forsooth! A villain who hath committed such wicked atrocity deserveth a punishment most fitting!"
-    },
-    {
-      "id": 88,
-      "model": "체사라",
-      "content": "And as a little bonus, I get to put some achievements under my belt to give my department a little push to rise above the others. I could use some promotion right about now, you know."
-    },
-    {
-      "id": 89,
-      "model": "단테",
-      "content": "<…….>"
-    },
-    {
-      "id": 90,
-      "model": "오티스",
-      "content": "... I suppose it doesn't matter whether we accept your proposition or not. You must have already reached an agreement with the top brass of our company."
-    },
-    {
-      "id": 91,
-      "model": "히스클리프",
-      "content": "... Right. But what if, after kickin' the phenomenon's arse, we don't bother bringin' in the bloke who made that bizarre amusement park?"
-    },
-    {
-      "id": 92,
-      "model": "히스클리프",
-      "content": "What'll you do then?"
-    },
-    {
-      "id": 93,
-      "content": "Heathcliff spoke crassly, but it was a reasonable question."
-    },
-    {
-      "id": 94,
-      "content": "After all, there was also a chance that we could *fail* to bring the culprit here, even if we wanted to."
-    },
-    {
-      "id": 95,
-      "model": "체사라",
-      "content": "Well, then I suppose we'll start looking into what these 'Golden Boughs' are, even if we won't get our hands on them immediately."
-    },
-    {
-      "id": 96,
-      "model": "오티스",
-      "content": "Hah. So you'll start getting in our way if we don't bring you what you want, is that it?"
-    },
-    {
-      "id": 97,
-      "model": "체사라",
-      "content": "It would be a rather unnecessary and cost-ineffective research investment, of course, but you just might force our hand if you don't do as we requested."
-    },
-    {
-      "id": 98,
-      "model": "체사라",
-      "content": "Besides... While La Manchaland is only an Urban Nightmare at the moment, its threat level is rising exponentially. This means that more and more people in the City are beginning to catch wind of this case."
-    },
-    {
-      "id": 99,
-      "model": "체사라",
-      "content": "Numerous Fixers from all over the City are gathering here at this very moment to eradicate La Manchaland, to demonstrate my point."
-    },
-    {
-      "id": 100,
-      "model": "이스마엘",
-      "content": "So, you're saying that we're not your only option."
-    },
-    {
-      "id": 101,
-      "model": "체사라",
-      "content": "Mhm, who doesn't love fame and fortune? We could always get a truckload of willing participants if we wanted to."
-    },
-    {
-      "id": 102,
-      "model": "체사라",
-      "content": "Oh, and maybe, just maybe, some Fixers among them may find themselves becoming particularly interested in these Golden Boughs. I swear, these precious artifacts must have a particular smell that attracts Fixers like bees to honey."
-    },
-    {
-      "id": 103,
-      "model": "이스마엘",
-      "content": "... Got it. You want this mission taken care of before the phenomenon attracts too much attention."
-    },
-    {
-      "id": 104,
-      "model": "체사라",
-      "content": "Oh, you're cutting right through the fluff again!"
-    },
-    {
-      "id": 105,
-      "model": "체사라",
-      "content": "Anyways, you got that right. Isn't it so fortunate how we both seem to be under the impression that what each of us is looking for won't be of much use to the other? For now, at least?"
-    },
-    {
-      "id": 106,
-      "model": "체사라",
-      "content": "I suppose that is why you're keeping the nature of those Golden Boughs discreet, and that is why we're keeping it on the down low about what created La Manchaland."
-    },
-    {
-      "id": 107,
-      "model": "료슈",
-      "content": "Agreed. The more eyes observe an info, the less value it has. Like run-of-the-mill mass-produced products."
-    },
-    {
-      "id": 108,
-      "model": "로쟈",
-      "content": "Haah... of course it's all work talk. I got excited for a sec thinkin' we were about to get some nice souvenirs."
-    },
-    {
-      "id": 109,
-      "model": "체사라",
-      "content": "We have very high expectations for every single one of you."
-    },
-    {
-      "id": 110,
-      "model": "체사라",
-      "content": "After all, you're all willing to die for this, aren't you?"
-    },
-    {
-      "id": 111,
-      "model": "단테",
-      "content": "<She keeps saying that...>"
-    },
-    {
-      "id": 112,
-      "content": "This is what every single one of our contracts has been like."
-    },
-    {
-      "id": 113,
-      "content": "Our stability and safety go out the window the moment a mission begins in earnest."
-    },
-    {
-      "id": 114,
-      "content": "We share nothing but our cold goals and objectives, not exchanging anything deeper than the shallowest transactions."
-    },
-    {
-      "id": 115,
-      "content": "I'd grown to accept this as an inevitability, but..."
-    },
-    {
-      "id": 116,
-      "content": "... I do know that this is... probably not the right way."
-    },
-    {
-      "id": 117,
-      "model": "돈키호테",
-      "content": "AHEM!"
-    },
-    {
-      "id": 118,
-      "content": "Amidst the dull and resigned eyes of the other Sinners, Don Quixote's eyes alone burned with passionate fire."
-    },
-    {
-      "id": 119,
-      "model": "돈키호테",
-      "content": "Thou mayest put thy faith in us, Head Manager Cesara!"
-    },
-    {
-      "id": 120,
-      "model": "돈키호테",
-      "content": "I, Don Quixote, and my compatriots here at Limbus Company shall put an end to the terrible reign of this 'La Manchaland', and rescue every single victim it hath claimed!"
-    },
-    {
-      "id": 121,
-      "model": "돈키호테",
-      "content": "And mark my words; we shall pinch this vile rascal who created La Manchaland by the collar and present them before thee! Prithee, smite them with the hammer of justice in everyone's stead."
-    },
-    {
-      "id": 122,
-      "model": "체사라",
-      "content": "My, my...! You certainly know how to inspire confidence. That's more than I could say for the vast majority of Fixers I've known!"
-    },
-    {
-      "id": 123,
-      "model": "돈키호테",
-      "content": "Sniff... I, Don Quixote, shall battle valiantly and honorably; thus shall my name be forever etched in the halls of P Corp....!"
-    },
-    {
-      "id": 124,
-      "content": "Don Quixote was bouncing up and down like she was prepared to stand at Cesara's beck and call."
-    },
-    {
-      "id": 125,
-      "model": "히스클리프",
-      "content": "Please stop..."
-    },
-    {
-      "id": 126,
-      "model": "오티스",
-      "content": "This woman certainly wasted no time figuring out how to turn her into putty in her hands..."
-    },
-    {
-      "id": 127,
-      "model": "히스클리프",
-      "content": "It really ain't that difficult to see how the lass works, to be fair..."
-    },
-    {
-      "id": 128,
-      "model": "체사라",
-      "content": "Well, then! Shall we get a move on?"
-    },
-    {
-      "id": 129,
-      "model": "돈키호테",
-      "content": "Let us depart! Lead the way, Lady Cesara!"
-    },
-    {
-      "id": 130,
-      "model": "체사라",
-      "content": "Oh, I'm sorry. Sadly, I can't go there with you."
-    },
-    {
-      "id": 131,
-      "model": "체사라",
-      "content": "Please head to the location marked on this piece of paper."
-    },
-    {
-      "id": 132,
-      "model": "돈키호테",
-      "content": "Yet wherefore?! A journey on thy lonesome shall be so dreary, no?"
-    },
-    {
-      "id": 133,
-      "model": "이스마엘",
-      "content": "Isn't it obvious? If we show up at the Fixers' gathering with the Head Manager of a whole department in tow, we'll attract more eyes than superstars on a red carpet."
-    },
-    {
-      "id": 134,
-      "model": "로쟈",
-      "content": "Yep. I'm sure they'll sniff out our connection to P Corp. at a glance..."
-    },
-    {
-      "id": 135,
-      "model": "돈키호테",
-      "content": "Yet... are not stars of... super variety a good goal to strive for?"
-    },
-    {
-      "id": 136,
-      "model": "그레고르",
-      "content": "Don Quixote... this might come as news to you, but sometimes words can mean more than one thing at a time..."
-    },
-    {
-      "id": 137,
-      "model": "체사라",
-      "content": "Here's a pass that'll let you move freely between the Backstreets and the Nest of P Corp. Do note that it's a work visa, however, so it won't last forever."
-    },
-    {
-      "id": 138,
-      "model": "싱클레어",
-      "content": "Hmm... If they can just hand out something so important this easily, I can't imagine why her department won't be able to handle it themselves..."
-    },
-    {
-      "id": 139,
-      "content": "Sinclair was still quietly suspicious, but that small doubt was practically buried in the brief commotion that followed as Sinners gathered in front of Cesara to receive their visa."
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Sân tàu WARP ở Tập Đoàn P",
+                "content":"Thì ra là chúng ta phải gặp người này ở ga tàu...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Ôi chà... coi ai đây này, chẳng phải là Xích Mục bằng xương bằng thịt đây sao.",
+                "model":"체사라",
+                "teller":"???",
+                "title":"The Client"
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Cesara, Trưởng Ban Cục Lưu Trữ Tập Đoàn P. Hân hạnh được làm việc cùng các vị.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Cục Lưu Trữ? Vậy cô là... thủ thư à?",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Theo lý thuyết thì đúng là vậy. Các Cánh khác nhìn nhận những thủ thư của họ thế nào thì tôi không biết, nhưng trong nội bộ Tập Đoàn P thì phòng ban này đóng một vai trò không nhỏ đâu.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Quản Lý Trưởng của một cục quan trọng à. Nhân vật tai to mặt lớn đích thân tới gặp mặt thế này thì... uầy, có vẻ bọn mình bắt đầu có danh tiếng rồi đấy.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Lời khẳng định ấy không hẳn sai. Đúng là tôi có nghe vài tin đồn đoán về mọi người và Công Ty Limbus đấy.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Gì ấy nhỉ...? À, phải rồi. Một công ty doanh nghiệp tầm trung, sở hữu dàn nhân viên tận tụy đến mức sẵn sàng lao đầu vào chỗ chết để hoàn thành nhiệm vụ. Tất cả chỉ để... thu thập 'Cành Vàng'.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Thì, cũng không sai lắm nhưng mà...",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"<Này, thật ra qua lời miêu tả của cô ấy thì nghe chúng ta cũng khá ấn tượng đấy chứ...?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Thực, vậy, rồi! Ta cùng đồng đội đã phải trèo đèo lội suối qua bao thử thách, đã đối mặt và quật ngã vô số kẻ thủ ác! Thách thức cả thần chết luôn kia mà.",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Những Tội Nhân khác tỏ ra bối rối hơn là ấn tượng trước cách diễn đạt ấy, nhưng từ cái ánh mắt lấp lánh long lanh của Don Quixote thì rõ ràng cô ấy hoàn toàn đắm chìm trong mộng tưởng mất rồi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Bên chúng tôi có xem xét hợp đồng hết rồi.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Một phi vụ Ác Mộng Đô Thị mà dai nhanh nhách, đến nỗi Fixer từ khắp nơi thử đi thử lại vẫn chưa nhai được.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Chính xác.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Đây toàn là những Văn Phòng Fixer chân ướt chân ráo mới vào nghề, thế mà lại để Trưởng Ban như cô đây đích thân đi bắt tay chào hỏi... Đúng là chuyện hiếm có khó coi nhỉ?",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Cúng chính xác nốt.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Mà để cô tới tận nơi và đưa tận tay chúng tôi hợp đồng này...",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"... thì rõ ràng không phải triệt tiêu Ác Mộng Đô Thị là xong, có đúng không?",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Tôi có linh cảm là cô còn đặt ngôi sao hy vọng lên chúng tôi nữa.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Ắt hẳn phải có công việc cụ thể nào đó cần chúng tôi 'hy sinh anh dũng' đây.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"... Hửm. Thú vị thật. Tôi cũng chẳng định giấu giếm gì các vị đâu nhưng... nghe cách nói như thể ngài đã đọc thấu tam can tôi vậy.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Chúng tôi ngơ ngác nhìn Vergilius không hề vòng vo mà vào thẳng vấn đề chính luôn.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Vâng, quả không sai. Phía các vị cũng chẳng nể nang gì mà thẳng thừng với chúng tôi trước đấy chứ. Rằng là có một cái 'Cành Vàng' ở gần đối tượng thanh trừng này nọ.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Trời ạ, vừa mới nhấc máy lên mà đã bị xổ một tràng như vậy thì ai mà chẳng thấy bối rối. Các vị chẳng chịu giải thích 'Cành Vàng' là cái gì, cũng không trả lời bất kì câu hỏi nào, chỉ nằng nặc đòi cho người tiến sâu vào khu vực để xác định tọa độ... Suýt nữa tôi còn tưởng có ai gọi trêu đấy.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Và chắc chắn là phía chúng tôi cũng đã đưa ra một lời đề nghị mà cô không thể từ chối.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"... Hây dà. Chẳng biết là có một đặc vụ siêu cơ động hay là một ban tình báo siêu chủ động, nhưng quý công ty đây thực sự sở hữu một mạng lưới thu thập thông tin đáng nể đấy.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Cesara thở dài và tựa lưng vào tường, bờ vai hơi rũ xuống.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Thế lần này chúng ta sẽ thanh trừng cái gì đây?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Đến nỗi mà cả một lô một lốc Fixer túm tụm lại tham gia nhiệm vụ thế này... gì chứ, có con Dị Thể nào xổ lồng phá phách như lần trước à? Hay có khi là Biến Dị nhỉ, tại trông có vẻ—",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Cesara lặng im nhìn Ishmael bắn ra cả tràng một vạn câu hỏi vì sao.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"À, ờ... ừ, quên mất. Ahem, để tôi giải thích nhé. Nhìn qua thôi thì cả Dị Thể và Biến Dị đều trông như một loại “quái vật” nào đó, nhưng thực chất—",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"... Giá mà vấn đề chỉ là một quái vật nào đó thôi thì tốt biết mấy nhỉ.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Ngay từ lúc đặt chân đến đây đã có một thứ thu hút sự chú ý của tôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"<Những tờ rơi tìm người mất tích...>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Vô vàn tờ rơi tìm người thân khác nhau phủ kín bề mặt toàn bộ dãy cột nhà ga.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Có vẻ như cư dân Tập Đoàn P đang biết mất hàng loạt mà chẳng có một điểm chung về tuổi tác hay giới tính gì cả.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Cesara lên tiếng khi nhận ra chúng tôi đang dõi theo hàng dài tờ rơi tìm người mất tích.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Mọi người cũng thấy rồi đấy. Tất cả đều là tờ rơi đã cũ nát và sờn màu hết cả rồi. Có vài tấm thậm chí sắp bong ra đến nơi rồi.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"... Khỏi phải nói cũng hiểu, chẳng một gương mặt nào trên những tờ rơi đó trở về an toàn cả.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"…….",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Vậy là thứ ta đang đối đầu không phải là một thực thể...",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"... Mà là một hiện tượng.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Vùng đất nở rộ những nụ cười hạnh phúc nhất.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Công viên giải trí' cổ tích và kì ảo, mang tên La Manchaland.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"La Manchaland...",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Cho đến nay đã có hơn hàng chục vụ khai báo mất tích, nhưng có lẽ con số thực tế còn lớn hơn nhiều.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"Hai tháng trước, La Manchaland đột nhiên xuất hiện từ hư không ở Phố Sau của Tập Đoàn P, thu hút đông đảo khách ghé thăm và rồi... giam giữ họ ở trong đó đến giờ.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Cô nói gì cơ? Họ đã 'mất tích' ư? Sao lại có thể như thế được? Công viên giải trí mà lại tràn ngập hãi hùng thay vì hân hoan, quá là trái với luân thường đạo lý...!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Tôi không tài nào gom đủ nhân lực để giải quyết vụ này. Chỉ mới ba ngày kể từ lúc xuất hiện, công viên đó đã ngay lập tức được xếp vào mức Tai Ương Đô Thị. Giờ thì nó đã lên hẳn thành Ác Mộng Đô Thị rồi.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"Lạ thật. Mới là Ác Mộng Đô Thị thôi, còn chưa phải là Ngôi Sao Thành Phố nữa. Tại sao Tập Đoàn P lại không tự đi giải quyết vậy?",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"Ừm hưm... Vấn đề nằm ở đó đấy. Các phòng ban khác không hứng thú với hiện tượng này lắm, thế nên Phòng Ban Đối Kháng cũng chẳng thèm gửi nhân viên tinh nhuệ tới xử lý làm gì.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"Hả— Tại sao? Hà cớ gì mà Tập Đoàn P lại không huy động lực lượng tinh nhuệ của mình để diệt trừ cái ác, bảo vệ dân lành cơ chứ?!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Don Quixote giờ đây đã toàn tâm toàn ý bị cuốn vào câu chuyện đầy bi thương theo lời kể của khách hàng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"... Trông như Cesara rất thích thú với phản ứng có phần phóng đại và kịch tính của Don Quixote.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"Vì hiện tượng chỉ gây ảnh hưởng trong phạm vi Phố Sau đó.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Thử tượng nó xảy ra ở một nơi nào đó trong Tổ xem; khi ấy thì Phòng Ban Trấn Áp đã cử hết các tổ đội tinh nhuệ tới xử lý ngay từ lúc nó xuất hiện rồi.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"Vòng vo quanh co thế là đủ rồi, Trưởng Ban Cesara. Giấu gì thì lòi luôn đi.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"Người như cô mà vẫy tay cái một là các đặc vụ từ phòng ban khác chạy tới nghe răm rắp rồi.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Khai thật xem nào. Tại sao cô phải làm đủ trò con bò để thuê Công Ty Limbus?",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"Rồi, rồi. Trời ạ, ngài thúc ép tôi quá rồi đấy.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "content":"Vậy để tôi nói thẳng luôn. Mục tiêu của phòng ban chúng tôi...",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "content":"... không phải là thanh trừng La Manchaland.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "content":"<... Hả?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "content":"Sớm thôi, mọi người sẽ tiến vào La Manchaland cùng với các Fixer khác.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "content":"Và tôi có một lời nhắn nhủ tới các vị, đừng bao giờ nhắc đến chuyện tìm kiếm Cành Vàng trước mặt họ.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "content":"Nếu các Fixer khác phát hiện ra một hiện vật bí ẩn mang tên 'Cành Vàng' đang thất lạc đâu đó trong khu vực...",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "content":"... thì không đời nào họ sẽ bỏ qua đâu. Nghe chẳng khác nào một trò săn tìm kho báu đính kèm phần thưởng nhiệm vụ cả. Thế thì việc gì mình phải rút dây động rừng, nhỉ?",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "content":"Trông quý vị cũng đủ khôn ngoan để giữ bí mật về mục đích thực sự của phòng ban chúng tôi đấy... Lý do là gì thì chắc ai cũng hiểu ha.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "content":"Đã nghe thủng lỗ tai rồi ạ. Nghĩa là chúng ta hãy cùng nhau bật mí những bí mật giữa Tập Đoàn P và Công Ty Limbus, hai bên cùng có lợi, chia chác xong xuôi thì đôi người đôi ngả. Đơn giản như đan giỏ. Nhỉ?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "content":"Hiểu bài rồi đó.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "content":"Cô nghĩ chúng tôi là mấy con gà chắc? Đã nhắc đến Bảo Mật Hoạt Động thì phải nói—",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "content":"... là vài đồng chí ở đây vẫn chưa nắm được.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "content":"Đợi mãi mới đúng chủ đề. Đứng đây tiếp thì chỉ có thu hút thêm sự chú ý thừa thãi mà thôi.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "content":"... Ngài nói đúng.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "content":"Đây là thông tin nhiệm vụ. Tiến vào La Manchaland. Tìm kiếm thứ gì đó—hoặc ai đó—đã tạo ra La Manchaland, rồi mang về tôi.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "content":"Hoặc ai đó...?",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "content":"\"Thứ gì đó—hoặc ai đó\" là một miêu tả quá mơ hồ. Chúng ta còn không biết mục tiêu tìm kiếm là vật hữu cơ hay vô cơ.",
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "content":"Phá hủy La Manchaland chẳng phải đã đủ rồi sao? Tại sao cô cần thêm thứ... người... đã tạo ra nó nữa?",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "content":"... Hầy.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "content":"Cesara nhìn Sinclair hồi lâu. Mắt cô sáng lên trong thoáng chốc.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "content":"S-Sao cô lại phản ứng kiểu đó vậy...?",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "content":"Chịu. Có thể là cứng họng đến đờ người ra vì cậu dám đánh bạo để hỏi một câu như thế chăng?",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "content":"Để ý mà xem, từ nãy tới giờ tôi đã hỏi các vị về lý do tìm kiếm Cành Vàng chưa?",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "content":"À...",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "content":"Mà kệ đi, cũng không to tát gì mấy.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "content":"Nếu cậu tò mò tới thế thì đây, là thế này. Tôi chỉ muốn bắt thủ phạm của vụ này, dù là bất cứ ai hay bất cứ cái gì, phải đứng ra chịu trách nhiệm cho thiệt hại mà nó gây ra.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "content":"Hừm hừm, thực vậy! Tên ác nhân dám phạm cái tội tày trời đó phải bị trừng phạt thật thích đáng!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "content":"Và hay hơn nữa là gì? Là nếu vụ này thành công thì tôi sẽ nghiễm nhiên ghi danh thành tích vượt trội cho phòng ban của mình. Ghi điểm ngon lành với cấp trên rồi cứ thế leo lên nấc thang thăng tiến thôi.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "content":"<.......>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "content":"... Xem ra chúng tôi có nhận lời đề nghị hay không cũng chả quan trọng. Các cô đã bắt tay xong xuôi hết với lũ chóp bu công ty chúng tôi rồi còn đâu.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "content":"... Vậy lỡ lúc xử gọn cái hiện tượng ấy xong, tụi tao đéo thích gô cổ cái đứa tạo ra cái công viên giải trí kì quái kia nữa thì sao?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "content":"Lúc ấy mày tính làm gì?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "content":"Heathcliff nói năng thô lỗ nhưng vẫn cho ra được một câu hỏi hợp lý.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "content":"Suy cho cùng, dù muốn hay không thì vẫn có khả năng chúng tôi *thất bại* trong việc áp giải thủ phạm về đây.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "content":"Ấy chết, thế thì chúng tôi đành phải truy tìm thông tin về 'Cành Vàng' rồi. Dù chưa đoạt được cái nào thì vẫn sẽ tìm hiểu thật kĩ lưỡng.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "content":"Ha. Tóm lại là không lấy được hàng thì các cô sẽ ngáng đường chúng tôi chứ gì?",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "place":null,
+                "content":"Ừ thì đây sẽ là một ván đầu tư cực kì tốn kém thời gian và tiền bạc đấy. Chắc chắn luôn. Nhưng nếu không làm đúng yêu cầu thì chính các vị mới là phía ép chúng tôi phải làm vậy đấy.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "place":null,
+                "content":"Hơn nữa... Dù La Manchaland mới đang là Ác Mộng Đô Thị thì cũng không thể chủ quan được. Cấp độ nguy hiểm của nó đang tăng lên nhanh chóng, đồng nghĩa với việc sẽ có thêm nhiều người ở Thành Phố sớm hay tin vụ này thôi.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "content":"Chỉ cần nhìn vào số Fixer từ khắp Thành Phố đang tập hợp tại đây cũng đủ để củng cố luận điểm của tôi rồi.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "content":"Vậy tức là ngoài chúng tôi ra thì cô còn có kế hoạch dự phòng nữa.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":101,
+                "place":null,
+                "content":"Ừm, ai lại chả thích tiền tài danh vọng chứ? Chỉ cần chúng tôi muốn thì sẽ có khối người tự nguyện tham gia ngay ấy mà.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "content":"Mà này, có thể, có thể thôi nhé, biết đâu một Fixer nào trong số họ tự nhiên cực kì hứng thú với Cành Vàng thì sao? Thề chắc cốt luôn, không hiểu sao tôi có cảm giác thứ hiện vật này sẽ dễ dàng thu hút mấy Fixer kiểu đó lắm đấy nha.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "content":"... Ra thế. Cô muốn xử đẹp nhiệm vụ trước khi hiện tượng này thu hút quá nhiều sự chú ý.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":104,
+                "place":null,
+                "content":"Ôi, cô nói quá chuẩn luôn rồi còn gì!",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "place":null,
+                "content":"Mà nói gì thì nói. Trông như chúng ta mỗi người tìm một thứ chả liên quan gì nhau thế này cũng may mắn quá đi chứ nhỉ? Dù chỉ là trong thời điểm hiện tại.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "content":"Thế nên cũng giống như khi phía các vị phải bảo mật thông tin về Cành Vàng, bên tôi cũng phải giữ kín nguồn gốc của La Manchaland kín đáo nhất có thể.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":107,
+                "place":null,
+                "content":"Đồng tình. Một thông tin mà càng nhiều người biết đến thì giá trị càng giảm. Chẳng khác gì mớ hàng sản xuất đại trà.",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "content":"Hầy... chỉ toàn nghe chuyện công việc thôi. Cứ tưởng là mình được mấy món quà lưu niệm chứ, mất hứng thật.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "content":"Chúng tôi đặt kì vọng rất nhiều vào từng người các vị đấy.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "content":"Đằng nào thì mọi người cũng sẵn sàng chết cả mà, phải không nào?",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":111,
+                "place":null,
+                "content":"<Cô ấy cứ nhấn mạnh chi tiết đó thế...>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":112,
+                "place":null,
+                "content":"Từ trước tới nay, thỏa thuận nào của chúng tôi cũng đều như thế đấy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":113,
+                "place":null,
+                "content":"Khi nhiệm vụ bắt đầu thì an nguy lẫn ổn định đều vứt ra ngoài cửa sổ hết.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":114,
+                "place":null,
+                "content":"Chúng tôi chẳng chung một mục tiêu hay hay đích đến nào, cũng chẳng trao cho nhau thứ gì sâu xa hơn những giao dịch nửa vời, vắn tắt.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":115,
+                "place":null,
+                "content":"Tôi cũng dần chấp nhận hệ quả không thể tránh khỏi này, nhưng...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":116,
+                "place":null,
+                "content":"... Tôi vẫn biết rằng đây... chắc chắn không phải là cách đúng đắn.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":117,
+                "place":null,
+                "content":"À HEM!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":118,
+                "place":null,
+                "content":"Giữa hàng mắt buông xuôi và đờ đẫn của các Tội Nhân, riêng chỉ cặp mắt của Don Quixote bừng cháy ngọn lửa đầy nhiệt huyết.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":119,
+                "place":null,
+                "content":"Trưởng Ban Cesara, xin hãy đặt lòng tin vào bọn ta!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":120,
+                "place":null,
+                "content":"Ta, Don Quixote, và những bằng hữu ở Công Ty Limbus sẽ chấm dứt chuỗi ngày lộng hành của cái 'La Manchaland' này, và giải cứu tất cả nạn nhân đã bị nó nuốt chửng!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":121,
+                "place":null,
+                "content":"Hãy khắc ghi những lời này; bọn ta sẽ tóm cổ tên bất lương đã tạo ra La Manchaland và trình diện hắn trước mặt cô! Làm ơn, hãy nhân danh mọi người mà trừng phạt hắn bằng chiếc búa mang tên công lý.",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":122,
+                "place":null,
+                "content":"Thế thì còn gì bằng...! Cô quả biết cách khiến tôi an tâm lắm đấy nha. Đối với tôi thì riêng việc đó thôi đã hơn khối Fixer khác ngoài kia rồi!",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":123,
+                "place":null,
+                "content":"Hức... Don Quixote ta đây sẽ chiến đấu anh dũng và đầy danh dự; để tên tuổi ta sẽ mãi được lưu truyền trong sử sách của Tập Đoàn P!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":124,
+                "place":null,
+                "content":"Don Quixote nhún nhảy lên xuống như thể cô ấy chuẩn bị tuân theo mọi mệnh lệnh tuyệt đối của Cesara vậy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":125,
+                "place":null,
+                "content":"Mày bớt lại dùm cái...",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":126,
+                "place":null,
+                "content":"Chắc chắn là con đàn bà kia đã âm mưu tính kế biến con nhóc thành quân cờ trong tay ả từ đầu...",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":127,
+                "place":null,
+                "content":"Ờ thật ra thì con bé đó cũng chẳng khó hiểu đến thế đâu...",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":128,
+                "place":null,
+                "content":"Vậy là xong! Chúng ta nên bắt đầu thôi nhỉ?",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":129,
+                "place":null,
+                "content":"Lên đường thôi! Quý cô Cesara, xin hãy dẫn lối!",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":130,
+                "place":null,
+                "content":"Xót xa làm sao nhưng tiếc là tôi không thể đồng hành cùng cô được rồi.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":131,
+                "place":null,
+                "content":"Xin hãy cầm tờ giấy này và đi tới vị trí được đánh dấu nhé.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":132,
+                "place":null,
+                "content":"Nhưng mà tại sao cơ chứ?! Độc cô du hành chẳng phải sẽ buồn tẻ lắm sao?",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":133,
+                "place":null,
+                "content":"Còn hỏi nữa à? Tưởng tượng đi. Cả đám rồng rắn kéo nhau tới điểm tập hợp Fixer cùng một vị Trưởng Ban tầm cỡ. Mọi ánh mắt đổ dồn lên chúng ta lúc ấy chắc thua siêu sao mỗi cái tiệc thảm đỏ.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":134,
+                "place":null,
+                "content":"Chuẩn luôn. Kiểu gì mấy ông bà ở đấy cũng sẽ đánh hơi ra chuyện bọn mình và Tập Đoàn P...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":135,
+                "place":null,
+                "content":"Nhưng... trở thành những sao siêu sáng... cũng là một mục tiêu đáng theo đuổi mà?",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":136,
+                "place":null,
+                "content":"Don Quixote à... phổ cập kiến thức một tí nhé. Đôi khi một từ lại có nhiều nghĩa khác nhau đấy...",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":137,
+                "place":null,
+                "content":"Còn đây là thẻ thông hành để mọi người thoải mái di chuyển giữa Phố Sau và Tổ ở Tập Đoàn P. Lưu ý rằng đây là thị thực lao động nên nó sẽ có thời hạn.",
+                "model":"체사라",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":138,
+                "place":null,
+                "content":"Ừm... Nếu có thể dễ dàng phân phát một thứ quan trọng thế này thì phòng ban của họ cũng đâu nhỏ hay yếu gì đâu, sao lại phải ủy thác chúng ta...",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":139,
+                "place":null,
+                "content":"Sinclair vẫn âm thầm nghi hoặc, nhưng nỗi lo bé nhỏ ấy ngay tức khắc bị chôn vui khi các Tội Nhân vây quanh Cesara để nhận dấu thị thực.",
+                "model":null,
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

@@ -1,361 +1,550 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Rooftop",
-            "content": "All that remained on the rooftop was a burnt Golden Bough inside the coffin."
-        },
-        {
-            "id": 1,
-            "model": "파우스트",
-            "content": "The Golden Bough is burnt white. It appears that someone has made off with the other."
-        },
-        {
-            "id": 2,
-            "model": "단테",
-            "content": "<Nelly... took the other one. The one that's intact.>"
-        },
-        {
-            "id": 3,
-            "model": "그레고르",
-            "content": "She must've taken it to her."
-        },
-        {
-            "id": 4,
-            "model": "그레고르",
-            "content": "... Hermann."
-        },
-        {
-            "id": 5
-        },
-        {
-            "id": 6,
-            "model": "히스클리프",
-            "content": "……."
-        },
-        {
-            "id": 7,
-            "model": "히스클리프",
-            "content": "This isn't a failure."
-        },
-        {
-            "id": 8,
-            "model": "히스클리프",
-            "content": "We'll get it back."
-        },
-        {
-            "id": 9,
-            "model": "히스클리프",
-            "content": "Even if our hearts may be broken apart, if I give it my all... we'll be connected once again."
-        },
-        {
-            "id": 10,
-            "model": "히스클리프",
-            "content": "As they did, even in the world where Catherine and I were both dead."
-        },
-        {
-            "id": 11,
-            "model": "싱클레어",
-            "content": "Is Catherine... the name of the person in this coffin?"
-        },
-        {
-            "id": 12,
-            "model": "싱클레어",
-            "content": "I'm sorry, everything feels so... foggy..."
-        },
-        {
-            "id": 13,
-            "model": "파우스트",
-            "content": "The coffin and the person that lies within will be taken back to the headquarters by the After Team."
-        },
-        {
-            "id": 14,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 15,
-            "content": "I wanted to ask him if he was okay, but... I already knew the answer. So many things had gone wrong."
-        },
-        {
-            "id": 16,
-            "model": "히스클리프",
-            "content": "No. I'm still... not okay."
-        },
-        {
-            "id": 17,
-            "content": "Heathcliff's one and only goal... was gone."
-        },
-        {
-            "id": 18,
-            "content": "But Heathcliff was no longer trapped in a living dream."
-        },
-        {
-            "id": 19,
-            "content": "... Perhaps that is precisely why he could open the door to see a new, wider world."
-        },
-        {
-            "id": 20,
-            "content": "Not a single color remained in the silent Wuthering Heights once the tempest passed."
-        },
-        {
-            "id": 21,
-            "content": "All monochromatic, save for..."
-        },
-        {
-            "id": 22,
-            "content": "... patches of color..."
-        },
-        {
-            "id": 23,
-            "model": "히스클리프",
-            "content": "Those flowers... are called heath."
-        },
-        {
-            "id": 24,
-            "model": "히스클리프",
-            "content": "The loneliest flowers that take root and bloom in the wild moorlands... But they're also flowers that survive no matter what devastating tempest comes their way. They endure it all and wait."
-        },
-        {
-            "id": 25,
-            "model": "단테",
-            "content": "<Wait for... what?>"
-        },
-        {
-            "id": 26,
-            "model": "히스클리프",
-            "content": "I don't know. The time, I suppose."
-        },
-        {
-            "id": 27,
-            "content": "That is when Heathcliff finally told us the name of the flowers."
-        },
-        {
-            "id": 28
-        },
-        {
-            "id": 29,
-            "place": "Backstreets of T Corp.",
-            "model": "그레고르",
-            "content": "Woahh! Go after it! GO!"
-        },
-        {
-            "id": 30,
-            "model": "히스클리프",
-            "content": "Oi, it took off. Where the bloody hell are you lookin' at?!"
-        },
-        {
-            "id": 31,
-            "model": "싱클레어",
-            "content": "Well, maybe you should've told me that first?!"
-        },
-        {
-            "id": 32,
-            "content": "Another day, another Distortion hunting in the streets of T Corp. as per LCD's orders."
-        },
-        {
-            "id": 33,
-            "content": "Looks like it didn't take too long for Heathcliff to be his usual energetic self once agai—"
-        },
-        {
-            "id": 34,
-            "model": "히스클리프",
-            "content": "Oi, I told you to send 'em this way! I'll smash your head in once this is over!"
-        },
-        {
-            "id": 35,
-            "content": "... Maybe he's gotten too passionate."
-        },
-        {
-            "id": 36,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 37,
-            "model": "단테",
-            "content": "<Long time no— Wait. Why are you... how do you still have color?>"
-        },
-        {
-            "id": 38,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "Because the light is yet to reach me."
-        },
-        {
-            "id": 39,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "Because a star is an unfathomable distance away."
-        },
-        {
-            "id": 40,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "Do you like flowers too, Dante?"
-        },
-        {
-            "id": 41,
-            "model": "단테",
-            "content": "<Um...>"
-        },
-        {
-            "id": 42,
-            "model": "단테",
-            "content": "<I think I've come to like them.>"
-        },
-        {
-            "id": 43,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "Imagine that there was a single rose you've taken care of for a long time."
-        },
-        {
-            "id": 44,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "Your room was always brimming from the sweet aroma of that flower."
-        },
-        {
-            "id": 45,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "But one day, you leave the rose behind to go on a long, long journey."
-        },
-        {
-            "id": 46,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "In your journey, you come across a large garden... and there, you see thousands of the very same rose you once cared for. That sight... brings you to tears, and you drop to your knees."
-        },
-        {
-            "id": 47,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "... Why do you suppose that is?"
-        },
-        {
-            "id": 48,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 49,
-            "content": "Demian... he's appeared before me in the past. He would always leave me with these cryptic riddles."
-        },
-        {
-            "id": 50,
-            "content": "But I'm starting to understand what his riddles are supposed to represent."
-        },
-        {
-            "id": 51,
-            "model": "단테",
-            "content": "<Because I've finally come to understand.>"
-        },
-        {
-            "id": 52,
-            "model": "단테",
-            "content": "<That the one I truly loved was the rose I'd left behind.>"
-        },
-        {
-            "id": 53,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "Correct."
-        },
-        {
-            "id": 54,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "Even though there are thousands of roses in this world, there is but one rose that is mine."
-        },
-        {
-            "id": 55,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "You've watered it diligently, cared for it, even as its thorns pricked your fingers. So that your care makes its aroma bloom."
-        },
-        {
-            "id": 56,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "I suppose that's how it was for Heathcliff and Catherine as well. Knowing that there are infinite Catherines and Heathcliffs in countless worlds... they wished not for the happiness of infinite Catherines and Heathcliffs but for the happiness of each other. Because to them, each other was the one that truly mattered."
-        },
-        {
-            "id": 57,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "But it would take most people a long, long time to understand that. Because most people are foolish."
-        },
-        {
-            "id": 58,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "Do you understand? Once I learn to properly love my very own flower..."
-        },
-        {
-            "id": 59,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "I no longer need to protect the thousands of other roses in the world."
-        },
-        {
-            "id": 60,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "People of this star care for thousands of rose blossoms in their own gardens... but still fail to find what they really desire."
-        },
-        {
-            "id": 61,
-            "model": "단테",
-            "content": "<... But what of the other flowers that have already bloomed?>"
-        },
-        {
-            "id": 62,
-            "model": "단테",
-            "content": "<What happens to them?>"
-        },
-        {
-            "id": 63,
-            "content": "Demian smiled at my question."
-        },
-        {
-            "id": 64,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "You will find the answer to that question yourself..."
-        },
-        {
-            "id": 65,
-            "model": "데미안",
-            "teller": "Demian",
-            "title": "???",
-            "content": "... when you can draw me a sheep."
-        },
-        {
-            "id": 66,
-            "content": "With that, Demian disappeared."
-        },
-        {
-            "id": 67,
-            "content": "... I hear the faint cry of a distant lamb."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Tầng Thượng Đồi Gió Hú",
+                "content":"Tất cả những gì còn sót lại trên sân thượng là một Cành Vàng bị cháy rụi trong quan tài.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Cành Vàng đang cháy rực một màu trắng. Có vẻ như ai đó đã lấy đi cành còn lại.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"<Nelly... đã lấy cành còn lại đi. Cái vẫn còn nguyên vẹn ấy.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Cô ấy hẳn đã đem nó tới chỗ mụ ta rồi.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"... Hermann.",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"…….",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Đây không phải là thất bại.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Bọn mình sẽ mang nó về.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Ngay cả khi con tim tụi tao lại bị chia cắt, nếu tao dốc hết sức mình... tụi tao sẽ lại kết nối với nhau một lần nữa.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Như thế giới đó, nơi mà cả Catherine và tao đều đã chết.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Catherine... Đó là tên của người nằm trong quan tài này sao?",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Tôi xin lỗi, mọi thứ đều... mơ hồ quá...",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Cỗ quan tài và người nằm bên trong đó sẽ được thu hồi về trụ sở bởi Đội Hậu Tuyến.",
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"<…….>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Tôi muốn hỏi liệu anh ấy có ổn không, nhưng... tôi đã biết câu trả lời rồi. Quá nhiều thứ không ổn đã xảy ra.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Không. Tao vẫn... không ổn.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Mục đích duy nhất của Heathcliff... đã biến mất.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Nhưng Heathcliff đã không còn mắc kẹt bên trong giấc mơ hão huyền nữa.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"... Có lẽ đó chính xác là lý do tại sao anh ấy có thể mở cánh cửa để nhìn thấy thế giới rộng lớn tươi mới hơn.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Không một màu sắc nào còn vương vấn lại Đồi Gió Hú lặng im sau khi cơn bão trôi qua.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Tất cả đều đơn sắc, ngoại trừ...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"... những mảng màu...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Những bông hoa đó... được gọi là heath.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Những bông hoa cô độc này cắm rễ và nở rộ trong những vùng đồng hoang... Nhưng chúng cũng chính là những bông hoa sẽ luôn sinh tồn bất chấp mọi sóng gió. Chúng sẽ cam chịu tất cả và đợi chờ.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"<Đợi chờ... gì cơ?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Tao không biết. Thời gian, chắc thế.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Đó là khi Heathcliff cuối cùng cũng nói cho chúng tôi biết tên của những bông hoa đó.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":"Backstreets của Tập Đoàn T.",
+                "content":"Úi giời ơi! Đuổi theo nó đi! LẸ LÊN!",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Ê, nó chạy mất rồi. Mày nhìn chỗ đéo nào thế?!",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Ờ, rồi sao anh không nói tôi biết từ trước?!",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Một ngày mới đón chào ánh bình minh, lại thêm một chuyến săn lùng Biến Dị trên đường phố Tập Đoàn T theo yêu cầu của phòng ban LCD.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Chỉ mới có một khoảng thời gian ngắn mà Heathcliff đã trở về trạng thái năng nổ thường ngày—",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Ê, tao đã bảo là lùa nó qua đây! Nói không nghe bố mày đập lõm đầu mày giờ!",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"... Có lẽ là anh ấy đã quá nhiệt huyết.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"<…….>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"<Đã lâu không— Đợi đã. Tại sao cậu... làm thế nào mà cậu vẫn còn màu sắc thế?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Bởi vì ánh sáng vẫn chưa thể nào chạm tới tôi.",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Bởi vì một ngôi sao xa đến mức không thể tin nổi.",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Dante, cậu cũng thích hoa chứ?",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"<Ừm...>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"<Tôi nghĩ là tôi đã bắt đầu thích chúng.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Tưởng tượng rằng có một đóa hồng mà cậu hao tâm tổn sức chăm chút cho nó từ ngày này qua tháng nọ.",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Thì căn phòng của cậu sẽ luôn thoang thoảng hương thơm của nó.",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Rồi cho đến một ngày, cậu bỏ lại đóa hồng ấy để đi theo một chuyến hành trình dài thật là dài.",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Trong hành trình của mình, cậu bắt gặp một khu vườn rộng lớn... Và ở đó, cậu thấy hàng ngàn bông hồng giống như bản thân đã từng chăm sóc. Cảnh tượng đó... khiến cậu đổ lệ, rồi quỳ xuống.",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"... Cậu nghĩ xem tại sao nó lại như vậy?",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"<…….>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Demian... trong quá khứ cậu ấy xuất hiện trước mắt tôi. Cậu ấy luôn để lại những câu đố khó hiểu như thế này cho tôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"Nhưng tôi cũng bắt đầu hiểu được những câu đố của cậu ấy đại diện cho điều gì rồi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"<Bởi vì tôi cuối cùng cũng đã hiểu ra.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"<Rằng thứ mà tôi thật sự trân quý nhất chính là bông hồng mà tôi đã bỏ lại khi đó.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Chính xác.",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Giờ trên cái chốn này có hàng ngàn hàng vạn đóa hồng như vậy đi, thì cũng chỉ có một bông là thuộc về cậu.",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"Cậu siêng năng tưới nước cho nó, chăm chút nó, dù cho có là những cái gai sắc nhọn cắm thẳng vào ngón tay mình. Để hương hoa ấy là thành quả cho sự nổ lực của mình.",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Tôi cho rằng đó cũng là cách mà Heathcliff và Catherine đã làm. Biết rằng có vô số Catherine và Heathcliff trong vô số thế giới... họ không mong muốn hạnh phúc của vô số Catherine và Heathcliff mà mong muốn hạnh phúc của nhau. Bởi vì với họ, chính người còn lại mới thực sự quan trọng.",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"Nhưng hầu như mọi người đều mất nhiều thời gian để có thể ngộ ra được điều đó, Tại vì dù sao phần đa con người đều ngu ngốc mà.",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"Hiểu rồi chứ? Khi tôi học được cách yêu quý chính đóa hồng của mình...",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Thì tôi chẳng cần phải bảo vệ hàng vạn bông hồng ngoài kia nữa.",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"Những người chăm sóc hàng ngàn bông hoa ngoài kia ngay tại chính mảnh vườn của họ... những vẫn thất bại trong việc tìm ra bông hoa mà họ thực sự mong muốn.",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":61,
+                "place":null,
+                "content":"<... Nhưng nếu những bông hoa khác đã nở rộ rồi thì sao?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "content":"<Chuyện gì sẽ xảy ra với chúng?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "content":"Demian mỉm cười trước câu hỏi của tôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "content":"Cậu sẽ tìm thấy câu trả lời cho thắc mắc đó...",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":65,
+                "place":null,
+                "content":"... khi mà cậu vẽ cho tôi một bức tranh con cừu.",
+                "model":"데미안",
+                "teller":"Demian",
+                "title":"???"
+            },
+            {
+                "id":66,
+                "place":null,
+                "content":"Cùng với câu nói đó, Demian biến mất.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "content":"... Tôi nghe thấy tiếng kêu yếu ớt của một con cừu ở đằng xa.",
+                "model":null,
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

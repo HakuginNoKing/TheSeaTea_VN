@@ -1,199 +1,246 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Basement",
-            "model": "단테",
-            "content": "<Are you okay, Heathcliff?>"
-        },
-        {
-            "id": 1,
-            "model": "히스클리프다침",
-            "content": "……."
-        },
-        {
-            "id": 2,
-            "model": "이스마엘",
-            "content": "... How are you feeling?"
-        },
-        {
-            "id": 3,
-            "model": "히스클리프다침",
-            "content": "Like shite."
-        },
-        {
-            "id": 4,
-            "model": "히스클리프다침",
-            "content": "And miserable."
-        },
-        {
-            "id": 5,
-            "model": "히스클리프다침",
-            "content": "These bodies... your wounds... I did that, didn't I?"
-        },
-        {
-            "id": 6,
-            "content": "Heathcliff muttered, looking around at the mutilated, mauled corpses of the researchers."
-        },
-        {
-            "id": 7,
-            "model": "히스클리프다침",
-            "content": "Strange."
-        },
-        {
-            "id": 8,
-            "model": "히스클리프다침",
-            "content": "I thought... if I went wild, smashed everything to pieces..."
-        },
-        {
-            "id": 9,
-            "model": "히스클리프다침",
-            "content": "... the weight in my heart would be lifted."
-        },
-        {
-            "id": 10,
-            "model": "히스클리프다침",
-            "content": "But no. Not this time. Not at all. This... this feels awful."
-        },
-        {
-            "id": 11,
-            "model": "히스클리프다침",
-            "content": "How am I any different from that prick, Hindley?"
-        },
-        {
-            "id": 12,
-            "model": "히스클리프다침",
-            "content": "Full of blind hatred against everything in front of me, desiring nothin' but destruction..."
-        },
-        {
-            "id": 13,
-            "model": "히스클리프다침",
-            "content": "But the worst thing is... that I wanted to be like that forever."
-        },
-        {
-            "id": 14,
-            "model": "히스클리프다침",
-            "content": "Because..."
-        },
-        {
-            "id": 15,
-            "model": "히스클리프다침",
-            "content": "I couldn't bear to simply sit there and do nothing."
-        },
-        {
-            "id": 16,
-            "model": "단테",
-            "content": "<No. You're not like him.>"
-        },
-        {
-            "id": 17,
-            "model": "단테",
-            "content": "<Because you came back.>"
-        },
-        {
-            "id": 18,
-            "model": "히스클리프다침",
-            "content": "……."
-        },
-        {
-            "id": 19,
-            "model": "히스클리프다침",
-            "content": "This time, sure. But what if it happens again? Who's to say that there won't be a next time?"
-        },
-        {
-            "id": 20,
-            "model": "히스클리프다침",
-            "content": "Maybe Hindley, that prick, was right."
-        },
-        {
-            "id": 21,
-            "model": "히스클리프다침",
-            "content": "I'm unsalvageable. Did I change? No. I deluded myself into believing that I did, like the dullard I am."
-        },
-        {
-            "id": 22,
-            "model": "히스클리프다침",
-            "content": "This is what I do, what I am. A destroyer who brings ruin to everything until there isn't anything left to pulverise."
-        },
-        {
-            "id": 23,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 24,
-            "model": "단테",
-            "content": "<If it happens again... I can't guarantee that I'll succeed, but I will try again.>"
-        },
-        {
-            "id": 25,
-            "model": "히스클리프다침",
-            "content": "Hah..."
-        },
-        {
-            "id": 26,
-            "model": "히스클리프다침",
-            "content": "Oi, Clockhead."
-        },
-        {
-            "id": 27,
-            "model": "히스클리프다침",
-            "content": "You wouldn't know this, but... Well, everyone but you would know."
-        },
-        {
-            "id": 28,
-            "model": "히스클리프다침",
-            "content": "When I'm starting to lose my mind, when I'm completely blinded and deafened..."
-        },
-        {
-            "id": 29,
-            "model": "히스클리프다침",
-            "content": "When I feel my sense of self, my very being, slowly fading away into the dark..."
-        },
-        {
-            "id": 30,
-            "model": "히스클리프다침",
-            "content": "... I hear that faint noise."
-        },
-        {
-            "id": 31,
-            "model": "히스클리프다침",
-            "content": "That damned noise of a clock."
-        },
-        {
-            "id": 32,
-            "model": "히스클리프다침",
-            "content": "It opens my eyes. Drags me back to reality."
-        },
-        {
-            "id": 33,
-            "model": "단테",
-            "content": "<Well, that's...>"
-        },
-        {
-            "id": 34,
-            "model": "단테",
-            "content": "<Because I'm your manager. Bringing you back to your paths is what I do.>"
-        },
-        {
-            "id": 35,
-            "content": "Things became a lot clearer when I said that out loud."
-        },
-        {
-            "id": 36,
-            "content": "The sound of my clock awakens them, steers them back to their paths."
-        },
-        {
-            "id": 37,
-            "content": "I don't really know what their 'paths' really are, or how we'd go about following them, but..."
-        },
-        {
-            "id": 38,
-            "content": "... we're forging on anyway."
-        },
-        {
-            "id": 39,
-            "content": "Like feeling our way through a dark maze, learning its shape with every step we take."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Tầng Hầm Đồi Gió Hú",
+                "model":"단테",
+                "content":"<Anh có ổn không, Heathcliff?>"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"……."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"이스마엘",
+                "content":"...Thấy sao rồi?"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Như cứt."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Và thảm hại."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Mấy cái xác... và vết thương của mày... do tao hết, đúng không?"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff lẩm bẩm, nhìn quanh đống xác đứt rời và xé toạc của những nhà nghiên cứu."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Lạ thật."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Tao tưởng rằng... nếu tao hoá điên lên, và đập tan mọi thứ thành từng mảnh..."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"... thì nỗi đau trong tim tao sẽ nhẹ đi."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Nhưng không. Lần này không phải. Thật sự là không. Tao cảm thấy... như thằng rẻ rách ấy."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Tao có khác gì thằng chó Hindley đâu?"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Trong lòng đầy rẫy sự căm thù cho tất cả mọi thứ trước mặt tao, thèm muốn không gì ngoài sự huỷ diệt..."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Nhưng thứ tệ nhất là... tao đã muốn trở nên như thế mãi mãi."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Bởi vì..."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Tao không thể chịu đựng việc ngồi trơ mặt ra đó mà không làm gì cả."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"단테",
+                "content":"<Không. Anh không giống anh ta.>"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"단테",
+                "content":"<Bởi vì anh đã trở về.>"
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"……."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Lần này thì vậy. Nhưng nếu nó xảy ra lần nữa thì sao? Rồi ai dám nói sẽ không có lần kế?"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Có lẽ Hindley, thằng chó đó nói đúng."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Tao không thể nào cứu vãn được. Tao có thay đổi gì không? Không. Tao tự ảo tưởng rằng tao đã trưởng thành, như một thằng thiểu năng vậy."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Đây là cách tao hành xử, đây là bản thân tao. Một kẻ huỷ diệt mang đến sự hoang tàn đến tất cả cho đến khi không còn gì để đập nát nữa."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"단테",
+                "content":"<…….>"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"단테",
+                "content":"<Nếu như nó lại xảy ra... Tôi không thể đảm bảo tôi sẽ thành công, nhưng tôi sẽ thử thêm một lần nữa.>"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Ha...."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Ê, Đầu Đồng Hồ."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Mày không biết đâu, nhưng... À thì, chắc ai cũng biết trừ mày."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Khi tao chuẩn bị mất trí, khi tao trở nên hoàn toàn mù quáng và căm điếc..."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Khi tao cảm thấy nhận thức bản thân, hay chính cả con người tao, dần dần tan biến vào bóng tối..."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"... Tao nghe cái tiếng động đó."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Cái tiếng đồng hồ chết giẫm."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"히스클리프다침",
+                "content":"Nó mở mắt tao ra. Kéo tao về thực tại."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"단테",
+                "content":"<À thì, chuyện đó...>"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"단테",
+                "content":"<Bởi vì tôi là quản lý của anh. Mang anh về đúng con đường phải đi là chuyện tôi phải làm mà.>"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "content":"Mọi thứ trở nên rõ ràng hơn nhiều khi tôi nói to điều đó ra."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "content":"Tiếng đồng hồ của tôi cảnh tỉnh bọn họ, đưa họ về đúng con đường của chính mình."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":null,
+                "content":"Tôi thật sự không biết \"con đường\" của họ trông như thế nào, hoặc chúng ta sẽ đi theo chúng ra sao, nhưng mà..."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":null,
+                "content":"... dù gì chúng ta vẫn phải tiến bước về phía trước."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":null,
+                "content":"Cảm giác giống như cảm nhận mọi thứ xung quanh trong một mê cung tăm tối, cố gắng nắm bắt hình dạng của nó với mỗi bước đi của chúng ta."
+            }
+        ]
+    }
+

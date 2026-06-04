@@ -1,281 +1,414 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Outskirts, Past",
-      "model": "바리",
-      "content": "Quiet, huh?"
-    },
-    {
-      "id": 1,
-      "model": "바리",
-      "content": "But it's not such a peaceful place. Even now, they are observing us."
-    },
-    {
-      "id": 2,
-      "model": "바리",
-      "content": "……."
-    },
-    {
-      "id": 3,
-      "model": "바리",
-      "content": "There will be more wars. After the war of humans and Bloodfiends, I mean."
-    },
-    {
-      "id": 4,
-      "model": "바리",
-      "content": "I can see it. The war against the nebulae beyond the Outskirts is all but written."
-    },
-    {
-      "id": 5,
-      "model": "바리",
-      "content": "Humanity's inability to find satisfaction is the very hunger that leads to war. It is an inevitability."
-    },
-    {
-      "id": 6,
-      "model": "바리",
-      "content": "... Look at me. Talking the ear off of someone who's about to forget everything."
-    },
-    {
-      "id": 7,
-      "model": "옛산초2",
-      "title": "La Manchaland",
-      "content": "……."
-    },
-    {
-      "id": 8,
-      "model": "바리",
-      "content": "I know I said this already, but let me say it again."
-    },
-    {
-      "id": 9,
-      "model": "바리",
-      "content": "You won't remember anything once you drink from this river."
-    },
-    {
-      "id": 10,
-      "model": "바리",
-      "content": "Me, your Father, your Family. All the stories we've shared, including this very conversation."
-    },
-    {
-      "id": 11,
-      "model": "옛산초2",
-      "title": "La Manchaland",
-      "content": "I know."
-    },
-    {
-      "id": 12,
-      "model": "바리",
-      "content": "Once you drink the water... I will lead you to the place where you will reside."
-    },
-    {
-      "id": 13,
-      "model": "바리",
-      "content": "I saw an abandoned lighthouse not far from here. It's unlikely anyone would find you there."
-    },
-    {
-      "id": 14,
-      "model": "옛산초2",
-      "title": "La Manchaland",
-      "content": "... Okay."
-    },
-    {
-      "id": 15,
-      "model": "바리",
-      "content": "So that's it, then?"
-    },
-    {
-      "id": 16,
-      "model": "바리",
-      "content": "But how will you... live on?"
-    },
-    {
-      "id": 17,
-      "model": "옛산초2",
-      "title": "La Manchaland",
-      "content": "I don't know."
-    },
-    {
-      "id": 18,
-      "model": "옛산초2",
-      "title": "La Manchaland",
-      "content": "I've lost everything. And now I prepare myself to lose even the remnants of what once was. Do you think that question means anything to me?"
-    },
-    {
-      "id": 19,
-      "model": "옛산초2",
-      "title": "La Manchaland",
-      "content": "You ask a question better asked once I slumber."
-    },
-    {
-      "id": 20,
-      "model": "바리",
-      "content": "……."
-    },
-    {
-      "id": 21,
-      "model": "옛산초2",
-      "title": "La Manchaland",
-      "content": "Once I drink the river's water..."
-    },
-    {
-      "id": 22,
-      "model": "옛산초2",
-      "title": "La Manchaland",
-      "content": "Leave me."
-    },
-    {
-      "id": 23,
-      "model": "옛산초2",
-      "title": "La Manchaland",
-      "content": "Thank you, Bari. For everything."
-    },
-    {
-      "id": 24,
-      "model": "산초",
-      "content": "But the river merely made me forget my instincts as a Bloodfiend. It did not free me from them forevermore."
-    },
-    {
-      "id": 25,
-      "place": "Fathoms of Ego - Maze",
-      "model": "산초",
-      "content": "Because we... are forever bound to our base natures."
-    },
-    {
-      "id": 26,
-      "model": "산초",
-      "content": "Through my Father's Rocinante, I could hide every aspect of Bloodfiendhood from the rest of the world..."
-    },
-    {
-      "id": 27,
-      "model": "산초",
-      "content": "... but it only left me drifting in a ridiculous dream."
-    },
-    {
-      "id": 28,
-      "model": "산초",
-      "content": "Now I am awake. Bare of feet."
-    },
-    {
-      "id": 29,
-      "model": "가면키호테",
-      "content": "Yes. Thus... it reopens..."
-    },
-    {
-      "id": 30,
-      "place": "Fathoms of Ego - La Mancha Eye",
-      "model": "가면키호테",
-      "content": "This ... La Manchaland."
-    },
-    {
-      "id": 33,
-      "model": "산초",
-      "content": "What happened here?"
-    },
-    {
-      "id": 34,
-      "model": "가면키호테",
-      "content": "A tale as old as time."
-    },
-    {
-      "id": 35,
-      "model": "가면키호테",
-      "content": "They could not forgive me... and I could not forgive them in turn."
-    },
-    {
-      "id": 36,
-      "model": "이발사하편",
-      "content": "Open the gates..."
-    },
-    {
-      "id": 37,
-      "model": "이발사하편",
-      "content": "Father, Don Quixote... please! Don't leave us here in the dark! Forgive us!"
-    },
-    {
-      "id": 38,
-      "model": "키호테",
-      "content": "Still... you refuse to share my will..."
-    },
-    {
-      "id": 39,
-      "model": "키호테",
-      "content": "Do you still... fail to understand...? La Manchaland... must remain sealed forever..."
-    },
-    {
-      "id": 40,
-      "model": "이발사하편",
-      "content": "Th-then... we... have n-no choice..."
-    },
-    {
-      "id": 41,
-      "model": "이발사하편",
-      "content": "I... I want to feel... I want to feel happiness again..."
-    },
-    {
-      "id": 42,
-      "model": "이발사하편",
-      "content": "It's... your turn, Priest."
-    },
-    {
-      "id": 43,
-      "model": "신부하편",
-      "content": "……."
-    },
-    {
-      "id": 44,
-      "model": "신부하편",
-      "content": "Forgive not our sins, O venerated ancestor, our Father in blood."
-    },
-    {
-      "id": 45,
-      "model": "신부하편",
-      "content": "And please... please..."
-    },
-    {
-      "id": 46,
-      "model": "이발사하편",
-      "content": "Do it now... <i>STAB HIM!!!!</i>"
-    },
-    {
-      "id": 47,
-      "model": "돌시네아하편",
-      "content": "……."
-    },
-    {
-      "id": 48,
-      "model": "혈귀 3",
-      "teller": "Horrified Bloodfiend",
-      "title": "La Manchaland",
-      "content": "Ah... ahhh..."
-    },
-    {
-      "id": 49,
-      "model": "혈귀 3",
-      "teller": "Horrified Bloodfiend",
-      "title": "La Manchaland",
-      "content": "For... forgive us..."
-    },
-    {
-      "id": 50,
-      "model": "혈귀 3",
-      "teller": "Horrified Bloodfiend",
-      "title": "La Manchaland",
-      "content": "No, please save us..."
-    },
-    {
-      "id": 51,
-      "model": "혈귀 3",
-      "teller": "Horrified Bloodfiend",
-      "title": "La Manchaland",
-      "content": "If you won't..."
-    },
-    {
-      "id": 52,
-      "model": "혈귀 3",
-      "teller": "Horrified Bloodfiend",
-      "title": "La Manchaland",
-      "content": "We'll make you suffer... with the rest of us...!"
+        "dataList":[
+            {
+                "id":0,
+                "place":"Vùng Ngoại Ô, trong Quá Khứ",
+                "model":"바리",
+                "content":"Im ắng nhỉ?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"바리",
+                "content":"Nhưng lại chẳng yên bình chút nào. Chúng vẫn đang quan sát ta.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"바리",
+                "content":"…….",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"바리",
+                "content":"Rồi sẽ có thêm nhiều trận chiến khác. Ý tôi là sau cái trận giữa nhân loại và Huyết Quỷ ấy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"바리",
+                "content":"Tôi có thể thấy được một cuộc chiến chống lại lũ tinh vân ở Vùng Ngoại Ô sẽ sớm diễn ra.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"바리",
+                "content":"Với bản tính thèm khát không thể lấp đầy của nhân loại thì đây là kết cục không thể tránh khỏi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"바리",
+                "content":"... Mình đang làm gì thế này, ai lại đi tám chuyện với một người sắp bị xóa sạch ký ức.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"옛산초2",
+                "content":null,
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"바리",
+                "content":"Tôi biết là mình nói cái này rồi, nhưng tôi sẽ nhắc lại thêm lần nữa.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"바리",
+                "content":"Cô sẽ không thể nhớ lại được bất cứ điều gì sau khi cô uống nước từ dòng sông này.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"바리",
+                "content":"Tôi, Cha cô, hay Gia Đình cô. Tất cả những câu chuyện mà ta đã cùng nhau trải qua, và cả cuộc nói chuyện này.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"옛산초2",
+                "content":"Ta biết chứ.",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"바리",
+                "content":"Sau khi cô uống nó... tôi sẽ dẫn cô đến nơi cô sẽ ở.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"바리",
+                "content":"Có một tòa hải đăng bị bỏ hoang gần đây. Ở đó sẽ không có ai tìm được cô.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"옛산초2",
+                "content":"... Được rồi.",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"바리",
+                "content":"Thế là xong nhỉ?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"바리",
+                "content":"Nhưng mà... cô tính sống tiếp kiểu gì?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"옛산초2",
+                "content":"Ta không biết nữa.",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"옛산초2",
+                "content":"Ta đã mất tất cả.Và giờ ta đã chuẩn bị tinh thần đánh mất tất cả những gì còn vấn vương. Câu hỏi ấy thì có nghĩa lý gì với ta cơ chứ?",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"옛산초2",
+                "content":"Cô đáng ra nên hỏi câu đó khi ta đã say giấc nồng.",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"바리",
+                "content":"…….",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"옛산초2",
+                "content":"Một khi ta đã uống nước sông rồi...",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"옛산초2",
+                "content":"Hãy bỏ ta lại.",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"옛산초2",
+                "content":"Cảm ơn cô vì tất cả, Bari à.",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"산초",
+                "content":"Nhưng nước sông nàychỉ làm ta quên đi bản năng của Huyết Quỷ. Nó không thể cứu ta khỏi chúng mãi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":25,
+                "place":"Thâm Sâu Bản Ngã - Mê Cung",
+                "model":"산초",
+                "content":"Vì bọn ta... sẽ mãi mãi bị xiềng xích bởi bản chất vốn có.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"산초",
+                "content":"Nhờ có Rocinante của Cha, ta giấu được mọi thứ liên quan tới Huyết Quỷ của ta khỏi thế giới...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"산초",
+                "content":"... nhưng lại làm ta trôi dạt theo một giấc mộng không tưởng.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"산초",
+                "content":"Và giờ đây ta đã tỉnh giấc. Đôi chân của ta trần trụi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Được lắm. Nào... hãy mở cửa...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":30,
+                "place":"Thâm Sâu Bản Ngã - Con Mắt La Mancha",
+                "model":"가면키호테",
+                "content":"Chốn... La Manchaland này.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"산초",
+                "content":"Chuyện gì đã xảy ra ở đây vậy?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Không phải đã quá rõ ràng sao.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Họ không tha thứ cho ta... và ta cũng không tha thứ cho họ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"이발사하편",
+                "content":"Mở cổng ra đi mà...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"이발사하편",
+                "content":"Thưa Cha Don Quixote... Chúng con cầu xin Cha mà! Đừng bỏ chúng con lại! Cứu chúng con đi mà!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"키호테",
+                "content":"Thế mà... các con từ chối đi chung lý tưởng cùng ta...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"키호테",
+                "content":"Các con... vẫn không hiểu sao...? La Manchaland... phải bị phong ấn ở đây vĩnh viễn....",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"이발사하편",
+                "content":"Thế thì... Chúng, chúng con cũng hết cách rồi...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"이발사하편",
+                "content":"Con... Con vẫn muốn... được hạnh phúc như xưa mà...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"이발사하편",
+                "content":"Rồi... Tới lượt ngươi đó, Linh Mục.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"신부하편",
+                "content":"…….",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"신부하편",
+                "content":"Ôi thưa tổ tiên đáng kính, người Cha ruột thịt của chúng con, xin hãy tha thứ cho tội ác này.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"신부하편",
+                "content":"Làm ơn... làm ơn đi mà...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"이발사하편",
+                "content":"Nhanh tay lên... <i>ĐÂM ĐI !!!!<i>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"돌시네아하편",
+                "content":"…….",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"혈귀 3",
+                "content":"Á... Ahhh...",
+                "title":"La Manchaland",
+                "teller":"Huyết Quỷ Hoảng Sợ"
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"혈귀 3",
+                "content":"T... tha lỗi cho bọn con...",
+                "title":"La Manchaland",
+                "teller":"Huyết Quỷ Hoảng Sợ"
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"혈귀 3",
+                "content":"Không, hãy cứu rỗi bọn con...",
+                "title":"La Manchaland",
+                "teller":"Huyết Quỷ Hoảng Sợ"
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"혈귀 3",
+                "content":"Nếu Cha không làm thế...",
+                "title":"La Manchaland",
+                "teller":"Huyết Quỷ Hoảng Sợ"
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"혈귀 3",
+                "content":"Thì bọn con sẽ làm Cha khốn khổ... như bọn con vậy...!",
+                "title":"La Manchaland",
+                "teller":"Huyết Quỷ Hoảng Sợ"
+            }
+        ]
     }
-  ]
-}
+

@@ -1,248 +1,374 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Basement",
-            "model": "넬리",
-            "content": "Heathcliff!"
-        },
-        {
-            "id": 1,
-            "model": "료슈",
-            "content": "Tsk... and it was just starting to get interesting."
-        },
-        {
-            "id": 2,
-            "model": "단테",
-            "content": "<... What are you going to do, Heathcliff?!>"
-        },
-        {
-            "id": 3,
-            "model": "히스클리프",
-            "content": "Obvious, innit? I'm going to get Cathy out of there. Out of that experiment pod, a machine, a coffin... whatever it is."
-        },
-        {
-            "id": 4,
-            "model": "단테",
-            "content": "<But what about...>"
-        },
-        {
-            "id": 5,
-            "model": "히스클리프",
-            "content": "But what about all those people in the glass pods...?"
-        },
-        {
-            "id": 6,
-            "model": "히스클리프",
-            "content": "... Don't think you can stop me with your meaningless pleas."
-        },
-        {
-            "id": 7,
-            "model": "히스클리프",
-            "content": "You already know what a heartless bastard I am. You know how much I've been waiting for this moment."
-        },
-        {
-            "id": 8,
-            "model": "넬리",
-            "content": "Heathcliff..."
-        },
-        {
-            "id": 9,
-            "model": "이스마엘",
-            "content": "W-wait. Give us some time. There has to be a way to shut down the power supply."
-        },
-        {
-            "id": 10,
-            "model": "이스마엘",
-            "content": "Then we'll pick up the Golden Bough from this coffin, then—"
-        },
-        {
-            "id": 11,
-            "model": "히스클리프",
-            "content": "DON'T! Don't lecture me! Don't you even try. Do you really think you can change my mind?"
-        },
-        {
-            "id": 12,
-            "model": "이스마엘",
-            "content": "……."
-        },
-        {
-            "id": 13,
-            "content": "... Maybe this is the time to beat the sense back into him, like we discussed earlier on the bus."
-        },
-        {
-            "id": 14,
-            "content": "And that's when..."
-        },
-        {
-            "id": 15,
-            "model": "힌들리",
-            "content": "I knew it... You were all nothing but a band of thieves, eh...? Coming to pilfer my home..."
-        },
-        {
-            "id": 16,
-            "model": "넬리",
-            "content": "Mister Hindley...!"
-        },
-        {
-            "id": 17,
-            "model": "넬리",
-            "content": "You. What order did you give to the Dead Rabbits?"
-        },
-        {
-            "id": 18,
-            "model": "히스클리프",
-            "content": "... Boss."
-        },
-        {
-            "id": 19,
-            "model": "히스클리프",
-            "content": "Where have you been this whole time? Do you even have any idea the state the Dead Rabbits are in?"
-        },
-        {
-            "id": 20,
-            "model": "히스클리프",
-            "content": "Not to mention the rumor I heard. They said that the Dead Rabbits were long—"
-        },
-        {
-            "id": 21,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "Woah, Heathcliff. Take it easy, lad."
-        },
-        {
-            "id": 22,
-            "model": "힌들리",
-            "content": "This was my home, dammit..."
-        },
-        {
-            "id": 23,
-            "model": "힌들리",
-            "content": "I nearly had that game. It was mine! If only that bloody bastard hadn't gotten that card..."
-        },
-        {
-            "id": 24,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "But... Mister Hindley."
-        },
-        {
-            "id": 25,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "I did advise you that such problems require a deeper consideration."
-        },
-        {
-            "id": 26,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "When everything suddenly starts going wrong in your life..."
-        },
-        {
-            "id": 27,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "... the cause has got to be lurkin' somewhere, hidin' out of your sight."
-        },
-        {
-            "id": 28,
-            "model": "힌들리",
-            "content": "... Right. I've given it some thought."
-        },
-        {
-            "id": 29,
-            "model": "힌들리",
-            "content": "I've given some thought to when or where everything went wrong."
-        },
-        {
-            "id": 30,
-            "model": "힌들리",
-            "content": "And I see it now. The cause of all this misery..."
-        },
-        {
-            "id": 31,
-            "model": "힌들리",
-            "content": "It's because of that thing that everything went wrong."
-        },
-        {
-            "id": 32,
-            "model": "히스클리프",
-            "content": "……."
-        },
-        {
-            "id": 33,
-            "model": "힌들리",
-            "content": "That day... that one bloody windy winter night."
-        },
-        {
-            "id": 34,
-            "model": "힌들리",
-            "content": "When some lowlife, vagrant child arrived at my home, before my eyes, with the broken pieces of my violin."
-        },
-        {
-            "id": 35,
-            "model": "힌들리",
-            "content": "That's when everything went wrong."
-        },
-        {
-            "id": 36,
-            "model": "힌들리",
-            "content": "He should've died that day. Succumbed to frostbite, all alone..."
-        },
-        {
-            "id": 37,
-            "model": "힌들리",
-            "content": "... in some colourless Backstreets shithole."
-        },
-        {
-            "id": 38,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "... Calm yourself, Mister Hindley."
-        },
-        {
-            "id": 39,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "I've got to tell ya that I am runnin' rather low on manpower. There is no need to waste our strength against 'em."
-        },
-        {
-            "id": 40,
-            "model": "힌들리",
-            "content": "No! I can handle them! I'll have you know that I—"
-        },
-        {
-            "id": 41,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "—have gone through several augmentation procedures and was sent to a boarding school by your father where you learned how to fight?"
-        },
-        {
-            "id": 42,
-            "content": "Hindley glared at Matthew with a look of reproach for a moment, as though he was about to lash out at him for cutting his sentence short... then scoffed."
-        },
-        {
-            "id": 43,
-            "model": "힌들리",
-            "content": "Haah... I was once... the master of this manor. Not like you lowlife hooligans who crawled in here, looking to reave what does not belong to you."
-        },
-        {
-            "id": 44,
-            "model": "힌들리",
-            "content": "Stay out of my way, then."
-        },
-        {
-            "id": 45,
-            "model": "힌들리",
-            "content": "I'm going to kill that mangy dog... I should've killed him when I had the chance."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Tầng Hầm Đồi Gió Hú",
+                "model":"넬리",
+                "content":"Heathcliff!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"료슈",
+                "content":"Chậc...chưa gì đã...chuyện chỉ vừa mới bắt đầu trở nên thú vị thôi mà.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"단테",
+                "content":"<... Anh đang định làm gì thế, Heathcliff?!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Thế mà cũng hỏi à? Tao sẽ đưa Cathy ra khỏi đây. Ra khỏi cái buồng thử nghiệm, cái bộ máy, cái quan tài... gọi là gì cũng được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"단테",
+                "content":"<Nhưng còn...>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Nhưng còn mấy đứa trong mấy cái buồng kín còn lại á...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Mày nghĩ mày cản được tao bằng việc cầu xin à.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Mày biết là trước giờ tao sống chó thế nào rồi. Mày biết tao đã đợi khoảnh khắc này biết bao lâu rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"넬리",
+                "content":"Heathcliff...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Đ-Đợi đã. Chắc chắn phải có cách tắt nguồn năng lượng của nó đi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Sau khi gỡ được Cành Vàng ra khỏi quan tài rồi thì ta sẽ—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"히스클리프",
+                "content":"ĐỪNG! Đừng có ngồi giảng đạo với tao! Ngậm mẹ mồm vào. Mày nghĩ mày đổi ý tao được thật đấy à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"이스마엘",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "content":"... Có thể đây là lúc đánh anh ấy đến khi tỉnh ngộ lại, như chúng tôi đã thảo luận trước đó trên xe buýt.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "content":"Và đó là lúc...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"힌들리",
+                "content":"Tao biết ngay mà... Tụi mày chẳng qua cũng chỉ là lũ chó trộm cắp mà thôi chứ gì...? Đến để cướp nhà tao...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"넬리",
+                "content":"Ngài Hindley...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"넬리",
+                "content":"Ngài đã ra lệnh gì cho đám người Dead Rabbits vậy hả?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Đại ca.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Nãy giờ anh ở đâu vậy? Anh không thấy đám Dead Rabbits thế nào rồi à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Với cả tin đồn em nghe nữa. Họ bảo rằng băng Dead Rabbits đã từ lâu—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Nào nào, Heathcliff. Bình tĩnh nào con trai.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"힌들리",
+                "content":"Đây là nhà của tao đấy, lũ chó chết...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"힌들리",
+                "content":"Mém chút là tao thắng ván đó rồi. Lẽ ra đống tiền đó phải là của tao! Nếu như thằng chó đó không rút được lá bài...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Nhưng... Ngài Hindley này.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Không phải tôi đã khuyên ngài nên cẩn trọng hơn trong mấy việc như này sao.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Khi tự nhiên cuộc đời ngài đổ bể...",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"... Thì cái nguyên nhân nó phải nằm đâu đó quanh đây, giấu mình khỏi mắt ngài.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"힌들리",
+                "content":"... Phải. Mày nói đúng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"힌들리",
+                "content":"Tao đã vắt óc nghĩ xem thứ chó gì đã khiến tao ra nông nỗi này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"힌들리",
+                "content":"Và giờ tao biết rồi. Tất thẩy mấy thứ chó chết này...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"힌들리",
+                "content":"Chính vì nó mà tao mới ra nông nỗi này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"히스클리프",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"힌들리",
+                "content":"Cái đêm chết tiệt đó...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"힌들리",
+                "content":"Khi một thằng đầu đường xó chợ đến nhà tao, ngay trước mặt tao, cùng với những mảnh vỡ của cây đàn vĩ cầm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"힌들리",
+                "content":"Đó là khi mọi thứ bắt đầu đổ bể.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"힌들리",
+                "content":"Nó đáng lẽ phải chết quách trong một cái xó nào đó ngoài đường...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"힌들리",
+                "content":"... trong cái hố cứt chết dẫm ở Phố Sau rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"... Bình tĩnh, Ngài Hindley.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Tôi phải nói với cậu rằng nhân lực bên tôi gần hết rồi. Ta không cần phải phí sức với bọn chúng làm gì.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"힌들리",
+                "content":"Tao đéo quan tâm! Tao sẽ giải quyết hết bọn chó đó! Mày biết tao đã—",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"—đã trải qua biết bao nhiêu quy trình cường hoá và đã được cha ngài gửi gắm đến một trường nội trú, nơi mà ngài đã học cách chiến đấu?",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":null,
+                "content":"Hindley liếc mắt khiển trách Matthew một lúc, như thể anh ta đang chuẩn bị đả kích ông ta vì đã cắt ngang lời mình... rồi nhạo báng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"힌들리",
+                "content":"Haaa... Tao đã từng là... chủ nhân của dinh thự này. Tao đéo giống bọn chó tụi bây, nghêng ngang bước vào đây rồi thản nhiên cướp sạch hết mọi thứ cho mình.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"힌들리",
+                "content":"Con mẹ mày cút ra cho tao!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"힌들리",
+                "content":"Tao sẽ giết con chó ghẻ đó... Tao sẽ giết nó ngay bây giờ.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

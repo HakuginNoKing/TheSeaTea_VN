@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Obstruction",
-          "desc": "Deal +50% damage for every type of negative effect on target (max 100%)\n[WhenUse] Base Power +1 for every 2 ([Laceration] + [Vibration]) on target (max 5)\n[WhenUse] Gain +3 [Breath] Count",
+          "name": "Cản Trở",
+          "desc": "Gây thêm 50% sát thương cho mỗi loại hiệu ứng bất lợi trên mục tiêu (tối đa 100%)\n[WhenUse] +1 Uy Lực Cơ Bản cho mỗi 2 ([Laceration] + [Vibration]) trên mục tiêu (tối đa 5)\n[WhenUse] Nhận +3 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 5 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 5 [Vibration]"
                 }
               ]
             }
@@ -31,20 +31,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Double Chaincleave",
-          "desc": "Deal +50% damage for every type of negative effect on target (max 100%)\n[WhenUse] Base Power +1 for every 2 ([Laceration] + [Vibration]) on target (max 5)\n[WhenUse] Gain +3 [Breath] Count",
+          "name": "Song Liên Trảm",
+          "desc": "Gây thêm 50% sát thương cho mỗi loại hiệu ứng bất lợi trên mục tiêu (tối đa 100%)\n[WhenUse] +1 Uy Lực Cơ Bản cho mỗi 2 ([Laceration] + [Vibration]) trên mục tiêu (tối đa 5)\n[WhenUse] Nhận +3 Tầng [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +3 Tầng [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +3 Tầng [Vibration]"
                 }
               ]
             }
@@ -57,8 +57,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harpoon Throw",
-          "desc": "Deal +50% damage for every type of negative effect on target (max 200%)\n[WhenUse] Gain 2 [CriticalDmgUpVespa] next turn",
+          "name": "Phóng Lao",
+          "desc": "Gây thêm 50% sát thương cho mỗi loại hiệu ứng bất lợi trên mục tiêu (tối đa 200%)\n[WhenUse] Nhận 2 [CriticalDmgUpVespa] vào lượt tiếp theo",
           "coinlist": [
             {
               "coindescs": [
@@ -66,10 +66,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BeeSting]"
+                  "desc": "[OnSucceedAttack] Gắn [BeeSting]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 40% of damage dealt"
+                  "desc": "[OnSucceedAttack] Tăng Ngưỡng Choáng bằng 40% sát thương gây ra"
                 }
               ]
             }
@@ -82,8 +82,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harpoon Impalement - There It Is.",
-          "desc": "Deal +50% damage for every type of negative effect on target (max 300%)\n[WhenUse] Gain 5 [CriticalDmgUpVespa] next turn",
+          "name": "Xuyên Lao – Trúng Đích.",
+          "desc": "Gây thêm 50% sát thương cho mỗi loại hiệu ứng bất lợi trên mục tiêu (tối đa 300%)\n[WhenUse] Nhận 5 [CriticalDmgUpVespa] vào lượt tiếp theo",
           "coinlist": [
             {
               "coindescs": [
@@ -91,10 +91,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [ArtifactBeeSting]"
+                  "desc": "[OnSucceedAttack] Gắn [ArtifactBeeSting]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 60% of damage dealt"
+                  "desc": "[OnSucceedAttack] Tăng Ngưỡng Choáng bằng 60% sát thương gây ra"
                 }
               ]
             }
@@ -107,13 +107,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harpoon Recall",
-          "desc": "[CantDuel]\nTargets the unit that has Nested Harpoon (cancel this Skill when there are no available target)\nDeal +50% damage for every type of negative effect on target (max 200%)",
+          "name": "Thu Lao",
+          "desc": "[CantDuel]\nNgắm vào đơn vị có Lao Trùng Điệp (hủy bỏ Kỹ Năng này khi không có mục tiêu phù hợp)\nGây thêm 50% sát thương cho mỗi loại hiệu ứng bất lợi trên mục tiêu (tối đa 200%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Remove the Nested Harpoon on target"
+                  "desc": "[OnSucceedAttack] Gỡ bỏ Lao Trùng Điệp khỏi mục tiêu"
                 }
               ]
             }
@@ -126,20 +126,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counterattack.",
-          "desc": "[DuelCounter]\nDeal +50% damage for every type of negative effect on target (max 100%)\n[StartBattle] <color=#ff6000><mark color=#ff000040><b><u>Gain 1 [SupportProtect]</color></mark></b></u>\n[WhenUse] Gain 2 [ResultEnhancement] and 2 [AttackDmgUp] next turn",
+          "name": "Phản Kích",
+          "desc": "[DuelCounter]\nGây thêm +50% sát thương cho mỗi loại hiệu ứng bất lợi trên mục tiêu (tối đa 100%)\n[StartBattle] <color=#ff6000><mark color=#ff000040><b><u>Nhận 1 [SupportProtect]</color></mark></b></u>\n[WhenUse] Nhận 2 [ResultEnhancement] và 2 [AttackDmgUp] vào lượt kế",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
+                  "desc": "[OnSucceedAttack] Gắn 5 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +3 Tầng [Vibration]"
                 }
               ]
             }
@@ -153,7 +153,7 @@
         {
           "level": 1,
           "name": "Defensive Assist.",
-          "desc": "[CanDuelGuard]\n[SupportProtect] exclusive Skill\n[WinDuel] Heal 4 SP for all allies (including this unit)\n- Heal 8 SP instead for LCD Faction",
+          "desc": "[CanDuelGuard]\nKỹ Năng độc quyền cho [SupportProtect]\n[WinDuel] Hồi 4 SP cho tất cả đồng minh(bao gồm cả đơn vị này)\n- Nếu thuộc phe LCD, thay vào đó hồi 8 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -171,9 +171,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Yellow Apic Stinger [黄蜂針]",
-          "desc": "Deal +50% damage for every type of negative effect on target (max 100%)\n[WhenUse] Gain 3 [CriticalDmgUpVespa] next turn",
-          "flavor": "<color=#fde55d>\"Do not even think about resisting.\"</color>",
+          "name": "Hoàng Phong Châm [黄蜂針]",
+          "desc": "Gây thêm +50% sát thương cho mỗi loại hiệu ứng bất lợi trên mục tiêu (tối đa 100%)\n[WhenUse] Nhận 3 [CriticalDmgUpVespa] vào lượt kế",
+          "flavor": "<color=#fde55d>\"Đừng hòng nghĩ đến việc kháng cự.\"</color>",
           "coinlist": [
             {
               "coindescs": [
@@ -181,7 +181,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Laceration]"
                 }
               ]
             },
@@ -191,7 +191,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Gắn 3 [Laceration]"
                 }
               ]
             },
@@ -201,7 +201,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BeeSting] on target"
+                  "desc": "[OnSucceedAttack] Gắn [BeeSting] lên mục tiêu"
                 }
               ]
             },
@@ -211,7 +211,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Remove [BeeSting] on the target"
+                  "desc": "[OnSucceedAttack] Xóa bỏ [BeeSting] trên mục tiêu"
                 }
               ]
             }
@@ -225,7 +225,7 @@
         {
           "level": 1,
           "name": "Gungnir",
-          "desc": "Deal +50% damage for every type of negative effect on target (max 100%)\n[WhenUse] Deal +20% damage for every 10 [Vibration] Potency on target\n[BeforeAttack] If target is at less than 50% HP, [VibrationExplosion] triggered by this Skill does not consume Tremor Count\n[WhenUse] At 0+ SP, generate 1 Mang (望)\n- Coin Power +1, deal +50% damage\n[WhenUse] Gain 3 [CriticalDmgUpVespa] next turn\n[EndSkill] If this Skill generated Mang (望), lose 2 SP",
+          "desc": "Gây thêm +50% sát thương cho mỗi loại hiệu ứng bất lợi trên mục tiêu (tối đa 100%)\n[WhenUse] Gây thêm +20% sát thương cho mỗi 10 Số [Vibration] trên mục tiêu\n[BeforeAttack] Nếu mục tiêu dưới 50% HP, [VibrationExplosion] do Kỹ Năng này kích hoạt sẽ không tiêu hao Tầng Chấn Động\n[WhenUse] Ở 0+ SP, tạo 1 Vọng (望)\n-Uy Lực Xu +1, gây thêm +50% sát thương\n[WhenUse] Nhận 3 [CriticalDmgUpVespa] vào lượt kế\n[EndSkill] Nếu Kỹ Năng này đã tạo Vọng (望), mất 2 SP",
           "flavor": "<color=#fde55d>\"This throw will strike and pierce through without fail.\"</color>",
           "coinlist": [
             {
@@ -234,7 +234,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +2 Tầng [Laceration]"
                 }
               ]
             },
@@ -244,7 +244,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Gắn +2 Tầng [Laceration]"
                 }
               ]
             },
@@ -254,7 +254,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Kích hoạt [VibrationExplosion]; sau đó, giảm 1 Tầng [Vibration] trên mục tiêu"
                 }
               ]
             },
@@ -264,7 +264,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [ArtifactBeeSting] on target"
+                  "desc": "[OnSucceedAttack] Gắn [ArtifactBeeSting] lên mục tiêu"
                 }
               ]
             }
@@ -277,8 +277,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rend Space - Apic Flashburst Blade [空間斬 - 閃蜂光劍]",
-          "desc": "Deal +50% damage for every type of negative effect on target (max 100%)\n[WhenUse] Deal +20% damage for every 10 [Laceration] Potency on target\n[WhenUse] At 0+ SP, generate 2 Mang (望)\n- Coin Power +2, deal +100% damage\n[BeforeAttack] If target is at less than 50% HP, [Laceration] triggered by this Skill does not consume Bleed Count\n[EndSkill] If this Skill generated Mang (望), lose 3 SP",
+          "name": "Không Gian Trảm - Thiểm Phong Quang Kiếm [空間斬 - 閃蜂光劍]",
+          "desc": "Gây thêm +50% sát thương cho mỗi loại hiệu ứng bất lợi trên mục tiêu (tối đa 100%)\n[WhenUse] Gây thêm +20% sát thương cho mỗi 10 Số [Laceration] trên mục tiêu\n[WhenUse] Ở 0+ SP, tạo 2 Vọng (望)\n- Uy Lực Xu +2, gây thêm +100% sát thương\n[BeforeAttack] Nếu mục tiêu dưới 50% HP, [Laceration] do Kỹ Năng này kích hoạt sẽ không tiêu hao Tầng [Laceration]\n[EndSkill] Nếu Kỹ Năng này đã tạo Vọng (望), mất 3 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -286,7 +286,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu 1 lần. Mục tiêu mất 1 Tầng [Laceration]"
                 }
               ]
             },
@@ -296,7 +296,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu 1 lần. Mục tiêu mất 1 Tầng [Laceration]"
                 }
               ]
             },
@@ -306,7 +306,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu 1 lần. Mục tiêu mất 1 Tầng [Laceration]"
                 }
               ]
             },
@@ -316,7 +316,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Kích hoạt [Laceration] trên mục tiêu 1 lần. Mục tiêu mất 1 Tầng [Laceration]"
                 }
               ]
             },
@@ -326,7 +326,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Stagger target"
+                  "desc": "[OnSucceedAttack] làm Choáng mục tiêu"
                 }
               ]
             }

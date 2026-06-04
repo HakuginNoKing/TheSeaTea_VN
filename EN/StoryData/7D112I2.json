@@ -1,334 +1,486 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Fathoms of Ego - La Mancha Eye",
-      "model": "산초",
-      "content": "You've never run from things. You've only had momentary lapses."
-    },
-    {
-      "id": 1,
-      "model": "산초",
-      "content": "You, whose very fate is cursed with this sickness..."
-    },
-    {
-      "id": 2,
-      "model": "산초",
-      "content": "... were capable of love. Even as your mind ailed from this suffocating, parching thirst..."
-    },
-    {
-      "id": 3,
-      "model": "산초",
-      "content": "That is why you saved my life from the periphery of death... tried to share your love..."
-    },
-    {
-      "id": 4,
-      "place": "Buried in Ashes, Somewhere, Past",
-      "model": "키호테",
-      "title": "Bloodfiend",
-      "content": "Tell me. Why did you seek death?"
-    },
-    {
-      "id": 5,
-      "teller": "Sancho",
-      "title": "???",
-      "content": "Because I wanted to get away from the pain."
-    },
-    {
-      "id": 6,
-      "model": "키호테",
-      "title": "Bloodfiend",
-      "content": "How odd. Don't most humans inflict suffering unto others to be freed from their own?"
-    },
-    {
-      "id": 7,
-      "teller": "Sancho",
-      "title": "???",
-      "content": "How could hurting others help... when my pain comes from this... endless cold?"
-    },
-    {
-      "id": 8,
-      "model": "키호테",
-      "title": "Bloodfiend",
-      "content": "Where's your family? Your siblings?"
-    },
-    {
-      "id": 9,
-      "teller": "Sancho",
-      "title": "???",
-      "content": "I never had anyone, not even on the day I was born. I've only known... the cold... the loneliness..."
-    },
-    {
-      "id": 10,
-      "teller": "Sancho",
-      "title": "???",
-      "content": "... So I want to burn myself to ashes like I was never here."
-    },
-    {
-      "id": 11,
-      "model": "키호테",
-      "title": "Bloodfiend",
-      "content": "Then..."
-    },
-    {
-      "id": 12,
-      "model": "키호테",
-      "title": "Bloodfiend",
-      "content": "... allow me to grant you the will to live."
-    },
-    {
-      "id": 13,
-      "model": "키호테",
-      "title": "Bloodfiend",
-      "content": "The family I shall grant you will forever be by your side. Come with me."
-    },
-    {
-      "id": 14,
-      "model": "키호테",
-      "title": "Bloodfiend",
-      "content": "You may know my name as Quixote."
-    },
-    {
-      "id": 15,
-      "model": "키호테",
-      "title": "Bloodfiend",
-      "content": "Or Don Quixote; 'Don' as the signifier of my nobility."
-    },
-    {
-      "id": 16,
-      "place": -1,
-      "model": "산초",
-      "content": "... and..."
-    },
-    {
-      "id": 17,
-      "model": "산초",
-      "content": "... made my heart beat once again..."
-    },
-    {
-      "id": 18,
-      "place": "Shepherds' Village, Past",
-      "model": "키호테",
-      "content": "Sancho. Thus commences our adventure."
-    },
-    {
-      "id": 19,
-      "model": "키호테",
-      "content": "We shall receive no assistance, Bloodfiend or not! This shall be us two against the world."
-    },
-    {
-      "id": 20,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "I know."
-    },
-    {
-      "id": 21,
-      "model": "키호테",
-      "content": "I suppose we will encounter many knights on our journey; many of whom shall challenge me to a duel. You will watch my back when the time comes, won't you? You must strike our foes with a heart that knows no fear."
-    },
-    {
-      "id": 22,
-      "model": "키호테",
-      "content": "Ah, and how could I forget? From this moment onward, we must abandon our identities as Bloodfiends as well."
-    },
-    {
-      "id": 23,
-      "model": "키호테",
-      "content": "In other words, we must appear and behave as humans do."
-    },
-    {
-      "id": 24,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "... I know that as well. That is why you have transformed your Rocinante into the shape of a horse, as awkward as it may appear."
-    },
-    {
-      "id": 25,
-      "model": "키호테",
-      "content": "It used to have such a beautiful, flowing mane of blood..."
-    },
-    {
-      "id": 26,
-      "model": "로시난테",
-      "teller": "Rocinante",
-      "content": "<i>Whinny</i>..."
-    },
-    {
-      "id": 27,
-      "model": "키호테",
-      "content": "Alas. Even Rocinante finds this appearance unpleasant. Sighing and exhaling, so unlike itself..."
-    },
-    {
-      "id": 28,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "Do you even know where this elusive 'tavern' is supposed to be?"
-    },
-    {
-      "id": 29,
-      "model": "키호테",
-      "content": "Is that not your responsibility to learn of?"
-    },
-    {
-      "id": 30,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "I've been holed up in that castle for about as long as you have in any meaningful metric. How should I know?"
-    },
-    {
-      "id": 31,
-      "model": "키호테",
-      "content": "You are truly impossible. I have not once seen nor heard of a Child who speaks in such an insolent manner to a higher Kindred."
-    },
-    {
-      "id": 32,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "I thought we were to appear and behave as humans do? This is supposed to be an adventure, after all."
-    },
-    {
-      "id": 33,
-      "model": "키호테",
-      "content": "Speaking of which, dear Sancho. I have overheard the travelers from earlier, and they say that there is a cave in which a fearsome man-eating bear has made it its home."
-    },
-    {
-      "id": 34,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "Really, a <i>bear</i>?"
-    },
-    {
-      "id": 35,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "I can obliterate that poor animal in less than three—"
-    },
-    {
-      "id": 36,
-      "model": "키호테",
-      "content": "Oh, please. Where is the fun in that? We shall battle this fell beast like the battles in which the Fixers from the books have struggled so valiantly!"
-    },
-    {
-      "id": 37,
-      "place": -1,
-      "model": "산초",
-      "content": "Our adventure then... was full of amateurish mistakes and foolhardy confidence, but..."
-    },
-    {
-      "id": 38,
-      "place": "Shepherds' Village, Past",
-      "model": "키호테",
-      "content": "We shall feast on bear meat as well!"
-    },
-    {
-      "id": 39,
-      "model": "키호테",
-      "content": "You have but to imagine the look of shock on Dulcinea's face as we regale her with this tale. "
-    },
-    {
-      "id": 40,
-      "model": "옛산초",
-      "title": "La Manchaland",
-      "content": "A look of disgust would be more accurate."
-    },
-    {
-      "id": 41,
-      "place": -1,
-      "model": "산초",
-      "content": "Those were the days when my heart beat more vibrantly than ever before."
-    },
-    {
-      "id": 42,
-      "place": "A Certain Castle, Past",
-      "model": "키호테",
-      "content": "The night approacheth with great haste;"
-    },
-    {
-      "id": 43,
-      "model": "키호테",
-      "content": "Yet thou shalt hew open a path, cleaving the shadows in twain."
-    },
-    {
-      "id": 44,
-      "model": "키호테",
-      "content": "With the blessings and approval of our family of which there is no equal,"
-    },
-    {
-      "id": 45,
-      "model": "키호테",
-      "content": "Challenge and vanquish all things perilous."
-    },
-    {
-      "id": 46,
-      "model": "키호테",
-      "content": "And at last—reach true happiness."
-    },
-    {
-      "id": 47,
-      "model": "키호테",
-      "content": "Thus how indubitable."
-    },
-    {
-      "id": 48,
-      "model": "키호테",
-      "content": "The magnificence with which mine ingenious adventures of to-day shall shine."
-    },
-    {
-      "id": 49,
-      "model": "바리",
-      "content": "Which is... our adventure, as well."
-    },
-    {
-      "id": 50,
-      "model": "바리",
-      "content": "You remember the words, right? A Fixer must maintain a head clear of corruption, speech free of deceit, and conduct guided by clemency."
-    },
-    {
-      "id": 51,
-      "model": "바리",
-      "content": "Show courage in adventure, and bear pain in suffering."
-    },
-    {
-      "id": 52,
-      "model": "바리",
-      "content": "And pray, forget not the mercy for the downtrodden..."
-    },
-    {
-      "id": 53,
-      "model": "바리",
-      "content": "... and last but not least..."
-    },
-    {
-      "id": 54,
-      "model": "키호테",
-      "content": "... Pursue your dream, even if it means wagering your life in the chase."
-    },
-    {
-      "id": 55,
-      "model": "바리",
-      "content": "And we'll return here and talk all about it, no matter how many moons it takes."
-    },
-    {
-      "id": 56,
-      "model": "바리",
-      "content": "About all the wonderful adventures we've undertaken."
-    },
-    {
-      "id": 57,
-      "place": "Fathoms of Ego - La Mancha Eye",
-      "model": "산초",
-      "content": "Even if I were to lose my mind..."
-    },
-    {
-      "id": 58,
-      "model": "산초",
-      "content": "Even if all this is just a fake steed running in circles on a carousel… I don’t want to stop..."
-    },
-    {
-      "id": 59,
-      "model": "키호테빛",
-      "content": "Even if it means that you must struggle against this incurable disease? Even if you must stand against your own blood, your Father?"
+        "dataList":[
+            {
+                "id":0,
+                "place":"Thâm Sâu Bản Ngã - Con Mắt La Mancha",
+                "model":"산초",
+                "content":"Người chưa bao giờ trốn chạy khỏi thứ gì. Người chỉ có những lúc dừng lại thôi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"산초",
+                "content":"Số phận nghiệt ngã đã cho người thứ lời nguyền này...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"산초",
+                "content":"...vậy mà người vẫn còn có thể yêu thương. Kể cả khi tâm trí người bị giày vò bởi cơn khát giằng xé...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"산초",
+                "content":"Hẳn người đã cứu con khỏi cửa tử như vậy... là để chia sẻ tình thương ấy...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":4,
+                "place":"Đâu đó trong đống Tro Tàn Quá Khứ",
+                "model":"키호테",
+                "content":"Nói ta nghe. Vì sao ngươi lại tìm kiếm cái chết?",
+                "title":"Bloodfiend",
+                "teller":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Vì tôi không còn muốn đau đớn nữa.",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"키호테",
+                "content":"Lạ lùng thay. Chẳng phải các ngươi đều chọn làm tổn thương người khác để chạy trốn nỗi đau của bản thân sao?",
+                "title":"Bloodfiend",
+                "teller":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "content":"Làm tổn thương người khác thì giúp ích gì... khi nỗi đau của tôi... là sự lạnh lẽo bất tận?",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"키호테",
+                "content":"Gia đình của ngươi đâu? Anh chị em gì đó?",
+                "title":"Bloodfiend",
+                "teller":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "content":"Tôi không có một ai cả, kể từ khi ra đời đã vậy. Tôi chỉ biết... sự lãnh lẽo...cô đơn...",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":null,
+                "content":"...Vậy nên tôi muốn tự thiêu mình thành tro, để như chưa từng tồn tại.",
+                "title":"???",
+                "teller":"Sancho"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"키호테",
+                "content":"Vậy...",
+                "title":"Bloodfiend",
+                "teller":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"키호테",
+                "content":"... hãy để ta ban cho ngươi một lý do để tồn tại.",
+                "title":"Bloodfiend",
+                "teller":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"키호테",
+                "content":"Ta sẽ ban cho ngươi một gia đình sẽ vĩnh viễn bên cạnh ngươi. Đi với ta.",
+                "title":"Bloodfiend",
+                "teller":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"키호테",
+                "content":"Ngươi có thể gọi ta là Quixote.",
+                "title":"Bloodfiend",
+                "teller":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"키호테",
+                "content":"Hoặc Don Quixote; với 'Don' là tước hiệu biểu trưng cho dòng dõi quý tộc của ta.",
+                "title":"Bloodfiend",
+                "teller":null
+            },
+            {
+                "id":16,
+                "place":-1,
+                "model":"산초",
+                "content":"...rồi...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"산초",
+                "content":"...người làm trái tim của con đập trở lại.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":18,
+                "place":"Làng Chăn Cừu, Quá khứ",
+                "model":"키호테",
+                "content":"Sancho, hãy để chuyến phiêu lưu của chúng ta được bắt đầu.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"키호테",
+                "content":"Chúng ta sẽ không nhận hỗ trợ từ bất kỳ kẻ nào khác, dù có là Huyết Quỷ hay không! Sẽ chỉ có hai ta đối đầu với cả thế giới.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"옛산초",
+                "content":"Con biết chứ.",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"키호테",
+                "content":"Trên chặng đường ta đi hẳn sẽ chạm trán với nhiều hiệp sĩ khác nhau, và họ sẽ thách đấu với ta. Con sẽ yểm trợ cho ta mà nhỉ? Hãy chiến đấu với tất cả lòng anh dũng trong tim.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"키호테",
+                "content":"À, và sao ta có thể quên được? Kể từ thời khắc này, chúng ta cũng sẽ cởi bỏ danh phận của một Huyết Quỷ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"키호테",
+                "content":"Hay nói cách khác, ta sẽ hành xử như một nhân loại.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"옛산초",
+                "content":"...Con cũng biết mà. Người biến Rocinante thành hình con ngựa cũng là vì vậy, dù trông nó có hơi kì.",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"키호테",
+                "content":"Nó đã từng có một bộ bờm mượt mà xinh đẹp làm từ máu vậy mà...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"로시난테",
+                "content":"<i>Grừừừ<\/i>...",
+                "title":null,
+                "teller":"Rocinante"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"키호테",
+                "content":"Đấy. Đến cả Rocinante còn cảm thấy bất bình với bộ dạng bây giờ của nó. Nó chưa bao giờ thở dài thườn thượt thế này...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"옛산초",
+                "content":"Người có biết cái 'quán rượu' này lẩn khuất chốn nào không?",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"키호테",
+                "content":"Không phải đó là trách nhiệm của con sao?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"옛산초",
+                "content":"Con bị nhốt trong toà lâu đài đó lâu đến độ không thể đong đếm rồi. Sao mà con biết được?",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"키호테",
+                "content":"Thiệt tình con bé này. Ta chưa từng thấy Đứa Con nào mà nói chuyện xấc xược với Thân Quyến cấp cao hơn như con luôn đấy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"옛산초",
+                "content":"Con tưởng là chúng ta phải nhìn và hành xử giống con người? Đây cũng đáng ra là một cuộc phiêu lưu mà.",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"키호테",
+                "content":"Nhắc mới nhớ, Sancho. Ta nghe lỏm được từ mấy vị lữ hành hồi nãy rằng có một con gấu ăn thịt người vô cùng đáng sợ đang định cư ở một cái hang gần đây.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"옛산초",
+                "content":"Thật à, một <i>con gấu<i> luôn?",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"옛산초",
+                "content":"Con có thể cho sinh vật đáng thương đó về với đất mẹ trong ba—",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"키호테",
+                "content":"Ô hay. Như vậy thì có gì vui chứ? Ta phải đối đầu với nó bằng sự chống trọi quyết liệt giống các vị Fixer như cách mà sách hay kể ấy!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":37,
+                "place":-1,
+                "model":"산초",
+                "content":"Cuộc phiêu lưu của ta khi ấy... toàn sai lầm ngớ ngẩn và ta tự tin đến độ liều lĩnh, nhưng...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":38,
+                "place":"Làng Chăn Cừu, Quá khứ",
+                "model":"키호테",
+                "content":"Và rồi ta sẽ xẻ thịt nó ra mà ăn!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"키호테",
+                "content":"Con có tưởng tượng nổi Dulcinea sẽ kinh ngạc đến mức nào khi ta lại chuyện này cho con bé nghe không.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"옛산초",
+                "content":"Thấy kinh tởm thì có.",
+                "title":"La Manchaland",
+                "teller":null
+            },
+            {
+                "id":41,
+                "place":-1,
+                "model":"산초",
+                "content":"Đó là những tháng ngày mà trái tim con đập rộn ràng nhất.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":42,
+                "place":"Một Lâu Đài Nọ, Quá Khứ",
+                "model":"키호테",
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"키호테",
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"키호테",
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"키호테",
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"키호테",
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"키호테",
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"키호테",
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"바리",
+                "content":"Cũng chính là... cuộc phiêu lưu của chúng ta vậy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"바리",
+                "content":"Ngươi còn khắc ghi những lời ấy chứ? Một Fixer chân chính phải nghĩ không điều độc ác, nói không điều giả dối, làm việc phải được dẫn lối bởi trái tim nhân hậu.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"바리",
+                "content":"Dũng cảm dấn thân vào những chuyến phiêu lưu, chấp nhận gian khổ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"바리",
+                "content":"Và không bỏ mặc những kẻ đang gặp khó khăn.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"바리",
+                "content":"... cuối cùng là...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"키호테",
+                "content":"... Hãy theo đuổi ước mơ của mình, ngay cả khi phải đánh cược mạng sống này.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"바리",
+                "content":"Và rồi chúng ta sẽ lại tề tựu nơi này và kể cho nhau nghe về mọi thứ, cho dù có mất bao nhiêu đêm đi chăng nữa.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"바리",
+                "content":"Về những cuộc phiêu lưu mà chúng ta đã trải qua.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":57,
+                "place":"Thâm Sâu Bản Ngã - Con Mắt La Mancha",
+                "model":"산초",
+                "content":"Kể cả khi con đã mất trí...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"산초",
+                "content":"Kể cả khi tất cả chỉ là một con ngựa giả chạy quanh cái vòng quay... con không muốn dừng lại...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"키호테빛",
+                "content":"Kể cả khi con sẽ phải vĩnh viễn chống chọi với căn bệnh đáng nguyền rủa này? Và đối đầu với Cha con, với chính máu mủ của mình?",
+                "title":null,
+                "teller":null
+            }
+        ]
     }
-  ]
-}
+

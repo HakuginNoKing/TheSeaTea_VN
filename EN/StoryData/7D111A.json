@@ -1,679 +1,1078 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": "Fathoms of Ego - La Mancha Eye",
-      "model": "산초",
-      "content": "The adventure... has ended."
-    },
-    {
-      "id": 1,
-      "model": "산초",
-      "content": "And thus, so did my dream."
-    },
-    {
-      "id": 2,
-      "model": "싱클레어",
-      "content": "It's not over yet."
-    },
-    {
-      "id": 3,
-      "model": "싱클레어",
-      "content": "We're pretty major characters in your adventures too, you know?"
-    },
-    {
-      "id": 4,
-      "model": "싱클레어",
-      "content": "You can't just... end this story without even asking its cast."
-    },
-    {
-      "id": 5,
-      "model": "산초",
-      "content": "So stupid..."
-    },
-    {
-      "id": 6,
-      "content": "Her words of denial are tinged with something new, something we hadn't heard in what felt like forever."
-    },
-    {
-      "id": 7,
-      "content": "Anticipation."
-    },
-    {
-      "id": 8,
-      "content": "The door opens ajar."
-    },
-    {
-      "id": 9,
-      "content": "A narrow opening, but still an opportunity that Sinclair... and the Sinners gave me."
-    },
-    {
-      "id": 10,
-      "content": "I reach out and seize the opportunity through that opening."
-    },
-    {
-      "id": 11,
-      "content": "Just as I had always done."
-    },
-    {
-      "id": 12,
-      "content": "Just as I had rewound the clock over and over again to not lose them."
-    },
-    {
-      "id": 13,
-      "content": "Stage. Narration."
-    },
-    {
-      "id": 14,
-      "content": "And La Manchaland with its every move tied to its stage directions."
-    },
-    {
-      "id": 15,
-      "content": "I know what to do. The flow I must find, the flow I must hitch myself to."
-    },
-    {
-      "id": 16,
-      "place": -1,
-      "model": "단테",
-      "content": "<However...>"
-    },
-    {
-      "id": 17,
-      "model": "단테",
-      "content": "<Don Quixote, who despaired that this moment was to be the end of her tale...>"
-    },
-    {
-      "id": 18,
-      "model": "단테",
-      "content": "<Still refused to give up.>"
-    },
-    {
-      "id": 19,
-      "model": "파우스트",
-      "content": "……."
-    },
-    {
-      "id": 20,
-      "model": "산초",
-      "content": "Stop it."
-    },
-    {
-      "id": 21,
-      "model": "산초",
-      "content": "I've come back to my senses, woke up from my delusions."
-    },
-    {
-      "id": 22,
-      "model": "산초",
-      "content": "You may have once called me Don Quixote... but I am Sancho, now."
-    },
-    {
-      "id": 23,
-      "model": "싱클레어",
-      "content": "... Don Quixote has never been on an adventure all on her lonesome, however. How could she give up, when she knew they were all counting on her?"
-    },
-    {
-      "id": 24,
-      "model": "로쟈",
-      "content": "Yeah! ... Who woulda thunk, that she'd forget something so important—that she had a whopping twelve companions in her story!"
-    },
-    {
-      "id": 25,
-      "model": "로쟈"
-    },
-    {
-      "id": 26,
-      "model": "그레고르",
-      "content": "Well, not every fight ended with a triumphant victory."
-    },
-    {
-      "id": 27,
-      "model": "이스마엘",
-      "content": "But every time they were teetering on the brink of defeat, she'd always shout... 'We shan't ever give up...!'... or something like that, right?"
-    },
-    {
-      "id": 28,
-      "model": "이스마엘"
-    },
-    {
-      "id": 29,
-      "model": "이상",
-      "content": "With every despair, with every moment of dejection from her fellows..."
-    },
-    {
-      "id": 30,
-      "model": "이상",
-      "content": "... the void of despondency was made whole by Don Quixote's tales of wonder, so that their sights were not to be led astray from their dreamward journeys."
-    },
-    {
-      "id": 31,
-      "model": "이상",
-      "content": "The tales were so extraordinarily ingenious, and so brilliant that... it gave many the very resolve needed to rise to their feet at their darkest hours."
-    },
-    {
-      "id": 32,
-      "model": "이상"
-    },
-    {
-      "id": 33,
-      "model": "히스클리프",
-      "content": "……."
-    },
-    {
-      "id": 34,
-      "model": "히스클리프",
-      "content": "Well... uh... right. And we beat the shite out of countless insane bastards... or 'villains'."
-    },
-    {
-      "id": 35,
-      "model": "히스클리프",
-      "content": "Fought some poor blokes who were turnin' into bugs... braved all kinds of monsters, too..."
-    },
-    {
-      "id": 36,
-      "model": "이스마엘",
-      "content": "Got swallowed by a giant Whale, too."
-    },
-    {
-      "id": 37,
-      "model": "료슈",
-      "content": "A.R.T."
-    },
-    {
-      "id": 38,
-      "model": "오티스",
-      "content": "Yes."
-    },
-    {
-      "id": 39,
-      "model": "오티스",
-      "content": "The adventures aboard that train would also make for quite the tale."
-    },
-    {
-      "id": 40,
-      "model": "홍루",
-      "content": "Oh, and there were bad, no-good people who were trying to take our treasures away from us, too."
-    },
-    {
-      "id": 41,
-      "model": "홍루",
-      "content": "We sure had a lot of close calls."
-    },
-    {
-      "id": 42,
-      "model": "홍루"
-    },
-    {
-      "id": 43,
-      "model": "뫼르소",
-      "content": "No destination was free of such risks."
-    },
-    {
-      "id": 44,
-      "model": "로쟈",
-      "content": "But hey, in the end, they got their names positively plastered all over the newspaper. Got their names out there like superstars."
-    },
-    {
-      "id": 45,
-      "model": "로쟈"
-    },
-    {
-      "id": 46,
-      "model": "파우스트",
-      "content": "And perhaps... she had more than the twelve companions..."
-    },
-    {
-      "id": 47,
-      "model": "파우스트",
-      "content": "... who cheered her on."
-    },
-    {
-      "id": 48,
-      "model": "파우스트"
-    },
-    {
-      "id": 49,
-      "place": "Inside the Abandoned Lighthouse",
-      "model": "옛돈키",
-      "content": "To... the most magnificent Fixer... of the Cinq..."
-    },
-    {
-      "id": 50,
-      "model": "옛돈키",
-      "content": "Thine account was a tale... most moving, a tale that could move mountains..."
-    },
-    {
-      "id": 51,
-      "model": "옛돈키",
-      "content": "I shall... remember thy tale between every breath... of mine existence..."
-    },
-    {
-      "id": 52,
-      "model": "옛돈키",
-      "content": "And I... aspire to be... a righteous Fixer of justice... just as thyself."
-    },
-    {
-      "id": 53,
-      "model": "산초",
-      "content": "Yes..."
-    },
-    {
-      "id": 54,
-      "model": "산초",
-      "content": "... Somehow, I always received replies to my letters... When I didn't even write a proper address on them."
-    },
-    {
-      "id": 55,
-      "model": "옛돈키",
-      "content": "Ooooh! Thus cometh a reply!"
-    },
-    {
-      "id": 56,
-      "model": "옛돈키",
-      "content": "Hm hm, let's see..."
-    },
-    {
-      "id": 57,
-      "model": "옛돈키",
-      "content": "Dear Don Quixote, who dreameth of becoming a great Fixer."
-    },
-    {
-      "id": 58,
-      "model": "옛돈키",
-      "content": "Persevere and enlighten thyself until thou understandest the virtues. Then thou shalt become a Fixer most brave, most magnificent!"
-    },
-    {
-      "id": 59,
-      "model": "옛돈키",
-      "content": "Thus, thou shalt never give up."
-    },
-    {
-      "id": 60,
-      "model": "옛돈키",
-      "content": "For thy dream..."
-    },
-    {
-      "id": 61,
-      "model": "옛돈키",
-      "content": "... shall one day be realized, even in the waking world..."
-    },
-    {
-      "id": 62,
-      "place": "Aboard Mephistopheles",
-      "model": "돈키호테",
-      "content": "Manager Esquire!"
-    },
-    {
-      "id": 63,
-      "model": "돈키호테",
-      "content": "Dost thou carry a dream, Manager Esquire? Verily... I do!!!!!"
-    },
-    {
-      "id": 64,
-      "place": "Inside the Abandoned Lighthouse",
-      "model": "산초",
-      "content": "It was you, Bari. All those Fixers who wrote me all those replies... it was you."
-    },
-    {
-      "id": 65,
-      "model": "산초",
-      "content": "It was you who delivered all those books to my room."
-    },
-    {
-      "id": 66,
-      "model": "바리",
-      "content": "Remember? We promised to meet again once each of our adventures are complete..."
-    },
-    {
-      "id": 67,
-      "model": "산초",
-      "content": "... and tell one another all about our adventures."
-    },
-    {
-      "id": 68,
-      "place": "A Certain Castle, Past",
-      "model": "바리",
-      "content": "Answer my duel..."
-    },
-    {
-      "id": 69,
-      "model": "바리",
-      "content": "... and I promise you upon my honor as a Fixer. That I will grant you what you truly seek."
-    },
-    {
-      "id": 70,
-      "model": "바리",
-      "content": "I can... give you a 'tomorrow'."
-    },
-    {
-      "id": 71,
-      "model": "키호테",
-      "title": "Father",
-      "content": "You speak in riddles, human."
-    },
-    {
-      "id": 72,
-      "model": "바리",
-      "content": "Should I consider that a 'yes'?"
-    },
-    {
-      "id": 73,
-      "model": "키호테",
-      "title": "Father",
-      "content": "Of course not."
-    },
-    {
-      "id": 74,
-      "model": "키호테",
-      "title": "Father",
-      "content": "Tomorrow is a promise that does not hinge on your blessing."
-    },
-    {
-      "id": 75,
-      "model": "바리",
-      "content": "No, no. That's not the tomorrow I'm talking about. I'm talking about the 'tomorrow' you seek."
-    },
-    {
-      "id": 76,
-      "model": "바리",
-      "content": "You've been living out your days mired in meaninglessness, quietly wasting away inside."
-    },
-    {
-      "id": 77,
-      "model": "바리",
-      "content": "Drinking human blood, compelled not by your own will but by your sickness. In your countless years of existence..."
-    },
-    {
-      "id": 78,
-      "model": "바리",
-      "content": "... you've never had any reason to exist, have you?"
-    },
-    {
-      "id": 79,
-      "model": "바리",
-      "content": "But your illness... and this applies to all of your kind... is loneliness."
-    },
-    {
-      "id": 80,
-      "model": "바리",
-      "content": "It's the kind of suffering you can't weather through by huddling together with your Family in the dark."
-    },
-    {
-      "id": 81,
-      "model": "바리",
-      "content": "So I offer you this."
-    },
-    {
-      "id": 82,
-      "model": "바리",
-      "content": "Anticipation for what tomorrow holds."
-    },
-    {
-      "id": 83,
-      "model": "바리",
-      "content": "In other words... a <i>dream</i>."
-    },
-    {
-      "id": 84,
-      "model": "바리",
-      "content": "I can make you dream."
-    },
-    {
-      "id": 85,
-      "model": "키호테",
-      "title": "Father",
-      "content": "……."
-    },
-    {
-      "id": 86,
-      "model": "바리",
-      "content": "Shout your name out loud if... if you would accept my proposition. Let us give it our all, and may the best warrior claim victory in this singular bout."
-    },
-    {
-      "id": 87,
-      "model": "키호테",
-      "title": "Father",
-      "content": "My name... is Don Quixote."
-    },
-    {
-      "id": 88,
-      "model": "바리",
-      "content": "My name is Bari!"
-    },
-    {
-      "id": 89,
-      "model": "바리"
-    },
-    {
-      "id": 90,
-      "place": "Inside the Abandoned Lighthouse",
-      "model": "베르길리우스2",
-      "content": "You must come with me, for this journey demands your company. In return..."
-    },
-    {
-      "id": 91,
-      "model": "베르길리우스2",
-      "content": "... when the time is right, the promised timepiece you once heard shall come to be by your side."
-    },
-    {
-      "id": 92,
-      "model": "베르길리우스2",
-      "content": "Even when you feel like giving up on yourself."
-    },
-    {
-      "id": 93,
-      "model": "베르길리우스2",
-      "content": "So I promise you this."
-    },
-    {
-      "id": 94,
-      "model": "베르길리우스2",
-      "content": "That one day, you will return to the beginning of all things..."
-    },
-    {
-      "id": 95,
-      "model": "베르길리우스2",
-      "content": "... and tell them all about the adventures you've had."
-    },
-    {
-      "id": 96,
-      "place": "Aboard Mephistopheles",
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "... Ah."
-    },
-    {
-      "id": 97,
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "You are..."
-    },
-    {
-      "id": 98,
-      "model": "단테",
-      "content": "<Don Quixote…>"
-    },
-    {
-      "id": 99,
-      "model": "단테",
-      "content": "<You call me a 'promised timepiece', then.>"
-    },
-    {
-      "id": 100,
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "Indeed... you must be the promised timepiece..."
-    },
-    {
-      "id": 101,
-      "model": "단테",
-      "content": "<And I'm here to make good on that promise.>"
-    },
-    {
-      "id": 102,
-      "model": "단테",
-      "content": "<Don Quixote…>"
-    },
-    {
-      "id": 103,
-      "model": "단테",
-      "content": "<That promise to continue your adventure.>"
-    },
-    {
-      "id": 104,
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "Has the adventure... ended...?"
-    },
-    {
-      "id": 105,
-      "model": "단테",
-      "content": "<No...>"
-    },
-    {
-      "id": 106,
-      "model": "단테",
-      "content": "<I don't think... I don't think it's ended...>"
-    },
-    {
-      "id": 107,
-      "model": "산초",
-      "content": "Is that... true?"
-    },
-    {
-      "id": 108,
-      "model": "산초",
-      "content": "And the adventure goes on...?"
-    },
-    {
-      "id": 109,
-      "model": "단테",
-      "content": "<It goes on.>"
-    },
-    {
-      "id": 110,
-      "model": "단테",
-      "content": "<Even now, at this very moment.>"
-    },
-    {
-      "id": 111,
-      "place": "Fathoms of Ego - La Mancha Eye",
-      "model": "가면키호테",
-      "content": "Sancho... why do you return without slaying them...?"
-    },
-    {
-      "id": 112,
-      "model": "산초",
-      "content": "……."
-    },
-    {
-      "id": 113,
-      "model": "산초",
-      "content": "O Father."
-    },
-    {
-      "id": 114,
-      "model": "가면키호테",
-      "content": "You were always a rebellious Child... unlike my other Children..."
-    },
-    {
-      "id": 115,
-      "model": "가면키호테",
-      "content": "Even before you became my Kindred, you... never once begged me for life. Even... as life began to fade from your eyes..."
-    },
-    {
-      "id": 116,
-      "model": "가면키호테",
-      "content": "And even after I embraced you as my Child... you never once showed me that attachment to life."
-    },
-    {
-      "id": 117,
-      "model": "산초",
-      "content": "……."
-    },
-    {
-      "id": 118,
-      "model": "산초",
-      "content": "Because... there was nothing to love in that life."
-    },
-    {
-      "id": 119,
-      "model": "가면키호테",
-      "content": "Then... love this place, won't you?"
-    },
-    {
-      "id": 120,
-      "model": "가면키호테",
-      "content": "They have gone through hell and back, tried all manner of things to break this madman's delusions, to bring me home to where I belong..."
-    },
-    {
-      "id": 121,
-      "model": "가면키호테",
-      "content": "Thus... to me, this woe I suffer is my love, the stakes that impale me are my succor, and the blood of humans they feed me is... my glory."
-    },
-    {
-      "id": 122,
-      "model": "산초",
-      "content": "If you were mad, then that very same madness must have taken ahold of me."
-    },
-    {
-      "id": 123,
-      "model": "산초",
-      "content": "Your ideas and beliefs, which were indistinguishable from utter insanity at first, slowly took root in the barren, cracked earth that was my heart and began to grow."
-    },
-    {
-      "id": 124,
-      "model": "산초",
-      "content": "The times you've spent, the nonsense you've babbled at me as we adventured together only nurtured that hopeless garden."
-    },
-    {
-      "id": 125,
-      "model": "가면키호테",
-      "content": "Yet my dream... was an abject failure, Sancho."
-    },
-    {
-      "id": 126,
-      "model": "가면키호테",
-      "content": "You must have seen it yourself, on this journey of yours."
-    },
-    {
-      "id": 127,
-      "model": "가면키호테",
-      "content": "Was the world you experienced out there... truly righteous, as I had always said? As we had dreamed together?"
-    },
-    {
-      "id": 128,
-      "model": "가면키호테",
-      "content": "Was it as Bari said...? Were Fixers honorable heroes, bastions of justice, willing to sacrifice their lives for the weak and the downtrodden? Was it true, that good eventually triumphs over evil?"
-    },
-    {
-      "id": 129,
-      "model": "산초",
-      "content": "... No."
-    },
-    {
-      "id": 130,
-      "model": "가면키호테",
-      "content": "That is why... all tales are but fabrications."
-    },
-    {
-      "id": 131,
-      "model": "가면키호테",
-      "content": "I fell off my steed, Sancho. And the shock roused me to the cold waking world..."
-    },
-    {
-      "id": 132,
-      "model": "가면키호테",
-      "content": "And I am... too hurt... too broken... to dream again..."
-    },
-    {
-      "id": 133,
-      "model": "가면키호테",
-      "content": "Thus... my dream... has met its end..."
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Thâm Sâu Bản Ngã - Con Mắt La Mancha",
+                "model":"산초",
+                "content":"Cuộc phiêu lưu... đã kết thúc rồi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"산초",
+                "content":"Giấc mộng của ta cũng vậy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Chúng vẫn chưa kết thúc đâu.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Chúng tôi cũng là những nhân vật khá quan trọng trong cuộc phiêu lưu của cô mà.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Chừng nào mà dàn nhân vật vẫn chưa đồng ý... thì làm sao mà câu chuyện có thể kết thúc được chứ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"산초",
+                "content":"Ngớ ngẩn...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"Những câu từ chối bỏ ấy áng lên điều gì đó mới lạ, thứ mà chúng tôi đã không nghe được từ rất lâu rồi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "content":"Sự kỳ vọng.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "content":"Cánh cửa hé mở ra.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "content":"Một khoảng trống eo hẹp, nhưng vẫn chính là cơ hội mà Sinclair... và các Tội Nhân đã trao cho tôi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":null,
+                "content":"Tôi vươn tay ra nắm bắt lấy cơ hội thông qua kẽ hở ấy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "content":"Như cái cách tôi luôn làm.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "content":"Như cái cách tôi xoay ngược đồng hồ liên tục để không đánh mất họ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "content":"Sân khấu. Dẫn chuyện.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "content":"Và La Manchaland gắn liền với lối chỉ đạo diễn xuất ấy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":null,
+                "content":"Tôi biết mình phải làm gì. Tôi phải đi tìm cái dòng chảy ấy và móc nối nó vào chung với tôi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":16,
+                "place":-1,
+                "model":"단테",
+                "content":"<Tuy nhiên...>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"단테",
+                "content":"<Don Quixote, tuyệt vọng vì khoảnh khắc này sẽ là hồi kết của cả câu chuyện...>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"단테",
+                "content":"<Vẫn từ chối để buông bỏ.>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"파우스트",
+                "content":"…….",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"산초",
+                "content":"Dừng lại đi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"산초",
+                "content":"Ta đã thức tỉnh rồi, thức tỉnh khỏi ảo mộng.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"산초",
+                "content":"Các ngươi từng gọi ta là Don Quixote... Nhưng giờ đây, ta là Sancho.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"싱클레어",
+                "content":"... Cô Don Quixote chưa bao giờ tự đi phiêu lưu một mình cả. Làm sao cô ấy buông bỏ được khi biết mọi người đều đang trông cậy vào mình chứ?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"로쟈",
+                "content":"Đúng ròi đó! ... Làm sao mà cô ấy lại có thể quên được rằng—mình có mười bạn đồng hành trong câu chuyện của mình được chứ!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"로쟈",
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"그레고르",
+                "content":"Ừ thì, không phải trận nào ta cũng chiến thắng vẻ vang.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nhưng mà cứ mỗi khi cả bọn tàn tạ sắp gục như ngả rạ tới nơi thì cô ta lại la lên... cái gì mà “Chúng ta sẽ không bao giờ bỏ cuộc...!”... ấy nhỉ?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"이스마엘",
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"이상",
+                "content":"Từng nỗi tuyệt vọng, từng lần mà bạn bè cô ấy chán nản...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"이상",
+                "content":"... Những câu chuyện thần kì của Don Quixote đã lấp đầy cái hố sâu ngập tràn u uất, để mai sau ánh mắt của họ không còn lạc lối khỏi hành trình trong mơ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"이상",
+                "content":"Những câu chuyện thật phi thường, thật rực rỡ... tới mức nó đã thắp sáng lên hàng vạn quyết tâm đứng dậy trong những thời khắc tăm tối nhất.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"이상",
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"히스클리프",
+                "content":"…….",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"히스클리프",
+                "content":"À... ừm... phải rồi. Cả lũ cũng đánh nhừ tử rất nhiều mấy thằng chó điên... hoặc như cách mày gọi là 'kẻ xấu'.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Tẩn vài đứa hóa bọ... dũng cảm chiến đấu chống lại mọi loại quái vật nữa...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Rồi còn bị Cá Voi khổng lồ nuốt chửng nữa.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"료슈",
+                "content":"N.T.L.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"오티스",
+                "content":"Phải.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"오티스",
+                "content":"Những chuyến phiêu lưu trên con tàu đấy đủ để làm một câu chuyện rồi đấy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"홍루",
+                "content":"À, lại thêm bao nhiêu kẻ xấu xa muốn cướp đi những thứ mà chúng ta trân quý nữa chứ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"홍루",
+                "content":"Biết bao nhiêu phen ngàn cân treo sợi tóc đấy nhỉ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"홍루",
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Không nơi nào là vắng bóng những hiểm nguy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"로쟈",
+                "content":"Nhưng mà này, cuối cùng thì tên tuổi của bọn họ đều rải khắp qua mọi tờ báo. Như những siêu sao điện ảnh vậy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"로쟈",
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"파우스트",
+                "content":"Và có lẽ... ở bên cô ấy còn có nhiều hơn mười hai người bạn đồng hành...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"파우스트",
+                "content":"... cổ vũ cho cô ấy tiến bước.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"파우스트",
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":49,
+                "place":"Trong Ngọn Hải Đăng Bị Bỏ Hoang",
+                "model":"옛돈키",
+                "content":"Kính gửi... Fixer vĩ đại nhất... của Cinq...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"옛돈키",
+                "content":"Câu chuyện của người... thật làm lay động lòng người, như thể dời được núi cao, lấp được biển rộng,",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"옛돈키",
+                "content":"Ta sẽ... khắc ghi câu chuyện của người... trong từng giây phút ta còn hơi thở...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"옛돈키",
+                "content":"Và ta... cũng ước ao được trở thành... một Fixer chính trực, một Fixer của công lý... như người vậy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"산초",
+                "content":"Phải rồi...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"산초",
+                "content":"...Không hiểu tại sao mà ta luôn nhận được thư hồi đáp... trong khi ta còn không viết nổi được cái địa chỉ cho ra hồn.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"옛돈키",
+                "content":"Ôôôôô! Đã có hồi đáp rồi kìa!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"옛돈키",
+                "content":"Hừm hừm, để xem nào...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"옛돈키",
+                "content":"Kính gửi Don Quixote, người muốn trở thành một Fixer cao cả.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"옛돈키",
+                "content":"Hãy kiên cường và học hỏi cho đến khi cô hiểu thấu được những đức tính cao thượng. Khi đó, cô sẽ trở thành Fixer dũng cảm nhất, vĩ đại nhất!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"옛돈키",
+                "content":"Vậy nên đừng bao giờ bỏ cuộc.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"옛돈키",
+                "content":"Vì giấc mộng của cô...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"옛돈키",
+                "content":"...một ngày nào đó sẽ thành hiện thực thôi, kể cả khi cô có tỉnh khỏi giấc nồng...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":62,
+                "place":"Ở trên chiếc Mephistopheles",
+                "model":"돈키호테",
+                "content":"Quản Lý Thân Sĩ à!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ngài có ước mơ gì không, thưa Quản Lý Thân Sĩ? Chính vậy... ta cũng có một ước mơ!!!!!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":64,
+                "place":"Trong Ngọn Hải Đăng Bị Bỏ Hoang",
+                "model":"산초",
+                "content":"Là cô, Bari. Tất cả những lời hồi đáp của các Fixer ấy... là của cô.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"산초",
+                "content":"Là cô đã đem sách đến phòng ta.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"바리",
+                "content":"Cô nhớ không? Chúng ta đã hứa là sẽ gặp lại khi khi hành trình của mỗi người kết thúc.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"산초",
+                "content":"... rồi kể lại cho những người còn lại câu chuyện của mình.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":68,
+                "place":"Một Lâu Đài Nọ, Quá Khứ",
+                "model":"바리",
+                "content":"Chấp nhận lời mời khiêu chiến của tôi...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"바리",
+                "content":"... và thề trên danh dự của một Fixer, tôi xin hứa với ngài rằng ngài sẽ có được thứ mình hằng ao ước.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"바리",
+                "content":"Tôi có thể... cho ngài một \"ngày mai\".",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"키호테",
+                "content":"Ngươi ăn nói vòng vo quá đấy, con người kia.",
+                "title":"Ba",
+                "teller":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"바리",
+                "content":"Tôi sẽ xem như đó là \"đồng ý\".",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"키호테",
+                "content":"Dĩ nhiên là không rồi.",
+                "title":"Ba",
+                "teller":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"키호테",
+                "content":"Ngày mai không phải khái niệm mà nhà ngươi có thể bố thí đâu.",
+                "title":"Ba",
+                "teller":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"바리",
+                "content":"À không, không. Ý tôi không phải thế. Tôi đang nói tới \"ngày mai\" mà ngài mong muốn cơ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"바리",
+                "content":"Ngài đã quá sa lầy trong cái cuộc sống vô nghĩa, lãng phí thời gian này từ ngày này qua ngày khác rồi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"바리",
+                "content":"Phải uống máu người để thỏa mãn căn bệnh cắm rễ trong người ngài, cho đến hết chuỗi ngày tồn tại tưởng như dài đằng đẵng...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"바리",
+                "content":"... mục đích để tồn tại của ngài còn chẳng có, đúng không?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"바리",
+                "content":"Nhưng thứ khiến ngài, và cả đồng loại của ngài phải khổ sở nhiều nhất... là sự cô đơn.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"바리",
+                "content":"Đó là loại thống khổ không thể xoa dịu chỉ bằng việc chui rúc trong bóng tối mà ôm ấp Gia Đình nhỏ của ngài.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"바리",
+                "content":"Vậy nên tôi muốn đưa ra một đề nghị.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"바리",
+                "content":"Kỳ vọng vào những thứ mà tương lai nắm giữ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"바리",
+                "content":"Nói cách khác... một <i>giấc mơ<\/i>.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"바리",
+                "content":"Tôi có thể khiến ngài mơ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"키호테",
+                "content":"…….",
+                "title":"Ba",
+                "teller":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"바리",
+                "content":"Nếu ngài chấp nhận lời đề nghị của tôi... hãy hô to tên của ngài. Ta sẽ giải quyết trận đấu này bằng tất cả những gì mình có.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"키호테",
+                "content":"Tên ta... là Don Quixote.",
+                "title":"Ba",
+                "teller":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"바리",
+                "content":"Tên tôi là Bari!",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"바리",
+                "content":null,
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":90,
+                "place":"Trong Ngọn Hải Đăng Bị Bỏ Hoang",
+                "model":"베르길리우스2",
+                "content":"Ta cần cô đi cùng ta, vì huyến hành trình này cần có cô đi cùng. Nhưng đổi lại...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"베르길리우스2",
+                "content":"... khi tới thời điểm thích hợp, sẽ có chiếc đồng hồ hẹn ước bên cạnh cô.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"베르길리우스2",
+                "content":"Cho dù cô có bỏ cuộc đi chăng nữa.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"베르길리우스2",
+                "content":"Ta cam đoan với cô rằng.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"베르길리우스2",
+                "content":"Một ngày nào đó, khi cô trở về nơi xuất phát...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"베르길리우스2",
+                "content":"... và đi kể lại cho họ về chuyến phiêu lưu của mình.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":96,
+                "place":"Ở trên chiếc Mephistopheles",
+                "model":"실루엣돈키호테",
+                "content":"...A.",
+                "title":"???",
+                "teller":"Don Quixote?"
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Ngươi là...",
+                "title":"???",
+                "teller":"Don Quixote?"
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":"단테",
+                "content":"<Don Quixote...>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":"단테",
+                "content":"<Cô gọi tôi là 'chiếc đồng hồ hẹn ước'.>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Hẳn vậy rồi... ngươi chắc chắn là chiếc đồng hồ hẹn ước...",
+                "title":"???",
+                "teller":"Don Quixote?"
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":"단테",
+                "content":"<Và tôi ở đây để hoàn thiện lời hẹn ước đó.>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":"단테",
+                "content":"<Don Quixote…>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":"단테",
+                "content":"<Lời hẹn ước tiếp tục chuyến hành trình của cô.>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":"실루엣돈키호테",
+                "content":"Cuộc phiêu lưu... đã kết thúc chưa?",
+                "title":"???",
+                "teller":"Don Quixote?"
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":"단테",
+                "content":"<Không...>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"단테",
+                "content":"<Tôi không nghĩ... Tôi cho rằng nó chưa kết thúc đâu...>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":"산초",
+                "content":"Có...thật không?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":"산초",
+                "content":"Cuộc phiêu lưu vẫn đang tiếp diễn ư...?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":"단테",
+                "content":"<Nó vẫn tiếp diễn.>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":"단테",
+                "content":"<Ngay lúc này đây, ngay bây giờ luôn.>",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":111,
+                "place":"Thâm Sâu Bản Ngã - Con Mắt La Mancha",
+                "model":"가면키호테",
+                "content":"Sancho... sao con quay về đây mà không tiêu diệt chúng?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":112,
+                "place":null,
+                "model":"산초",
+                "content":"…….",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":113,
+                "place":null,
+                "model":"산초",
+                "content":"Cha hỡi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":114,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Con vốn là một Đứa Con nổi loạn... chả bù cho những Đứa Con khác của ta...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":115,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Kể cả trước khi trở thành Thân Quyến của ta, con... chưa từng cầu xin được sống. Cả khi... sự sống dần biến mất trong đôi mắt của con...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":116,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Và kể cả sau khi ta đã cưu mang con như một Đứa Con của mình... con chưa bao giờ tỏ ra ham muốn được sống đến vậy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":117,
+                "place":null,
+                "model":"산초",
+                "content":"…….",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":118,
+                "place":null,
+                "model":"산초",
+                "content":"Bởi vì... cuộc đời đó chẳng có gì đáng trân quý cả.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":119,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Vậy... sao không thử yêu lấy nơi này?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":120,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Họ đã phải dấn thân vào biển lửa, làm đủ mọi cách để dập tan cái ảo vọng cuồng si của một kẻ điên là ta, đưa ta trở lại mái ấm mà ta vốn thuộc về...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":121,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Vậy nên với ta... nỗi thống khổ này chính là tình yêu, thứ được đóng vào ta là an yên, và máu thịt nuôi dưỡng ta... chính là vinh quang.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":122,
+                "place":null,
+                "model":"산초",
+                "content":"Nếu người đã phát điên thì sự điên loạn ấy cũng đã chiếm lấy con rồi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":123,
+                "place":null,
+                "model":"산초",
+                "content":"Lý tưởng và lòng tin của người, ban đầu không phân biệt nổi khỏi sự bấn loạn tột cùng, đã gieo rắc hạt giống của nó lên cái trái tim cằn cỗi con.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":124,
+                "place":null,
+                "model":"산초",
+                "content":"Thời gian mà người đã bỏ ra và những lời vô nghĩa mà lúc nào người cũng lảm nhảm đã vun đắp cái khu vườn vô vọng ấy.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":125,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Giấc mơ của ta... đã tan thành mây khói, Sancho ạ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":126,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Con cũng hẳn đã tận mắt chứng kiến điều đó trong từng bước chân con đi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":127,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Cái thế giới ngoài kia nơi con được thỏa sức vẫy vùng... có thực sự nghĩa hiệp như cách ta thường nói, hay mơ về nó không?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":128,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Liệu có thực sự như Bari nói... rằng các Fixer đều là những người anh hùng trượng nghĩa, sẵn sàng hy sinh vì kẻ yếu không? Rằng công lý sẽ chiến thắng tất cả?",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":129,
+                "place":null,
+                "model":"산초",
+                "content":"...Không.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":130,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Thế đấy... câu chuyện nào cũng là thêu dệt mà ra cả.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":131,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Ta đã ngã khỏi yên ngựa, Sancho. Và cú ngã đã làm ta bừng tỉnh nơi thế giới lạnh lẽo này...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":132,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Còn ta... đã quá đau đớn... quá vụn vỡ... để mà có thể mơ thêm lần nữa...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":133,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Giấc mơ của ta... đã kết thúc rồi...",
+                "title":null,
+                "teller":null
+            }
+        ]
     }
-  ]
-}
+

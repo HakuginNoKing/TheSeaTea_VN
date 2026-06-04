@@ -1,88 +1,108 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Shepherds' Village",
-      "model": "기사돈키",
-      "content": "Eventually, I managed to wholly purge the village of bandits and return the peace to where it belongs!"
-    },
-    {
-      "id": 1,
-      "model": "주민로쟈",
-      "content": "\"O Don Quixote, your worship! I thank you for protecting our village. How may we repay this great favor?\""
-    },
-    {
-      "id": 2,
-      "model": "산손",
-      "content": "The villagers spoke of the reward for this brave adventurer."
-    },
-    {
-      "id": 3,
-      "model": "산손",
-      "content": "Of course they did. Expecting a reward for a job done well was a most natural thing, indeed. After all, who would do such difficult work for no pay?"
-    },
-    {
-      "id": 4,
-      "model": "기사돈키",
-      "content": "\"No need, my good lady! There is no need at all. I have merely done my duty as a righteous Fixer.\""
-    },
-    {
-      "id": 5,
-      "model": "주민로쟈",
-      "content": "\"Oh my! For truth?! You helped us... for free? Without expecting any compensation?\""
-    },
-    {
-      "id": 6,
-      "model": "기사돈키",
-      "content": "\"Forsooth! For that! Is the duty of a Fixer. Ah, yet... ahem. If thou truly wishest to help, then... I do have aught to ask thee...\""
-    },
-    {
-      "id": 7,
-      "model": "주민로쟈",
-      "content": "\"Of course! Anything for you, brave adventurer!\""
-    },
-    {
-      "id": 8,
-      "model": "기사돈키",
-      "content": "\"That is...! 'Tis naught of any import, of course. 'Tis... uh...\""
-    },
-    {
-      "id": 9,
-      "model": "기사돈키",
-      "content": "“…….”"
-    },
-    {
-      "id": 10,
-      "model": "주민로쟈",
-      "content": "\"... Huh?\""
-    },
-    {
-      "id": 11,
-      "place": -1,
-      "content": "<color=#ebcaa2>But, um... how could we repay you...? We don't have much money...</color>"
-    },
-    {
-      "id": 12,
-      "content": "<color=#ffef23>Your running shoes look like they could fetch a nice price...</color>"
-    },
-    {
-      "id": 13,
-      "content": "<color=#cc2424>Fie on thee! A... ...doth not dole out justice based on promise of capital!</color>"
-    },
-    {
-      "id": 14,
-      "content": "<color=#cc2424>Still, if thou truly wishest to help, then...</color>"
-    },
-    {
-      "id": 15,
-      "place": "Shepherds' Village",
-      "model": "단테",
-      "content": "<This memory... Was that... Don Quixote...?>"
-    },
-    {
-      "id": 16,
-      "model": "산손",
-      "content": "Ah, can't have dead silence on the stage. Let's keep things moving and head on to the next tale, shall we?"
+        "dataList":[
+            {
+                "id":0,
+                "place":"Làng Chăn Cừu",
+                "model":"기사돈키",
+                "content":"Cuối cùng thì ta cũng quét sạch lũ ăn cướp khỏi làng, trả lại yên bình vốn có cho nơi đây!"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"주민로쟈",
+                "content":"\"Ôi vị Don Quixote đáng kính! Tôi rất cảm ơn vì đã bảo vệ ngôi làng này. Làm sao chúng tôi có thể đáp ơn trả nghĩa cho ngài đây?\""
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"산손",
+                "content":"Dân làng bắt đầu bàn tán xem nên trao cho vị mạo hiểm giả anh dũng phần thưởng nào."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"산손",
+                "content":"Dĩ nhiên là sẽ như vậy rồi. Người bình thường nào cũng sẽ mong chờ một cái giá xứng đáng với công sức mà mình đã bỏ ra. Ai mà lại muốn tốn nhiều sức lực như vậy vào một công việc không công chứ?"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"기사돈키",
+                "content":"\"Không cần đâu, thưa bà! Không cần thiết đâu. Ta chỉ là một Fixer chính trực đang thực thi nghĩa vụ của mình thôi.\""
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"주민로쟈",
+                "content":"\"Ôi trời! Thiệt sao?! Ngài giúp chúng tôi... không công sao? Cũng không nhận thù lao nào luôn ạ?\""
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"기사돈키",
+                "content":"\"Chính phải! Bởi vì! Đó là nghĩa vụ của một Fixer. À, nhưng mà... à hem. Nếu bà muốn trợ giúp, thì... ta muốn hỏi bà một số thứ...\""
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"주민로쟈",
+                "content":"\"Tất nhiên rồi! Gì cũng được, vị anh hùng đáng kính!\""
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"기사돈키",
+                "content":"\"Ý ta là...! Cũng không có gì quá quan trọng đâu. Chỉ là... ờ...\""
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"기사돈키",
+                "content":"“…….”"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"주민로쟈",
+                "content":"\"... Hở?\""
+            },
+            {
+                "id":11,
+                "place":-1,
+                "model":null,
+                "content":"<color=#ebcaa2>Nhưng, ừm... làm sao kẻ hòn mọn này có thể trả ơn ngài đây...? Chúng tôi quả thực nghèo khó...<\/color>"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "content":"<color=#cc2424>Đôi giày chạy của ngươi nhìn cũng đáng giá đó...<\/color>"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "content":"<color=#cc2424>Ăn nói hồ đồ! Đã là một Fixer thì không thực thi chính nghĩa vì tiền bạc.<\/color>"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "content":"<color=#cc2424>Ấy nhưng, nếu các ngươi có ý nguyện giúp đỡ thì...<\/color>"
+            },
+            {
+                "id":15,
+                "place":"Làng Chăn Cừu",
+                "model":"단테",
+                "content":"<Ký ức này... Đó là... Don Quixote sao...?>"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"산손",
+                "content":"Ấy, không thể để sân khấu im ắng như thế này được. Chúng ta tiếp tục với câu chuyện tiếp theo thôi nhỉ?"
+            }
+        ]
     }
-  ]
-}
+

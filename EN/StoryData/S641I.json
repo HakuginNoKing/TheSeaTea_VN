@@ -1,43 +1,54 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Laboratory",
-            "model": "단테",
-            "content": "<…Vergilius?>"
-        },
-        {
-            "id": 1,
-            "model": "로쟈",
-            "content": "Woah... Am I seeing things? Guys, is it just me, or is that...?"
-        },
-        {
-            "id": 2,
-            "content": "It was that very same Vergilius, who's never once seemed to care about what's happened to us, who never once took part in our journey..."
-        },
-        {
-            "id": 3,
-            "content": "... wading through the Wild Hunt, into the basement."
-        },
-        {
-            "id": 4,
-            "model": "돈키호테",
-            "content": "S-Sir Vergilius... Most illustrious Color...!"
-        },
-        {
-            "id": 5,
-            "model": "돈키호테",
-            "content": "My deepest apologies, for mine alertness is not as keen as it oft is. Could this be a dream...? Is it truly thee? May I pinch thy cheek, to ascertain my suspicions?"
-        },
-        {
-            "id": 6,
-            "model": "베르길리우스3",
-            "content": "Sounds like you've got enough energy to flap your gums."
-        },
-        {
-            "id": 7,
-            "model": "돈키호테",
-            "content": "Ooh...! What biting words! Forsooth, our very own Color has arrived indeed...!"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phòng Thí Nghiệm Đồi Gió Hú",
+                "model":"단테",
+                "content":"<…Vergilius?>"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ối dồi ôi.. Tôi có bị hoa mắt không thế? Ây nè, có phải chỉ mình tôi không, hay là...?"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "content":"Đó chính là Vergilius, người chưa một lần nào tỏ ra quan tâm đến chuyện xảy ra với chúng tôi và chưa bao giờ tham gia vào chuyến hành trình của chúng tôi..."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":null,
+                "content":"... lại đang sải bước qua Cuộc Săn Hoang Dã, xuống chỗ tầng hầm."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Q- Quý Ngài Vergillius... Ôi Sắc Màu lẫy lừng...!"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ta quỳ lạy, ta dập đầu, xin lỗi ngài ngàn lần vì sự ngu dốt bần hèn, có mắt như mù này. Liệu đây có phải là mơ không...? Có thật sự là ngài không? Liệu ta có thể nhéo má ngài để không còn những nghi vấn gì trong đầu ta nữa được không?"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"베르길리우스3",
+                "content":"Xem ra cô còn sức để liên mồm ấy nhỉ?"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ôi chao...! Những lời lẽ như đâm thẳng ruột gan ta vậy! Quả thực, đúng là Sắc Màu đã đến thật rồi...!"
+            }
+        ]
+    }
+

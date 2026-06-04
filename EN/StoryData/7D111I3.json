@@ -1,253 +1,306 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Fathoms of Ego - La Mancha Eye",
-      "model": "산초",
-      "content": "Why do you persist?"
-    },
-    {
-      "id": 1,
-      "model": "산초",
-      "content": "You have all told me time and again to come to my senses, have you not?"
-    },
-    {
-      "id": 2,
-      "model": "산초",
-      "content": "Then why this hypocrisy? Why continue this hopeless, senseless fight?"
-    },
-    {
-      "id": 3,
-      "model": "산초",
-      "content": "Wake... up... I'm... not the person you once knew."
-    },
-    {
-      "id": 4,
-      "content": "I felt as though my clock hands had grown rusted; I couldn't speak. I couldn't say anything."
-    },
-    {
-      "id": 5,
-      "content": "What should I do?"
-    },
-    {
-      "id": 6,
-      "content": "We followed her here to continue her dream, but I don't have anything to offer her. No dreams of my own. No memories of my own. I didn't have anything to share with her."
-    },
-    {
-      "id": 7,
-      "content": "Then..."
-    },
-    {
-      "id": 8,
-      "model": "히스클리프",
-      "content": "You were always a right troublemaker, lass... but I always liked your idea of justice, honor... and loyalty. Besides... you'd grown on me..."
-    },
-    {
-      "id": 9,
-      "model": "히스클리프",
-      "content": "... And now, after all that grandstandin', you're just gonna up and leave us while givin' us that glum, sour-faced look? Think we'll just quietly sit on our arses and accept that?"
-    },
-    {
-      "id": 10,
-      "model": "산초",
-      "content": "What nonsense are you—"
-    },
-    {
-      "id": 11,
-      "model": "이상",
-      "content": "No more. I do not wish to leave behind any dearest fellow of mine again."
-    },
-    {
-      "id": 12,
-      "model": "로쟈",
-      "content": "Y'know how depressing the bus'll be without you, chiquita? C'mon."
-    },
-    {
-      "id": 13,
-      "content": "The Sinners each start chiming in."
-    },
-    {
-      "id": 14,
-      "content": "Even though they had already seen her true nature."
-    },
-    {
-      "id": 15,
-      "model": "싱클레어",
-      "content": "Don't you have so many more tales of adventures to share with us?"
-    },
-    {
-      "id": 16,
-      "model": "싱클레어",
-      "content": "Come on, tell us more. So many of them got cut short during the bus ride, remember?"
-    },
-    {
-      "id": 17,
-      "content": "They continue the tale without hesitation, not a trace of fear in their voices."
-    },
-    {
-      "id": 18,
-      "place": "Aboard Mephistopheles's Deck, Past",
-      "model": "돈키호테",
-      "content": "Khaaaa! Quite the thrill this is!!! Now this! Is true adventure!!!"
-    },
-    {
-      "id": 19,
-      "place": "Gregor's Fathoms, Past",
-      "model": "돈키호테",
-      "content": "There is no cause for hesitation! A true hero succumbs to no hardships!"
-    },
-    {
-      "id": 20,
-      "place": "K Corp. Laboratory, Past",
-      "model": "돈키호테",
-      "content": "Stop them this instant...! It appalls me greatly to think that one must suffer everlasting sights of despair in captivity for the many..."
-    },
-    {
-      "id": 21,
-      "place": "Pawnshop, Past",
-      "model": "돈키호테",
-      "content": "The forces of evil must be uprooted with haste in order to raise the banner of justice high!"
-    },
-    {
-      "id": 22,
-      "place": "Lobotomy Corp. Drilling Ship Entrance, Past",
-      "model": "돈키호테",
-      "content": "Negotiate with a villain such as he...? How..."
-    },
-    {
-      "id": 23,
-      "place": "Backstreets of District 10, Past",
-      "model": "돈키호테",
-      "content": "Hence, onward we travail!"
-    },
-    {
-      "id": 24,
-      "place": "Fathoms of Ego - La Mancha Eye",
-      "model": "홍루",
-      "content": "Listening to your powerful cries, Don Quixote... they really made me feel like we had the wind at our backs."
-    },
-    {
-      "id": 25,
-      "model": "히스클리프",
-      "content": "Well, it usually took the wind right outta me, but... oi, I enjoyed a good few of 'em."
-    },
-    {
-      "id": 26,
-      "model": "이스마엘",
-      "content": "You messed up plenty of situations by charging on without looking both ways, but..."
-    },
-    {
-      "id": 27,
-      "model": "이스마엘",
-      "content": "... at least it's better than being wishy-washy about it and constantly flip-flopping your stances."
-    },
-    {
-      "id": 28,
-      "model": "료슈",
-      "content": "I liked your A.C.T.S."
-    },
-    {
-      "id": 29,
-      "model": "싱클레어",
-      "content": "Yeah. You were always the first one to take Actions, Cutting Through the Shit... You'd never let ambiguities stop you."
-    },
-    {
-      "id": 30,
-      "model": "싱클레어",
-      "content": "So this time, shouldn't we..."
-    },
-    {
-      "id": 31,
-      "model": "싱클레어",
-      "content": "... be the ones to take the initiative, to ensure that Don Quixote's adventures don't come to an end..."
-    },
-    {
-      "id": 32,
-      "model": "싱클레어",
-      "content": "... that her tale continues?"
-    },
-    {
-      "id": 33,
-      "model": "뫼르소",
-      "content": "The question seems to be 'how'."
-    },
-    {
-      "id": 34,
-      "model": "로쟈",
-      "content": "What, are ya gonna beat the sense back into her like back when?"
-    },
-    {
-      "id": 35,
-      "model": "싱클레어",
-      "content": "No."
-    },
-    {
-      "id": 36,
-      "model": "싱클레어",
-      "content": "I don't... want Don Quixote to 'come to her senses'."
-    },
-    {
-      "id": 37,
-      "model": "단테",
-      "content": "<...... >"
-    },
-    {
-      "id": 38,
-      "model": "오티스",
-      "content": "Executive Manager. We... have no way of knowing how many people she has killed in the past merely by existing."
-    },
-    {
-      "id": 39,
-      "model": "오티스",
-      "content": "Will you... embrace her still?"
-    },
-    {
-      "id": 40,
-      "model": "단테",
-      "content": "<I will. >"
-    },
-    {
-      "id": 41,
-      "model": "단테",
-      "content": "<I'll determine the time to bring her back to her senses.>"
-    },
-    {
-      "id": 42,
-      "model": "오티스",
-      "content": "No matter what lurks in the pasts of us Sinners...?"
-    },
-    {
-      "id": 43,
-      "model": "오티스",
-      "content": "Even... if they have killed hundreds, thousands—no, tens of thousands of innocent people? Will you still... embrace them?"
-    },
-    {
-      "id": 44,
-      "content": "I looked at Outis."
-    },
-    {
-      "id": 45,
-      "content": "She wasn't just talking about Don Quixote. She was—"
-    },
-    {
-      "id": 46,
-      "model": "단테",
-      "content": "<I will. >"
-    },
-    {
-      "id": 47,
-      "model": "단테",
-      "content": "<As long as they have the will to change, to move forward, I will be there for them.>"
-    },
-    {
-      "id": 48,
-      "model": "오티스",
-      "content": "……."
-    },
-    {
-      "id": 49,
-      "model": "오티스",
-      "content": "I will remember what you have said here today."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Thâm Sâu Bản Ngã - Con Mắt La Mancha",
+                "model":"산초",
+                "content":"Sao các ngươi vẫn còn gắng gượng làm gì?"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"산초",
+                "content":"Các ngươi lúc nào chẳng bảo ta phải thức tỉnh, đúng chứ?"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"산초",
+                "content":"Vậy thì cái thái độ đạo đức giả gì đây? Sao phải tiếp tục cái cuộc chiến tuyệt vọng, vô nghĩa lý này chứ?"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"산초",
+                "content":"Thức... tỉnh... Ta... không phải người các ngươi đã từng quen."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "content":"Cảm giác kim đồng hồ của tôi hoen gỉ mất rồi; tôi không thể nói được. Chẳng thể thốt lên điều gì."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Tôi nên làm gì bây giờ?"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "content":"Chúng tôi theo cô ấy đến đây để tiếp tục ước mơ, nhưng tôi không có gì để trao cho cô ấy. Giấc mơ của tôi cũng chẳng biết. Và ký ức thì trống rỗng. Tôi không có một cái gì để san sẻ với cô ấy hết."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "content":"Bỗng..."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Mày luôn là kẻ xốc nổi đấy, gái... nhưng mà tao cũng thích cái kiểu mày luôn luyên thuyên về danh dự, công bằng và cả sự trung thành. Với cả mày làm tao quý mày lúc nào chẳng hay."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Và sau tất cả thảy mọi sự ô dề đó mày định dứt áo ra đi với một vẻ mặt nhăn nhó ư? Và tụi tao sẽ để mày rời đi dễ dàng vậy hả?"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"산초",
+                "content":"Ngươi đang xàm ngôn cái quái gì—"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"이상",
+                "content":"Không, tôi sẽ không bao giờ bỏ lại những người đồng hành nữa."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"로쟈",
+                "content":"Không có cưng trong xe thì cả đoàn sẽ buồn lắm đó có biết không? Thôi nào mà."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "content":"Các Tội Nhân bắt đầu cất lời."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":null,
+                "content":"Dẫu họ đã chứng kiến bản chất thật sự của cô ấy."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Vẫn còn bao nhiêu cuộc phiêu lưu mà cô vẫn chưa kể cho chúng tôi nghe mà?"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Hãy kể cho chúng tôi nghe tiếp đi. Một đống câu chuyện bị gián đoạn giữa chừng trên xe buýt mà, cô nhớ chứ?"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":null,
+                "content":"Bọn họ không ngần ngại kể tiếp câu chuyện ấy, không hề sợ hãi điều gì cả."
+            },
+            {
+                "id":18,
+                "place":"Boong Thuyền Buýt Mephistopheles, Quá khứ",
+                "model":"돈키호테",
+                "content":"Uâyyyy! Thật ly kỳ làm sao!!! Chuyện thế này mới đáng được gọi là cuộc phiêu lưu chứ!!!"
+            },
+            {
+                "id":19,
+                "place":"Tâm Trí Gregor, trong Quá Khứ",
+                "model":"돈키호테",
+                "content":"Không có gì phải chần chừ! Một anh hùng đích thực không chịu quy hàng trước gian nan thử thách!"
+            },
+            {
+                "id":20,
+                "place":"Phòng Thí Nghiệm T.Đoàn K, Quá Khứ",
+                "model":"돈키호테",
+                "content":null
+            },
+            {
+                "id":21,
+                "place":"Tiệm Cầm Đồ, trong Quá Khứ",
+                "model":"돈키호테",
+                "content":null
+            },
+            {
+                "id":22,
+                "place":"Lối Vào Tàu Khoan Của T.Đoàn Lobotomy, Quá Khứ",
+                "model":"돈키호테",
+                "content":"Đàm phán với kẻ phản diện như hắn á...? Làm thế nào..."
+            },
+            {
+                "id":23,
+                "place":"Phố Sau Quận 10, trong Quá Khứ",
+                "model":"돈키호테",
+                "content":null
+            },
+            {
+                "id":24,
+                "place":"Thâm Sâu Bản Ngã - Con Mắt La Mancha",
+                "model":"홍루",
+                "content":"Mỗi khi được nghe những lời tuyên bố đanh thép ấy của cô Don Quixote... Thì bất giác, tôi lại thấy mình hừng hực khí thế."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ờ thì… mấy vụ đó thường làm tao xịt khói, nhưng… này, cũng có mấy lần tao khá ưng."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Cô toàn nhắm mắt xông bừa nên lắm lúc cũng khiến tình hình rối tung măng miến lên đấy, nhưng mà.."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... thà như thế còn hơn là lưỡng lự bước tiến bước không để rồi còn chẳng có nổi một chính kiến tử tế."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"료슈",
+                "content":"Ta thích cách ngươi L.O.G.I.C D.C.D.A.Y."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Đúng vậy. Cô luôn là một người Làm Ổn, Giúp Ích Chung Dẫu Cho Đời Ác Ý... Không bao giờ để tình huống bất định cản bước cô."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Nên lần này, chẳng phải chúng ta nên là những người..."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"싱클레어",
+                "content":"... chủ động tiến bước để cuộc phiêu lưu của cô Don Quixote không kết thúc..."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"싱클레어",
+                "content":"... để câu chuyện của cô ấy vẫn tiếp tục sao?"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"뫼르소",
+                "content":"\"Bằng cách nào\" là vấn đề ở đây."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"로쟈",
+                "content":"Hả, chẳng lẽ phải làm tỉnh táo trở lại à?"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Không."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi không muốn... cô Don Quixote 'tỉnh táo trở lại'."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"단테",
+                "content":"<...... >"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"오티스",
+                "content":"Ngài Quản Lý Điều Hành. Chúng ta... không có cách nào để biết cô ta đã tước đi bao nhiêu mạng người chỉ bởi việc tồn tại trên đời này."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"오티스",
+                "content":"Liệu ngài vẫn... chấp nhận cô ta?"
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"단테",
+                "content":"<Đúng thế.>"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"단테",
+                "content":"<Tôi sẽ quyết định thời điểm để đưa cô ấy trở về.>"
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"오티스",
+                "content":"Bất kể những thứ đang ẩn nấp trong quá khứ của các Tội Nhân...?"
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"오티스",
+                "content":"Kể cả khi... họ đã giết hàng trăm, hàng ngàn—không, thậm chí hàng chục mạng người vô tội? Liệu ngài vẫn sẽ... chấp nhận họ?"
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":null,
+                "content":"Tôi nhìn Outis..."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy không phải chỉ nói đến Don Quixote. Cô ấy—"
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"단테",
+                "content":"<Đúng thế.>"
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"단테",
+                "content":"<Chừng nào họ vẫn còn ý chí để thay đổi, để tiến về phía trước, tôi sẽ luôn ở đó vì họ.>"
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"오티스",
+                "content":"……."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"오티스",
+                "content":"Những gì ngài đã nói hôm nay, tôi tuyệt đối không bao giờ quên."
+            }
+        ]
     }
-  ]
-}
+

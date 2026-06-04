@@ -1,100 +1,142 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Catherine's Room",
-            "model": "넬리",
-            "content": "You... What are you doing?"
-        },
-        {
-            "id": 1,
-            "content": "The room, now without its master, was completely turned upside-down."
-        },
-        {
-            "id": 2,
-            "content": "And in the center of all that mess were Butlers, awkwardly standing, frozen mid-movement as though they'd all been caught red-handed."
-        },
-        {
-            "id": 3,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "... We were cleaning the room, as per Master Linton's orders."
-        },
-        {
-            "id": 4,
-            "model": "넬리",
-            "content": "You lot were clearly ransacking the room!"
-        },
-        {
-            "id": 5,
-            "model": "린튼버틀러2",
-            "teller": "Firm Butler",
-            "title": "Edgar Family",
-            "content": "... Chief Butler Nelly, have you seen any of the Dead Rabbits or the Wuthering Heights Butlers on your way here?"
-        },
-        {
-            "id": 6,
-            "model": "린튼버틀러2",
-            "teller": "Firm Butler",
-            "title": "Edgar Family",
-            "content": "We have good reason to believe that the Wuthering Heights Butlers are scheming with that villain Hindley to harm Master Linton."
-        },
-        {
-            "id": 7,
-            "model": "히스클리프",
-            "content": "... The Dead Rabbits ain’t the type of gang to kill people for no reason."
-        },
-        {
-            "id": 8,
-            "model": "그레고르",
-            "content": "Okay, but they did try to kill us for no reason."
-        },
-        {
-            "id": 9,
-            "model": "히스클리프",
-            "content": "I know, dammit! The boss can't be doing all this for nothing. He must have a good explanation for this."
-        },
-        {
-            "id": 10,
-            "model": "히스클리프",
-            "content": "Just tell us what dodgy shite you were up to in Catherine's room."
-        },
-        {
-            "id": 11,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "We told you, Heathcliff. We were... cleaning the room."
-        },
-        {
-            "id": 12,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "Or have you sided yourself with the rest of those lowlives, the Dead Rabbits?"
-        },
-        {
-            "id": 13,
-            "model": "히스클리프",
-            "content": "Like Master, like Butlers, eh? Just as stupid and soft as Linton himself."
-        },
-        {
-            "id": 14,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "That was uncalled for."
-        },
-        {
-            "id": 15,
-            "model": "히스클리프",
-            "content": "No. This dodgy shite you're trying to pull here is what's uncalled for. You've crossed the line."
-        },
-        {
-            "id": 16,
-            "model": "히스클리프",
-            "content": "I’m the only one who can tell you what to do with this room. Not that posh wanker."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Phòng của Catherine",
+                "model":"넬리",
+                "content":"Mấy người... Đang làm gì vậy hả?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":null,
+                "content":"Căn phòng, giờ đây đã vô chủ, bị lục tung hết cả lên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "content":"Và ngay tại trung tâm của mớ hỗn độn đó là các Quản Gia, đứng yên một cách ngượng ngùng, cứng đờ tại chỗ như thể bọn họ đã bị bắt tại trận.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"... Chúng tôi đang tiến hành dọn dẹp, theo lệnh từ Cậu Chủ Linton.",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"넬리",
+                "content":"Mấy cô mấy cậu đang lục tung cả cái phòng lên thì có!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"린튼버틀러2",
+                "content":"... Quản Gia Trưởng Nelly, trên đường tới đây cô có thấy bất kì tên Dead Rabbits hay Quản Gia Đồi Gió Hú nào không?",
+                "teller":"Quản Gia Kiên Nghị",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"린튼버틀러2",
+                "content":"Chúng tôi có lý do chính đáng để nghi ngờ rằng, các Quản Gia từ Đồi Gió Hú đang toan tính hãm hại Cậu Chủ Linton theo lệnh của kẻ thủ ác Hindley.",
+                "teller":"Quản Gia Kiên Nghị",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Băng Dead Rabbits sẽ không giết người vô cớ như vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"그레고르",
+                "content":"Ờ, nhưng mà họ vừa định giết chúng ta vô cớ đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Biết rồi, chết tiệt! Đại ca sẽ không tự dựng khơi khơi làm chuyện như thế.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Chúng mày đang thập thò cái đéo gì trong phòng Catherine kia hả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Như chúng tôi đã nói rõ từ nãy rồi, Heathcliff. Chúng tôi đang... dọn phòng.",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Hay cậu thực sự cùng một phe với đám thấp kém Dead Rabbits kia?",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Đúng là chủ nào chó nấy, vừa dốt vừa yếu đuối như thằng Linton.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Cậu đang xúc phạm vô cớ rồi đấy.",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Không. Mày giở trò thập thò ở đây là tới số rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Tao mới có quyền động vào căn phòng này, chứ đéo phải thằng công tử bột kia.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

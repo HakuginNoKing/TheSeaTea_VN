@@ -1,119 +1,174 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Carnival Parade",
-      "content": "The long parade, the end of which lay beyond my sight..."
-    },
-    {
-      "id": 1,
-      "content": "...may have appeared like a real festival, full of joy and celebration from a distance."
-    },
-    {
-      "id": 2,
-      "content": "People marching in rows, the singing that knew no end."
-    },
-    {
-      "id": 3,
-      "content": "The tune of their music was so hopeful, so cheerful, that..."
-    },
-    {
-      "id": 4,
-      "content": "... I almost felt myself compelled to join them and dance along to the carnival procession."
-    },
-    {
-      "id": 5,
-      "content": "If the parade in question wasn't full of shambling Bloodbags and the terrified sobbing and pleading of its victims, that is."
-    },
-    {
-      "id": 6,
-      "model": "돌시부하1",
-      "teller": "???",
-      "content": "♬Let us march together, O happy hour♬"
-    },
-    {
-      "id": 7,
-      "model": "돌시부하1",
-      "teller": "???",
-      "content": "♬To the beat of upbeat drums♬"
-    },
-    {
-      "id": 8,
-      "model": "돌시부하1",
-      "teller": "???",
-      "content": "♬Without worries or concerns♬"
-    },
-    {
-      "id": 9,
-      "model": "돌시부하1",
-      "teller": "???",
-      "content": "♬Here at the grand Carnival of La Mancha (La Mancha!)♬"
-    },
-    {
-      "teller": "Captive Victim",
-      "title": "La Manchaland",
-      "content": "H-help me, please..."
-    },
-    {
-      "id": 10,
-      "model": "오티스",
-      "content": "... What lies ahead?"
-    },
-    {
-      "id": 11,
-      "model": "돌시부하1",
-      "teller": "Bloodfiend with a Parasol",
-      "content": "Aha! We've a new guest! Yes, we've been getting so, so many guests today~"
-    },
-    {
-      "id": 12,
-      "model": "돌시부하1",
-      "teller": "Bloodfiend with a Parasol",
-      "content": "What lies ahead, you ask? Well, it's Dulcinea the beautiful, the Lady of the Parade!"
-    },
-    {
-      "id": 13,
-      "model": "홍루",
-      "content": "Oh, have you met any other Fixers around?"
-    },
-    {
-      "id": 14,
-      "model": "가시춘",
-      "title": "???",
-      "content": "... Brother, you still haven't learned to read the room? After all this time?"
-    },
-    {
-      "id": 15,
-      "model": "돌시부하1",
-      "teller": "Bloodfiend with a Parasol",
-      "title": "La Manchaland",
-      "content": "Only two possibilities here. They are either Bloodbagged and dancing with us here~"
-    },
-    {
-      "id": 16,
-      "model": "돌시부하1",
-      "teller": "Bloodfiend with a Parasol",
-      "title": "La Manchaland",
-      "content": "~ or killed the Bloodbags and made it to the front!"
-    },
-    {
-      "id": 17,
-      "model": "이스마엘",
-      "content": "Hm. Sounds like we should keep moving to the front, then."
-    },
-    {
-      "id": 18,
-      "model": "돌시부하1",
-      "teller": "Bloodfiend with a Parasol",
-      "title": "La Manchaland",
-      "content": "No, stay with us."
-    },
-    {
-      "id": 19,
-      "model": "돌시부하1",
-      "teller": "Bloodfiend with a Parasol",
-      "title": "La Manchaland",
-      "content": "Come on, stay with us and dance!"
+        "dataList":[
+            {
+                "id":0.0,
+                "place":"Diễu Hành Lễ Hội",
+                "content":"Cuộc diễu hành dài bất tận xa khuất đường chân trời...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1.0,
+                "place":null,
+                "content":"... khi nhìn từ đằng xa trông thật giống với một lễ hội thực sự, tràn ngập niềm vui và tiếng cười đùa hân hoan.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2.0,
+                "place":null,
+                "content":"Dòng người diễu thành hàng, hát ca không ngừng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3.0,
+                "place":null,
+                "content":"Giai điệu trong lời bài hát quá tươi vui và đầy hy vọng, đến nỗi...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4.0,
+                "place":null,
+                "content":"... tôi gần như cũng muốn hoà mình vào điệu nhảy tập thể của lễ hội ấy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5.0,
+                "place":null,
+                "content":"Chỉ có điều là giá như cuộc diễu hành ấy không đầy ắp đám Túi Máu và các nạn nhân đang van xin thảm thiết và khóc sướt mướt thôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6.0,
+                "place":null,
+                "content":"♬Nào hãy diễu hành cùng nhau, trong phút giây hạnh phúc♬",
+                "model":"돌시부하1",
+                "teller":"???",
+                "title":null
+            },
+            {
+                "id":7.0,
+                "place":null,
+                "content":"♬Theo nhịp điệu vui tươi của tiếng trống♬",
+                "model":"돌시부하1",
+                "teller":"???",
+                "title":null
+            },
+            {
+                "id":8.0,
+                "place":null,
+                "content":"♬Không cần phải bận tâm về cuộc sống♬",
+                "model":"돌시부하1",
+                "teller":"???",
+                "title":null
+            },
+            {
+                "id":9.0,
+                "place":null,
+                "content":"♬Ở đây tại Lễ Hội La Mancha (La Mancha)♬",
+                "model":"돌시부하1",
+                "teller":"???",
+                "title":null
+            },
+            {
+                "id":null,
+                "place":null,
+                "content":"L-làm ơn... cứu tôi với...",
+                "model":null,
+                "teller":"Captive Victim",
+                "title":"La Manchaland"
+            },
+            {
+                "id":10.0,
+                "place":null,
+                "content":"... Thứ gì đang ở phía trước?",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11.0,
+                "place":null,
+                "content":"Aha! Chúng ta có khách mới! Vâng, chúng ta có rất, rất nhiều khách ở đây~",
+                "model":"돌시부하1",
+                "teller":"Huyết Quỷ Cầm Ô",
+                "title":null
+            },
+            {
+                "id":12.0,
+                "place":null,
+                "content":"Các bạn đang tự hỏi ai đang đứng trước mặt bạn? Đó là Dulcinea xinh đẹp, Công Nương Diễu Hành!",
+                "model":"돌시부하1",
+                "teller":"Huyết Quỷ Cầm Ô",
+                "title":null
+            },
+            {
+                "id":13.0,
+                "place":null,
+                "content":"À, vậy chắc mọi người đã gặp mặt những Fixer khác rồi nhỉ?",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14.0,
+                "place":null,
+                "content":"... Huynh vẫn không biết cách đọc vị à? Sau ngần ấy thời gian?",
+                "model":"가시춘",
+                "teller":null,
+                "title":"???"
+            },
+            {
+                "id":15.0,
+                "place":null,
+                "content":"Chỉ có hai khả năng thôi. Một là họ đã biến thành những Túi Máu và đang nhảy cùng bọn tôi~",
+                "model":"돌시부하1",
+                "teller":"Huyết Quỷ Cầm Ô",
+                "title":"La Manchaland"
+            },
+            {
+                "id":16.0,
+                "place":null,
+                "content":"~ hai là họ đã giết bọn Túi Máu và ra phía trước rồi!",
+                "model":"돌시부하1",
+                "teller":"Huyết Quỷ Cầm Ô",
+                "title":"La Manchaland"
+            },
+            {
+                "id":17.0,
+                "place":null,
+                "content":"Hừm. Như thế thì tức là chúng ta nên đi tiếp lên phía trước rồi.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18.0,
+                "place":null,
+                "content":"Đừng đi, ở lại đây với chúng tôi đi.",
+                "model":"돌시부하1",
+                "teller":"Huyết Quỷ Cầm Ô",
+                "title":"La Manchaland"
+            },
+            {
+                "id":19.0,
+                "place":null,
+                "content":"Thôi nào, ở lại đây và tham gia điệu nhảy cùng bọn tôi đi!",
+                "model":"돌시부하1",
+                "teller":"Huyết Quỷ Cầm Ô",
+                "title":"La Manchaland"
+            }
+        ]
     }
-  ]
-}
+

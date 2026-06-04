@@ -1,60 +1,94 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "La Manchaland Front Gates",
-      "model": "라만차내레이션",
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "La Manchaland, bloom your smiles of joy~ La Manchaland, a place of freedom to dream side-by-side with Bloodfiends. We wish you a wonderful stay here~"
-    },
-    {
-      "id": 1,
-      "model": "라만차내레이션",
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "Admissions end in five minutes! Please form a line and enter in an orderly fashion. Remember: enter through the back left, and exit through the back left~"
-    },
-    {
-      "id": 2,
-      "model": "라만차내레이션",
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "Entry may be difficult once the admissions are over, so please wait by the gate with your blood packs!"
-    },
-    {
-      "id": 3,
-      "model": "한울",
-      "content": "Well, then. I hope I'll be seeing some of you again in a few hours."
-    },
-    {
-      "id": 4,
-      "content": "The Fixer's cold voice contrasted with the cheerful voice echoing from the announcement."
-    },
-    {
-      "id": 5,
-      "model": "그레고르",
-      "content": "She really likes making things ominous, doesn't she..."
-    },
-    {
-      "id": 6,
-      "content": "Vergilius only gave us a light nod."
-    },
-    {
-      "id": 7,
-      "content": "Strangely enough, his aloof attitude was what gave me... peace of mind."
-    },
-    {
-      "id": 8,
-      "content": "And the last thing I saw before the gate shut behind us was..."
-    },
-    {
-      "id": 9,
-      "content": "...the awed look on the eyes of every P Corp. employee. All intensely fixed on the closing gate of La Manchaland..."
-    },
-    {
-      "id": 10,
-      "content": "... as if they didn't even want to miss a little glimpse of it."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Cổng Trước La Manchaland",
+                "model":"라만차내레이션",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland",
+                "content":"Vùng đất nơi bạn hạnh phúc nở rộ nụ cười trên môi~ Không gian nơi các bạn thỏa chí ước mơ cùng các Huyết Quỷ~ La Manchaland, xin chào mừng các vị khách tham quan~"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"라만차내레이션",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland",
+                "content":"Thời gian đăng ký sẽ kết thúc trong năm phút nữa đó, quý vị vui lòng giữ trật tự, xếp thành một hàng thẳng để đi vào điểm du lịch nha~ Xin lưu ý, đoàn mình tiến vào bằng cổng sau bên cánh trái, và lối ra cũng ở cổng sau bên cánh trái luôn nà~"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"라만차내레이션",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland",
+                "content":"Sau khi hết thời hạn đăng ký thì muốn vào bên trong sẽ rất khó khăn, nên quý vị hãy nhớ mang sẵn túi máu và vui lòng đợi ở trước cổng nha~"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"한울",
+                "teller":null,
+                "title":null,
+                "content":"Ấy, chà. Tôi mong nhận được báo cáo từ những người còn sống."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Chất giọng lạnh lùng của vị Fixer ấy trái ngược hoàn toàn với tông giọng vui tươi vang vọng khỏi loa phát thanh."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Cô ấy thích nói bóng gió ghê nhỉ..."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Vergilius chỉ khẽ gật đầu với chúng tôi."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Lạ thay, thái độ dửng dưng xa cách ấy lại chính là thứ giúp tôi... bình tâm."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Thứ cuối cùng tôi biết trước khi cánh cổng đóng chặt lại sau lưng chúng tôi..."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"... là những cặp mắt choáng ngợp của toàn bộ nhân viên Tập Đoàn P. Tất cả bọn họ đều chăm chăm dõi theo cánh cổng đang dần khép lại của La Manchaland..."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"... như thể không muốn bỏ sót mất một giây nào của nó hết."
+            }
+        ]
     }
-  ]
-}
+

@@ -1,669 +1,1014 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Hall",
-            "model": "히스클리프꾸밈",
-            "content": "Boss…? Matthew…?"
-        },
-        {
-            "id": 1,
-            "model": "데드레빗츠보스",
-            "teller": "???",
-            "title": "???",
-            "content": "Right on, you muppet! You’ve been gone for so long that people don’t even recognize the infamous Mad Coney!"
-        },
-        {
-            "id": 2,
-            "model": "로쟈",
-            "content": "Mad... Coney?"
-        },
-        {
-            "id": 3,
-            "model": "힌들리",
-            "content": "Y-you’ve known that vagrant for long? Why haven’t you told me so?"
-        },
-        {
-            "id": 4,
-            "model": "데드레빗츠보스",
-            "teller": "???",
-            "title": "???",
-            "content": "Well, I hardly imagined you'd be interested in hearin' about every little friend I made back when we were just another gang rollin' in the sweaty, muddy streets."
-        },
-        {
-            "id": 5,
-            "model": "히스클리프꾸밈",
-            "content": "Boss, why are you working with this blighter… Wait, no. But…"
-        },
-        {
-            "id": 6,
-            "model": "히스클리프꾸밈",
-            "content": "That mask… those rabbit ears…"
-        },
-        {
-            "id": 7,
-            "model": "히스클리프꾸밈",
-            "content": "Wait, you're still with the Dead Rabbits?!"
-        },
-        {
-            "id": 8,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "Yeah, we’ve uh, changed a tad, eh?"
-        },
-        {
-            "id": 9,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "Remember, lad? Back in the day, all we needed to crack some Addams Family 'eads was some tattered scarf 'round one arm and bottles of beer on tab."
-        },
-        {
-            "id": 10,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "We even named one of them beers after you, didn't we? The pub that used to sell that beer closed shop a few weeks ago. Ain’t got much business around with that dreadful rumour keepin’ everyone home nowadays."
-        },
-        {
-            "id": 11,
-            "model": "히스클리프꾸밈",
-            "content": "What?! The Wolf’s Fall closed? Bloody hell..."
-        },
-        {
-            "id": 12,
-            "model": "수감자들",
-            "teller": "Sinners",
-            "title": "Limbus Company",
-            "content": "……."
-        },
-        {
-            "id": 13,
-            "model": "히스클리프꾸밈",
-            "content": "Oh… I suppose I’m leaving you all out the loop, eh?"
-        },
-        {
-            "id": 14,
-            "model": "히스클리프꾸밈",
-            "content": "Well, allow me to introduce the gaffer."
-        },
-        {
-            "id": 15,
-            "model": "히스클리프꾸밈",
-            "content": "He was a boss of the old Syndicate I used to run with."
-        },
-        {
-            "id": 16,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "They all friends of yours, eh? Joined some posh proper company after running out on us outta nowhere, did you?"
-        },
-        {
-            "id": 17,
-            "model": "히스클리프꾸밈",
-            "content": "Well… things just worked out that way."
-        },
-        {
-            "id": 18,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "Are all them lads and lasses your lackeys? Blimey, got a walking timepiece with you too... You daft bastard, you’ve certainly moved up in the world, eh?"
-        },
-        {
-            "id": 19,
-            "model": "히스클리프꾸밈",
-            "content": "Heheh..."
-        },
-        {
-            "id": 20,
-            "model": "이스마엘",
-            "content": "Lackeys…?"
-        },
-        {
-            "id": 21,
-            "content": "Ishmael glared at Heathcliff with a look that could kill… but she decided to hold her silence and merely shook her head in disbelief. She probably decided that it was not worth the trouble."
-        },
-        {
-            "id": 22,
-            "model": "히스클리프꾸밈",
-            "content": "So what’s up with the masks, boss?"
-        },
-        {
-            "id": 23,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "What, is it odd? Trends change with time, lad! The time for scarves with rabbit embroidery is long past!"
-        },
-        {
-            "id": 24,
-            "model": "히스클리프꾸밈",
-            "content": "Uh, is that so? It looks a bit…"
-        },
-        {
-            "id": 25,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "‘Course not! Who do you think we are? We the Dead Rabbits ain’t a bookish rabble that follows the coattails of some naff trend."
-        },
-        {
-            "id": 26,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "You’ve… really not once returned to this place since you left, have you?"
-        },
-        {
-            "id": 27,
-            "model": "히스클리프꾸밈",
-            "content": "No. When I left this manor… and eventually, the Dead Rabbits…"
-        },
-        {
-            "id": 28,
-            "model": "히스클리프꾸밈",
-            "content": "... I made a promise to myself that I’d not return."
-        },
-        {
-            "id": 29,
-            "model": "히스클리프꾸밈",
-            "content": "Not even a step closer to this place until I’ve made something of myself. Not until I can return as a successful man."
-        },
-        {
-            "id": 30,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "Well, you’ve always hated this place. Even when you were one of us."
-        },
-        {
-            "id": 31,
-            "model": "히스클리프꾸밈",
-            "content": "……."
-        },
-        {
-            "id": 32,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "I’ve got news for ya, Heathcliff. We’re no longer the same lowly Backstreets gang yer familiar with."
-        },
-        {
-            "id": 33,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "I ‘spose we’ve also ‘moved up in the world’. Someone from the Ring who'd been keeping their eyes on us plucked us right off the streets and into their fold. We’re bigger now; we’re one of the up-and-coming Syndicates."
-        },
-        {
-            "id": 34,
-            "model": "로쟈",
-            "content": "T-the Ring? One of the Fingers?"
-        },
-        {
-            "id": 35,
-            "model": "료슈",
-            "content": "… Must be the Fauvists of the Ring, then. They’re the only ones who’d outfit their underlings with these cheap, tacky animal masks."
-        },
-        {
-            "id": 36,
-            "model": "히스클리프꾸밈",
-            "content": "Then you’re…"
-        },
-        {
-            "id": 37,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "Yeah, ya little shite. I’m the top boss of the Dead Rabbits now."
-        },
-        {
-            "id": 38,
-            "model": "히스클리프꾸밈",
-            "content": "Boss..."
-        },
-        {
-            "id": 39,
-            "model": "히스클리프꾸밈",
-            "content": "Remember what you always used to say when we’ve each filled up with more than three bottles of beer?"
-        },
-        {
-            "id": 40,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "What we drank were some lousy beer made from halfway rotten wheat, Heathcliff."
-        },
-        {
-            "id": 41,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "All that I remembered come the next morn was a poundin’ headache and the light feeling of our emptied pockets."
-        },
-        {
-            "id": 42,
-            "model": "히스클리프꾸밈",
-            "content": "You used to tell me that it hurt like hell every time one of your own men came back to us hurt. Even the recruits."
-        },
-        {
-            "id": 43,
-            "model": "히스클리프꾸밈",
-            "content": "Like they hurt not just any underling, but an extension of you."
-        },
-        {
-            "id": 44,
-            "model": "히스클리프꾸밈",
-            "content": "I knew you’d make it big one day, boss."
-        },
-        {
-            "id": 45,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "Well, I 'spose drunk me knew how to wax poetic."
-        },
-        {
-            "id": 46,
-            "model": "히스클리프꾸밈",
-            "content": "I knew it was you, Matthew. The mask threw me off for a moment, boss."
-        },
-        {
-            "id": 47,
-            "model": "힌들리",
-            "content": "What a sorry sight this is."
-        },
-        {
-            "id": 48,
-            "model": "힌들리",
-            "content": "I sincerely apologize to you two sweethearts for crashing your tearful reunion…"
-        },
-        {
-            "id": 49,
-            "model": "힌들리",
-            "content": "But the point is, while you were wandering the streets, wasting away the best years of your life on the road…"
-        },
-        {
-            "id": 50,
-            "model": "힌들리",
-            "content": "Matt’s made something of himself. Which is why I hired him as my bodyguard. You hear me?"
-        },
-        {
-            "id": 51,
-            "model": "힌들리",
-            "content": "Not like you and your merry band of no-name, second-rate hooligans!"
-        },
-        {
-            "id": 52,
-            "content": "I could think of more than a few Sinners who would've gotten angry enough to brandish their weapons at such an insult..."
-        },
-        {
-            "id": 53,
-            "content": "... but they all seemed to remember that responding to such insults with violence only begot pointless turmoil. So, instead, they all began sighing heavily in an attempt to vent some of their pent-up anger."
-        },
-        {
-            "id": 54,
-            "model": "히스클리프꾸밈",
-            "content": "... Hindley. You seem to be sorely mistaken. This isn't the same winter you thrashed me, treated me like an indentured servant, and abused me like a hound."
-        },
-        {
-            "id": 55,
-            "model": "히스클리프꾸밈",
-            "content": "I won't deny that I spent many days and nights imagining tearing that foul tongue from your gob."
-        },
-        {
-            "id": 56,
-            "model": "히스클리프꾸밈",
-            "content": "But…"
-        },
-        {
-            "id": 57,
-            "content": "Heathcliff glanced briefly in our direction."
-        },
-        {
-            "id": 58,
-            "model": "히스클리프꾸밈",
-            "content": "Even a poor sod like myself found a place to belong. Went on adventures to places you couldn't even imagine. Learned a thing or two from 'em."
-        },
-        {
-            "id": 59,
-            "model": "히스클리프꾸밈",
-            "content": "So I just… feel bad for you, mate."
-        },
-        {
-            "id": 60,
-            "model": "힌들리",
-            "content": "What…?"
-        },
-        {
-            "id": 61,
-            "model": "히스클리프꾸밈",
-            "content": "Because you really haven’t changed one bit."
-        },
-        {
-            "id": 62,
-            "model": "히스클리프꾸밈",
-            "content": "Besides…"
-        },
-        {
-            "id": 63,
-            "model": "히스클리프꾸밈",
-            "content": "The hell is that rag you’re wearing? You look more like a drifting vagabond than I do."
-        },
-        {
-            "id": 64,
-            "model": "힌들리",
-            "content": "What? ...WHAT? Y-you insolent fool…!"
-        },
-        {
-            "id": 65,
-            "model": "이스마엘",
-            "content": "That man’s been saying some pretty nasty stuff about us…"
-        },
-        {
-            "id": 66,
-            "model": "이스마엘",
-            "content": "But he doesn't even look like someone that's worth arguing with..."
-        },
-        {
-            "id": 67,
-            "model": "히스클리프꾸밈",
-            "content": "Haah… mate, did you even check yourself in the mirror in the last week?"
-        },
-        {
-            "id": 68,
-            "model": "히스클리프꾸밈",
-            "content": "I can’t bear to look at you so down in the dumps, Hindley."
-        },
-        {
-            "id": 69,
-            "content": "Of course, we had no way of knowing what Hindley looked like in the past. But…"
-        },
-        {
-            "id": 70,
-            "content": "We could pretty easily tell that he was far from the most stable person in the room."
-        },
-        {
-            "id": 71,
-            "model": "힌들리",
-            "content": "You… you fucking bastard…!"
-        },
-        {
-            "id": 72,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "Now, now. Mister Hindley, why don't ye seat yerself on this sofa and calm down?"
-        },
-        {
-            "id": 73,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "Be more considerate of our boys standin' in that corner, watching the whole thing go down, huh? They don’t even get these comfy-looking leather sofas."
-        },
-        {
-            "id": 74,
-            "model": "힌들리",
-            "content": "Tsk…"
-        },
-        {
-            "id": 75,
-            "content": "Hindley grumbled for a moment before slumping down on a sofa."
-        },
-        {
-            "id": 76,
-            "content": "And even that simple action was stumbling and pathetic."
-        },
-        {
-            "id": 77,
-            "model": "그레고르",
-            "content": "I see what happened."
-        },
-        {
-            "id": 78,
-            "model": "그레고르",
-            "content": "He let the alcohol consume him, and not the other way around. Fell into a big, nasty barrel with no way out."
-        },
-        {
-            "id": 79,
-            "model": "이스마엘",
-            "content": "I’ve seen the same look on some sailors. Failing to pull themselves out of that habit… would lead them straight into the merciless maws of the Lake. Not even a trace of them would be left."
-        },
-        {
-            "id": 80,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "Well, this man’s still my client."
-        },
-        {
-            "id": 81,
-            "model": "데드레빗츠보스",
-            "teller": "Dead Rabbits Boss",
-            "title": "T Corp. Gang",
-            "content": "Mister Hindley hired me for some job, which is why I’m here at Wuthering Heights."
-        },
-        {
-            "id": 82,
-            "model": "히스클리프꾸밈",
-            "content": "Job?"
-        },
-        {
-            "id": 83,
-            "model": "히스클리프꾸밈",
-            "content": "Catherine's hosting this banquet, ain't she? What kind of job could possibly need the Dead Rabbits’ help here?"
-        },
-        {
-            "id": 84,
-            "model": "린튼",
-            "content": "… What?"
-        },
-        {
-            "id": 85,
-            "model": "힌들리",
-            "content": "… Hah. A banquet?"
-        },
-        {
-            "id": 86,
-            "model": "힌들리",
-            "content": "Well, I suppose there is one thing that hasn't changed with time. It's that witless, useless idiot brain of yours, you absolute dullard."
-        },
-        {
-            "id": 87,
-            "model": "린튼",
-            "content": "Hindley…!"
-        },
-        {
-            "id": 88,
-            "model": "린튼",
-            "content": "Please, cease this at once. I implore you."
-        },
-        {
-            "id": 89,
-            "model": "린튼",
-            "content": "I do not wish to see my manor sullied by such... foul obscenities."
-        },
-        {
-            "id": 90,
-            "model": "힌들리",
-            "content": "This is not your home, Linton. It's mine. It’s my manor!"
-        },
-        {
-            "id": 91,
-            "model": "힌들리",
-            "content": "You’re the one who sullied this noble Wuthering Heights, MY birthright bestowed upon me by my father, by taking it from me by the means of trickery!"
-        },
-        {
-            "id": 92,
-            "model": "힌들리",
-            "content": "Was your own family manor too small for you, Linton Edgar? Your oh-so-noble Edgar Family?"
-        },
-        {
-            "id": 93,
-            "model": "돈키호테",
-            "content": "… Edgar Family?"
-        },
-        {
-            "id": 94,
-            "model": "린튼",
-            "content": "The time for whining, crying, and throwing a tantrum to get what you want is… long past. Cough."
-        },
-        {
-            "id": 95,
-            "model": "힌들리",
-            "content": "Bold words for some milksop who’s about to choke himself to death on air!"
-        },
-        {
-            "id": 96,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "Please maintain your distance, Mister Hindley."
-        },
-        {
-            "id": 97,
-            "model": "힌들리",
-            "content": "I’ve seen mongrels more loyal than you lot! I was your master only a few years ago! Have you cast aside your memories as well when you did your loyalty?"
-        },
-        {
-            "id": 98,
-            "model": "넬리",
-            "content": "Cease this at once, Master Hindley. The Butlers have all left Hindley Earnshaw behind, as you are very well aware yourself."
-        },
-        {
-            "id": 99,
-            "model": "넬리",
-            "content": "And you too, Butlers. We do not want to make further trouble here, hmm?"
-        },
-        {
-            "id": 100,
-            "model": "린튼버틀러1",
-            "teller": "Discreet Butler",
-            "title": "Edgar Family",
-            "content": "Understood, Chief Butler Nelly."
-        },
-        {
-            "id": 101,
-            "model": "히스클리프꾸밈",
-            "content": "……."
-        },
-        {
-            "id": 102,
-            "content": "After a brief silence, Heathcliff finally brought up the question he'd been stewing for so long."
-        },
-        {
-            "id": 103,
-            "model": "히스클리프꾸밈",
-            "content": "Nelly, where is Catherine?"
-        },
-        {
-            "id": 104,
-            "model": "히스클리프꾸밈",
-            "content": "You must know, Nelly, that Catherine never did like these commotions. So many guests making so much noise in her home... she won't be pleased."
-        },
-        {
-            "id": 105,
-            "model": "넬리",
-            "content": "... I suppose she never did."
-        },
-        {
-            "id": 106,
-            "model": "히스클리프꾸밈",
-            "content": "I've been... keeping my volume in check because I didn't want to offend her. But it's getting harder and harder to keep it down."
-        },
-        {
-            "id": 107,
-            "model": "넬리",
-            "content": "……."
-        },
-        {
-            "id": 108,
-            "content": "There was a look of unfathomable, immeasurable grief on both Linton and Nelly."
-        },
-        {
-            "id": 109,
-            "content": "Hindley was absentmindedly mumbling some foul language at the ceiling..."
-        },
-        {
-            "id": 110,
-            "content": "... and Heathcliff probably sensed from this ineffably dark and ominous silence that something was terribly wrong."
-        },
-        {
-            "id": 111,
-            "content": "It was setting in for us as well."
-        },
-        {
-            "id": 112,
-            "content": "After all we've been through in this journey... this kind of silence was all too familiar."
-        },
-        {
-            "id": 113,
-            "model": "히스클리프꾸밈",
-            "content": "Where is Catherine? What's with this dour look on everyone?"
-        },
-        {
-            "id": 114,
-            "model": "넬리",
-            "content": "I'm terribly sorry, Heathcliff. I..."
-        },
-        {
-            "id": 115,
-            "model": "히스클리프꾸밈",
-            "content": "Why... why are you sorry? What the hell are you sorry about?!"
-        },
-        {
-            "id": 116,
-            "model": "넬리",
-            "content": "……."
-        },
-        {
-            "id": 117,
-            "model": "뫼르소",
-            "content": "Heathcliff."
-        },
-        {
-            "id": 118,
-            "model": "뫼르소",
-            "content": "I may have a correct assumption as to what this silence indicates."
-        },
-        {
-            "id": 119,
-            "model": "뫼르소",
-            "content": "So I have no other choice but to tell you, as it is common courtesy to do so, that I am very sorry to hear that."
-        },
-        {
-            "id": 120,
-            "model": "히스클리프꾸밈",
-            "content": "What the fu— aagh!"
-        },
-        {
-            "id": 121,
-            "model": "히스클리프꾸밈",
-            "content": "Can't you talk normally for once?!"
-        },
-        {
-            "id": 122,
-            "model": "넬리",
-            "content": "I hardly know how to tell you this, but..."
-        },
-        {
-            "id": 123,
-            "model": "넬리",
-            "content": "Miss Catherine... isn't here anymore."
-        },
-        {
-            "id": 124,
-            "model": "히스클리프꾸밈",
-            "content": "What do you mean she's not...?"
-        },
-        {
-            "id": 125,
-            "model": "린튼",
-            "content": "Catherine, she's... dead."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Đại Sảnh Đồi Gió Hú",
+                "model":"히스클리프꾸밈",
+                "content":"Đại ca...? Matthew...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Chuẩn rồi đó, thằng chó con! Mày mất dạng lâu tới độ đéo ai còn nhận ra Thỏ Điên khét tiếng lẫy lừng nữa!",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"로쟈",
+                "content":"Thỏ... Điên?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"힌들리",
+                "content":"M-mày biết thằng chó chết này sao? Thế là thế đéo nào hả?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Ây chà, tôi không nghĩ quý ngài đây sẽ hứng thú với chuyện tôi đã quen người nào, kết bạn với ai trong suốt quãng thời gian lăn lộn ở cái xó lấm lem bùn đất ấy đâu.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Đại ca, sao anh lại làm việc với gã này... Gượm đã, à không...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Cái mặt nạ đó... Mấy cái tai thỏ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Anh vẫn còn trong Dead Rabbits?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Ừ, tụi tao ờ, thay đổi chút tẹo, nhỉ?",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Nhớ không, con trai? Hồi đó đấy, có mỗi chai bia và cánh tay quấn khăn tả tơi thế mà ta cũng phang vỡ sọ Nhà Addams đấy chứ.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Tụi tao thậm chí còn lấy tên mày đặt cho một loại bia nữa đấy, phải không ta? Cái quán rượu hay bán loại đó thì đóng cửa vài tuần trước rồi. Kinh doanh cái thá gì với cái tin đồn ghê ghê kia hù dọa mọi người rúc hết vào nhà.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Gì?! Wolf's Fall đóng cửa rồi à? Mẹ nó chứ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"수감자들",
+                "content":"…….",
+                "teller":"Tội nhân",
+                "title":"Công Ty Limbus"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"À... Hình như tao đang bỏ quên tụi mày nhể?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Giới thiệu với chúng mày thằng cha này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Ổng là trùm Băng Đảng mà ngày xưa tao từng tham gia.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Bạn mày hả? Tự dưng khơi khơi gia nhập một công ty trông bảnh tỏn sau khi cúp đuôi bỏ rơi anh em thế à?",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Ờ thì... tự nhiên mọi thứ nó thành vậy đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Thế mấy đứa ở đây đều là tay sai nhà mày hả? Oách xà lách thế, lại còn có một cái đồng hồ biết đi nữa... Thằng chó này, mày một bước lên mây luôn rồi hả?",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"He he...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tay sai á...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":null,
+                "content":"Ishmael lườm Heathcliff đầy sát khí... nhưng kết cục cũng chỉ im lặng và lắc đầu ngao ngán. Xem ra cô ấy đã bấm bụng rằng mọi chuyện không đáng để làm ầm lên.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Thế mấy cái mặt nạ này là sao thế đại ca?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Sao, lạ lắm à? Xu hướng thay đổi xoành xoạch ấy mà! Cái thời khăn quàng cổ thêu hình thỏ qua lâu rồi!",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"À, vậy hả? Trông nó cứ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Dĩ nhiên là không! Mày nghĩ tụi tao là gì? Băng Dead Rabbits đâu phải cái phường đú đởn theo xu hướng như mấy thằng mọt sách đâu.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Mày... thật sự không quay lại nơi này một lần nào kể từ khi rời đi à?",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Không. Kể từ ngày em rời dinh thự này... và cả, Băng Dead Rabbits...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"... Em đã tự hứa với bản thân là sẽ không trở về.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Nửa bước cũng không cho tới khi em làm được gì đó vẻ vang. Trở thành một người thành đạt.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Hầy, mày thì luôn ghét cái chỗ này. Từ khi mày còn ở với tụi tao cơ.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Báo tin cho mày này Heathcliff. Tụi tao cũng chẳng còn là cái Băng dưới đáy xã hội ở Phố Sau mà mày từng biết đâu.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Đằng đây cũng \"một bước lên mây\" không kém cạnh gì nha. Có đứa nào đó từ Ngón Nhẫn rình tụi tao rồi hốt hết cả đám về chung một ổ của tụi nó. Giờ tụi tao lợi hại hơn xưa rồi, là một trong những Băng Đảng lớn mới nổi đó nhá.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ng-ngón Nhẫn hả? Một trong những Ngón Tay á?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"료슈",
+                "content":"... Hẳn là bọn Dã Thú của đám Nhẫn rồi. Chỉ có chúng nó mới tròng mớ mặt nạ thú rẻ rách đấy lên đám thuộc hạ thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Vậy giờ đại ca là...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Phải đó thằng nhãi con. Tao bây giờ là ông lớn Băng Dead Rabbits.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Đại ca...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Còn nhớ hai ta từng lè nhè gì sau khi nốc hơn ba chai bia không?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Thứ chúng ta uống là cái loại bia rởm làm từ lúa mì sắp hỏng, Heathcliff ạ.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Tao chỉ nhớ là sáng hôm sau nặng đầu vãi và ví tiền thì nhẹ như lông hồng.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Đại ca còn bảo cứ hễ anh em nào bị thương thì lại đau lòng vãi lồn. Kể cả mấy thằng lính mới.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Như thể chúng là một phần của anh chứ chả phải tay chân gì nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Em biết thể nào cũng có ngày anh làm lớn mà, đại ca.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Ái chà, không ngờ lúc tao xỉn quắc cần câu cũng biết đao to búa lớn nhể.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Em nhìn cái là nhận ra ngay mà đại ca. Cái mặt nạ làm em giật mình tí thôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"힌들리",
+                "content":"Nhìn rõ chướng mắt.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"힌들리",
+                "content":"Chân thành xin lỗi vì phải xen vào cuộc hội ngộ thắm thiết tình thân của cặp uyên ương tụi bây...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"힌들리",
+                "content":"Nhưng vấn đề là trong khi mày còn lang thang đây đó, phí hoài những năm tháng đẹp nhất của cuộc đời mày…",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"힌들리",
+                "content":"Thì Matt đã làm nên ngô nên khoai với cuộc đời nó rồi, thế nên tao đây mới thuê nó về làm vệ sĩ. Nghe thủng tai chứ, chó con?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"힌들리",
+                "content":"Về mà soi lại cái bản mặt của mày đi, cả mày và cả cái rạp xiếc trung ương của mày luôn ấy!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":null,
+                "content":"Tôi dám chắc là quá nửa số Tội Nhân ở đây đang vô cùng bức xúc và đã sẵn sàng rút vũ khí...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":null,
+                "content":"... nhưng hẳn mọi người đều nhất trí rằng, đáp lại những lời xúc phạm đó thì chỉ tổ gây thêm phiền toái mà thôi. Thế là tất cả chỉ đành thở dài cho vơi bớt cơn giận.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"... Hindley. Mày lầm to rồi. Đây không còn là cái đêm mùa đông mà mày đánh đập, coi tao như thằng nô dịch và chà đạp tao như một con chó nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Không phủ nhận là tao đã luôn tưởng tượng ra cảnh giật phăng cái lưỡi bẩn thỉu ấy ra khỏi mồm mày hằng đêm.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Nhưng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff thoáng nhìn về phía chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Ngay cả một tên đần thối như tao cũng có nơi chứa chấp. Tao thậm chí còn du hí tới những nơi mà cái đầu mày không nghĩ tới được. Chúng nó còn dạy tao điều này điều kia nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Nên là... tao chỉ thấy mày thảm hại vãi lồn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"힌들리",
+                "content":"Cái...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Bởi vì mày chả thay đổi tí nào cả.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Với cả...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Mày đang mặc cái giẻ rách gì vậy? Mày trông giống mấy thằng lang thang đầu đường xó chợ hơn cả tao đấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"힌들리",
+                "content":"Cái? ... CÁI ĐÉO GÌ CƠ? Th-thằng chó đần độn láo toét...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tên đó vừa có thái độ lồi lõm với chúng ta thật...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Nhưng cũng không phải hạng xứng đáng để phí nước bọt đôi co đâu...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Hàaa... chú mày có thật sự soi gương trong tuần rồi chưa đấy?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Nhìn bộ dạng thảm hại của mày bẩn mắt tao thật đấy, Hindley.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":null,
+                "content":"Tất nhiên thì chúng tôi không tài nào biết được Hindley trông ra sao trong quá khứ. Nhưng mà...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":null,
+                "content":"Nhìn qua cũng biết anh ta là người tàn tạ nhất căn phòng này rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"힌들리",
+                "content":"Mày... thằng chó khốn nạn...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Nào nào, quý ngài Hindley, hay là anh bớt chút nóng, hạ chút hỏa rồi từ từ ngồi xuống đi nhỉ?",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Ngài cũng nên biết thương mấy thằng đàn em của tôi đang ngoan ngoãn ở góc nọ chớ? Chúng còn chẳng được động tới mấy cái ghế nệm da êm ái này nữa là.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"힌들리",
+                "content":"Chậc...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":null,
+                "content":"Hindley càu nhàu một lúc rồi ngồi gục xuống ghế sofa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":null,
+                "content":"Và chỉ hành động đơn giản đó thôi cũng gượng gạo và thảm hại.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"그레고르",
+                "content":"Tôi hiểu tên đó bị sao rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"그레고르",
+                "content":"Hắn ta chìm đắm trong rượu chè, theo đúng nghĩa đen ấy. Rớt cái tủm vào một chum rượu và ngâm mình trong đó luôn.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi cũng từng thấy vài thủy thủ như vậy rồi. Không sửa được thói quen xấu, để mặc cuộc đời mình trượt dài... và lao thẳng vào cái bụng sâu không đáy của Hồ Lớn. Chết không còn xác để mà vớt.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"À, quý ngài đây vẫn là khách của tao đấy.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"데드레빗츠보스",
+                "content":"Ông Hindley thuê tao làm một vài thứ, thế nên tao mới có mặt tại Đồi Gió Hú này.",
+                "teller":"Trùm Băng Dead Rabbits",
+                "title":"Băng Nhóm Tập Đoàn T"
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Thứ gì?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Catherine tổ chức buổi tiệc này đúng không? Thế thì sao lại phải nhờ tới băng Dead Rabbits?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"린튼",
+                "content":"... Gì cơ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"힌들리",
+                "content":"... Hả. Tiệc đéo gì?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"힌들리",
+                "content":"Mẹ, thiệt luôn chứ. Đếch ngờ là mày lượn lờ đủ lâu ở ngoài đường rồi mà cái bản tính của mày nó vẫn đần chó như thế. Bộ lội lâu tới vậy rồi mà đéo thể nhặt được não mày về à.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"린튼",
+                "content":"Hindley...!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"린튼",
+                "content":"Xin đấy, dừng ngay cho tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"린튼",
+                "content":"Tôi không muốn phải nghe thấy bất kì... lời lẽ thô tục nào nữa trong chính ngôi biệt thự của mình.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"힌들리",
+                "content":"Đây đéo phải nhà của mày, Linton! Nó là của tao. Nhà của tao!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"힌들리",
+                "content":"Chính mày mới là thằng khốn làm hoen ố Đồi Gió Hú cao quý này, quyền thừa kế của TAO mà cha đã ban cho, bị chính MÀY cướp đi bằng thủ đoạn xảo trá!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"힌들리",
+                "content":"Bộ mày chê cái biệt thự gia đình ông bà già mày nhỏ quá à hả, cậu-ấm-ốm-yếu từ Gia Tộc Linton Edgar?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"돈키호테",
+                "content":"... Nhà Edgar?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"린튼",
+                "content":"Cậu thôi ăn vạ với khóc lóc ỉ ôi giùm tôi. Cái thời đó của cậu... qua lâu rồi. Khụ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "model":"힌들리",
+                "content":"Bớt mạnh mồm đi, cái thằng công tử bột đã yếu còn ra gió này!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Làm ơn giữ khoảng cách, Ngài Hindley.",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":97,
+                "place":null,
+                "model":"힌들리",
+                "content":"Đến cả hạng khố rách áo ôm còn biết nghe lời hơn cái lũ chúng mày! Mới vài năm trước thôi tao vẫn còn là chủ nhân của chúng mày đấy! Sao bây giờ đã vứt hết tôn ti trật tự cho chó gặm cả rồi?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "place":null,
+                "model":"넬리",
+                "content":"Dừng tại đây thôi, thưa Chủ Nhân Hindley. Các Quản Gia đã rời bỏ Hindley Earnshaw rồi, chính ngài phải hiểu rõ lý do nhất chứ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "model":"넬리",
+                "content":"Và bọn Quản Gia các ngươi nữa. Chúng ta không muốn thêm rắc rối đâu, được chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "model":"린튼버틀러1",
+                "content":"Rõ, Quản Gia Trưởng Nelly.",
+                "teller":"Quản Gia Kín Đáo",
+                "title":"Gia Tộc Edgar"
+            },
+            {
+                "id":101,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "model":null,
+                "content":"Sau một hồi im lặng, Heathcliff cuối cùng cũng đem ra câu hỏi mà anh ấy đã luôn thắc mắc bấy lâu nay.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Nelly này, Catherine đâu rồi?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":104,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Cô cũng biết đấy Nelly, Catherine chưa bao giờ thích sự náo nhiệt như này. Quá nhiều khách khứa làm ồn trong đây... Em ấy sẽ không vui đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "place":null,
+                "model":"넬리",
+                "content":"... Cô ấy chắc hẳn sẽ không thích vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Nãy giờ con cố giữ âm lượng vừa phải vì không muốn phiền tới em ấy. Nhưng mà hình như con sắp không nhịn được mất rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":107,
+                "place":null,
+                "model":"넬리",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "model":null,
+                "content":"Trên gương mặt của Linton và Nelly đều toát lên một nỗi buồn khôn xiết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "model":null,
+                "content":"Hindley thì đang hất hàm lên trần nhà, làu bàu những câu từ tục tĩu...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "model":null,
+                "content":"... còn Heathcliff hẳn cũng đã thấy bầu không khí u ám này đang báo hiệu một điều chẳng hay ho chút nào.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":111,
+                "place":null,
+                "model":null,
+                "content":"Và chúng tôi cũng dần nhận ra gì đó.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":112,
+                "place":null,
+                "model":null,
+                "content":"Trải qua hành trình dài bao thăng trầm như vậy... ai ai trong chúng tôi cũng đã đều quá quen với sự tĩnh lặng này rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":113,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Catherine đâu rồi? Cái nét mặt ủ dột này là sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":114,
+                "place":null,
+                "model":"넬리",
+                "content":"Ta thực sự xin lỗi. Heathcliff, ta chỉ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":115,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Tại.. tại sao lại xin lỗi? Cô xin lỗi cái quái gì hả?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":116,
+                "place":null,
+                "model":"넬리",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":117,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Heathcliff.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":118,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Có lẽ tôi đã hiểu chính xác ý nghĩa của sự im lặng này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":119,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Bằng phép lịch sự thường thấy, tôi không còn cách nào khác ngoài việc phải nói rằng: tôi xin chia buồn cùng anh.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":120,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Cái đé— ặaac!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":121,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Mày nói năng bình thường không được hả?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":122,
+                "place":null,
+                "model":"넬리",
+                "content":"Ta thật không biết nên nói gì vào lúc này, nhưng...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":123,
+                "place":null,
+                "model":"넬리",
+                "content":"Tiểu Thư Catherine... đã không còn nữa.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":124,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Ý cô là em ấy không...?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":125,
+                "place":null,
+                "model":"린튼",
+                "content":"Catherine, nàng ấy... mất rồi.",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

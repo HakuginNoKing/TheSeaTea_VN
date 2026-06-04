@@ -1,94 +1,108 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Stairwell to the Rooftop",
-            "model": "다친넬리",
-            "content": "Miss Catherine was... difficult from time to time, but I do not wish to deny even the times we've spent together."
-        },
-        {
-            "id": 1,
-            "model": "다친넬리",
-            "content": "I even miss the late Mister Earnshaw Senior from time to time."
-        },
-        {
-            "id": 2,
-            "model": "다친넬리",
-            "content": "No... I never lived a life full of hate, animosity. I am just struggling desperately to change my destiny."
-        },
-        {
-            "id": 3,
-            "model": "다친넬리",
-            "content": "To get here, I worked myself to the bone... trained and worked harder than anyone else to become a Chief Butler..."
-        },
-        {
-            "id": 4,
-            "model": "히스클리프",
-            "content": "... Move..."
-        },
-        {
-            "id": 5,
-            "model": "다친넬리",
-            "content": "... You still endeavour to reach the rooftops? I must tell you that it is a fruitless effort. That other Heathcliff is already there."
-        },
-        {
-            "id": 6,
-            "model": "다친넬리",
-            "content": "And that is how this tale shall end."
-        },
-        {
-            "id": 7,
-            "model": "다친넬리",
-            "content": "This is the better ending, isn't it? You two couldn't even summon the smallest courage to talk to one another."
-        },
-        {
-            "id": 8,
-            "model": "히스클리프",
-            "content": "... Stop it..."
-        },
-        {
-            "id": 9,
-            "model": "다친넬리",
-            "content": "You two always believed everything I told you, without even one iota of doubt. Every little twist, every little nudge I made in my tales... taken as truth."
-        },
-        {
-            "id": 10,
-            "place": "Catherine's Room",
-            "model": "넬리",
-            "content": "... No, Miss. He hasn't sent you any letters. Though I am quite certain that he must be living a good life somewhere out there."
-        },
-        {
-            "id": 11,
-            "model": "넬리",
-            "content": "I'll send the invitation, Miss. It's still that same Heathcliff who didn't even bother to write you, but... when he sees this, he will have no choice but to return to this manor."
-        },
-        {
-            "id": 12,
-            "place": "Wuthering Heights Corridors",
-            "model": "넬리",
-            "content": "Well, I don't recall her ever opening a letter."
-        },
-        {
-            "id": 13,
-            "model": "넬리",
-            "content": "Seriously, once she has her mind set on something, no one could convince her otherwise. No one..."
-        },
-        {
-            "id": 14,
-            "place": "Wuthering Heights Fireplace",
-            "model": "다친넬리",
-            "content": "You two have mired more people than you could imagine into your business. Yet you do not even talk to one another, nor do you ask questions."
-        },
-        {
-            "id": 15,
-            "model": "다친넬리",
-            "content": "Do you really believe that you even deserve to move on? With such slothfulness?"
-        },
-        {
-            "id": 16,
-            "place": "Stairwell to the Rooftop",
-            "model": "다친넬리",
-            "content": "No more. This tale ends here."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Bậc Thang dẫn lên Tầng Thượng",
+                "model":"다친넬리",
+                "content":"Tiểu Thư Catherine... đã luôn làm khó ta nhiều lần, nhưng ta không muốn phủ nhận những giây phút tốt đẹp mà cả hai đã dành bên nhau."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"다친넬리",
+                "content":"Ta vẫn chưa hề nguôi ngoai nỗi nhớ về Ngài Earnshaw Tiền Nhiệm."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"다친넬리",
+                "content":"Không... Ta chưa hề sống một cuộc sống hận thù hay oán ghét gì. Ta chỉ đơn giản là con người đang khổ sở để có thể xoay chuyển được vận mệnh của bản thân."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"다친넬리",
+                "content":"Để đến được đây, ta đã luôn làm việc không quản ngày đêm... luyện tập và làm việc chăm chỉ hơn bất kỳ ai khác để có thể trở thành Quản Gia Trưởng."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Tránh đường..."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"다친넬리",
+                "content":"... Sao con cứ phải nhất quyết lên sân thượng làm gì chứ? Dù cho có làm gì thì mọi thứ giờ đều vô nghĩa cả thôi. Tên Heathcliff kia đã tới đó từ lâu rồi."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"다친넬리",
+                "content":"Và cũng đã đến lúc câu chuyện cổ tích này nên kết thúc."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"다친넬리",
+                "content":"Không phải cái kết này sẽ tốt hơn sao? Cả hai dù sao sẽ không bao giờ có nổi một chút can đảm để có thể đối mặt và nói chuyện với nhau lần nữa."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"히스클리프",
+                "content":"...Im ngay..."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"다친넬리",
+                "content":"Cả hai từ đầu đã luôn tin vào những điều ta nói, không mảy may ngờ vực gì trong những lời nói của ta. Kể cả đó có là một sự thay đổi nhỏ nhặt trong câu chuyện ta kể... thì cả hai sẽ luôn coi nó là thật."
+            },
+            {
+                "id":10,
+                "place":"Phòng của Catherine",
+                "model":"넬리",
+                "content":"... Không đâu, thưa Cô Chủ. Cậu ấy chưa hề gửi tới bất kỳ bức thư nào hết. Nhưng tôi dám chắc là giờ cậu ấy đang sống rất tốt ở đâu đó ngoài kia rồi."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"넬리",
+                "content":"Tôi sẽ gửi thư mời, thưa Cô Chủ. Dù cho có là cái cậu Heathcliff không bận tâm gì tới cô đi nữa, nhưng... tôi dám chắc rằng, khi cậu ấy thấy được bước thư này thì cũng buộc phải quay trở lại dinh thự mà thôi."
+            },
+            {
+                "id":12,
+                "place":"Hành Lang Đồi Gió Hú",
+                "model":"넬리",
+                "content":"Dù sao thì, ta không nhớ rõ sau đấy cô ấy có mở bước thư ra hay không nữa."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"넬리",
+                "content":"Thật luôn đấy, một khi cô chủ đã quyết việc gì rồi thì không còn ai có thể khiến cô ấy thay đổi được nữa. Không ai cả..."
+            },
+            {
+                "id":14,
+                "place":"Lò Sưởi Đồi Gió Hú",
+                "model":"다친넬리",
+                "content":"Cả hai đã liên lụy quá nhiều người vào chính rắc rối tự mình gây ra rồi. Ấy thế, để rồi không ai trong cả hai lại đủ dũng khí để có thể đối mặt nói chuyện với nhau, kể cả để hỏi nhau lấy một câu đi chăng nữa."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"다친넬리",
+                "content":"Con vẫn còn nghĩ cái sự lười biếng cẩu thả đấy của bản thân xứng đáng để bước tiếp và bắt đầu lại từ đầu sao?"
+            },
+            {
+                "id":16,
+                "place":"Bậc Thang dẫn lên Tầng Thượng",
+                "model":"다친넬리",
+                "content":"Câu chuyện này, nên kết thúc tại đây thôi."
+            }
+        ]
+    }
+

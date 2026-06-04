@@ -1,101 +1,142 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "T Corp.’s Streets",
-            "model": "히스클리프",
-            "content": "Oi."
-        },
-        {
-            "id": 1,
-            "model": "히스클리프",
-            "content": "... Nice hat you've got there. Where'd ya get it?"
-        },
-        {
-            "id": 2,
-            "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "EEEK!! I-I’m sorry! Please, take everything! Take as much time as you want! H-here’s my watch!"
-        },
-        {
-            "id": 3,
-            "model": "돈키호테",
-            "content": "SIR HEATHCLIFF…!!!"
-        },
-        {
-            "id": 4,
-            "content": "Heathcliff was looming over the man and growling threateningly... He certainly fit the look of a ‘villain’ from this particular angle."
-        },
-        {
-            "id": 5,
-            "model": "히스클리프",
-            "content": "Lass, I was just complimenting him for his sharp fashion choices! The lad’s overreacting!"
-        },
-        {
-            "id": 6,
-            "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "T-this is literally everything I have…! I don’t got any money for ransom even if you were to kidnap me!"
-        },
-        {
-            "id": 7,
-            "model": "T사시민",
-            "teller": "Overdramatic Civilian",
-            "title": "T Corp.",
-            "content": "P-please, please don’t kidnap me! I’ve got family… they're all waiting for me to come home…!!!"
-        },
-        {
-            "id": 8,
-            "content": "The man we inadvertently saved from the hands of thieves was shuddering and screaming incoherently, almost to an unnatural degree."
-        },
-        {
-            "id": 9,
-            "content": "… And we were still not out of the dark alleyways where other thieves might be waiting to get the jump on us..."
-        },
-        {
-            "id": 10,
-            "model": "T사갱단2",
-            "teller": "Overdue T Corp. Gang",
-            "title": "T Corp.",
-            "content": "The hell is this racket… Oh?"
-        },
-        {
-            "id": 11,
-            "model": "T사갱단2",
-            "teller": "Overdue T Corp. Gang",
-            "title": "T Corp.",
-            "content": "Well, well, well. What do we have ‘ere? I think I'm seein' loads of time rolling in right before us!"
-        },
-        {
-            "id": 12,
-            "model": "T사갱단2",
-            "teller": "Overdue T Corp. Gang",
-            "title": "T Corp.",
-            "content": "Ten minutes! No, we’ll take five minutes, too! Hand it over, now!"
-        },
-        {
-            "id": 13,
-            "model": "그레고르",
-            "content": "Why the hell is every fella here so obsessed with time?!"
-        },
-        {
-            "id": 14,
-            "model": "T사갱단2",
-            "teller": "Overdue T Corp. Gang",
-            "title": "T Corp.",
-            "content": "If you won’t give it up willingly, we’ll have to kill you all and take that clock for ourselves!"
-        },
-        {
-            "id": 15,
-            "model": "단테",
-            "content": "<Huh? Clock?>"
-        },
-        {
-            "id": 16,
-            "model": "단테",
-            "content": "<… Wait, me?>"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Đường Phố T.Đoàn T",
+                "model":"히스클리프",
+                "content":"Này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Nón đẹp đấy. Móc đâu ra đó?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"T사시민",
+                "content":"OÁIII! L-Làm ơn! Cứ lấy hết đi! Đ-đồng hồ của tôi đây! Của các cậu hết!",
+                "teller":"Thị Dân Làm To Chuyện",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"돈키호테",
+                "content":"QUÝ NGÀI HEATHCLIFF...!!!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff lườm người đàn ông và gầm gừ như con chó hoang... Trông không khác gì \"người xấu\" thật.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Tao chỉ đang khen ngợi gu thời trang bảnh bao thôi gái! Thằng cha này làm lố quá!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"T사시민",
+                "content":"T-tôi chỉ có ngần này thôi...! Anh có bắt cóc tống tiền tôi đi nữa thì tôi cũng không còn gì để chuộc thân đâu!",
+                "teller":"Thị Dân Làm To Chuyện",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"T사시민",
+                "content":"X-xin đấy, xin đừng bắt cóc tôi! Tôi còn mẹ già con thơ ở nhà...!!!",
+                "teller":"Thị Dân Làm To Chuyện",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":null,
+                "content":"Người đàn ông chúng tôi vừa cứu run bần bật và la hét loạn xạ, đến độ rung tai nhức óc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "content":"... Mà trong khi đó cả bọn vẫn còn đang đứng trong một con hẻm tối tăm, đầy rẫy nguy hiểm chực chờ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"T사갱단2",
+                "content":"Ồn ào đéo chịu đượ... Ô kìa?",
+                "teller":"Băng T.Đoàn T Quá Thời Gian",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"T사갱단2",
+                "content":"Mẹ, vãi cứt. Chúng mày ra đây mà nhìn này! Trông bọn nó hơi bị rủng rỉnh thời gian thế nhỉ?",
+                "teller":"Băng T.Đoàn T Quá Thời Gian",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"T사갱단2",
+                "content":"Mười phút! Mà thôi, kệ mẹ, bọn tao lấy luôn năm phút nữa! Nôn ra ngay, nhanh!",
+                "teller":"Băng T.Đoàn T Quá Thời Gian",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"그레고르",
+                "content":"Tại sao đám người ở đây tên nào cũng ám ảnh với thời gian thế?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"T사갱단2",
+                "content":"Nộp mau, không là bọn tao chặt hết đầu tụi bây rồi nhặt luôn cái đầu đồng hồ đó bây giờ!",
+                "teller":"Băng T.Đoàn T Quá Thời Gian",
+                "title":"Tập Đoàn T"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"단테",
+                "content":"<Hả? Đồng hồ?>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"단테",
+                "content":"<... Đợi đã, đang nói tôi sao?>",
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

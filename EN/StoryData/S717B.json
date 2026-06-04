@@ -1,498 +1,766 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "place": "Fantasy Blood-shooting",
-      "model": "돈키호테",
-      "content": "I..."
-    },
-    {
-      "id": 1,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "Please, hold on a moment. Can't have a good tale without proper backdrop and some music to set the mood, hmm?"
-    },
-    {
-      "id": 2,
-      "content": "With a quick flick of his staff, the magician rapidly shifts and warps everything around us."
-    },
-    {
-      "id": 3,
-      "place": -1,
-      "content": "<color=#3e7fed>[EP 1] - 'IN WHICH ARE RECOUNTED THE MOST WONDROUS ADVENTURES OF DON QUIXOTE'</color>"
-    },
-    {
-      "id": 4,
-      "place": "Where None Shall Tread",
-      "model": "그레고르",
-      "content": "Whuh?! W-what the hell?!"
-    },
-    {
-      "id": 5,
-      "model": "단테",
-      "content": "<G-Golden Bough resonance...?!>"
-    },
-    {
-      "id": 6,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "Recall. Recall the days of adventure you once lived!"
-    },
-    {
-      "id": 7,
-      "model": "기사돈키",
-      "content": "... Indeed. I have faced countless perils and enemies in my tales of adventures."
-    },
-    {
-      "id": 8,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "Then how about we share a few select adventures you found particularly memorable?"
-    },
-    {
-      "id": 9,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "Let everyone see your grand exploits... in plain sight."
-    },
-    {
-      "id": 10,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "Oh, how about this tale, then?"
-    },
-    {
-      "id": 11,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "Let's call it..."
-    },
-    {
-      "id": 12,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "... The Hallowed Adventures of Don Quixote..."
-    },
-    {
-      "id": 13,
-      "model": "산손",
-      "teller": "???",
-      "title": "???",
-      "content": "... and the Knight of the White Moon."
-    },
-    {
-      "id": 14,
-      "model": "기사산손",
-      "teller": "The Knight of the White Moon",
-      "title": "???",
-      "content": "Ta-da."
-    },
-    {
-      "id": 15,
-      "model": "오티스",
-      "content": "The Knight of the White Moon? Is that who you really are?"
-    },
-    {
-      "id": 16,
-      "model": "기사산손",
-      "teller": "???",
-      "title": "???",
-      "content": "Ha ha, of course not. I must apologize for my delayed introduction."
-    },
-    {
-      "id": 17,
-      "model": "기사산손",
-      "content": "My name is Sansón, and I will be your guide on your visit here at La Manchaland. 'The Knight of the White Moon' is nothing more than a role I play."
-    },
-    {
-      "id": 18,
-      "model": "기사돈키",
-      "content": "... The Knight... of the White Moon..."
-    },
-    {
-      "id": 19,
-      "model": "기사산손",
-      "content": "How do I look? Close enough, would you say?"
-    },
-    {
-      "id": 20,
-      "model": "기사산손",
-      "content": "Mm. You seem quite peeved that such a role would go to someone such as myself."
-    },
-    {
-      "id": 21,
-      "model": "기사산손",
-      "content": "Well, then. We have another actor present here to play this character. A little green, a little incomplete, but still with the sign of great potential."
-    },
-    {
-      "id": 22,
-      "model": "기사산손",
-      "content": "I give this role of the Knight of the White Moon to you."
-    },
-    {
-      "id": 23,
-      "model": "기사싱클",
-      "content": "…?"
-    },
-    {
-      "id": 24,
-      "model": "기사싱클",
-      "content": "M-me?"
-    },
-    {
-      "id": 25,
-      "content": "Sinclair held his forehead for a moment, then looked at his changed appearance in confusion."
-    },
-    {
-      "id": 26,
-      "content": "But that did not last."
-    },
-    {
-      "id": 27,
-      "model": "기사싱클",
-      "content": "……."
-    },
-    {
-      "id": 28,
-      "model": "단테",
-      "content": "<Even Sinclair's gotten... quiet. Like something's controlling his mind.>"
-    },
-    {
-      "id": 29,
-      "model": "파우스트",
-      "content": "It appears that they have become like 'actors' on a stage. As long as that individual is talking, they cannot break character."
-    },
-    {
-      "id": 30,
-      "model": "로쟈",
-      "content": "W-woah, is this safe?!"
-    },
-    {
-      "id": 31,
-      "model": "산손",
-      "content": "The pair sought a certain river, the tales of which have been told only through legends."
-    },
-    {
-      "id": 32,
-      "model": "산손",
-      "content": "Only the Knight of the White Moon knew the path to finding it. Don Quixote was merely going as directed by the Knight."
-    },
-    {
-      "id": 33,
-      "model": "산손",
-      "content": "Oh, excuse me. 'The Trio'; can't forget our dear Rocinante."
-    },
-    {
-      "id": 34,
-      "model": "산손",
-      "content": "Each had a very distinct sound of footsteps as well."
-    },
-    {
-      "id": 35,
-      "model": "산손",
-      "content": "The Knight, an experienced yet relaxed gait."
-    },
-    {
-      "id": 36,
-      "model": "산손",
-      "content": "Rocinante, a stoic yet powerful stride."
-    },
-    {
-      "id": 37,
-      "model": "산손",
-      "content": "And you... stumbling hither and thither."
-    },
-    {
-      "id": 38,
-      "model": "산손",
-      "content": "It is a deep, deep place where no one dares tread."
-    },
-    {
-      "id": 39,
-      "model": "산손",
-      "content": "The deepest part of the City, once challenged by countless adventurers, Knights, and Fixers..."
-    },
-    {
-      "id": 40,
-      "model": "산손",
-      "content": "A quiet, terribly tranquil place inhabited only by the floating nebulae..."
-    },
-    {
-      "id": 41,
-      "model": "기사싱클",
-      "content": "\"We... only have a little further to venture.\""
-    },
-    {
-      "id": 42,
-      "model": "기사싱클",
-      "content": "“…….”"
-    },
-    {
-      "id": 43,
-      "model": "기사싱클",
-      "content": "\"Once we find the river...\""
-    },
-    {
-      "id": 44,
-      "model": "기사싱클",
-      "content": "\"I will guide you to the place that will be your residence henceforth.\""
-    },
-    {
-      "id": 45,
-      "model": "기사싱클",
-      "content": "\"An abandoned lighthouse where no one visits.\""
-    },
-    {
-      "id": 46,
-      "model": "기사싱클",
-      "content": "\"Please, make that place your home.\""
-    },
-    {
-      "id": 47,
-      "model": "산손",
-      "content": "Ahh, the Knight has given our hero a place to live."
-    },
-    {
-      "id": 48,
-      "model": "산손",
-      "content": "What a kindly knight. Such loyal friendship brings tears to my eyes."
-    },
-    {
-      "id": 49,
-      "model": "기사돈키",
-      "content": "\"Very well! Then I trust thee to lead the—\""
-    },
-    {
-      "id": 50,
-      "model": "산손",
-      "content": "No, no. You did not have a line here."
-    },
-    {
-      "id": 51,
-      "model": "산손",
-      "content": "Why was that, one must wonder... Was it the excitement, the anticipation that got your tongue?"
-    },
-    {
-      "id": 52,
-      "model": "산손",
-      "content": "Well, well. Not the most exciting start to an adventure, was it?"
-    },
-    {
-      "id": 53,
-      "model": "산손",
-      "content": "Let's keep things interesting. Shall we move on?"
-    },
-    {
-      "id": 54,
-      "place": -1,
-      "content": "<color=#3e7fed>[EP 2] - 'WHICH TREATS DON QUIXOTE'S ENCOUNTER WITH THE BANDITS'</color>"
-    },
-    {
-      "id": 55,
-      "place": "Where None Shall Tread",
-      "model": "히스클리프",
-      "content": "Ah, shite! I can't move!"
-    },
-    {
-      "id": 56,
-      "model": "뫼르소",
-      "content": "There is no observable method by which we may escape the flow of this stageplay."
-    },
-    {
-      "id": 57,
-      "model": "단테",
-      "content": "<If we don't have a choice in the matter, then... let's at least pay attention to it.>"
-    },
-    {
-      "id": 58,
-      "content": "Thinking back, we've never actually given much attention to Don Quixote's stories before. We considered them to be too ridiculous. Too tiring to listen to. I could think of a thousand different excuses..."
-    },
-    {
-      "id": 59,
-      "content": "... we came up with to avoid having to listen to her stories."
-    },
-    {
-      "id": 60,
-      "model": "단테",
-      "content": "<Let's pay attention to Don Quixote's story for once, her story we never knew.>"
-    },
-    {
-      "id": 61,
-      "model": "산손",
-      "content": "In this tale, we look at but one of many, many adventures of Don Quixote."
-    },
-    {
-      "id": 62,
-      "model": "산손",
-      "content": "Through the journey, the great adventurer Don Quixote visited many villages."
-    },
-    {
-      "id": 63,
-      "place": "Shepherds' Village",
-      "model": "산손",
-      "content": "And, eventually, the adventurer arrived at a village of shepherds."
-    },
-    {
-      "id": 64,
-      "model": "기사돈키",
-      "content": "A village of shepherds, indeed..."
-    },
-    {
-      "id": 65,
-      "model": "기사돈키",
-      "content": "Upon my arrival I could see plainly that the village was routinely terrorized by a band of highwaymen and raiders. Verily, I could see the palpable fear worn on the faces of the villagers. Thus, I inquired one of them to learn of what plagued them so."
-    },
-    {
-      "id": 66,
-      "model": "주민로쟈",
-      "content": "\"Oh, my...! You must be the brave and famous adventurer Don Quixote! Please, deliver us from pain, milord.\""
-    },
-    {
-      "id": 67,
-      "model": "기사돈키",
-      "content": "\"Alack for woe! The wicked caitiffs—the bandits—fell upon thy village!\""
-    },
-    {
-      "id": 68,
-      "model": "기사돈키",
-      "content": "……."
-    },
-    {
-      "id": 69,
-      "model": "기사돈키",
-      "content": "\"I, Don Quixote, shan't let pass this plain villainy and bullying unanswered!\""
-    },
-    {
-      "id": 70,
-      "model": "기사돈키",
-      "content": "\"Worry thee not, for I promise thee on all that is I, that I shall rout the no-good bandits from thy village!\""
-    },
-    {
-      "id": 71,
-      "model": "주민로쟈",
-      "content": "\"But... there's too many for you to defeat all on your own, dear adventurer!\""
-    },
-    {
-      "id": 72,
-      "model": "기사돈키",
-      "content": "\"Do not let such fear plague thy mind, for there are no adventures in which I, Don Quixote, have not prevailed! Wouldst thou not agree?\""
-    },
-    {
-      "id": 73,
-      "model": "산손",
-      "content": "Ah... hold on, hold on a minute. Something feels off, doesn't it?"
-    },
-    {
-      "id": 74,
-      "model": "기사돈키",
-      "content": "... Aught doth?"
-    },
-    {
-      "id": 75,
-      "model": "산손",
-      "content": "Who might you be talking to? The Knight of the White Moon? Or... your brave steed, Rocinante?"
-    },
-    {
-      "id": 76,
-      "model": "기사돈키",
-      "content": "Well, plainly..."
-    },
-    {
-      "id": 77,
-      "model": "기사돈키",
-      "content": "... it must be Rocinante."
-    },
-    {
-      "id": 78,
-      "model": "기사돈키",
-      "content": "Many adventures have I braved alongside Rocinante. A friend and a compatriot whom I shan't trade for anything in the world!"
-    },
-    {
-      "id": 79,
-      "model": "기사돈키",
-      "content": "\"Wouldst thou not agree, dear Rocinante!\""
-    },
-    {
-      "id": 80,
-      "model": "말레고르",
-      "content": "\"Y-ye, yes, your worship, Don Quixote.\""
-    },
-    {
-      "id": 81,
-      "model": "주민로쟈",
-      "content": "Pffft, Greg? Didya just turn into a horse?"
-    },
-    {
-      "id": 82,
-      "model": "산손",
-      "content": "Now, now. Let's try to focus on this adventure, shall we? Otherwise, Don Quixote, as brave an adventurer this hero may be, cannot fend off this whole horde of bandits all alone."
-    },
-    {
-      "id": 83,
-      "model": "기사돈키",
-      "content": "Indeed... There were too many of them. 'Twas a battle most difficult, just as the villagers had feared."
-    },
-    {
-      "id": 84,
-      "model": "말레고르",
-      "content": "\"Will this plan succeed, your worship?\""
-    },
-    {
-      "id": 85,
-      "model": "기사돈키",
-      "content": "\"What better plan dost thou suggest, dear Rocinante?\""
-    },
-    {
-      "id": 86,
-      "model": "말레고르",
-      "content": "\"Oh, well. I don't have a plan or anything. I don't know as much about the ways of adventuring as you do, Don Quixote.\""
-    },
-    {
-      "id": 87,
-      "model": "기사돈키",
-      "content": "\"I shall stand as myself that is manifestly myself, Rocinante. That is to say, that I stand without fear!\""
-    },
-    {
-      "id": 88,
-      "model": "말레고르",
-      "content": "\"Still... can't you see that we are terribly outnumbered? Know that to back down is not to flee; that one must know when to stop their stride when danger outpaces hope...\""
-    },
-    {
-      "id": 89,
-      "model": "산손",
-      "content": "Shame, it seems that Rocinante was not as brave as Don Quixote. And not very compliant for a horse... or a pair of running shoes."
-    },
-    {
-      "id": 90,
-      "model": "말레고르",
-      "content": "... Haah."
-    },
-    {
-      "id": 91,
-      "model": "기사돈키",
-      "content": "\"Fie on thee, Rocinante. Hold thy tongue! In all the years I have lived and places I have visited, I am yet to know a pair of running shoes as rebellious as thee! Hast thou not espied enough of my courage to fight them? Then I, Don Quixote, shall prove it to thee this instant, Rocinante!\""
-    },
-    {
-      "id": 92,
-      "model": "기사돈키",
-      "content": "Thus I, Don Quixote leapt into the fray the likes of which hath not been seen before, or thereafter."
-    },
-    {
-      "id": 93,
-      "model": "기사돈키",
-      "content": "\"Flee not, ye devious caitiffs!\""
-    },
-    {
-      "id": 94,
-      "model": "기사돈키",
-      "content": "Shouting so, I stabbed and stabbed and stabbed with all my strength behind the lance."
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Trường Bắn Máu Huyễn Tưởng",
+                "model":"돈키호테",
+                "content":"Ta...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"산손",
+                "content":"Xin hãy chờ một lát. Một câu chuyện hoàn hảo làm sao có thể thiếu đi đạo cụ và nhạc nền chỉn chu được đúng không?",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":null,
+                "content":"Chỉ với một cú phẩy nhanh gọn, tên ảo thuật gia liên tục thay đổi và biến hoá cảnh vật xung quanh chúng tôi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":-1,
+                "model":null,
+                "content":"<color=#3e7fed>[CHƯƠNG 1] - 'NHÌN LẠI NHỮNG CHUYẾN PHIÊU LƯU KỲ THÚ CỦA DON QUIXOTE'<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":"Chốn Không Người Tới",
+                "model":"그레고르",
+                "content":"Hở?! C-chuyện quái gì thế?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"단테",
+                "content":"<C-Cộng hưởng Cành Vàng ư...?!>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"산손",
+                "content":"Hãy nhớ lại đi. Nhớ lại những tháng ngày rong ruổi theo những cuộc phiêu lưu của quý vị!",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"기사돈키",
+                "content":"...Hẳn vậy rồi. Trong những kì tích của ta, ta đã đối mặt với vô số hiểm nguy và đối thủ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"산손",
+                "content":"Vậy thì chúng ta chọn ra vài câu chuyện mà quý vị cho là đáng nhớ nhất thì sao nhỉ?",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"산손",
+                "content":"Để cho tất cả cùng tận mắt chứng kiến... những kỳ tích vĩ đại của quý vị.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"산손",
+                "content":"À, hay là câu chuyện này thì sao nhỉ?",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"산손",
+                "content":"Hãy gọi nó là...",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"산손",
+                "content":"... Chuyến Phiêu Lưu Thiêng Liêng của Don Quixote...",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"산손",
+                "content":"... cùng Kỵ Sĩ Bạch Nguyệt.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"기사산손",
+                "content":"Ta-đa.",
+                "teller":"The Knight of the White Moon",
+                "title":"???"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"오티스",
+                "content":"Kị Sĩ Bạch Nguyệt? Đó thật sự là thân phận của ngươi à?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"기사산손",
+                "content":"Ha ha, dĩ nhiên là không rồi. Xin thứ lỗi vì màn giới thiệu chậm trễ của tôi.",
+                "teller":"???",
+                "title":"???"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"기사산손",
+                "content":"Tôi là Sansón, và là người hướng dẫn cho quý vị du khách đây tại La Manchaland. Còn 'Kỵ Sĩ Bạch Nguyệt' chỉ là một vai diễn không hơn không kém.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"기사돈키",
+                "content":"...Bạch Nguyệt... Hiệp Sĩ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"기사산손",
+                "content":"Thế trông tôi như thế nào? Cũng khá giống đấy chứ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"기사산손",
+                "content":"Ừmm. Trông quý vị có vẻ bực bội khi mà một kẻ như tôi lại dám nhận một vai diễn thế này nhỉ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"기사산손",
+                "content":"Thôi thì như thế này vậy. Chúng ta vẫn còn một diễn viên khác ở đây mà. Vẫn còn hơi non và xanh, nhưng rất có tiềm năng.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"기사산손",
+                "content":"Tôi sẽ giao vai diễn Kỵ Sĩ Bạch Nguyệt này lại cho cậu",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"기사싱클",
+                "content":"…?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"기사싱클",
+                "content":"T-Tôi á?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":null,
+                "content":"Sinclair đặt tay lên trán một lúc, rồi nhìn lại bộ dạng mới của bản thân trong bối rối.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "content":"Nhưng nhanh chóng kết thúc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"기사싱클",
+                "content":"…….",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"단테",
+                "content":"<Đến cả Sinclair cũng đã... im lặng rồi. Như có thứ gì đó đang điều khiển cậu ấy vậy.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"파우스트",
+                "content":"Xem ra họ đã bị biến thành những “diễn viên” trên sân khấu. Chừng nào người đó còn nói chuyện thì họ sẽ không thể thoát vai được.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"로쟈",
+                "content":"U-Uầy, cái này chắc ổn không vậy?!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"산손",
+                "content":"Cả hai đã cùng nhau tìm kiếm một dòng sông, thứ tưởng chừng như chỉ có ở trong truyền thuyết.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"산손",
+                "content":"Duy chỉ có vị Kỵ Sĩ Bạch Nguyệt là biết rõ con đường cần đi. Còn Don Quixote chỉ cần đi sự theo hướng dẫn của người nọ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"산손",
+                "content":"À thứ lỗi cho tôi. Là 'bộ ba' mới phải, làm sao bỏ quên Rocinante yêu dấu của chúng ta được nhỉ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"산손",
+                "content":"Mỗi người trong số họ đều mang trong mình một khí chất riêng biệt.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"산손",
+                "content":"Người Kỵ Sĩ với dáng vẻ đầy kinh nghiệm nhưng không kém phần thư thái.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"산손",
+                "content":"Hay Rocinante với những sải chân cứng nhắc nhưng mạnh mẽ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"산손",
+                "content":"Còn quý vị đây... thì lại loạng choạng, chân nam đá chân chiêu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"산손",
+                "content":"Nơi ấy là chốn thâm sơn cùng cốc, không một ai dám bén mảng đến.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"산손",
+                "content":"Nằm sâu bên dưới Thành Phố, thách thức không biết bao nhiêu mạo hiểm giả, Kỵ Sĩ, và cả Fixer...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"산손",
+                "content":"Một nơi thanh tĩnh, yên bình chỉ độc toàn tinh vân trôi nổi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"기사싱클",
+                "content":"\"Chúng ta... chỉ cần đi lên thêm chút nữa thôi.\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"기사싱클",
+                "content":"“…….”",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"기사싱클",
+                "content":"\"Rồi lúc mình tìm được dòng sông đó...\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"기사싱클",
+                "content":"\"Tôi sẽ dẫn cậu đi tới chỗ ở từ nay về sau.\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"기사싱클",
+                "content":"\"Một ngọn hải đăng bị bỏ hoang, không có ai lui tới.\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"기사싱클",
+                "content":"\"Xin hãy xem nơi ấy là nhà của cậu.\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"산손",
+                "content":"Ôiii, vị Kỵ Sĩ đã cho người anh hùng của chúng ta một chốn để dung thân.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"산손",
+                "content":"Quả là một kỵ sĩ tốt bung. Tôi thực sự cảm động trước tình bạn thủy chung này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"기사돈키",
+                "content":"\"Hay lắm! Hãy dẫn đường đ—\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"산손",
+                "content":"Không, không được. Đoạn này không có thoại của quý vị.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"산손",
+                "content":"Chắc quý vị cũng đang tự hỏi, tại sao lại thế... Chẳng lẽ sự háo hức, chờ mong đã khiến quý vị nói không nên lời?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"산손",
+                "content":"Ôi chà. Khởi đầu cuộc hành trình không được phấn khởi lắm nhỉ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"산손",
+                "content":"Để tiếp tục sự hứng thú của mọi người, chúng ta cùng sang phần tiếp theo ha?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":-1,
+                "model":null,
+                "content":"<color=#3e7fed>[CHƯƠNG 2] - 'DON QUIXOTE VÀ CUỘC CHẠM TRÁN VỚI NHỮNG TÊN CƯỚP'<\/color>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":"Chốn Không Người Tới",
+                "model":"히스클리프",
+                "content":"Chó má! Tao đéo cử động được!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Không thể quan sát được cách thoát khỏi vở kịch này.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"단테",
+                "content":"<Nếu chúng ta không có lựa chọn nào trong chuyện này rồi... thì ít nhất hãy chăm chú lắng nghe vậy.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":null,
+                "content":"Ngẫm lại thì, chúng tôi chưa bao giờ thật sự quan tâm đến những câu chuyện Don Quixote kể cả. Vì chúng tôi đã coi chúng là quá lố bịch. Quá mệt mỏi để lắng nghe hết. Tôi có thể nghĩa ra hàng ngàn cái cớ...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":null,
+                "content":"... để tránh việc phải lắng nghe những câu chuyện của cô ấy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"단테",
+                "content":"<Chúng ta hãy thử lắng nghe câu chuyện của Don Quixote một lần đi, một câu chuyện mà chúng ta chưa bao giờ biết được.>",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"산손",
+                "content":"Trong câu chuyện này, chúng ta sẽ được chiêm ngưỡng một trong rất rất nhiều chuyến phiêu lưu của Don Quixote.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":"산손",
+                "content":"Xuyên suốt hành trình của mình, mạo hiểm giả vĩ đại Don Quixote đã ghé qua vô số làng mạc.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":"Làng Chăn Cừu",
+                "model":"산손",
+                "content":"Và cuối cùng, người đã chọn dừng chân tại ngôi làng của những người chăn cừu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Ngôi làng của những người chăn cừu, hẳn vậy rồi...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Từ lúc đặt chân đến, ta đã thấy rõ mồn một rằng ngôi làng này hay bị những tên cướp đường và thổ phỉ đe doạ. Có thể thấy nỗi sợ rõ ràng trên mặt họ. Vì vậy, ta hỏi một người làng rằng điều gì đã làm họ bị như vậy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"주민로쟈",
+                "content":"\"Ôi trời ơi...! Ngài chắc hẳn chính là vị Don Quixote dũng mãnh và oai liệt đây mà! Xin ngài hãy giúp chúng tôi thoát khỏi nổi đau này đi. \"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Khốn thay cho các ngài! Lũ đê hèn quỷ quyệt—quân ăn cắp ăn trộm—đe doạ ngôi làng của các ngài!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"기사돈키",
+                "content":"..........",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"기사돈키",
+                "content":"\"Don Quixote ta đây sẽ không để yên cho sự ác báo và bắt nạt dân lành này!\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "model":"기사돈키",
+                "content":"\"Đừng lo lắng, vì ta xin hứa rằng chính ta sẽ là người quét sạch những tên vô lại này ra khỏi làng của mọi người!\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "model":"주민로쟈",
+                "content":"\"Nhưng mà thưa ngài... Bọn chúng quá đông để ngài có thể tiêu diệt được ạ!\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "model":"기사돈키",
+                "content":"\"Xin đừng để nỗi sợ chi phối, vì không có một cuộc phiêu lưu nào mà Don Quixote ta đây không chiến thắng vẻ vang! Chẳng phải vậy sao?\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "model":"산손",
+                "content":"Ấy... Khoan, chờ một chút đã. Có gì đó hơi kỳ lạ ở đây nhỉ?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "model":"기사돈키",
+                "content":"...Có vấn đề gì sao?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "model":"산손",
+                "content":"Quý vị đang nói chuyện với ai thế? Ngài Kỵ Sĩ Bạch Nguyệt? Hay là... chiến mã anh dũng Rocinante của mình?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Đương nhiên...",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "model":"기사돈키",
+                "content":"...chỉ có thể là Rocinante rồi.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Ta đã có biết bao chuyến phiêu lưu đầy gian truân cùng Rocinante. Một tri kỷ, một người cùng chí hướng mà ta sẽ không đổi lấy bất cứ thứ gì khác!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "model":"기사돈키",
+                "content":"\"Phải không nào, Rocinante thân mến?\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "model":"말레고르",
+                "content":"\"D-Dờ, dạ, thưa ngài, Don Quixote.\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "model":"주민로쟈",
+                "content":"Phựt, anh Greg? Sao thành con ngựa rồi?",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "model":"산손",
+                "content":"Nào nào. Cố gắng tập trung vào chuyến phiêu lưu này một chút nhé. Nếu không thì kể cả có là mạo hiểm giả anh hùng Don Quixote cũng sẽ không thể nào một mình xử lý hết đám đạo tặc được đâu.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Đúng vậy... Kẻ thù quá đông đảo. Quả là một trận chiến khó nhằn, đúng như dân làng lo sợ.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "model":"말레고르",
+                "content":"\"Liệu kế hoạch này sẽ thành công chứ, thưa ngài?\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "model":"기사돈키",
+                "content":"\"Ngươi con có diệu kế nào khác không, hỡi Rocinante của ta?\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "model":"말레고르",
+                "content":"\"À thì. Tôi chẳng có kế hoạch gì đâu. Tôi đâu am hiểu chuyện phiêu lưu bằng ngài, thưa ngài Don Quixote.\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "model":"기사돈키",
+                "content":"\"Ta sẽ đứng thẳng, đứng là chính mình, Rocinante ạ. Tức ta sẽ đứng mà không sợ sệt, không chùn bước!\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "model":"말레고르",
+                "content":"\"Nhưng mà... ngài không thấy là ta đang bị áp đảo hoàn toàn sao? Biết điểm dừng không phải là hèn nhát đâu; ba mươi sáu kế tẩu vi thượng sách mà...\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "model":"산손",
+                "content":"Thật đáng buồn, có vẻ như Rocinante đã không thể kiên cường được như người chủ của mình. Thật là một con ngựa, hay nên nói là, một đôi giày chạy không biết nghe lời.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "model":"말레고르",
+                "content":"... Hầy.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "model":"기사돈키",
+                "content":"\"Thối nhà ngươi lắm, Rocinante à. Đừng ngôn vội! Trong tất thảy những nơi ta đi và năm tháng ta đã trải qua, ta chưa từng thấy đôi giày chạy nào cứng đầu như ngươi cả! Ngươi chưa thấy đủ dũng khí của ta sao? Vậy thì hãy để Don Quixote ta đây chứng minh cho ngươi thấy!",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Sau đó, ta, Don Quixote xông pha vào đám vô lại, và đây là lần đầu tiên cũng là lần cuối cùng chúng thấy ta.",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "model":"기사돈키",
+                "content":"\"Đừng có chạy, lũ vô lại kia!\"",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "model":"기사돈키",
+                "content":"Ta thét vang trời, rồi đâm, rồi đâm, rồi đâm ngọn giáo với toàn sức bình sinh.",
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

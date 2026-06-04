@@ -1,226 +1,342 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Fathoms of Ego - Maze",
-      "model": "가면키호테",
-      "content": "How glad I am to have you back, Sancho... With you by our side, this place shall be even happier."
-    },
-    {
-      "id": 1,
-      "model": "가면키호테",
-      "content": "My Family... has finally found true happiness."
-    },
-    {
-      "id": 2,
-      "model": "가면키호테",
-      "content": "Because they have suffered far too long... they deserve this happiness, more so than anyone."
-    },
-    {
-      "id": 3,
-      "model": "가면키호테",
-      "content": "With your return... to La Manchaland... we shall fill this place with even more laughter."
-    },
-    {
-      "id": 4,
-      "model": "산초",
-      "content": "……."
-    },
-    {
-      "id": 5,
-      "model": "오티스",
-      "content": "Laughter? What a joke."
-    },
-    {
-      "id": 6,
-      "model": "오티스",
-      "content": "We are here to exterminate your kind."
-    },
-    {
-      "id": 7,
-      "model": "가면키호테",
-      "content": "... We have been through so much together, have we not? Sancho."
-    },
-    {
-      "id": 8,
-      "model": "가면키호테",
-      "content": "Let us show them what we have lived through... to these ignorant outsiders..."
-    },
-    {
-      "id": 9,
-      "place": "An Ancient Battlefield",
-      "model": "산초",
-      "content": "You were... foolhardy."
-    },
-    {
-      "id": 10,
-      "model": "가면키호테",
-      "content": "Our foes were... Bloodfiends who had grown to the size of giants. Those who had drunk so much human blood that it was boiling, overflowing out of their bodies."
-    },
-    {
-      "id": 11,
-      "model": "가면키호테",
-      "content": "They were formidable foes. Our battles were... challenging."
-    },
-    {
-      "id": 12,
-      "model": "산초",
-      "content": "Even there, you dreamed."
-    },
-    {
-      "id": 13,
-      "model": "가면키호테",
-      "content": "A hollow dream... nothing more."
-    },
-    {
-      "id": 14,
-      "model": "키호테",
-      "title": "Father",
-      "content": "Hark, my dearest compatriots! Art thou ready for this battle?! We shall soon strike the battlefield with our full might; speak, if aught ails thee!"
-    },
-    {
-      "id": 15,
-      "model": "옛산초",
-      "title": "Family",
-      "content": "……."
-    },
-    {
-      "id": 16,
-      "model": "옛산초",
-      "title": "Family",
-      "content": "\"Aught\" ails me."
-    },
-    {
-      "id": 17,
-      "model": "키호테",
-      "title": "Father",
-      "content": "Ahem! O Sancho, thou art recognized! Speak thy mind!"
-    },
-    {
-      "id": 18,
-      "model": "옛산초",
-      "title": "Family",
-      "content": "Why are you talking like that?"
-    },
-    {
-      "id": 19,
-      "model": "키호테",
-      "title": "Father",
-      "content": "'Tis only right that a Fixer-to-be must speak in a manner befitting of his stature."
-    },
-    {
-      "id": 20,
-      "model": "키호테",
-      "title": "Father",
-      "content": "Ah, and mine heart beats with such volition whenever I speak in such a manner. O Sancho, prithee, why dost thou not speak as I—"
-    },
-    {
-      "id": 21,
-      "teller": "Defiant Bloodfiend",
-      "title": "Relative",
-      "content": "KEEAAAGGHHH!"
-    },
-    {
-      "id": 22,
-      "model": "옛산초",
-      "title": "Family",
-      "content": "Because it's ridiculously juvenile."
-    },
-    {
-      "id": 23,
-      "model": "가면키호테",
-      "content": "Yet, I cannot help but cherish that day when we ran across the green fields together, tasting the freedom..."
-    },
-    {
-      "id": 24,
-      "model": "산초",
-      "content": "You were ambushed by Bloodfiends who broke your lance."
-    },
-    {
-      "id": 25,
-      "model": "가면키호테",
-      "content": "Yes. A lance... you had crafted me of your own blood."
-    },
-    {
-      "id": 26,
-      "model": "가면키호테",
-      "content": "It was... a mistake. I underestimated my foes; a rather unfortunate yet unshakable habit of mine."
-    },
-    {
-      "id": 27,
-      "model": "산초",
-      "content": "I remember telling you to be mindful of them."
-    },
-    {
-      "id": 28,
-      "model": "가면키호테",
-      "content": "A powerful gust knocked me into the air before smiting me down into the grass..."
-    },
-    {
-      "id": 29,
-      "model": "가면키호테",
-      "content": "... And you hurried to my side, didn't you? I remember your face, your breathing hastened from worry."
-    },
-    {
-      "id": 30,
-      "model": "산초",
-      "content": "I wasn't that desperate."
-    },
-    {
-      "id": 31,
-      "model": "가면키호테",
-      "content": "As I lay upon my back, gasping at the sky from the shock..."
-    },
-    {
-      "id": 32,
-      "model": "가면키호테",
-      "content": "... you appeared into that view."
-    },
-    {
-      "id": 33,
-      "model": "가면키호테",
-      "content": "Perhaps... it was that moment that led us to victory in that war."
-    },
-    {
-      "id": 34,
-      "model": "산초",
-      "content": "You were already certain of your own victory even before the war began."
-    },
-    {
-      "id": 35,
-      "model": "가면키호테",
-      "content": "I must wonder if that was the moment I had begun to think that we could really change."
-    },
-    {
-      "id": 36,
-      "model": "가면키호테",
-      "content": "Watching you, who hated running all your life, breathlessly sprinting to my side..."
-    },
-    {
-      "id": 37,
-      "model": "가면키호테",
-      "content": "... I thought perhaps we were all changing, little by little."
-    },
-    {
-      "id": 38,
-      "model": "산초",
-      "content": "……."
-    },
-    {
-      "id": 39,
-      "place": "Fathoms of Ego - Maze",
-      "model": "가면키호테",
-      "content": "Yet I... we... failed, Sancho."
-    },
-    {
-      "id": 40,
-      "model": "가면키호테",
-      "content": "And everything around us... is a record, a testament to our failures."
-    },
-    {
-      "id": 41,
-      "model": "가면키호테",
-      "content": "Look around as you will, Sancho. At our desolation..."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Thâm Sâu Bản Ngã - Mê Cung",
+                "model":"가면키호테",
+                "content":"Con về đây khiến ta vui mừng khôn xiết, Sancho à... Nơi này sẽ ngày càng hạnh phúc hơn khi có con bên ta.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Gia Đình ta... cuối cùng đã tìm được hạnh phúc thật sự.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Các con ta phải chịu ải đày quá lâu rồi... chính các con xứng đáng với hạnh phúc này hơn ai hết.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Giờ con đã về đây... chốn La Manchaland này... chúng ta hãy lấp đầy từng ngóc ngách bằng những tiếng cười nào.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"산초",
+                "content":"…….",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"오티스",
+                "content":"Tiếng cười? Bớt đùa đi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"오티스",
+                "content":"Chúng ta ở đây để trừ khử giống loài của ngươi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"가면키호테",
+                "content":"... Cha con ta đã cùng nhau từng trải bao sóng gió phải không? Sancho.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Hãy cho những kẻ ngoài cuộc thiếu trí hiểu này... biết về những gì ta đã trải qua...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":9,
+                "place":"Chiến Trường Cổ Xưa",
+                "model":"산초",
+                "content":"Người đã... liều mạng điên rồ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Kẻ địch của ta... là những Huyết Quỷ với vóc dáng khổng lồ. Những kẻ đã hấp thụ nhiều máu người tới mức máu sôi sục, cơ thể biến dạng quá khổ.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Họ là những kẻ địch xứng tầm. Chiến đấu họ... quả là thử thách.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"산초",
+                "content":"Kể cả khi ấy, người vẫn mơ một giấc mộng.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Một giấc mộng hão huyền... không hơn không kém.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"키호테",
+                "content":"Hỡi những chiến hữu quý mến của ta! Các ngươi đã sẵn sàng toàn tâm toàn sức cho trận chiến này chưa? Sớm thôi, thời khắc nghênh chiến sẽ đến. Vì vậy hãy cất tiếng đi, nếu lòng ngươi có đang phiền muộn!",
+                "title":"Ba",
+                "teller":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"옛산초",
+                "content":"…….",
+                "title":"Thân Quyến",
+                "teller":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"옛산초",
+                "content":"Có phiền muộn ạ.",
+                "title":"Thân Quyến",
+                "teller":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"키호테",
+                "content":"Ừm hứm! Khanh hãy cất lên phiền muộn của mình, Sancho!",
+                "title":"Ba",
+                "teller":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"옛산초",
+                "content":"Sao người lại nói năng kiểu vậy?",
+                "title":"Thân Quyến",
+                "teller":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"키호테",
+                "content":"Một kẻ sớm trở thành Fixer có lối hành văn đúng với địa vị của mình âu cũng là lẽ thường tình.",
+                "title":"Ba",
+                "teller":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"키호테",
+                "content":"Ôi, cách ăn nói này khiến trái tim ta rạo rực biết bao. Ô Sancho khanh, sao con không giao tiếp như ta này-",
+                "title":"Ba",
+                "teller":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":null,
+                "content":"GÁAAAAAAAA!",
+                "title":"Họ Hàng",
+                "teller":"Huyết Quỷ Chống Đối"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"옛산초",
+                "content":"Vì nghe nó rất là trẻ con luôn ấy.",
+                "title":"Thân Quyến",
+                "teller":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Ấy mà, ta không khỏi nhớ nhung cái ngày ta và con chạy nhảy trên những cánh đồng xanh bạt ngàn, nếm trải mùi vị của tự do...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"산초",
+                "content":"Người đã bị phục kích bởi lũ Huyết Quỷ làm hỏng cây thương của mình đó.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Ừm. Cây thương... do con chế tác từ máu của mình.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Đó... là một sai lầm. Ta đã đánh giá thấp kẻ địch, vốn là một thói quen khó bỏ của ta.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"산초",
+                "content":"Con nhớ là đã nhắc người cẩn thận rồi mà.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Một làn gió mạnh phóng ta lên không trung rồi đẩy ta mạnh xuống bãi cỏ...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"가면키호테",
+                "content":"... Và rồi còn vội vã chạy tới bên ta nhỉ? Ta còn nhớ khuôn mặt của con lúc đó, thở hổn hển vì lo âu.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"산초",
+                "content":"Con không có tuyệt vọng đến thế.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Khi ta đương sõng soài trên nền cỏ, chưa khỏi bàng hoàng chỉ biết nhìn trời...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"가면키호테",
+                "content":"... là con đã xuất hiện trong mắt ta.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Có lẽ... chính khoảng khắc đó đã dẫn ta tới chiến thắng.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"산초",
+                "content":"Người đã biết chắc là mình sẽ thắng cuộc trước cả khi chiến tranh bắt đầu mà.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Không biết liệu đây là lúc ta nghĩ tất cả chúng ta có thể thay đổi.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Khi mà nhìn thấy con, người ghét phải nhấc chân lên mà chạy nhất trên đời, hớt hải lao tới bên ta...",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"가면키호테",
+                "content":"... trong ta đã nhen nhóm hy vọng rằng chúng ta đang dần chuyển hóa, dù chỉ từng chút một.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"산초",
+                "content":"…….",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":39,
+                "place":"Thâm Sâu Bản Ngã - Mê Cung",
+                "model":"가면키호테",
+                "content":"Vậy mà ta... chúng ta... đã thất bại, Sancho.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Mọi chuyện xung quanh ta... đã ghi vào sử sách, một minh chứng về tàn cuộc của ta.",
+                "title":null,
+                "teller":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"가면키호테",
+                "content":"Hãy nhìn đi, Sancho. Đối diện với sự thảm bại của chúng ta.",
+                "title":null,
+                "teller":null
+            }
+        ]
     }
-  ]
-}
+

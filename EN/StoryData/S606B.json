@@ -1,641 +1,1054 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Approach",
-            "content": "Two things changed the moment the Wuthering Heights manor appeared over the horizon."
-        },
-        {
-            "id": 1,
-            "model": "히스클리프",
-            "content": "Mirror… I need a mirror. Anyone got a mirror? Come on, anyone?"
-        },
-        {
-            "id": 2,
-            "model": "이상",
-            "content": "What has gotten into you, Heathcliff… T-this mirror isn't—"
-        },
-        {
-            "id": 3,
-            "content": "One was Heathcliff, who was suddenly overcome with intense anxiety…"
-        },
-        {
-            "id": 4,
-            "content": "And the other was the weather that grew dark and tempestuous all of a sudden."
-        },
-        {
-            "id": 5,
-            "place": "Aboard Mephistopheles",
-            "model": "단테",
-            "content": "<… What a terrifying noise.>"
-        },
-        {
-            "id": 6,
-            "model": "홍루",
-            "content": "Was the weather here always this awful?"
-        },
-        {
-            "id": 7,
-            "model": "히스클리프",
-            "content": "It was always this… windy, yeah. Almost like a constant tempest."
-        },
-        {
-            "id": 8,
-            "model": "히스클리프",
-            "content": "But this thunder and lightning...?"
-        },
-        {
-            "id": 9,
-            "model": "히스클리프",
-            "content": "Well, the weather at Wuthering Heights was always this awful, thunder or not."
-        },
-        {
-            "id": 10,
-            "model": "이스마엘",
-            "content": "That really is one massive manor if it looks that big from this far away."
-        },
-        {
-            "id": 11,
-            "model": "카론",
-            "content": "Charon can’t see well. Not sure if this is the right place. But we're here."
-        },
-        {
-            "id": 12,
-            "model": "카론",
-            "content": "Lightning goes boom. Eyes go ow."
-        },
-        {
-            "id": 13,
-            "content": "This manor looked as though it came straight out of a dark, gothic tale full of mysteries. I was half expecting to hear a haunting cry echoing from its windows."
-        },
-        {
-            "id": 14,
-            "model": "단테",
-            "content": "<So are we just waiting for Vergilius to go ‘off the bus’ again?>"
-        },
-        {
-            "id": 15,
-            "model": "그레고르",
-            "content": "When hasn’t that been the case, manager bud...?"
-        },
-        {
-            "id": 16,
-            "model": "이스마엘",
-            "content": "I mean, it's not like we're digging into a Lobotomy Corp. Branch or entering one of the Wings, right? It's just a manor, so I don't see what's stopping him from coming with us."
-        },
-        {
-            "id": 17,
-            "model": "베르길리우스",
-            "content": "Now, off the bus."
-        },
-        {
-            "id": 18,
-            "model": "베르길리우스",
-            "content": "Charon and I—"
-        },
-        {
-            "id": 19,
-            "model": "로쟈",
-            "content": "—will wait outside until we're done with our mission?"
-        },
-        {
-            "id": 20,
-            "model": "베르길리우스",
-            "content": "……."
-        },
-        {
-            "id": 21,
-            "content": "None of the Sinners were hiding their dissatisfaction with Vergilius. Some of them were even standing with their arms crossed."
-        },
-        {
-            "id": 22,
-            "model": "베르길리우스",
-            "content": "By the looks on your faces… clearly, you all collectively have something to say."
-        },
-        {
-            "id": 23,
-            "model": "돈키호테",
-            "content": "I… of course not. Ahem. I... I would hardly ever dare to challenge thee."
-        },
-        {
-            "id": 24,
-            "content": "Well, maybe not every Sinner."
-        },
-        {
-            "id": 25,
-            "content": "We’ve gone through a lot of things, survived various trials and tribulations. Tribulations that could’ve been easily handled had Vergilius been there with us."
-        },
-        {
-            "id": 26,
-            "content": "So..."
-        },
-        {
-            "id": 27,
-            "model": "이스마엘",
-            "content": "Vergilius."
-        },
-        {
-            "id": 28,
-            "content": "Looks like Ishmael decided to step up as our representative."
-        },
-        {
-            "id": 29,
-            "model": "이스마엘",
-            "content": "You introduced yourself to us as our ‘guide’, didn’t you?"
-        },
-        {
-            "id": 30,
-            "model": "이스마엘",
-            "content": "So what kind of 'guide' just tosses everyone at the start of the journey and goes off on their own with the bus driver? Where are you guys even going?"
-        },
-        {
-            "id": 31,
-            "model": "베르길리우스",
-            "content": "……."
-        },
-        {
-            "id": 32,
-            "model": "이스마엘",
-            "content": "I want to make it clear that I’m not being a hardass for no good reason."
-        },
-        {
-            "id": 33,
-            "model": "이스마엘",
-            "content": "I’m asking you, because I want to trust you."
-        },
-        {
-            "id": 34,
-            "model": "이스마엘",
-            "content": "After all, we’re technically all in the same boat. We're coworkers. I’d say the least you could do is to tell us where we’re headed."
-        },
-        {
-            "id": 35,
-            "content": "Vergilius held his silence for a moment. His brows were not as furrowed as they usually are… which was the only indicator to me that he wasn’t as offended to hear this as I thought he’d be."
-        },
-        {
-            "id": 36,
-            "model": "베르길리우스",
-            "content": "… Just like you Sinners who joined this company via your individual contracts…"
-        },
-        {
-            "id": 37,
-            "model": "베르길리우스",
-            "content": "I also signed a contract. With specific clauses and conditions I must abide by."
-        },
-        {
-            "id": 38,
-            "model": "돈키호테",
-            "content": "Huh? The company made thee, a color most illustrious, sign a contract as well?"
-        },
-        {
-            "id": 39,
-            "model": "베르길리우스",
-            "content": "Of course I did. Why would I be babysitting you children on this bus otherwise? I'm not one to work for free."
-        },
-        {
-            "id": 40,
-            "model": "베르길리우스",
-            "content": "I don’t want to bother detailing each and every clause of my contract to you, nor should I…"
-        },
-        {
-            "id": 41,
-            "model": "베르길리우스",
-            "content": "... But Ishmael, I quite liked that you used the word 'trust' in your speech. So I believe that you deserve at least a brief explanation."
-        },
-        {
-            "id": 42,
-            "model": "베르길리우스",
-            "content": "I am not supposed to retrieve the Golden Boughs myself, nor am I allowed to provide you with any direct support. The contract stipulates that I must leave everything to the manager and the Sinners."
-        },
-        {
-            "id": 43,
-            "model": "그레고르",
-            "content": "Why… the hell would you sign a contract like that…?"
-        },
-        {
-            "id": 44,
-            "model": "베르길리우스",
-            "content": "As always, it's meaningless to ask me 'why'."
-        },
-        {
-            "id": 45,
-            "model": "베르길리우스",
-            "content": "Contracts are rarely ever fully understood by those that are not a part of it."
-        },
-        {
-            "id": 46,
-            "model": "베르길리우스",
-            "content": "But..."
-        },
-        {
-            "id": 47,
-            "model": "베르길리우스",
-            "content": "What I can tell you is that… when I ask you Sinners to leave this bus for a mission..."
-        },
-        {
-            "id": 48,
-            "model": "베르길리우스",
-            "content": "... I suppose, in a way, I... say it with a lighter heart than I used to."
-        },
-        {
-            "id": 49,
-            "model": "베르길리우스",
-            "content": "I am no longer concerned that, in my desire to fulfill the conditions for every clause in my contract, the manager might be irreversibly... hurt. I would be left with nothing if such a thing were to happen."
-        },
-        {
-            "id": 50,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 51,
-            "model": "단테",
-            "content": "<Did he just admit to trusting us more than he used to…?>"
-        },
-        {
-            "id": 52,
-            "model": "로쟈",
-            "content": "Don't make him repeat something like that, Dante~"
-        },
-        {
-            "id": 53,
-            "model": "로쟈",
-            "content": "Especially when someone went through the trouble of expressing their true, hidden feelings."
-        },
-        {
-            "id": 54,
-            "model": "로쟈",
-            "content": "Besides..."
-        },
-        {
-            "id": 55,
-            "model": "히스클리프",
-            "content": "W-wait..."
-        },
-        {
-            "id": 56,
-            "model": "히스클리프",
-            "content": "I am NOT going in there like this."
-        },
-        {
-            "id": 57,
-            "model": "히스클리프",
-            "content": "Nope, can’t do this. Oi, turn the bus around!"
-        },
-        {
-            "id": 58,
-            "model": "카론",
-            "content": "Mephi doesn’t do U-turns."
-        },
-        {
-            "id": 59,
-            "model": "히스클리프",
-            "content": "Bollocks… I ain’t going back to the manor in these wrinkly rags!"
-        },
-        {
-            "id": 60,
-            "content": "Oh yeah, right… every single one of our elaborate plans to dress him up in fancy clothes fell through."
-        },
-        {
-            "id": 61,
-            "model": "단테",
-            "content": "<Hey, you don’t look *that* bad...>"
-        },
-        {
-            "id": 62,
-            "model": "히스클리프",
-            "content": "If I go back in these rags, those bastards will—"
-        },
-        {
-            "id": 63,
-            "model": "이스마엘",
-            "content": "... Those 'bastards'? Who are they?"
-        },
-        {
-            "id": 64,
-            "model": "히스클리프",
-            "content": "Bastards that'd always eye me up and down, trying to find a speck of dust, a single flaw, something to latch onto just to humiliate me…"
-        },
-        {
-            "id": 65,
-            "model": "료슈",
-            "content": "Then gouge out their eyes."
-        },
-        {
-            "id": 66,
-            "model": "오티스",
-            "content": "Oho, that would be quite the clever solution."
-        },
-        {
-            "id": 67,
-            "model": "히스클리프",
-            "content": "What are you even…"
-        },
-        {
-            "id": 68,
-            "content": "Looks like Heathcliff is the only one who’s taking this seriously."
-        },
-        {
-            "id": 69,
-            "model": "로쟈",
-            "content": "Fuhu..."
-        },
-        {
-            "id": 70,
-            "model": "홍루",
-            "content": "Huhu..."
-        },
-        {
-            "id": 71,
-            "model": "히스클리프",
-            "content": "The hell is wrong with the pair of you? Quit gigglin’ like that!"
-        },
-        {
-            "id": 72,
-            "model": "로쟈",
-            "content": "Good thing we came prepared exactly for this occasion~!"
-        },
-        {
-            "id": 73,
-            "model": "로쟈",
-            "content": "I just couldn’t imagine Heath managing to pull off this makeover on his own."
-        },
-        {
-            "id": 74,
-            "model": "홍루",
-            "content": "Rodya and I did some shopping in the Backstreets before we entered the Nest."
-        },
-        {
-            "id": 75,
-            "model": "로쟈",
-            "content": "We were waiting to reveal these just in case there was anything more impressive in the Nest, but thanks to the disappointing lack of anything even remotely interesting… we’ll just make do with what we picked up earlier."
-        },
-        {
-            "id": 76,
-            "model": "히스클리프",
-            "content": "Wait a bloody second. When the two of you went off on your own… No. All you brought back was a whole basket of cookies, wasn't it?"
-        },
-        {
-            "id": 77,
-            "model": "로쟈",
-            "content": "Those cookies were decoy cookies, Heath! Though some of ‘em did end up as a part of my daily sustenance, of course… heh."
-        },
-        {
-            "id": 78,
-            "model": "홍루",
-            "content": "While I couldn’t find the particular brands I used back home… these should be more than enough for a proper fashion makeover."
-        },
-        {
-            "id": 79,
-            "model": "베르길리우스",
-            "content": "Hm."
-        },
-        {
-            "id": 80,
-            "model": "로쟈",
-            "content": "Verg, c’mon. Can't we keep things nice and happy for once, hmm? Let him wear something else other than his uniform. Just for today."
-        },
-        {
-            "id": 81,
-            "model": "로쟈",
-            "content": "Like, no one wants to meet their old flame while wearing their work clothes, right?"
-        },
-        {
-            "id": 82,
-            "model": "베르길리우스",
-            "content": "……."
-        },
-        {
-            "id": 83,
-            "model": "히스클리프",
-            "content": "W-well, I doubt the guide’ll ever let anything like that sli—"
-        },
-        {
-            "id": 84,
-            "model": "베르길리우스",
-            "content": "Fine."
-        },
-        {
-            "id": 85,
-            "model": "히스클리프",
-            "content": "What...!"
-        },
-        {
-            "id": 86,
-            "model": "베르길리우스",
-            "content": "I would prefer it if we didn’t have to encourage another rogue incident with the Backdoor."
-        },
-        {
-            "id": 87,
-            "model": "히스클리프",
-            "content": "Seriously?! Guide…!!!"
-        },
-        {
-            "id": 88,
-            "content": "Heathcliff trembled like he was about to give Vergilius a big hug."
-        },
-        {
-            "id": 89,
-            "model": "홍루",
-            "content": "Now, Heathcliff, close your eyes..."
-        },
-        {
-            "id": 90,
-            "model": "홍루",
-            "content": "Relax… and let us take care of everything. Pretend you’re at the proverbial peach blossom spring."
-        },
-        {
-            "id": 91,
-            "model": "히스클리프",
-            "content": "Wait, don’t touch my hair like—"
-        },
-        {
-            "id": 92,
-            "model": "히스클리프",
-            "content": "……."
-        },
-        {
-            "id": 93,
-            "model": "히스클리프",
-            "content": "Woah..."
-        },
-        {
-            "id": 94,
-            "model": "히스클리프",
-            "content": "Oi, you ain’t half bad..."
-        },
-        {
-            "id": 95,
-            "content": "……."
-        },
-        {
-            "id": 96,
-            "model": "홍루SD",
-            "teller": "Hong Lu",
-            "title": "Sinner #6",
-            "content": "Shh~ Heathcliff’s getting a makeover!"
-        },
-        {
-            "id": 97,
-            "content": "Some time later..."
-        },
-        {
-            "id": 98,
-            "model": "히스클리프꾸밈",
-            "content": "Ahem..."
-        },
-        {
-            "id": 99,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 100,
-            "model": "히스클리프꾸밈",
-            "content": "Um… I think you might’ve overdone it with the hair."
-        },
-        {
-            "id": 101,
-            "model": "로쟈",
-            "content": "Don’t touch it! Do you even have any idea how hard Hong Lu worked on that?"
-        },
-        {
-            "id": 102,
-            "model": "이스마엘",
-            "content": "... Where'd his bat go?"
-        },
-        {
-            "id": 103,
-            "model": "로쟈",
-            "content": "It’s a reunion of the century! We can’t possibly let him say hello to his old flame with a big brutish club in his hand~"
-        },
-        {
-            "id": 104,
-            "model": "돈키호테",
-            "content": "Sir Heathcliff appeareth... a tad more merciful than usual. Mayhaps he shall accept my request should I implore him to purchase me a pint of ice-crrream..."
-        },
-        {
-            "id": 105,
-            "model": "싱클레어",
-            "content": "And he no longer looks like he's on the verge of punching me when I make the smallest noises!"
-        },
-        {
-            "id": 106,
-            "model": "히스클리프꾸밈",
-            "content": "……."
-        },
-        {
-            "id": 107,
-            "model": "히스클리프꾸밈",
-            "content": "Lad, please... please don't bring up anything even remotely like that in front of Catherine…"
-        },
-        {
-            "id": 108,
-            "model": "베르길리우스",
-            "content": "Well, I'll be. Clothes really do make the man. Do let me know how this reunion goes; I’ll be looking forward to hearing that tale."
-        },
-        {
-            "id": 109,
-            "model": "히스클리프꾸밈",
-            "content": "Ahm… s-sure."
-        },
-        {
-            "id": 110,
-            "model": "단테",
-            "content": "<So, Heathcliff?>"
-        },
-        {
-            "id": 111,
-            "content": "I’ve been meaning to ask this question for a while. I wanted to know the answer… but I couldn’t bring myself to ask him."
-        },
-        {
-            "id": 112,
-            "model": "단테",
-            "content": "<Why’d you leave Wuthering Heights? It's where the love of your life lives, isn't it?>"
-        },
-        {
-            "id": 113,
-            "content": "Heathcliff, who’d been busily moving about and preparing to leave the bus, suddenly comes to a halt."
-        },
-        {
-            "id": 114,
-            "model": "히스클리프꾸밈",
-            "content": "... I didn’t mind it. The thrashings, the starvings, the abuse, them treatin' me like a servant, like I'm something beneath them..."
-        },
-        {
-            "id": 115,
-            "model": "히스클리프꾸밈",
-            "content": "I didn’t mind being treated like I’m nothing more than an afterthought, like I'm some impure trash to be discarded."
-        },
-        {
-            "id": 116,
-            "model": "히스클리프꾸밈",
-            "content": "But when I heard what… Catherine said..."
-        },
-        {
-            "id": 117,
-            "model": "히스클리프꾸밈",
-            "content": "… I realized that I no longer had any reason to remain in that manor."
-        },
-        {
-            "id": 118,
-            "content": "Heathcliff did not elaborate further."
-        },
-        {
-            "id": 119,
-            "content": "Perhaps it wasn't that he didn't, but that he couldn't bring himself to..."
-        },
-        {
-            "id": 120,
-            "content": "I didn't dare ask him what he was about to say, so I simply nodded in response."
-        },
-        {
-            "id": 121,
-            "model": "단테",
-            "content": "<I see… >"
-        },
-        {
-            "id": 122,
-            "model": "카론",
-            "content": "……."
-        },
-        {
-            "id": 123,
-            "model": "로쟈",
-            "content": "Ooh, looks like Charon’s got something to say about your new fit!"
-        },
-        {
-            "id": 124,
-            "model": "카론",
-            "content": "Mhm, Charon has something to say. Something big."
-        },
-        {
-            "id": 125,
-            "model": "로쟈",
-            "content": "Great, awesome! Now, Charon! What do ya think~?"
-        },
-        {
-            "id": 126,
-            "model": "카론",
-            "content": "Looks oily and greasy. Charon doesn't like greasy."
-        },
-        {
-            "id": 127,
-            "model": "히스클리프꾸밈",
-            "content": "……."
-        },
-        {
-            "id": 128,
-            "model": "로쟈",
-            "content": "Oh… This… isn’t how I thought it’d go… ha ha…"
-        },
-        {
-            "id": 129,
-            "content": "Charon’s words must’ve hit him hard."
-        },
-        {
-            "id": 130,
-            "content": "It took quite a bit of convincing for Heathcliff, who was severely discouraged by Charon’s remark, to exit the bus."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Lối Đi Đến Đồi Gió Hú",
+                "content":"Có hai thứ đã thay đổi ngay khi bóng dáng dinh thự Đồi Gió Hú nhô lên khỏi đường chân trời.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Gương... Tao cần gương. Có đứa nào có không? Lẹ coi, đứa nào?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Anh bị sao thế, Heathcliff... Ch-chiếc gương này không—",
+                "model":"이상",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Một là Heathcliff, người bỗng dưng trở nên lo lắng tột độ...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Hai là quang cảnh đột nhiên tối sầm lại, mây đen vần vũ điên cuồng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "place":"Ở trên chiếc Mephistopheles",
+                "content":"<... Nghe đáng sợ thật.>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"Tiết trời nơi này luôn xấu đến vậy ư?",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Cái chỗ này lúc nào cũng... gió lồng lộng. Cứ như là một cơn cuồng phong không bao giờ dứt vậy.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Nhưng làm gì tới nỗi đùng đùng sấm chớp thế này...?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Mà dù có sấm hay không thì thời tiết ở Đồi Gió Hú lúc nào cũng tệ thế này cả thôi.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Tòa dinh thự đó to ra phết đấy, đứng tận đây cũng thấy rõ.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Chạy xe gù gờ. Mắt thì lờ đờ.",
+                "model":"카론",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Chớp nổ bất ngờ. Mắt lên bàn thờ.",
+                "model":"카론",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"Dinh thự này cứ như bước ra từ một câu chuyện gô-tích đen tối đầy bí ẩn vậy. Đến nỗi dường như tôi còn nghe được văng vẳng đâu đây tiếng than khóc nỉ non, u uất từ dãy cửa sổ kia nữa.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"<Thế chúng ta lại chờ Vergilius nói \"xuống xe đi\" nữa à?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Lúc nào cũng vậy mà cậu quản lý...?",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Ý là, đây còn chẳng phải là Chi Nhánh Tập Đoàn Lobotomy hay giữa trung tâm của một Tổ, chỉ là một dinh thự thôi ấy. Chẳng có lý do gì mà ông ấy lại không thể đi cùng chúng ta cả.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Rồi, xuống xe.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Charon và ta sẽ—",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"—chờ ở ngoài cho đến khi mọi người hoàn thành nhiệm vụ?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"…….",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Tất cả dường như đều cảm thấy bất mãn với Vergilius. Vài người thậm chí còn đang đứng khoanh tay lại.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Ta đoán rằng... các cô cậu đều có gì muốn nói với ta, có phải không?",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"Tất... nhiên là không rồi. E hèm. Đời... đời nào ta lại cả gan thách thức ngài đây chứ.",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"À thì, có lẽ là trừ một người.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Chúng tôi đã cùng nhau trải qua biết bao gian khó, sinh tồn qua bao hiểm cảnh, biết bao nhiêu là tình thế ngàn cân treo sợi tóc. Những tình thế mà nếu có Vergilius đi cùng, đã chẳng tốn đến một giọt mồ hôi nước mắt như vậy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Cho nên...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Vergilius.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Xem ra Ishmael đã quyết định lên tiếng thay mặt mọi người.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Chính ông đã tự giới thiệu là \"người dẫn đường\" cho chúng tôi mà đúng không?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Thế có cái thể loại \"hướng dẫn viên\" nào lại đi quẳng mọi người ra giữa đường còn mình thì bận việc ngồi trên xe không? Bận ngồi chơi xơi nước hả hay gì?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"…….",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"Tôi muốn làm cho rõ ngọn ngành vấn đề chứ không phải đang làm mình làm mẩy, mong ngài hãy hiểu cho.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"Tôi chất vấn vì tôi muốn tin tưởng ông.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Bởi dù sao thì chúng ta vẫn cùng hội cùng thuyền với nhau. Cùng là đồng nghiệp. Ít nhất thì ông cũng phải cảnh báo về những hiểm nguy mà chúng tôi sẽ đối đầu chứ.",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Vergilius im lặng hồi lâu. Ngần ấy bất mãn nhắm thẳng vào ông, vậy mà hai hàng lông mày vẫn chưa xô chặt vào nhau như mọi khi... ngụ ý rằng tâm trạng của ông ấy không bị kích động như tôi tưởng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"... Giống cô cậu Tội Nhân đây tham gia công ty thông qua hợp đồng cá nhân, thì ta...",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"Cũng đã ký một bản hợp đồng ấy. Với những điều khoản mà ta phải tuân thủ.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Ủa? Chính công ty đã bắt ép ngài, một Color lẫy lừng, đi ký bản hợp đồng sao?",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"Tất nhiên rồi. Ta đâu có làm không công. Chứ không phải tự nhiên ta đồng ý chăm lũ trẻ ngỗ ngược trên chuyến xe này đâu?",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Ta không muốn liệt kê ra từng điều khoản cho các cô cậu nghe, tuy nhiên...",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"... Ta thích cách cô dùng từ \"tin tưởng\" đấy, Ishmael à. Nên đành phải công nhận, chí ít cô cũng xứng đáng nhận được một lời giải thích.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"Hợp đồng ghi rõ rằng ta không được tự lấy Cành Vàng hay trực tiếp trợ giúp các cô cậu. Tức là ta phải giao lại mọi việc cho quản lý và các Tội Nhân.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Tại sao... mà ông lại ký cái hợp đồng đó cơ chứ...?",
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Như mọi khi, có hỏi ta \"tại sao\" cũng không có nghĩa lý gì.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Người ngoài cuộc hiếm khi nào hiểu được góc nhìn toàn cảnh từ những điều khoản hợp đồng ấy.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Nhưng...",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"Có điều ta nói cho các cô cậu... đó là khi ta kêu các cô cậu Tội Nhân đây xuống xe đi làm nhiệm vụ...",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"... Ta cho rằng, ta... có thể nói ra được câu đó với tâm trạng nhẹ nhõm hơn trước kia.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Bớt đi nỗi lo âu rằng ta, người đâm đầu cố gắng đi theo hợp đồng một cách mù quáng, sẽ khiến cho quản lý đây rơi vào tình thế... không thể cứu vãn nổi. Và rồi, để mất đi tất cả.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"<…….>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"<Có phải ông ấy vừa thừa nhận là đã tin tưởng chúng ta nhiều hơn trước không...?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"Đừng để ông ta nói lại chứ, Dante à~",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Đặc biệt khi ông ấy đã cố gắng thể hiện cảm xúc thật lòng của mình.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"Với lại...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"Ch-chờ đã...",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"Tao ĐÉO bước vào đó với cái bộ dạng này đâu.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"Đéo, tao sủi trước. Ê, quay xe!",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"Mephi không có vòng ngược lại nhoa.",
+                "model":"카론",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Chết tiệt... Tao đéo tha cái bộ dạng rách rưới này vào dinh thự đâu!",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"Ồ đúng rồi... tất cả mọi kế hoạch và nỗ lực của chúng tôi để cho anh ấy ăn vận những bộ đồ sang trọng đều thất bại.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "content":"<Này, anh trông không tệ *đến thế* đâu...>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "content":"Tao mà bước vào đấy với cái mớ giẻ rách này thì lũ chó đó—",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "content":"... \"Lũ chó đó\" à? Là những ai vậy?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "content":"Lũ chó chết lúc nào cũng soi xét tao, cố tìm cho ra một hạt bụi, một lỗi lầm hay bất cứ thứ gì đó để nhục mạ tao.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "content":"Thế móc mắt chúng ra đi.",
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "content":"À ha, một giải pháp khá khôn ngoan đấy.",
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "content":"Mày đang....",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "content":"Heathcliff là người duy nhất thật sự nghiêm túc trong chuyện này.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "content":"Hừ-hừm...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "content":"Hì hì...",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "content":"Hai đứa chúng mày bị đéo gì thế? Cười khúc khích con mẹ gì!",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "content":"May cho anh là bọn này đã thủ sẵn kế sách rồi nha~!",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "content":"Giờ mà bảo anh Heath tự tút tát thì khó lắm.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "content":"Cũng được một lúc lâu rồi, nhưng tôi và chị Rodya có tranh thủ đi mua sắm ở Phố Sau trước khi ta vào Tổ đấy.",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "content":"Đang tính chờ xem có gì hay ho hơn không rồi hẵng tiết lộ, cơ mà mọi thứ ở cái Tổ này đều chán òm à... Nên là giờ có gì dùng nấy thôi.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "content":"Gượm đã. Khi hai đứa mày tự ý bỏ đi... Gì nhỉ. Bọn mày chỉ mang về có mỗi một giỏ đầy ắp bánh quy thôi mà?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "content":"Mớ bánh quy đó chỉ dùng để đánh lạc hướng thôi, Heath à! Dù đúng là có vài gói đã nằm gọn trong kho lương thực dự trữ của tôi thật... hê hê.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "content":"Tuy không tìm được đúng hãng phục trang hồi tôi còn dùng ở nhà... Nhưng như thế này chắc cũng gọi là ăn diện rồi đấy ha.",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "content":"Hừm.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "content":"Đi mà ông Verg. Để bọn này vui vẻ tí thì cũng có mất mát gì đâu? Cho anh ta mặc gì đó khác đi mà. Chỉ hôm nay thôi.",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":null,
+                "content":"Mà ai lại mang nguyên cái đồng phục công ty đi gặp người thương sau bao ngăn sông cách trở bao giờ, nhở?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "content":"…….",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "content":"Ơ-Ờ, chắc là người dẫn đường sẽ không đồn—",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "content":"Được rồi.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":null,
+                "content":"Hả...!",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "content":"Dù gì thì... ta không muốn phải giải quyết thêm sự cố Dị Môn nào nữa.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "content":"Thật luôn đấy hả?! Ngài Dẫn Đường...!!!",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "content":"Heathcliff run lên như thể anh ấy sắp sửa trao một cái ôm đằm thắm cho Vergilius vậy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "content":"Rồi, anh Heathcliff, nhắm mắt lại xíu nha...",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "content":"Hãy tưởng tượng anh đang chìm đắm giữa chốn Vũ Lăng Đào Nguyên, rồi giao phó thân tâm cho chúng tôi là được.",
+                "model":"홍루",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "content":"Chờ đã, đừng có chạm vào tóc tao như—",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "content":"…….",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":null,
+                "content":"Òa...",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "content":"Ê, mày cũng khá đấy chứ...",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "content":"…….",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "content":"Suỵt~ Anh Heathcliff đang sửa soạn đây rồi!",
+                "model":"홍루SD",
+                "teller":"Hong Lu",
+                "title":"Tội nhân số 6"
+            },
+            {
+                "id":97,
+                "place":null,
+                "content":"Một lúc sau...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "place":null,
+                "content":"E hèm...",
+                "model":"히스클리프꾸밈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "content":"<…….>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "content":"Ờm... Hình như mày hơi quá trớn với tóc tao rồi đó.",
+                "model":"히스클리프꾸밈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":101,
+                "place":null,
+                "content":"Đừng có đụng vào! Anh có biết Hồng Lộ dồn bao nhiêu tâm huyết vào đó không?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "content":"... Cây gậy của anh ta đâu rồi?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "content":"Này nhá, đây là cuộc gặp mặt trăm năm mới có một lần đó! Ai lại bảo câu trước \"anh chào em\" câu sau vác theo cây chày khủng bố đó được?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":104,
+                "place":null,
+                "content":"Quý Ngài Heathcliff nom... hiền từ hơn mọi khi. Nếu ta yêu cầu mua một hũ cà-remmm thì biết đâu anh ấy sẽ thuận lòng đáp ứng...",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "place":null,
+                "content":"Và anh ta cũng không còn trông như kiểu chỉ cần lỡ làm ồn chút thôi là sẽ cho tôi ăn đấm nữa!",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "content":"…….",
+                "model":"히스클리프꾸밈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":107,
+                "place":null,
+                "content":"Nhãi con, làm ơn... đừng có mà hé nửa lời về chuyện đó trước mặt Catherine.",
+                "model":"히스클리프꾸밈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "content":"Hờ, trông hay chưa kìa. Đúng là người đẹp vì lụa. Về xe nhớ kể lại cho ta nghe diễn biến cuộc hội ngộ đấy.",
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "content":"Àm... ư-ừ.",
+                "model":"히스클리프꾸밈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "content":"<Thế, Heathcliff?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":111,
+                "place":null,
+                "content":"Có một điều mà tôi đã lấn cấn trong lòng từ lâu. Dẫu rằng muốn biết câu trả lời, bản thân lại chẳng có can đảm hỏi anh ấy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":112,
+                "place":null,
+                "content":"<Tại sao anh lại rời khỏi Đồi Gió Hú? Chẳng phải tình yêu của đời anh cũng ở đó sao?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":113,
+                "place":null,
+                "content":"Heathcliff, người đang chạy đôn chạy đáo chuẩn bị rời xe buýt, bỗng khựng lại.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":114,
+                "place":null,
+                "content":"... Tao đã chịu đựng tất cả. Đánh đập, bỏ đói, bạo hành, bị đối xử như con ở, như thể tao là thứ hạ đẳng...",
+                "model":"히스클리프꾸밈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":115,
+                "place":null,
+                "content":"Tao đã không để bụng chuyện bị đối xử như hàng đính kèm, hay là thứ rác rưởi gớm ghiếc chỉ đem đi vứt bỏ.",
+                "model":"히스클리프꾸밈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":116,
+                "place":null,
+                "content":"Nhưng rồi khi tao nghe thấy... lời Catherine nói...",
+                "model":"히스클리프꾸밈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":117,
+                "place":null,
+                "content":"... Tao nhận ra tao không còn bất kì lý do nào để trụ lại trong dinh thự đó nữa.",
+                "model":"히스클리프꾸밈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":118,
+                "place":null,
+                "content":"Heathcliff không nói gì thêm.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":119,
+                "place":null,
+                "content":"Có lẽ nào không phải anh ấy không muốn nói, mà là không thể nói ra được...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":120,
+                "place":null,
+                "content":"Chẳng dám hỏi điều anh ấy nghẹn lại trong lòng, tôi chỉ đành gật đầu đáp lại.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":121,
+                "place":null,
+                "content":"<Tôi hiểu rồi...>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":122,
+                "place":null,
+                "content":"…….",
+                "model":"카론",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":123,
+                "place":null,
+                "content":"Ê ê, hình như bé Charon sắp sửa cho ý kiến về bộ cánh mới của anh này!",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":124,
+                "place":null,
+                "content":"Ừm hừm, Charon có điều muốn nói. Điều cực quan trọng luôn.",
+                "model":"카론",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":125,
+                "place":null,
+                "content":"Ngon luôn! Nào nào Charon! Bé thấy sao nè~?",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":126,
+                "place":null,
+                "content":"Nhìn bóng bẩy quá. Charon hổng thích mấy người bóng bẩy.",
+                "model":"카론",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":127,
+                "place":null,
+                "content":"…….",
+                "model":"히스클리프꾸밈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":128,
+                "place":null,
+                "content":"Úi da... Không ngờ là... lại thành ra thế này... ha ha...",
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":129,
+                "place":null,
+                "content":"Lời nói của Charon hẳn đã làm tổn thương anh ấy.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":130,
+                "place":null,
+                "content":"Bị Charon tạt gáo nước lạnh vào người, chúng tôi phải khuyên giải mãi thì Heathcliff mới chịu lê từng bước xuống xe.",
+                "model":null,
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

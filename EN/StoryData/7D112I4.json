@@ -1,84 +1,86 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "model": "키호테빛",
-      "content": "…….\n"
-    },
-    {
-      "id": 1,
-      "model": "키호테빛",
-      "content": "Sancho... I have conceived... an idea most ingenious..."
-    },
-    {
-      "id": 2,
-      "model": "산초피묻음",
-      "content": "What... is it this time...?"
-    },
-    {
-      "id": 3,
-      "model": "키호테빛",
-      "content": "Alas, it appears that we are not availed the benevolent, mediating force of Bari to quell our quarrels. Then I suppose we are at an impasse, want of a better mediation..."
-    },
-    {
-      "id": 4,
-      "model": "키호테빛",
-      "content": "… than one wrought by force."
-    },
-    {
-      "id": 5,
-      "model": "키호테빛",
-      "content": "Let us test our mights in a duel; in a singular bout of our lances."
-    },
-    {
-      "id": 6,
-      "model": "키호테빛",
-      "content": "Come, now. Let us give it our all..."
-    },
-    {
-      "id": 7,
-      "model": "산초피묻음",
-      "content": "……. \n"
-    },
-    {
-      "id": 8,
-      "model": "산초피묻음",
-      "content": "... Is there no other way?"
-    },
-    {
-      "id": 9,
-      "model": "키호테빛",
-      "content": "This momentum, this responsibility of mine to perpetuate the festival, to provide my Family with what they yearn for... it cannot be stopped."
-    },
-    {
-      "id": 10,
-      "model": "키호테빛",
-      "content": "This carousel by the name of La Manchaland… whirls too swiftly for me to dismount, even as it remains anchored in place."
-    },
-    {
-      "id": 11,
-      "model": "키호테빛",
-      "content": "Yet, if you could shatter the burden of my nature, my responsibilities... would that not prove your dream mightier than the weight of my duty?"
-    },
-    {
-      "id": 12,
-      "model": "키호테빛",
-      "content": "Show me. Demonstrate before me the strength of thy dream, the grandeur of it."
-    },
-    {
-      "id": 13,
-      "model": "산초피묻음",
-      "content": "Still... so... ridiculously juvenile..."
-    },
-    {
-      "id": 14,
-      "model": "키호테빛",
-      "content": "How many times must I tell you that it is that very ridiculous juvenility that gives color to life? "
-    },
-    {
-      "id": 15,
-      "model": "산초피묻음",
-      "content": "…….\n"
+        "dataList":[
+            {
+                "id":0,
+                "model":"키호테빛",
+                "content":"……."
+            },
+            {
+                "id":1,
+                "model":"키호테빛",
+                "content":"Sancho... Đầu ta... đã lóe lên một ý tưởng hết sức thiên tài..."
+            },
+            {
+                "id":2,
+                "model":"산초피묻음",
+                "content":"Lần này... là cái gì đây?"
+            },
+            {
+                "id":3,
+                "model":"키호테빛",
+                "content":"Có vẻ như ở thời khắc hiện tại chúng ta không có Bari ở đây để giải quyết tranh chấp của hai ta bằng sự hiền từ và nhân hậu của mình. Trong tình thế tiến thoái lưỡng nan này, không có cách giải quyết nào tốt hơn..."
+            },
+            {
+                "id":4,
+                "model":"키호테빛",
+                "content":"... là dùng vũ lực cả."
+            },
+            {
+                "id":5,
+                "model":"키호테빛",
+                "content":"Dùng ngọn thương này để so tài, trong một đòn duy nhất."
+            },
+            {
+                "id":6,
+                "model":"키호테빛",
+                "content":"Bằng tất cả những gì ta có..."
+            },
+            {
+                "id":7,
+                "model":"산초피묻음",
+                "content":"……."
+            },
+            {
+                "id":8,
+                "model":"산초피묻음",
+                "content":"...Thật không còn cách nào khác sao?"
+            },
+            {
+                "id":9,
+                "model":"키호테빛",
+                "content":"Duy trì lễ hội, chu cấp cho Gia Đình ta những thứ mà họ cần... Đó là trách nhiệm, là động lực của ta, là thứ không thể bị kiềm hãm."
+            },
+            {
+                "id":10,
+                "model":"키호테빛",
+                "content":"Vòng quay ngựa gỗ dưới cái tên La Manchaland... dù chỉ đứng yên một chỗ, nhưng đã quay nhanh tới mức đến ta cũng không thể dừng lại."
+            },
+            {
+                "id":11,
+                "model":"키호테빛",
+                "content":"Nhưng nếu con có thể đập tan gánh nặng bởi bản năng và trách nhiệm đang đè nén thân ta... như thế chẳng phải sẽ chứng minh được rằng giấc mơ của con còn mạnh mẽ hơn cả nghĩa vụ của ta sao?"
+            },
+            {
+                "id":12,
+                "model":"키호테빛",
+                "content":"Hãy cho ta thấy giấc mơ của con vĩ đại và kiên cường đến mức nào."
+            },
+            {
+                "id":13,
+                "model":"산초피묻음",
+                "content":"Vẫn... thật... trẻ con quá đi mà..."
+            },
+            {
+                "id":14,
+                "model":"키호테빛",
+                "content":"Ta còn phải nhắc cho con nhớ bao nhiêu lần rằng chính những thứ trẻ con thế này mới đem lại sắc màu cho cuộc sống."
+            },
+            {
+                "id":15,
+                "model":"산초피묻음",
+                "content":"……."
+            }
+        ]
     }
-  ]
-}
+

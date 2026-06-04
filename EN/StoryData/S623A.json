@@ -1,282 +1,360 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Basement Entrance",
-            "model": "그레고르",
-            "content": "I haven't the faintest idea as to who might be behind this, but..."
-        },
-        {
-            "id": 1,
-            "model": "그레고르",
-            "content": "... man, someone really doesn't want us reaching the basement."
-        },
-        {
-            "id": 2,
-            "model": "그레고르",
-            "content": "We're finding more and more Peccatula the closer we get to the entrance."
-        },
-        {
-            "id": 3,
-            "model": "싱클레어",
-            "content": "Since we haven't come across any other entrances on our way down... I guess the only place they could be coming from is the basement."
-        },
-        {
-            "id": 4,
-            "model": "로쟈",
-            "content": "What... the heck are they keeping in this basement...?"
-        },
-        {
-            "id": 5,
-            "model": "그레고르",
-            "content": "Don't the rich families with big mansions usually keep basements for..."
-        },
-        {
-            "id": 6,
-            "model": "그레고르",
-            "content": "... fancy, classy stuff like fermenting some good whiskey?"
-        },
-        {
-            "id": 7,
-            "model": "로쟈",
-            "content": "They also use 'em for storing treasures... Hehe, I have many fond memories of raiding their basements."
-        },
-        {
-            "id": 8,
-            "model": "홍루",
-            "content": "Hmm... It probably depends on the family, but if a rich family wanted to hide something they're doing, they'd do it in the basement."
-        },
-        {
-            "id": 9,
-            "model": "로쟈",
-            "content": "Can you check the diary again, Heath? Maybe something new appeared on the pages like it did earlier."
-        },
-        {
-            "id": 10,
-            "model": "히스클리프",
-            "content": "It can't possibly be that easy. This is just a diary, nothing more. You can ask these papers all you want, but—"
-        },
-        {
-            "id": 11,
-            "model": "히스클리프",
-            "content": "……."
-        },
-        {
-            "id": 12,
-            "model": "단테",
-            "content": "<... Is there something wrong with the diary, Heathcliff?>"
-        },
-        {
-            "id": 13,
-            "model": "히스클리프",
-            "content": "I felt an odd sensation earlier. I dismissed it, thought it was just the chills."
-        },
-        {
-            "id": 14,
-            "model": "히스클리프",
-            "content": "But I just felt it again."
-        },
-        {
-            "id": 15,
-            "model": "히스클리프",
-            "content": "This diary... I ain't even sure how to put it... haah. The point is, I just had the strangest sensation."
-        },
-        {
-            "id": 16,
-            "model": "히스클리프",
-            "content": "The same feeling I felt earlier when that glass window suddenly shattered all on its own."
-        },
-        {
-            "id": 17,
-            "model": "파우스트",
-            "content": "……."
-        },
-        {
-            "id": 18,
-            "model": "파우스트",
-            "content": "Heathcliff, if I may..."
-        },
-        {
-            "id": 19,
-            "model": "히스클리프",
-            "content": "I know! I know I must sound like I've gone barmy. But..."
-        },
-        {
-            "id": 20,
-            "model": "파우스트",
-            "content": "No, Heathcliff. It appears rather obvious that the ink used to write the entries was not an ordinary ink."
-        },
-        {
-            "id": 21,
-            "model": "파우스트",
-            "content": "There is a small chance that your 'suspicions' may be true. That is what I believe."
-        },
-        {
-            "id": 22,
-            "model": "이스마엘",
-            "content": "What are you two even talking about...?"
-        },
-        {
-            "id": 23,
-            "model": "파우스트",
-            "content": "I would like to recommend that you open the diary yourself, Heathcliff."
-        },
-        {
-            "id": 24,
-            "model": "히스클리프",
-            "content": "……."
-        },
-        {
-            "id": 25,
-            "content": "Heathcliff opened the diary with a somber expression..."
-        },
-        {
-            "id": 26,
-            "content": "... and once again, the ink stains on the page had transformed into a series of legible alphabets."
-        },
-        {
-            "id": 27,
-            "content": "XX/XX"
-        },
-        {
-            "id": 28,
-            "content": "I once had a dream."
-        },
-        {
-            "id": 29,
-            "content": "A dream of my own death, or an eternal slumber."
-        },
-        {
-            "id": 30,
-            "content": "I found myself in heaven upon my waking."
-        },
-        {
-            "id": 31,
-            "content": "It was just as it was described in the books. I was surrounded by angels who sang a song for me."
-        },
-        {
-            "id": 32,
-            "content": "But at that moment, I also understood that I belonged elsewhere."
-        },
-        {
-            "id": 33,
-            "content": "I cried and pleaded with the angels to send me back..."
-        },
-        {
-            "id": 34,
-            "content": "And the angels were so furious that they cast me out from heaven back into the middle of the violet flowers on top of Wuthering Heights."
-        },
-        {
-            "id": 35,
-            "content": "Only then did I truly awake in this world, sobbing for joy."
-        },
-        {
-            "id": 36,
-            "content": "Now that I reminisce upon that memory..."
-        },
-        {
-            "id": 37,
-            "content": "... I no longer believe that it was a mere dream."
-        },
-        {
-            "id": 38,
-            "content": "It was just as real as the ghost from my youth that I have seen haunting this very manor..."
-        },
-        {
-            "id": 39,
-            "content": "Yes. If we were in heaven, we shall be eternally miserable."
-        },
-        {
-            "id": 40,
-            "content": "Thus we must embrace the encroaching sins and descend into the world beneath."
-        },
-        {
-            "id": 41
-        },
-        {
-            "id": 42,
-            "model": "싱클레어",
-            "content": "Here it is again. The 'we'..."
-        },
-        {
-            "id": 43,
-            "model": "이스마엘",
-            "content": "Most diaries are written in first person. Do you know anything about this, Heathcliff?"
-        },
-        {
-            "id": 44,
-            "model": "히스클리프",
-            "content": "No... She's never once mentioned this dream to me."
-        },
-        {
-            "id": 45,
-            "model": "이상",
-            "content": "Though it may be baseless conjecture..."
-        },
-        {
-            "id": 46,
-            "model": "이상",
-            "content": "But to say that we must \"embrace the encroaching sins and descend into the world beneath\"..."
-        },
-        {
-            "id": 47,
-            "model": "이상",
-            "content": "... Perhaps the diary means to instruct us to face the Peccatula and continue to descend into the basement."
-        },
-        {
-            "id": 48,
-            "model": "히스클리프",
-            "content": "You're saying that Catherine... planned all this?"
-        },
-        {
-            "id": 49,
-            "model": "이상",
-            "content": "Mm. Though I remain uncertain if this is what Miss Faust had implied earlier, yet..."
-        },
-        {
-            "id": 50,
-            "model": "이상",
-            "content": "... Heathcliff, did it not appear to you that the diary is answering directly to your beckoning?"
-        },
-        {
-            "id": 51,
-            "model": "히스클리프",
-            "content": "... Right, it's not just me who felt that, then?"
-        },
-        {
-            "id": 52,
-            "model": "싱클레어",
-            "content": "Miss Catherine, she..."
-        },
-        {
-            "id": 53,
-            "model": "싱클레어",
-            "content": "I don't want to speak so ill of the dead, but she seems a bit..."
-        },
-        {
-            "id": 54,
-            "model": "넬리",
-            "content": "Yes, she was quite the character. And she could be a tad frightening, from time to time."
-        },
-        {
-            "id": 55,
-            "model": "히스클리프",
-            "content": "... Nelly. Linton said... something about my letters being burned at the incinerator, didn't he?"
-        },
-        {
-            "id": 56,
-            "model": "히스클리프",
-            "content": "You think he's really the prick who nicked all my letters before they reached Cathy?"
-        },
-        {
-            "id": 57,
-            "model": "넬리",
-            "content": "Well... I wouldn't put such behavior beyond Master Linton."
-        },
-        {
-            "id": 58,
-            "model": "히스클리프",
-            "content": "……."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Lối Vào Tầng Hầm Đồi Gió Hú",
+                "model":"그레고르",
+                "content":"Tôi chẳng biết kẻ nào đứng sau chuyện này, nhưng mà..."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"그레고르",
+                "content":"... giời ạ, có tên nào đó thật sự không muốn cho chúng ta tới được chỗ tầng hầm."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"그레고르",
+                "content":"Ta càng tới gần lối vào thì lại càng gặp nhiều Peccatula hơn."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Chúng ta vẫn chưa hề gặp lối vào nào khác trên đường xuống đây... Vậy chắc nơi chúng xuất phát chỉ có thể là dưới tầng hầm thôi."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"로쟈",
+                "content":"Họ... đang giấu thứ gì trong cái tầng hầm này vậy...?"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"그레고르",
+                "content":"Thường thì mấy đám nhà giàu mà có dinh thự lớn thường xây tầng hầm để..."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"그레고르",
+                "content":"... làm mấy trò xa xỉ, sành điệu như là ủ rượu mà nhỉ?"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"로쟈",
+                "content":"Họ cũng dùng để cất giữ châu báu đấy... Hê hê, làm tôi nhớ cái hồi tôi đột nhập vào nhà của bọn họ quá."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"홍루",
+                "content":"Hưm... Thực ra gia đình khá giả thì mỗi nhà mỗi cảnh... Nhưng nếu họ có điều gì muốn che giấu, thì giấu trong mật thất dưới tầng hầm hẳn sẽ là cách tối ưu nhất đấy."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"로쟈",
+                "content":"Xem lại cuốn nhật ký đó được không anh Heath? Chắc cùng tìm thêm được trang mới như hồi nãy ấy."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Làm gì ngon ăn thế. Nhật kí nó chỉ thế thôi chứ có còn cái gì nữa—"
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"히스클리프",
+                "content":"……."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"단테",
+                "content":"<... Có gì đó xảy ra với cuốn nhật ký sao, Heathcliff?>"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Ban nãy tao cứ thấy ngồ ngộ nhưng bỏ qua tại tưởng là gió."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Nhưng tao lại cảm nhận được nó lần nữa."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Cái cuốn nhật ký này... Không biết nói sao nữa... haa. Ý tao là, nó quái đản vô cùng."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Nó giống như cảm giác ban nãy khi kính cửa sổ tự vỡ vậy."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"파우스트",
+                "content":"……."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"파우스트",
+                "content":"Heathciff, nếu tôi có thể..."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Tao biết! Nghe như tao phát rồ lên rồi. Nhưng mà..."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"파우스트",
+                "content":"Không, Heathcliff. Khá chắc rằng loại mực dùng để viết các mục đó không phải là loại mực thông thường."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"파우스트",
+                "content":"Nên tôi tin rằng \"sự nghi ngờ\" đó của anh có khả năng là đúng."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ý hai người là sao vậy...?"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"파우스트",
+                "content":"Heathcliff, tôi khuyên anh nên tự mình mở nhật ký ra."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"히스클리프",
+                "content":"……."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff mở cuốn nhật ký với vẻ mặt ảm đạm..."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "content":"... và một lần nữa, vết mực trên trang giấy đã biến thành một chuỗi câu từ có thể đọc được rõ ràng."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":null,
+                "content":"XX\/XX"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":null,
+                "content":"Tôi đã từng mơ thấy."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "content":"Về cái chết của bản thân, một giấc ngủ vĩnh hằng."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":null,
+                "content":"Khi tôi mở mắt, thiên đường đã dang tay đón lấy tôi."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":null,
+                "content":"Trông giống y như trong sách mô tả vậy. Các thiên thần quây quần bên tôi và hát ca."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":null,
+                "content":"Nhưng cũng vào thời khắc ấy, tôi nhận ra rằng mình đã thuộc về nơi khác."
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":null,
+                "content":"Vì thế tôi đã khóc và cầu xin các thiên thần hãy gửi tôi về..."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":null,
+                "content":"Và thế là trong cơn phẫn nộ vô cùng, các đẳng thiên thần đã trục xuất tôi ra khỏi nước thiên đàng. Tôi cứ thế rơi xuống hạ giới, về lại giữa cánh đồng hoa tím biếc trên Đồi Gió Hú."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "content":"Chỉ đến lúc đó tôi mới thật sự tỉnh giấc trong thế giới này, khóc nấc lên đầy vui sướng."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "content":"Giờ đây tôi hoài niệm về mảnh ký ức đấy..."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":null,
+                "content":"...Tôi không còn tin nó chỉ đơn thuần là mơ."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":null,
+                "content":"Nó trông thật như bóng ma thuở ấu thơ luôn bủa vây tòa dinh thự này."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":null,
+                "content":"Đúng vậy. Nếu chúng ta ở nơi thiên đàng, thì muôn đời suốt kiếp sẽ lầm than."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":null,
+                "content":"Thế thì hãy để ta ôm trọn thứ tội lỗi đang dần siết chặt tâm can, và cùng nhau sa xuống tầng sâu của thế giới đọa đày."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":null,
+                "content":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Lại nữa. \"Chúng ta\"..."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thông thường người ta viết nhật ký bằng ngôi thứ nhất. Anh có manh mối gì không?"
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Chưa... Ẻm chưa hề kể giấc mơ này với tao."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"이상",
+                "content":"Dù có thể là phỏng đoán vô căn cứ..."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"이상",
+                "content":"Nhưng bảo rằng chúng ta phải \"ôm trọn thứ tội lỗi đang dần siết chặt tâm can, và cùng nhau sa xuống tầng sâu của thế giới đọa đày.\""
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"이상",
+                "content":"... Có lẽ nhật kí muốn chỉ dẫn chúng ta phải đối mặt với đám Peccatula và tiếp tục tiến xuống tầng hầm."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Mày đang bảo là mọi thứ... đều do Catherine bày ra?"
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"이상",
+                "content":"Ừm. Dù tôi vẫn không chắc liệu đây là điều mà cô Faust ngụ ý lúc nãy, nhưng..."
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"이상",
+                "content":"... Heathcliff, liệu anh chưa cảm thấy rằng, nhật kí đang trả lời trực tiếp lời kêu gọi của anh?"
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Ờ, thế hóa ra không chỉ có mình tao mới cảm nhận được điều đó à?"
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tiểu Thư Catherine, cô ấy..."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi không muốn nói xấu người đã khuất, nhưng cô ấy hình như hơi..."
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"넬리",
+                "content":"Phải, tiểu thư có một cá tính mạnh mẽ. Chỉ là đôi khi cô ấy cũng khá đáng sợ."
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Nelly. Thằng Linton đó nói là... mấy lá thư của con bị đốt trong lò, phải không?"
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Cô có nghĩ hắn là thằng chó đã cuỗm thư của con trước khi chúng tới tay Cathy không?"
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"넬리",
+                "content":"Sao nhỉ... ta cũng không loại trừ khả năng Ngài Linton lại làm kiểu chuyện như vậy."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"히스클리프",
+                "content":"……."
+            }
+        ]
+    }
+

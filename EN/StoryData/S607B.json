@@ -1,328 +1,408 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Front Gate",
-            "model": "히스클리프꾸밈",
-            "content": "Tsk… this is uncomfortable."
-        },
-        {
-            "id": 1,
-            "model": "히스클리프꾸밈",
-            "content": "Oi, is it normal for these clothes to squeeze harder with every step I take?"
-        },
-        {
-            "id": 2,
-            "model": "홍루",
-            "content": "That is what it means to maintain an air of dignity~ Once you get used to that feeling, you'll feel like you're missing something whenever you're dressed casually!"
-        },
-        {
-            "id": 3,
-            "model": "이상",
-            "content": "So this must be the front… gate to your former place of abode, Heathcliff."
-        },
-        {
-            "id": 4,
-            "content": "The massive gate alone feels downright intimidating."
-        },
-        {
-            "id": 5,
-            "model": "단테",
-            "content": "<That's one big front door.>"
-        },
-        {
-            "id": 6,
-            "model": "뫼르소",
-            "content": "It is known that, in certain regions of the City, the size of the front gate is an indicator of one's social standing. The magnitude of this front gate indicates that... the owner of this home is very affluent."
-        },
-        {
-            "id": 7,
-            "model": "이스마엘",
-            "content": "Heathcliff, you picked on Hong Lu for being a rich kid when you were raised at some huge mansion yourself?"
-        },
-        {
-            "id": 8,
-            "model": "홍루",
-            "content": "Heh heh, I don't mind it at all~"
-        },
-        {
-            "id": 9,
-            "model": "로쟈",
-            "content": "... I'm feeling a bit betrayed, actually."
-        },
-        {
-            "id": 10,
-            "model": "돈키호테",
-            "content": "Sir Heathcliff, thou appeareth quite different today..."
-        },
-        {
-            "id": 11,
-            "model": "히스클리프꾸밈",
-            "content": "... Keep your stupid comments to yourselves."
-        },
-        {
-            "id": 12,
-            "content": "Some were teasing him, and some were genuinely surprised, but... it didn't matter to Heathcliff. Every word he spat out was dripping with venomous spite."
-        },
-        {
-            "id": 13,
-            "model": "히스클리프꾸밈",
-            "content": "I wasn't even remotely close to being rich."
-        },
-        {
-            "id": 14,
-            "model": "히스클리프꾸밈",
-            "content": "I was never once 'rich' in this manor. I wasn't even allowed to be content. Not even for a moment."
-        },
-        {
-            "id": 15,
-            "model": "히스클리프꾸밈",
-            "content": "And this manor. This manor never accepted me, not even for a—"
-        },
-        {
-            "id": 16,
-            "model": "그레고르",
-            "content": "…!"
-        },
-        {
-            "id": 17,
-            "model": "히스클리프꾸밈",
-            "content": "W-what the hell..."
-        },
-        {
-            "id": 18,
-            "model": "오티스",
-            "content": "A lightning strike. It seems to have struck an area near the forest."
-        },
-        {
-            "id": 19,
-            "model": "단테",
-            "content": "<That was so loud...>"
-        },
-        {
-            "id": 20,
-            "model": "싱클레어",
-            "content": "It's okay. I-I heard that it's extremely rare for lightning to actually hit people."
-        },
-        {
-            "id": 21,
-            "model": "이상",
-            "content": "... A momentary musing reveals that a strike of levin brings about a sensation that is not unlike the joy of fireworks."
-        },
-        {
-            "id": 22,
-            "model": "이상",
-            "content": "It fills the dark and cold void of the night sky with its incandescent brilliance, even for a brief moment, before fading away into oblivion."
-        },
-        {
-            "id": 23,
-            "model": "히스클리프꾸밈",
-            "content": "… Right. And in exchange, it loses everything it has, burning and leaving nothing but ash behind."
-        },
-        {
-            "id": 24,
-            "model": "히스클리프꾸밈",
-            "content": "What joy is there to be found?"
-        },
-        {
-            "id": 25,
-            "content": "I could hear some forest critters fleeing, spooked by the thunderstrike."
-        },
-        {
-            "id": 26,
-            "model": "돈키호테",
-            "content": "Ooh! Behold, a tiny squirrel over yonder!"
-        },
-        {
-            "id": 27,
-            "model": "홍루",
-            "content": "Woah… such nature so close to home? I didn't know you used to live at such an eco-friendly place. I suppose I wouldn't have to go through the trouble of building a private zoo if I lived at a place like this!"
-        },
-        {
-            "id": 28,
-            "model": "오티스",
-            "content": "To have a garden or a forest so near their home… Even if we were to ignore everything else, that alone indicates that its owner is someone of unimaginable affluence."
-        },
-        {
-            "id": 29,
-            "model": "로쟈",
-            "content": "Hmm~ Right! I remember that Sinclair's home was in the middle of a forest, too."
-        },
-        {
-            "id": 30,
-            "model": "히스클리프꾸밈",
-            "content": "Squirrels, sure. There were other animals roaming about, too."
-        },
-        {
-            "id": 31,
-            "model": "히스클리프꾸밈",
-            "content": "Sometimes, when I was so miserable that I could hardly bear to even be in that manor... I’d go to the forest and not return for a long, long time."
-        },
-        {
-            "id": 32,
-            "model": "돈키호테",
-            "content": "Ooh, then this tiny forest friend, little Sir Squirrel, must have been quite the jolly companion for thee!"
-        },
-        {
-            "id": 33,
-            "model": "돈키호테",
-            "content": "LITTLE SIR SQUIRRELLLLLL!!!!!!!!!!!"
-        },
-        {
-            "id": 34,
-            "content": "The little squirrel that may once have been Heathcliff’s tiny forest friend…"
-        },
-        {
-            "id": 35,
-            "content": "… was immediately scorched down to a pile of ash the moment it crossed over into the manor’s front gate."
-        },
-        {
-            "id": 36,
-            "model": "그레고르",
-            "content": "That was… a weird lightning strike. Did it just curve midair?"
-        },
-        {
-            "id": 37,
-            "model": "파우스트",
-            "content": "The chance of such an occurrence is extraordinarily low."
-        },
-        {
-            "id": 38,
-            "model": "그레고르",
-            "content": "Um… it might just be that I’m overreacting, but it looked as though that lightning was curving itself to strike exactly where that squirrel was standing."
-        },
-        {
-            "id": 39,
-            "model": "이스마엘",
-            "content": "Woah… Heathcliff, I had no idea you grew up at such a dangerous place. I’m impressed you even survived…"
-        },
-        {
-            "id": 40,
-            "model": "히스클리프꾸밈",
-            "content": "… No. Blimey… I’ve not seen anything like it."
-        },
-        {
-            "id": 41,
-            "model": "단테",
-            "content": "<Right, Heathcliff. Ready to knock on the front gate?>"
-        },
-        {
-            "id": 42,
-            "model": "히스클리프꾸밈",
-            "content": "The front gate…"
-        },
-        {
-            "id": 43,
-            "content": "He stared blankly at the front gate of the manor."
-        },
-        {
-            "id": 44,
-            "model": "히스클리프꾸밈",
-            "content": "I've... not knocked on this gate in good many years."
-        },
-        {
-            "id": 45,
-            "model": "히스클리프꾸밈",
-            "content": "I once had to wait out here for hours because they all refused to let me in. Everyone... except Catherine. She snuck out of the manor to open it for me."
-        },
-        {
-            "id": 46,
-            "model": "히스클리프꾸밈",
-            "content": "Walking through the heavy rain."
-        },
-        {
-            "id": 47,
-            "model": "이스마엘",
-            "content": "Well, then... I’m sure it won’t be different this time."
-        },
-        {
-            "id": 48,
-            "model": "히스클리프꾸밈",
-            "content": "So if I knock... Catherine will come out to let me in?"
-        },
-        {
-            "id": 49,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 50,
-            "model": "히스클리프꾸밈",
-            "content": "... Hup."
-        },
-        {
-            "id": 51,
-            "content": "Heathcliff takes a deep breath before knocking on the front door."
-        },
-        {
-            "id": 52,
-            "model": "히스클리프꾸밈",
-            "content": "……."
-        },
-        {
-            "id": 53,
-            "model": "이스마엘",
-            "content": "Huh, nothing. That’s not what I meant when I said it won't be different this time…"
-        },
-        {
-            "id": 54,
-            "model": "이스마엘",
-            "content": "Oh, we can try climbing over the fence. I think we can clear that height as long as we’re okay with breaking our ankles…"
-        },
-        {
-            "id": 55,
-            "model": "히스클리프꾸밈",
-            "content": "No."
-        },
-        {
-            "id": 56,
-            "content": "Heathcliff was a whole bundle of anxiety before he knocked on the front gate, but…"
-        },
-        {
-            "id": 57,
-            "content": "… perhaps this perceived slight reverted Heathcliff into his usual, angry self."
-        },
-        {
-            "id": 58,
-            "model": "히스클리프꾸밈",
-            "content": "I was invited to this manor! This invitation would be meaningless if I were to leap over the fence."
-        },
-        {
-            "id": 59,
-            "model": "히스클리프꾸밈",
-            "content": "CATHERINE! I’M BACK!"
-        },
-        {
-            "id": 60,
-            "model": "오티스",
-            "content": "They’ve ignored you once. Continuing to shout won’t—"
-        },
-        {
-            "id": 61,
-            "model": "히스클리프꾸밈",
-            "content": "CATHERINE!"
-        },
-        {
-            "id": 62,
-            "content": "Despite his efforts, not even a soul stirred beyond the front gate. None of us really believed that anyone would come out to greet him."
-        },
-        {
-            "id": 63,
-            "content": "But…"
-        },
-        {
-            "id": 64,
-            "model": "히스클리프꾸밈",
-            "content": "CATH—"
-        },
-        {
-            "id": 65,
-            "content": "The front gate began to creak open as though someone was answering his pleas."
-        },
-        {
-            "id": 66,
-            "model": "홍루",
-            "content": "… The makeover was worth it, hmm?"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Cổng Trước Đồi Gió Hú",
+                "model":"히스클리프꾸밈",
+                "content":"Chậc... khó chịu vãi."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Ê, cái thứ quần áo này bình thường mày cứ bước một bước là nó càng siết vào người thế à?"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"홍루",
+                "content":"Phải như thế mới duy trì được vẻ lịch thiệp vốn có chứ ạ~ Đến khi mặc quen rồi, đổi về thường phục thì chắc chắn anh sẽ thấy thiếu thiếu đó!"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"이상",
+                "content":"Đây hẳn phải là... cổng vào nhà cũ của anh, Heathcliff."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "content":"Chỉ riêng cánh cổng khổng lồ này thôi cũng đủ cảm thấy đáng sợ rồi."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"단테",
+                "content":"<Cửa trước bự thật đấy.>"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Nhiều nguồn tin cho hay, tại một số vùng của Thành Phố, kích cỡ của cổng chính là thước đo cho địa vị xã hội của một người. Dựa vào độ lớn của cánh cổng này... chủ nhân của dinh thự rất giàu có."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Heathcliff này, anh kèn cựa với Hong Lu vì anh ta là con nhà giàu trong khi bản thân cũng cùng một giuộc vậy à?"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"홍루",
+                "content":"Hì hì, tôi không để bụng đâu mà~"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"로쟈",
+                "content":"... Tôi cảm thấy như mình bị phản bội ấy."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Quý ngài Heathcliff à, hôm nay nom dáng vẻ anh toát ra sự khác lạ hơn hẳn thường nhật..."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"... Chúng mày đừng có mà phun ra mấy câu ngu học đấy."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":null,
+                "content":"Một vài người đang châm chọc anh ấy, và một số thì thật sự bất ngờ, nhưng... Heathcliff chẳng để tâm. Từng câu từ anh ấy thốt ra đều chứa đựng sự cay đắng độc địa."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Tao thậm chí còn chẳng được gọi là có của cải."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Tao chưa từng \"giàu sang\" trong căn dinh thự này. Thậm chí một phút giây tận hưởng cái cảm giác đấy còn không có nữa."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Và cái dinh thự này. Nó chưa bao giờ chấp nhận tao, dù là một—"
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"그레고르",
+                "content":"…!"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"C-cái đéo gì vậy..."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"오티스",
+                "content":"Sét đánh. Có vẻ như nó đã đánh vào chỗ nào đấy gần khu rừng."
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"단테",
+                "content":"<To thật đấy...>"
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Không sao đâu. T-Tôi nghe nói xác suất để sấm sét đánh trúng con người thấp dữ lắm."
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"이상",
+                "content":"... Một khắc suy tư khiến ta thấy một tia sét đem lại cảm giác không khác pháo hoa là bao."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"이상",
+                "content":"Nó khiến bầu trời đêm tối lạnh lẽo tỏa sáng rực rỡ, dù chỉ trong khoảnh khắc ngắn ngủi, trước khi tan biến vào hư vô."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Đổi lại nó tiêu tan, cháy trụi tới từng mẩu vụn và chỉ để lại đống tro tàn."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Thế có gì vui vẻ cho cam?"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":null,
+                "content":"Tôi có thể nghe thấy tiếng thú rừng bị tiếng sấm doạ cho kinh sợ, sột soạt tháo chạy."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ôi chao! Mau chiêm ngưỡng, có chú sóc nhỏ ở phía xa kia!"
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"홍루",
+                "content":"Oa, khu rừng ở gần nhà quá... Hóa ra anh lại sống ở một nơi gần gũi với thiên nhiên đến thế nhỉ. Không cần phải cất công xây thêm sở thú tư gia nữa luôn ha!"
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"오티스",
+                "content":"Sở hữu một khu vườn hoặc rừng rậm quanh nhà... Không cần biết mấy thứ khác ra sao, riêng việc đó thôi cũng đã chứng tỏ chủ nhà là một kẻ có địa vị cực kì khủng rồi."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ừ hứm~ Phải ha! Nhớ là nhà của Sinclair cũng nằm ở giữa rừng luôn á."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Sóc à. Cũng có vài con vật khác đi loanh quanh đây đó nữa."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Thi thoảng, khi tao không tài nào chịu đựng nổi cái dinh thự đó... Tao lại biến vào rừng và phải rất lâu tao mới quay lại."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ồôô, vậy thì cậu bạn rừng xanh của chúng ta, Quý Ngài Sóc nhỏ đây, đã từng đồng hành với cậu vào những ngày trầm lắng ấy!"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"돈키호테",
+                "content":"QUÝ NGÀI SÓC NHỎỎỎỎỎỎ!!!!!!!!!!!"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":null,
+                "content":"Chú sóc nhỏ đã có thể từng là một người bạn tí hon trong rừng của Heathcliff..."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":null,
+                "content":"... ngay tức khắc bị sét đánh cháy rụi khi chỉ vừa len lỏi qua cổng vào dinh thự."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"그레고르",
+                "content":"Tia sét vừa rồi... kì lạ thật đấy. Nó vừa chuyển hướng giữa không trung à?"
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"파우스트",
+                "content":"Khả năng điều vừa nãy xảy ra là cực kỳ thấp."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"그레고르",
+                "content":"Ờm... coi như tôi đang nhìn gà hóa cuốc đi, nhưng mà hình như tia sét đó đã tự chuyển hướng để đánh chuẩn vào nơi con sóc chuột đó vừa đứng."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Uầy... Heathcliff ạ, tôi không ngờ là anh từng sống ở một nơi nguy hiểm thế này luôn. Còn thở được tới giờ thì đúng là nể thật ấy."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"... Không. Mẹ nó... Tao chưa từng thấy thứ nào như vậy cả."
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"단테",
+                "content":"<Được rồi, Heathcliff. Sẵn sàng gõ cổng chưa?>"
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Gõ cổng..."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":null,
+                "content":"Anh ấy nhìn chăm chăm vào cánh cổng chính của dinh thự."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Đã... lâu rồi tao không chạm tay lên cánh cổng này."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Đã từng có một đợt tao phải đợi ở ngoài hàng giờ đồng hồ vì chúng nó từ chối không cho tao vào. Tất cả chúng nó... chỉ trừ Catherine. Em ấy lẻn ra khỏi dinh thự để mở cửa cho tao."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Băng qua cơn mưa nặng hạt."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thế thì... chắn chắn lần này cũng không khác gì đâu."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Liệu khi tao gõ cửa... Catherine có bước ra và mở cửa cho tao không?"
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"단테",
+                "content":"<…….>"
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"... Phù."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff hít một hơi thật sâu trước khi đập tay lên song sắt."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"……."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hử, chả thấy ai ra mở cả. Kì thực thì tôi không nghĩ là lại đến mức này..."
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"이스마엘",
+                "content":"À, hay là thử trèo qua hàng rào đi. Cao mức đó thì có thể sẽ bị trẹo chân chút đấy, nhưng chắc cũng không sao đâu."
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Không."
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff đã vô cùng lo lắng trước khi anh ấy cất tiếng gọi, nhưng mà..."
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":null,
+                "content":"... có lẽ vẻ khinh thường này đã khiến Heathcliff trở lại con người nóng giận cáu kỉnh thường ngày."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"Tao được mời đến dinh thự này! Nếu tao mà leo rào thì cái lời mời còn nghĩa lý gì nữa."
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"CATHERINE! ANH VỀ RỒI ĐÂY!"
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"오티스",
+                "content":"Chúng đã ngó lơ ngươi một lần rồi thì tiếp tục la hét không—"
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"CATHERINE!"
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":null,
+                "content":"Mặc cho nỗ lực của anh ấy, không một bóng hồn nào xuất hiện ở phía bên kia cánh cổng. Không một ai trong số chúng tôi thật sự tin rằng sẽ có người nào đó bước ra đón chào anh ấy."
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":null,
+                "content":"Nhưng..."
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"히스클리프꾸밈",
+                "content":"CATH—"
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":null,
+                "content":"Cánh cổng bắt đầu mở ra như thể ai đó đã hồi đáp lời cầu xin của anh ấy."
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"홍루",
+                "content":"... Xem chừng việc chỉnh trang y phục cũng đáng giá mà ha?"
+            }
+        ]
+    }
+

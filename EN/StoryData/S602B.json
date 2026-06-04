@@ -1,54 +1,70 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "T Corp.’s Streets",
-            "model": "T사갱단1",
-            "teller": "Urgent T Corp. Gangster",
-            "title": "T Corp.",
-            "content": "Away, ya gits. This one’s ours!"
-        },
-        {
-            "id": 1,
-            "model": "T사갱단1",
-            "teller": "Urgent T Corp. Gangster",
-            "title": "T Corp.",
-            "content": "Looks like you lot are running low on time as well… tough luck! We’ve only got thirty minutes ourselves!"
-        },
-        {
-            "id": 2,
-            "model": "T사갱단2",
-            "teller": "Scared T Corp. Gangster",
-            "title": "T Corp.",
-            "content": "Oi, maybe they’re one of the Dead Rabbits or somethin’."
-        },
-        {
-            "id": 3,
-            "model": "그레고르",
-            "content": "Thirty minutes? Thirty minutes for what?"
-        },
-        {
-            "id": 4,
-            "model": "T사갱단1",
-            "teller": "Urgent T Corp. Gangster",
-            "title": "T Corp.",
-            "content": "Ain’t possible. The old Dead Rabbits and their vigilante ways are no more… All they do nowadays is starin’ at ya funny from behind those odd masks."
-        },
-        {
-            "id": 5,
-            "model": "히스클리프",
-            "content": "Masks? What? What are you—"
-        },
-        {
-            "id": 6,
-            "model": "T사갱단2",
-            "teller": "Scared T Corp. Gangster",
-            "title": "T Corp.",
-            "content": "Bollocks, we don’t got time for this… let’s kill 'em quick!"
-        },
-        {
-            "id": 7,
-            "content": "They began rushing at us with bloodshot eyes, not giving Heathcliff time to even finish his sentence."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Đường Phố T.Đoàn T",
+                "model":"T사갱단1",
+                "teller":"Tên Côn Đồ Gấp Rút từ T.Đoàn T",
+                "title":"Tập Đoàn T",
+                "content":"Mẹ mày, cút! Thằng này tụi tao lia trước!"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"T사갱단1",
+                "teller":"Tên Côn Đồ Gấp Rút từ T.Đoàn T",
+                "title":"Tập Đoàn T",
+                "content":"Chó thật chứ... Bọn chết dẫm này đéo dư giả thời gian gì! Còn đúng mỗi ba mươi phút thôi đấy lũ ngu!"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"T사갱단2",
+                "teller":"Tên Côn Đồ Sợ Hãi từ T.Đoàn T",
+                "title":"Tập Đoàn T",
+                "content":"Ê này, có khi bọn này là Dead Rabbits cũng nên."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null,
+                "content":"Ba mươi phút á? Ba mươi phút để làm gì cơ?"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"T사갱단1",
+                "teller":"Tên Côn Đồ Gấp Rút từ T.Đoàn T",
+                "title":"Tập Đoàn T",
+                "content":"Mày xàm chó gì vậy? Lũ Dead Rabbits hết chơi trò anh hùng đường phố lâu rồi. Bọn nó giờ chỉ biết đeo dăm ba cái mặt nạ rách rưới rồi đứng trơ người như trời trồng vậy thôi."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Mặt nạ? Là sao? Mày đang nói—"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"T사갱단2",
+                "teller":"Tên Côn Đồ Sợ Hãi từ T.Đoàn T",
+                "title":"Tập Đoàn T",
+                "content":"Đĩ mẹ, sắp hết thời gian tới nơi rồi... xử lẹ đi!"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null,
+                "content":"Bọn chúng đằng đằng sát khí lao tới, không để cho Heathcliff kịp nói hết câu."
+            }
+        ]
+    }
+

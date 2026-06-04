@@ -4,7 +4,7 @@
       "id": 0,
       "place": "Corridor of the Ring",
       "model": "약지아비",
-      "content": "Ah! Welcome, welcome. I've been so absorbed with trimming my ingredients that I was delayed. I hope my Albina has been a most wonderful host to you all in my absence?"
+      "content": "À! chào mừng, chào mừng. Ta mải mê tỉa tót nguyên liệu nên đến trễ mất. Mong là Albina của ta đã tiếp đãi các vị thật chu đáo trong lúc ta vắng mặt nhỉ?"
     },
     {
       "id": 1,
@@ -14,17 +14,17 @@
     {
       "id": 2,
       "model": "이스마엘",
-      "content": "You..."
+      "content": "Ngươi..."
     },
     {
       "id": 3,
       "model": "약지제자2",
-      "content": "Yes, Maestro. They've denied my offer of friendship, but I've been trying nonetheless."
+      "content": "Vâng, thưa ngài Nhạc Công. Họ đã từ chối lời đề nghị kết bạn của con… nhưng con vẫn đang cố gắng."
     },
     {
       "id": 4,
       "model": "약지아비",
-      "content": "I see. Oh, it's such a pleasure to meet you all again. This gallery hardly ever sees visitors... so I was at once its only audience and Maestro."
+      "content": "Ra là vậy. À, thật vui khi lại được gặp các vị. Phòng trưng bày này hiếm khi có khách... nên từ trước đến nay, ta vừa là khán giả cũng vừa là Nhạc Công của chính nó."
     },
     {
       "id": 5,
@@ -34,47 +34,47 @@
     {
       "id": 6,
       "model": "약지아비",
-      "content": "So, tragically, this humble gallery is yet to taste the piquancy of an unbiased critique."
+      "content": "Vì thế, thật đáng tiếc vì nơi đây vẫn chưa từng được nếm trải cái dư vị cay nồng của một lời bình phẩm khách quan."
     },
     {
       "id": 7,
       "model": "약지아비",
-      "content": "Perhaps you could be my first?"
+      "content": "Có lẽ các vị đây sẽ là những người đầu tiên chăng?"
     },
     {
       "id": 8,
       "model": "싱클레어",
-      "content": "... *gag*"
+      "content": "... *ọe*"
     },
     {
       "id": 9,
       "model": "약지아비",
-      "content": "Ah, I see that this piece here has captured your interest."
+      "content": "À, có vẻ như tác phẩm này đã thu hút sự chú ý của cậu"
     },
     {
       "id": 10,
       "model": "약지아비",
-      "content": "They were all people who have left me with such striking inspirations."
+      "content": "Họ đều là những con người đã để lại cho ta nguồn cảm hứng mãnh liệt."
     },
     {
       "id": 11,
       "model": "약지아비",
-      "content": "Loneliness, anxiety, weakness... Observe these raw facets of suffering—the inevitable state of existence that is most fittingly human."
+      "content": "Cô độc,bất an,yếu đuối... Hãy chiêm ngưỡng những phương diện thô sơ của khổ đau—trạng thái tất yếu của tồn tại, cũng là thứ phù hợp với con người hơn bất cứ điều gì."
     },
     {
       "id": 12,
       "model": "약지아비",
-      "content": "Please direct your attention to this frontmost figure. You would be impressed to hear how those hands refused to let go of the partner's, even as I placed them atop this pedestal."
+      "content": "Xin hãy hướng ánh nhìn tới hình thể phía trước. Hẳn các vị sẽ ấn tượng khi biết đôi tay ấy đã không chịu buông ra khỏi người kia, ngay cả khi ta đặt họ lên bệ này."
     },
     {
       "id": 13,
       "model": "약지아비",
-      "content": "An unbreakable bond that remains unsevered, even as death comes to bear the subject away in its gentle embrace... I find such values utterly noble."
+      "content": "Một mối lương duyên chẳng thể đứt đoạn, ngay cả khi cái chết nhẹ nhàng ôm lấy họ… Ta thấy những giá trị như thế thật cao quý."
     },
     {
       "id": 14,
       "model": "약지아비",
-      "content": "It would indeed have been a waste to let that precious little moment slip away, so I endeavored to preserve every second of it... down to the smallest capillaries, muscle tissues, and the quivering thereout."
+      "content": "Sẽ thật lãng phí nếu để khoảnh khắc quý giá ấy trôi qua nên ta đã dốc sức bảo tồn từng giây một… đến tận những mao mạch nhỏ nhất, từng thớ cơ và cả những rung động còn sót lại."
     },
     {
       "id": 15,
@@ -84,27 +84,27 @@
     {
       "id": 16,
       "model": "싱클레어",
-      "content": "Miss Alyssa...?"
+      "content": "Cô Alyssa...?"
     },
     {
       "id": 17,
       "model": "약지아비",
-      "content": "Perspective... has a way of transforming art, as the state of one's heart alters the evocative qualities of a piece."
+      "content":"Góc nhìn... có cách riêng để biến đổi nghệ thuật, khi trạng thái con tim làm thay đổi những gì một tác phẩm gợi lên."
     },
     {
       "id": 18,
       "model": "약지아비",
-      "content": "So please, please do take your time as you tour through my gallery. Tell me how it all appears in your eyes—"
+      "content": "Vì thế, xin cứ thong thả tham quan phòng trưng bày của ta. Hãy nói cho ta biết mọi thứ trông ra sao trong mắt các vị—"
     },
     {
       "id": 19,
       "model": "알리사",
-      "content": "My eyes...?"
+      "content": "Trong mắt tao ư...?"
     },
     {
       "id": 20,
       "model": "알리사",
-      "content": "I'd rather gouge out my own eyeballs, you murdering fuck...!"
+      "content": "Tao thà móc con mẹ mắt tao ra còn hơn là xem mấy cái rác phẩm của bọn lồn sát nhân chúng mày...!"
     }
   ]
 }

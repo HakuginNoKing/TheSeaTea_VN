@@ -1,652 +1,1078 @@
-{
-  "dataList": [
-    {
-      "id": 0,
-      "content": "<color=#ffef23>The night approacheth with great haste;</color>"
-    },
-    {
-      "id": 1,
-      "content": "<color=#ffef23>Yet thou shalt hew open a path, cleaving the shadows in twain,</color>"
-    },
-    {
-      "id": 2,
-      "content": "<color=#ffef23>With the blessings and approval of thy family of which there is no equal,</color>"
-    },
-    {
-      "id": 3,
-      "content": "<color=#ffef23>Challenge and vanquish all things perilous,</color>"
-    },
-    {
-      "id": 4,
-      "content": "<color=#ffef23>And at last—reach true happiness;</color>"
-    },
-    {
-      "id": 5,
-      "content": "<color=#ffef23>Thus how indubitable,</color>"
-    },
-    {
-      "id": 6,
-      "content": "<color=#ffef23>The magnificence with which mine ingenious adventures of to-day shall shine.</color>"
-    },
-    {
-      "id": 7,
-      "content": "Which is... our adventure, as well."
-    },
-    {
-      "id": 8,
-      "content": "You remember the words, right? A Fixer must maintain a head clear of corruption, speech free of deceit, and conduct guided by clemency."
-    },
-    {
-      "id": 9,
-      "content": "Show courage in adventure, and bear pain in suffering."
-    },
-    {
-      "id": 10,
-      "content": "And pray, forget not the mercy for the downtrodden..."
-    },
-    {
-      "id": 11,
-      "content": "... and last but not least..."
-    },
-    {
-      "id": 12,
-      "content": "... Pursue your dream, even if it means wagering your life in the chase."
-    },
-    {
-      "id": 13,
-      "content": "Should you ever fail to stand by even one of these tenets..."
-    },
-    {
-      "id": 14,
-      "content": "I’ll smack you guys upside the head myself."
-    },
-    {
-      "id": 15,
-      "content": "Steel yourself and always, always keep moving forward."
-    },
-    {
-      "id": 16,
-      "content": "<color=#ffef23>Is that not...</color>"
-    },
-    {
-      "id": 17,
-      "content": "<color=#ffef23>... a threat most unfair?</color>"
-    },
-    {
-      "id": 18,
-      "place": "P Corp. WARP train platform",
-      "model": "돈키호테",
-      "content": "Manager Esquire... how unfair of thee...!"
-    },
-    {
-      "id": 19,
-      "model": "단테",
-      "content": "<…….>"
-    },
-    {
-      "id": 20,
-      "model": "돈키호테",
-      "content": "Most unfair, I say...!!!"
-    },
-    {
-      "id": 21,
-      "model": "단테",
-      "content": "<What is it this time...?>"
-    },
-    {
-      "id": 22,
-      "model": "돈키호테",
-      "content": "For once have I believed that 'twas my time to shine...!!"
-    },
-    {
-      "id": 23,
-      "model": "돈키호테",
-      "content": "Much did I wish to be the one to pull off the final flourish in its deserved splendor...!"
-    },
-    {
-      "id": 24,
-      "model": "돈키호테",
-      "content": "'Twas my chance to mark my name in the newspapersuhuuhhh...!!!"
-    },
-    {
-      "id": 25,
-      "model": "단테",
-      "content": "<…….>"
-    },
-    {
-      "id": 26,
-      "content": "Returning to P Corp.'s WARP train Station seemed to always remind Don Quixote of our last misadventure. She'd repeated that exact same complaint a few times by now."
-    },
-    {
-      "id": 27,
-      "model": "돈키호테",
-      "content": "Hooh...? Wherefore dost thou make an expression of such great dourness, Manager Esquire...?"
-    },
-    {
-      "id": 28,
-      "model": "단테",
-      "content": "<I don't even have a face, let alone an expression...>"
-    },
-    {
-      "id": 29,
-      "model": "돈키호테",
-      "content": "How untrue, how untrue! Dost thou not see?"
-    },
-    {
-      "id": 30,
-      "model": "돈키호테",
-      "content": "All things blessed with existence has heart! Even the little critters, and indeed, even the blades of grass which most people bother not to linger even a fleeting thought upon! Forsooth, an existence of a heart necessitates an 'expression' wouldst thou not say?"
-    },
-    {
-      "id": 31,
-      "model": "돈키호테",
-      "content": "That is to say, we mustn't let the strength of the body be the scale with which we judge one's measure; thus persevere, let only thy unbending heart be the tool with which thou dispensest justice! Hark, hark!"
-    },
-    {
-      "id": 32,
-      "model": "히스클리프",
-      "content": "Ugh... Right, out with it. Who encouraged the lass this time?"
-    },
-    {
-      "id": 33,
-      "model": "돈키호테",
-      "content": "Hearken unto me, Manager Esquiiiiiiiiiirrrrreeeehhhh?"
-    },
-    {
-      "id": 34,
-      "place": -1,
-      "content": "Some time ago, in the freight car of the WARP train..."
-    },
-    {
-      "id": 35,
-      "place": "Aboard Mephistopheles, Past",
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "……."
-    },
-    {
-      "id": 36,
-      "model": "단테",
-      "content": "<D-Don Quixote, hey? Can you hear me? S-say something...>"
-    },
-    {
-      "id": 37,
-      "content": "Don Quixote regards me silently."
-    },
-    {
-      "id": 38,
-      "content": "... No. That's... some eldritch being, who I can't help but wish is Don Quixote... gazing at me."
-    },
-    {
-      "id": 39,
-      "content": "She opens her mouth. My instinct is screaming at me to not listen to her. But..."
-    },
-    {
-      "id": 40,
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "……."
-    },
-    {
-      "id": 41,
-      "model": "단테",
-      "content": "<D-Don Quixote...>"
-    },
-    {
-      "id": 42,
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "……."
-    },
-    {
-      "id": 43,
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "... Has the... ... ended?"
-    },
-    {
-      "id": 44,
-      "model": "단테",
-      "content": "<…….>"
-    },
-    {
-      "id": 45,
-      "model": "단테",
-      "content": "<No...>"
-    },
-    {
-      "id": 46,
-      "model": "단테",
-      "content": "<I don't... think it's... ended...>"
-    },
-    {
-      "id": 47,
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "... Is that so."
-    },
-    {
-      "id": 48,
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "Rocinante, to me..."
-    },
-    {
-      "id": 49,
-      "model": "실루엣돈키호테",
-      "teller": "Don Quixote?",
-      "title": "???",
-      "content": "... I beseech you."
-    },
-    {
-      "id": 50,
-      "content": "I don't know if I gave her the right answer."
-    },
-    {
-      "id": 51,
-      "content": "Though my answer was an almost instinctual relay of a thought that manifested in my head, Don Quixote closes her eyes upon hearing my reply."
-    },
-    {
-      "id": 52,
-      "content": "As though drifting away into a gentle, pleasant dream."
-    },
-    {
-      "id": 53,
-      "content": "And I carefully slip the ragged pair of running shoes she called Rocinante onto her feet."
-    },
-    {
-      "id": 54,
-      "content": "And I make a silent wish."
-    },
-    {
-      "id": 55,
-      "content": "Let her blood-red eyes never, ever open again."
-    },
-    {
-      "id": 56,
-      "place": "P Corp. WARP train platform Past",
-      "model": "돈키호테",
-      "content": "……."
-    },
-    {
-      "id": 57,
-      "model": "돈키호테",
-      "content": "…Hm?"
-    },
-    {
-      "id": 58,
-      "model": "돈키호테",
-      "content": "Arriv... have we arrived?"
-    },
-    {
-      "id": 59,
-      "model": "돈키호테",
-      "content": "Hunnhhh... FIE!!! What devilry is this?! Whither hath the villainous Bloodfiend gone?"
-    },
-    {
-      "id": 60,
-      "model": "단테",
-      "content": "<Don Quixote…>"
-    },
-    {
-      "id": 61,
-      "model": "돈키호테",
-      "content": "... Didst thou strike down the cur?!?!"
-    },
-    {
-      "id": 62,
-      "place": "P Corp. WARP train platform",
-      "content": "And, back to present..."
-    },
-    {
-      "id": 63,
-      "model": "로쟈",
-      "content": "I kinda feel like we all missed out on something cool. Wish I was there with Faust and Dante when it all went down to see how you guys managed to kill that guy, y'know?"
-    },
-    {
-      "id": 64,
-      "model": "오티스",
-      "content": "Let's not leave a certain someone out of the story, hmm? She was there as well, though she embarrassingly passed out like a coward in front of that Bloodfiend. The shame of Limbus company, I say."
-    },
-    {
-      "id": 65,
-      "model": "료슈",
-      "content": "S.O.L.C. Pathetic..."
-    },
-    {
-      "id": 66,
-      "model": "히스클리프",
-      "content": "... C'mon. We all passed out too, didn't we?"
-    },
-    {
-      "id": 67,
-      "model": "돈키호테",
-      "content": "Hnnnnngggghhhh...!"
-    },
-    {
-      "id": 68,
-      "model": "오티스",
-      "content": "I suppose I should have been there to take the reins of the Sinners."
-    },
-    {
-      "id": 69,
-      "model": "싱클레어",
-      "content": "Were you that scared of that Bloodfiend, Don Quixote...? That's okay. I understand how you feel."
-    },
-    {
-      "id": 70,
-      "model": "돈키호테",
-      "content": "Hooah... A true hero standeth still and calm, unmoving in the face of such base mockery...!"
-    },
-    {
-      "id": 71,
-      "model": "이스마엘",
-      "content": "I agree, Rodya. I do feel like we missed out on something big."
-    },
-    {
-      "id": 72,
-      "model": "이스마엘",
-      "content": "Because when we got there in the aftermath, all we saw was a very confused-looking Dante standing over the Bloodfiend's... exploded... melted... parts."
-    },
-    {
-      "id": 73,
-      "model": "단테",
-      "content": "<Huh? I-I was...? Standing? Confused? Was I?>"
-    },
-    {
-      "id": 74,
-      "model": "돈키호테",
-      "content": "Forsooth! Why didst thou not wake me?! I would have even forgiven thee for slapping my cheeks upside-down—"
-    },
-    {
-      "id": 75,
-      "model": "싱클레어",
-      "content": "So... what actually happened in there?"
-    },
-    {
-      "id": 76,
-      "model": "단테",
-      "content": "<I-I already told you guys earlier, didn't I?>"
-    },
-    {
-      "id": 77,
-      "model": "이스마엘",
-      "content": "What?"
-    },
-    {
-      "id": 78,
-      "model": "이스마엘",
-      "content": "You just trailed off with a \"That's... uh... Y'know...\" until we changed the subject. What are you talking about?"
-    },
-    {
-      "id": 79,
-      "model": "오티스",
-      "content": "Executive Manager, perhaps you were in a similar state of explosive delirium to the one you experienced earlier?! I am referring to the time when your head burst into flames!"
-    },
-    {
-      "id": 80,
-      "model": "단테",
-      "content": "<Oh, n-no, it's, uh...>"
-    },
-    {
-      "id": 81,
-      "content": "Outis began glaring at me warily as though my clock—head—was about to explode at any moment."
-    },
-    {
-      "id": 82,
-      "model": "단테",
-      "content": "<That... didn't happen.>"
-    },
-    {
-      "id": 83,
-      "model": "로쟈",
-      "content": "\"That didn't happen\", huh...?"
-    },
-    {
-      "id": 84,
-      "model": "로쟈",
-      "content": "Well, if ya won't talk, then~ I turn to Miss Faust, our second eyewitness! Can I get some statements from you, madam?"
-    },
-    {
-      "id": 85,
-      "content": "Rodya asks confidently, still in the mood to play detective."
-    },
-    {
-      "id": 86,
-      "model": "파우스트",
-      "content": "Faust does not have any information she deems necessary to share at the moment."
-    },
-    {
-      "id": 87,
-      "model": "로쟈",
-      "content": "Gotcha, then right back to you, witness Dante—"
-    },
-    {
-      "id": 88,
-      "model": "베르길리우스",
-      "content": "Listen up. I have an important announcement to make, so pay close attention."
-    },
-    {
-      "id": 89,
-      "content": "... I have no idea if it was a coincidence or not, but..."
-    },
-    {
-      "id": 90,
-      "content": "... Vergilius stepped in at just the right moment to divert the Sinners' away from me."
-    },
-    {
-      "id": 91,
-      "model": "베르길리우스",
-      "content": "As you are all well aware, we have been contracted by P Corp to work on a case here."
-    },
-    {
-      "id": 92,
-      "model": "베르길리우스",
-      "content": "... Hm. I suppose we've done this song and dance enough times for you to know what's coming."
-    },
-    {
-      "id": 93,
-      "model": "히스클리프",
-      "content": "Right, right. I 'spose we'll be havin' a scuffle, song, dance, whatever the higher-up toffs want with Distortions or Abnormalities or what have you. Did I get that right?"
-    },
-    {
-      "id": 94,
-      "model": "돈키호테",
-      "content": "Aha! And 'tis a quest that leads us to lay claim upon another Golden Bough in our hands, is it not?!"
-    },
-    {
-      "id": 95,
-      "content": "Don Quixote replies, brimming with excitement."
-    },
-    {
-      "id": 96,
-      "model": "베르길리우스",
-      "content": "Yes. Well, if the two of you were able to catch on that quick, then I don't suppose any further elaboration is necessary."
-    },
-    {
-      "id": 97,
-      "model": "베르길리우스",
-      "content": "However, this operation will be somewhat..."
-    },
-    {
-      "id": 98,
-      "model": "베르길리우스",
-      "content": "... No, let me correct myself. This operation will be 'drastically' different from anything you have done so far. It may be one of our most... bothersome missions."
-    },
-    {
-      "id": 99,
-      "model": "이스마엘",
-      "content": "Well... when hasn't it been like that?"
-    },
-    {
-      "id": 100,
-      "model": "이스마엘",
-      "content": "I guess it would be pretty 'bothersome' to have to tag along with a group that's two, three times larger than our own, though. But..."
-    },
-    {
-      "id": 101,
-      "model": "파우스트",
-      "content": "The Sinners' intuition appears to be growing sharper by the day."
-    },
-    {
-      "id": 102,
-      "model": "이스마엘",
-      "content": "Oh... are we... actually?"
-    },
-    {
-      "id": 103,
-      "model": "이스마엘",
-      "content": "You know what? I think I'm just going to... keep these guesses to myself from now on."
-    },
-    {
-      "id": 104,
-      "model": "베르길리우스",
-      "content": "It's not something that can be negotiated. Well, isn't it better to join a group three times our size rather than to oppose it?"
-    },
-    {
-      "id": 105,
-      "model": "오티스",
-      "content": "Will this be a joint operation, then? Who will we be working with?"
-    },
-    {
-      "id": 106,
-      "model": "그레고르",
-      "content": "Mmm... can't say I have the fondest memories of... joint operations."
-    },
-    {
-      "id": 107,
-      "model": "이상",
-      "content": "Memories of pain, if you will."
-    },
-    {
-      "id": 108,
-      "model": "단테",
-      "content": "<…….>"
-    },
-    {
-      "id": 109,
-      "content": "Our mission at K Corp. was our first and last experience with a 'joint operation'."
-    },
-    {
-      "id": 110,
-      "model": "로쟈",
-      "content": "Eugh, I still vividly remember watching Meursault's arm flyin' off, smacking against a pillar, and squelching onto the floor..."
-    },
-    {
-      "id": 111,
-      "model": "뫼르소",
-      "content": "A more accurate recounting of the event would have included the fact that my scapula was also forcibly separated from my torso."
-    },
-    {
-      "id": 112,
-      "model": "로쟈",
-      "content": "Can't we just keep this between us? The other guys'll just get in our way and screw everything up..."
-    },
-    {
-      "id": 113,
-      "model": "오티스",
-      "content": "I can't believe I'm saying this, but... I strongly agree with that one."
-    },
-    {
-      "id": 114,
-      "model": "베르길리우스",
-      "content": "How presumptuous of you all."
-    },
-    {
-      "id": 115,
-      "model": "베르길리우스",
-      "content": "You'd do well to remember that you are not the only team coming into this operation harboring such arrogant thoughts."
-    },
-    {
-      "id": 116,
-      "model": "베르길리우스",
-      "content": "This contract is, after all, an Open Contract posted by the Hana Association, the Association overlooking the operations of Fixers—"
-    },
-    {
-      "id": 117,
-      "content": "Vergilius stopped himself, noticing an ominous aura from one of the Sinners."
-    },
-    {
-      "id": 118,
-      "model": "돈키호테",
-      "content": "HAAH—"
-    },
-    {
-      "id": 119,
-      "content": "There stood Don Quixote, practically vibrating with excitement..."
-    },
-    {
-      "id": 120,
-      "model": "베르길리우스",
-      "content": "... Someone, gag Don Quixote. At your earliest convenience."
-    },
-    {
-      "id": 121,
-      "model": "오티스",
-      "content": "Allow me."
-    },
-    {
-      "id": 122,
-      "model": "돈키호테",
-      "content": "Uoogh! Outi—mmph! Mmph!"
-    },
-    {
-      "id": 123,
-      "model": "베르길리우스",
-      "content": "... Anyway. This means that our colleagues joining this operation won't be any ragtag bands of Fixers from some alleyway Office no one's ever heard of. It is very likely that Fixers from somewhat established Associations will be joining us."
-    },
-    {
-      "id": 124,
-      "model": "돈키호테",
-      "content": "MMMPH!! MMH! MMH! MMH! MMH!"
-    },
-    {
-      "id": 125,
-      "model": "오티스",
-      "content": "You...! Stop wriggling your lips!"
-    },
-    {
-      "id": 126,
-      "content": "I am so glad that Outis was here to stop Don Quixote from exploding into joy."
-    },
-    {
-      "id": 127,
-      "content": "Because if she hadn't, we'd be drawing the attention of every single person in a sizable radius around us."
-    },
-    {
-      "id": 128,
-      "model": "히스클리프",
-      "content": "Right. So what kind of monster are we dealin' with this time?"
-    },
-    {
-      "id": 129,
-      "model": "료슈",
-      "content": "More than that— How do they want it done?"
-    },
-    {
-      "id": 130,
-      "model": "싱클레어",
-      "content": "You're talking like some shady Backstreets Fixer..."
-    },
-    {
-      "id": 131,
-      "content": "Vergilius looked up just as Heathcliff asked his question."
-    },
-    {
-      "id": 132,
-      "model": "베르길리우스",
-      "content": "Further details..."
-    },
-    {
-      "id": 133,
-      "model": "베르길리우스",
-      "content": "... will be shared by our client, who graces us with her timely arrival."
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "content":"<color=#ffef23>Màn đêm vội vã buông xuống;<\/color>",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "content":"<color=#ffef23>Dẫu vậy, ngươi vẫn mở đường dẫn lối, cắt phăng đi bóng tối trước mắt,<\/color>",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "content":"<color=#ffef23>Sánh vai ngươi sẽ là lời chúc phúc từ gia đình trân quý nhất,<\/color>",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "content":"<color=#ffef23>Hãy đương đầu và khuất phục mọi hiểm hoạ trước mắt,<\/color>",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":4,
+                "content":"<color=#ffef23>Để rồi rốt cuộc—nắm lấy trong tay niềm hạnh phúc thực sự;<\/color>",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":5,
+                "content":"<color=#ffef23>Và thế là chẳng còn nghi ngờ chi nữa,<\/color>",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":6,
+                "content":"<color=#ffef23>Những cuộc phiêu lưu vĩ đại sắp tới đây cũng sẽ thật tuyệt vời biết bao.<\/color>",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "content":"Cũng chính là... cuộc phiêu lưu của chúng ta vậy.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "content":"Còn nhớ chứ? Một Fixer là phải quang liêm chính trực, không gian dối, và hành động xuất phát từ lòng bao dung.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":9,
+                "content":"Dũng cảm mà cất bước trên chuyến hành trình, chịu đựng mọi cơn đau thống khổ.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":10,
+                "content":"Và đừng quên rủ lòng thương, cầu nguyện cho những kẻ bần cùng...",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":11,
+                "content":"... và, cũng đừng quên...",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":12,
+                "content":"... Đuổi theo ước mơ kể cả khi phải đánh cược bằng cả mạng sống.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":13,
+                "content":"Chỉ cần làm sai một trong những nguyên tắc ấy thôi...",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "content":"Là ta sẽ tự tay dạy cho mấy người một trận đó.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "content":"Ngẩng cao đầu lên. Phải luôn luôn, luôn luôn tiến về phía trước.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":16,
+                "content":"<color=#ffef23>Lời đe dọa đó thật là...<\/color>",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":17,
+                "content":"<color=#ffef23>... bất công quá đấy.<\/color>",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":18,
+                "content":"Quản Lý Thân Sĩ... Ngài thật quá là bất công đi mà...!",
+                "place":"Sân tàu WARP ở Tập Đoàn P",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":19,
+                "content":"<........>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":20,
+                "content":"Rất, rất là bất công luôn...!!!",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":21,
+                "content":"<Lại làm sao nữa...?>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "content":"Ta cứ tưởng cuối cùng, cuối cùng cũng đã được toả sáng rồi...!!!",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "content":"Ta đã khao khát được làm một cú hạ màn thật hoành tráng cho đúng nghĩa kia mà...!",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "content":"Suýt chút nữa là được lên báo rồiiiiiii hưhưhư...!!!",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":25,
+                "content":"<.......>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "content":"Có vẻ từ lúc bước xuống Ga tàu WARP Tập Đoàn P là Don Quixote lại nhớ về sự cố lúc trước. Cô ấy càm ràm mãi như vậy suốt từ nãy đến giờ rồi.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "content":"Hở...? Quản Lý Thân Sĩ à, hà cớ gì mà ngài lại trông thiểu não thế kia?",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":28,
+                "content":"<Mặt tôi còn chẳng có, huống hồ chi phô ra biểu cảm để mọi người thấy chứ...>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":29,
+                "content":"Sai rồi, sai rồi! Ngài chưa thấu sao?",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "content":"Mọi vật sinh ra đều có trái tim! Kể cả những loài sâu bọ bé con, kể cả ngọn cỏ bên đường chẳng ai thèm đoái hoài đến! Thực vậy, há chẳng phải sự tồn tại của trái tim sẽ cần tới 'biểu cảm' sao?",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "content":"Cũng chính vì lẽ ấy mà ta chớ nên đánh giá con người bằng sức mạnh thuần túy; phải kiên cường lên, một trái tim bền bỉ mới là công cụ đúng đắn nhất để thực thi công lý! Nghe chưa, nghe chưa!",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "content":"Ựa... Nào, đầu thú đi. Đứa nào kích động con nhãi này đấy?",
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":33,
+                "content":"Nghe ta đi mà, Quản Lý Thââânnnnn Síĩĩĩĩ ớiiiiii?",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":34,
+                "content":"Ít lâu trước, trong toa hàng hóa của tàu WARP...",
+                "place":-1,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":35,
+                "content":"…….",
+                "place":"Ở trên chiếc Mephistopheles, Quá Khứ",
+                "model":"실루엣돈키호테",
+                "teller":"Don Quixote?",
+                "title":"???"
+            },
+            {
+                "id":36,
+                "content":"<Này, D-Don Quixote? Có nghe thấy tôi không? N-nói gì đó đi chứ...>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "content":"Don Quixote lặng lẽ nhìn tôi.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "content":"... Không. Đó là... một thực thể kì quái mà tôi cầu mong là Don Quixote... đang lườm tôi.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "content":"Cô ấy mở miệng. Bản năng của tôi đang gào thét rằng không được nghe mọi lời phát ra từ khuôn miệng đó. Nhưng...",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":40,
+                "content":"…….",
+                "place":null,
+                "model":"실루엣돈키호테",
+                "teller":"Don Quixote?",
+                "title":"???"
+            },
+            {
+                "id":41,
+                "content":"<D-Don Quixote...>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "content":"…….",
+                "place":null,
+                "model":"실루엣돈키호테",
+                "teller":"Don Quixote?",
+                "title":"???"
+            },
+            {
+                "id":43,
+                "content":"... đã kết thúc chưa?",
+                "place":null,
+                "model":"실루엣돈키호테",
+                "teller":"Don Quixote?",
+                "title":"???"
+            },
+            {
+                "id":44,
+                "content":"<.......>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "content":"<Không...>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "content":"<Có lẽ... vẫn... chưa kết thúc đâu...>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":47,
+                "content":"...Vậy sao.",
+                "place":null,
+                "model":"실루엣돈키호테",
+                "teller":"Don Quixote?",
+                "title":"???"
+            },
+            {
+                "id":48,
+                "content":"Ta khẩn cầu ngươi...",
+                "place":null,
+                "model":"실루엣돈키호테",
+                "teller":"Don Quixote?",
+                "title":"???"
+            },
+            {
+                "id":49,
+                "content":"... mang Rocinante về đây cho ta.",
+                "place":null,
+                "model":"실루엣돈키호테",
+                "teller":"Don Quixote?",
+                "title":"???"
+            },
+            {
+                "id":50,
+                "content":"Tôi không biết liệu mình đã cho cô ấy câu trả lời đúng hay chưa.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":51,
+                "content":"Dù tôi chỉ theo bản năng mà thuật lại ngay lập tức ý nghĩ nảy ra trong đầu, Don Quixote vẫn lắng nghe lời phản hồi và chậm rãi khép mắt lại.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "content":"Như thể đang chìm dần vào một giấc ngủ êm đềm và bình yên.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "content":"Rồi tôi cẩn thận xỏ đôi giày giày chạy bộ cũ nát mang tên Rocinante vào chân cô ấy.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "content":"Rồi tôi thầm ước.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "content":"Rằng đôi mắt đỏ như máu ấy sẽ không xuất hiện thêm lần nào nữa.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "content":"…….",
+                "place":"Sân tàu WARP ở Tập Đoàn P, Quá Khứ",
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "content":"...Hở?",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "content":"Đã... đã đến nơi chưa?",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "content":"Hảaa... HỠI ÔI!!! Thứ ma thuật quỷ quái gì đây?! Bè lũ Huyết Quỷ độc ác biến đi đâu mất rồi?",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "content":"<Don Quixote...>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "content":"... Ngài đã quật ngã được tên hèn hạ đó sao?!?!",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "content":"Và rồi, quay trở lại hiện tại...",
+                "place":"Sân tàu WARP ở Tập Đoàn P",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "content":"Hình như tụi mình lỡ chuyện vui rồi. Cũng tò mò ghê nha. Xoay xở kiểu gì mà Faust và Dante giết được tên đó luôn vậy?",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "content":"Không nên gạt một người nào đó ra bên lề câu chuyện chứ, nhỉ? Chị ta cũng đứng sờ sờ ra đó, thế rồi cũng chỉ biết mài mặt trên nền đất như một tên hèn dưới chân gã Huyết Quỷ. Phải nói, thật là một nỗi ô nhục của công ty Limbus.",
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "content":"N.O.N.C.C.T.L. Thật thảm hại...",
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "content":"... Thôi nào. Cả bọn đều nằm lăn quay ra cả mà.",
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "content":"Hừừừừựựựựựự...!",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "content":"Biết thế thì hôm đó tôi đã nắm đầu chỉ huy hết đám Tội Nhân này rồi.",
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "content":"Don Quixote, cô sợ tên Huyết Quỷ đó dữ vậy sao...? Không sao đâu, tôi hiểu mà.",
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "content":"Hự... Người anh hùng phải tịnh tâm vững dạ, lòng không được dao động bởi những lời gièm pha nhục mạ...!",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "content":"Rodya nói đúng đấy. Tôi cũng có linh cảm là mình đã lỡ mất một chuyện quan trọng nào đó.",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "content":"Lúc cả bọn đến nơi thì chuyện đã xong rồi còn đâu, chỉ có mỗi mình Dante đứng thộn mặt ra giữa đống thịt... bầy nhầy... nát bét... của con Huyết Quỷ.",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "content":"<Hở...? T-tôi ớ...? Đứng hả? Thộn mặt á? Trông tôi như thế thật à?>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "content":"Thực là! Sao không có ai gọi ta hết vậy?! Có treo ngược ta rồi tát bồm bộp thì ta cũng có để bụng đâu mà—",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "content":"Thế... rốt cuộc thì chuyện gì đã xảy ra vậy?",
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "content":"<Thì lúc trước tôi đã kể hết rồi còn gì?>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "content":"Hả?",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "content":"Ngài cứ lí nhí \\“Ừ thì... ờm... là thế đó...\\” xong chỉ chờ đến lúc mọi người chuyển chủ đề cái là thôi luôn. Đã kể được gì đâu?",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "content":"Thưa Quản Lý Điều Hành, có khi nào ngài đã lâm vào trạng thái mê sảng bất chợt như hồi trước chăng?! Cái lần mà đầu ngài bốc lửa cuồn cuộn ấy!",
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "content":"<Ồ, kh-không, chỉ là, ờ...>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "content":"Outis bắt đầu lườm tôi đầy nghi hoặc như thể cái đầu—đồng hồ—của tôi có thể nổ tung bất cứ lúc nào vậy.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "content":"<Không... phải thế đâu.>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "content":"\\“Không phải thế đâu\\” cơ à...?",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "content":"À rồi, ra vậy, ra là ngài không muốn hợp tác~ Tôi sẽ hỏi cô Faust, nhân chứng thứ hai của chúng ta! Quý cô có lời phát biểu nào không ạ?",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "content":"Rodya tự tin chất vấn, vẫn còn hăng say chơi trò thám tử phá án lắm.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "content":"Faust không sở hữu bất kì thông tin đáng chia sẻ nào vào lúc này cả.",
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "content":"Ra thế. Vậy giờ lại đến lượt ngài, nhân chứng Dante—",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "content":"Chú ý. Ta có thông báo quan trọng nên là mấy anh chị tập trung hết lên đây.",
+                "place":null,
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "content":"... Chẳng biết có phải trùng hợp hay không, nhưng...",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "content":"... Vergilius đã xen vào đúng lúc để giải vây cho tôi.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "content":"Chắc là mọi người cũng biết cả rồi, Tập Đoàn P đã thuê chúng ta xử lý một vụ việc.",
+                "place":null,
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "content":"... Hờ. Tới giờ này thì khỏi nghe nhạc cũng đoán được chương trình rồi ha?",
+                "place":null,
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "content":"Rồi, rồi. Vậy là cả bọn lại chuẩn bị vật lộn, nhảy đầm, mua vui với đám Biến Dị và Dị Thể như ý mấy sếp bự. Tao nói có phải không?",
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "content":"À há! Và đây phải chăng cũng là một ủy thác mở đường cho chúng ta đoạt lấy chiếc Cành Vàng tiếp theo?!",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "content":"Don Quixote đáp lại, lòng tràn đầy hưng phấn.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "content":"Ờ. Tới hai cô cậu mà còn lên nhạc nhanh vậy thì ta không cần giải thích gì thêm nữa.",
+                "place":null,
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "content":"Nhưng, công việc kỳ này sẽ có hơi...",
+                "place":null,
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "content":"... À không, để ta nói lại. Tính chất chiến dịch kỳ này sẽ khác “hoàn toàn”. Có thể coi nó là một trong những nhiệm vụ... rắc rối nhất mà chúng ta từng làm.",
+                "place":null,
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "content":"Thì... từ trước tới nay vốn là thế mà?",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "content":"Mà cũng có khi “rắc rối” hơn thật, vì lần này ta phải phối hợp với một nhóm lớn hơn đâu đó gấp đôi, ba lần chúng ta kia. Nhưng...",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":101,
+                "content":"Trực giác của các Tội Nhân đang càng ngày càng nhạy bén hơn.",
+                "place":null,
+                "model":"파우스트",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "content":"Hở... nhạy bén hơn... thật hả?",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "content":"Thôi được rồi, chắc là từ giờ trở đi tôi cứ... đoán thầm trong đầu thì hơn vậy.",
+                "place":null,
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":104,
+                "content":"Cái này không đàm phán được. Cơ mà, ta thấy ba cây chụm lại nên hòn núi cao đấy.",
+                "place":null,
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "content":"Quân ta sẽ triển khai hiệp đồng tác chiến sao? Vậy các binh đoàn còn lại là những ai?",
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "content":"Ừm... kỉ niệm trong lòng tôi về mấy cái hiệp đồng tác chiến này... khó nói lắm.",
+                "place":null,
+                "model":"그레고르",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":107,
+                "content":"Ấy là hiệp đồng tan tác mới phải.",
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "content":"<…….>",
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "content":"Nhiệm vụ của chúng tôi tại Tập Đoàn K chính là trải nghiệm đầu tiên và cũng là cuối cùng về “chiến dịch hợp tác”.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "content":"Eo ôi, tôi vẫn còn nhớ như in lúc cánh tay của Meursault bị chặt phăng ra, văng cái vèo vào cột rồi lăn lông lốc xuống nền nhà ấy...",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":111,
+                "content":"Để tường thuật chính xác hơn về vụ việc, nên bổ sung chi tiết xương vai của tôi bị rứt mạnh khỏi thân.",
+                "place":null,
+                "model":"뫼르소",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":112,
+                "content":"Vụ này mình để chìm được không? Kẻo mấy người kia kiểu gì cũng sẽ nhảy vào phá tụi mình cho coi...",
+                "place":null,
+                "model":"로쟈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":113,
+                "content":"Thật không thể tin nổi là tôi sắp phải thốt ra câu này nhưng... tôi hoàn toàn đồng tình với ý kiến vừa rồi.",
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":114,
+                "content":"Mạnh mồm gớm.",
+                "place":null,
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":115,
+                "content":"Nói cho mấy anh chị biết, mấy anh chị không phải là người đầu tiên, cũng không phải là người cuối cùng nghĩ như thế trong đợt hợp tác này đâu.",
+                "place":null,
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":116,
+                "content":"Đằng nào thì đây cũng là một Hợp Đồng Mở do Liên Đoàn chuyên giám sát hoạt động của các Fixer, tức Liên Đoàn Hana, đăng tuyển—",
+                "place":null,
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":117,
+                "content":"Vergilius ngừng lại, đánh mắt về phía điềm gở đang dấy lên giữa nhóm Tội Nhân.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":118,
+                "content":"HAAAAA—",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":119,
+                "content":"Đứng đó chính là Don Quixote, toàn thân run lên bần bật vì phấn khích.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":120,
+                "content":"... Ai đi bịt miệng chị Don Quixote giùm. Càng nhanh càng tốt.",
+                "place":null,
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":121,
+                "content":"Tôi xin xung phong.",
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":122,
+                "content":"Ặccc! Cô Outi—ưm! Ưm ưm ưm!",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":123,
+                "content":"... Quay lại chủ đề chính. Như vậy, những đồng nghiệp của các cô cậu lần này sẽ không phải loại Fixer nửa mùa trong mấy Văn Phòng nằm ở tít xó xỉnh nào đó đâu. Rất có thể là những Fixer đến từ các Hiệp Hội có tiếng nữa đấy.",
+                "place":null,
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":124,
+                "content":"ƯMMM! ƯMM! ƯMM! ƯMM! ƯMM!",
+                "place":null,
+                "model":"돈키호테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":125,
+                "content":"Cái con này...! Bớt ngọ nguậy xem nào!",
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":126,
+                "content":"Thật mừng là có Outis ở đây để ngăn Don Quixote vỡ òa trong sung sướng.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":127,
+                "content":"Bởi nếu không, chúng tôi sẽ thu hút ánh nhìn của mọi cư dân trong bán kính cả chục mét tính từ đây mất.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":128,
+                "content":"Thế kỳ này đấm nhau với con quái nào đây?",
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":129,
+                "content":"Thêm nữa— Chúng muốn trừ khử theo kiểu gì?",
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":130,
+                "content":"Hai người nói chuyện cứ như mấy tên Fixer mờ ám ở Phố Sau ấy...",
+                "place":null,
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":131,
+                "content":"Vergilius lên tiếng ngay khi Heathcliff vừa hỏi xong thắc mắc của mình.",
+                "place":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":132,
+                "content":"Mọi thông tin chi tiết...",
+                "place":null,
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":133,
+                "content":"... sẽ do quý khách vừa mới tới đây giải thích cho các cô cậu.",
+                "place":null,
+                "model":"베르길리우스",
+                "teller":null,
+                "title":null
+            }
+        ]
     }
-  ]
-}
+

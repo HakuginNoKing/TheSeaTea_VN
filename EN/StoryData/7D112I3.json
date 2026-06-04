@@ -1,210 +1,236 @@
-{
-  "dataList": [
+
     {
-      "id": 1,
-      "content": "The powerful deluge of blood rips through the Sinners like blades through paper."
-    },
-    {
-      "id": 2,
-      "model": "산초",
-      "content": "……."
-    },
-    {
-      "id": 3
-    },
-    {
-      "id": 4,
-      "model": "키호테",
-      "content": "What shame."
-    },
-    {
-      "id": 5,
-      "model": "키호테",
-      "content": "You used to make me lances that were much more graceful than this."
-    },
-    {
-      "id": 6,
-      "model": "키호테",
-      "content": "Yet... this holds more than enough power to destroy that feeble timepiece of yours."
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8,
-      "content": "He launches a lance of blood at me with his inhuman strength."
-    },
-    {
-      "id": 9,
-      "content": "I instinctively knew that the spear was to be my demise."
-    },
-    {
-      "id": 10,
-      "content": "And... I couldn't help but avert my eyes from the impending doom."
-    },
-    {
-      "id": 11,
-      "content": "I guess... we never had a chance to begin with..."
-    },
-    {
-      "id": 12,
-      "model": "단테",
-      "content": "<…!>"
-    },
-    {
-      "id": 13,
-      "model": "산초",
-      "content": "Didst thou not say..."
-    },
-    {
-      "id": 14,
-      "content": "I look up at the sudden upbeat, cheerful voice."
-    },
-    {
-      "id": 15,
-      "content": "There stood Sancho, standing tall even as her body was torn by the brutal, sanguine lance."
-    },
-    {
-      "id": 16,
-      "content": "Unbroken and bold, unyielding before the First Kindred's insurmountable might."
-    },
-    {
-      "id": 17,
-      "model": "산초",
-      "content": "... that thou shalt decide the time for me to come to my senses?"
-    },
-    {
-      "id": 18,
-      "content": "It's the same back I always saw scampering toward inevitable trouble whenever something interesting was happening."
-    },
-    {
-      "id": 19,
-      "content": "The same silhouette of the troublemaker who always appeared so small to me."
-    },
-    {
-      "id": 20,
-      "content": "But at this very moment, her familiar and reassuring shadow felt so much larger—infinitely larger as she stood in front of me."
-    },
-    {
-      "id": 21,
-      "content": "So I call to her in a name I never thought I would get another chance to repeat."
-    },
-    {
-      "id": 22,
-      "model": "단테",
-      "content": "<Don... Quixote.>"
-    },
-    {
-      "id": 23,
-      "model": "키호테빛",
-      "content": "It is unfortunate that you now protect them with your back that once shielded me."
-    },
-    {
-      "id": 24,
-      "model": "키호테빛",
-      "content": "... But I am proud that you stopped my lance."
-    },
-    {
-      "id": 25,
-      "model": "키호테빛",
-      "content": "Yet... what will you do now, Sancho?"
-    },
-    {
-      "id": 26,
-      "model": "키호테빛",
-      "content": "Your strength must be spent after such a mighty feat."
-    },
-    {
-      "id": 27,
-      "model": "산초피묻음",
-      "content": "I intend to fight still. This is not the end."
-    },
-    {
-      "id": 28,
-      "model": "키호테빛",
-      "content": "... Even if it is not by my hand, even if it is not this day when your adventure ends..."
-    },
-    {
-      "id": 29,
-      "model": "키호테빛",
-      "content": "... this sickness will inevitably drag you off that steed."
-    },
-    {
-      "id": 30,
-      "content": "I couldn't see Don Quixote's expression from where I was."
-    },
-    {
-      "id": 31,
-      "content": "Even still..."
-    },
-    {
-      "id": 32,
-      "model": "산초피묻음",
-      "content": "I know that."
-    },
-    {
-      "id": 33,
-      "model": "산초피묻음",
-      "content": "Even still."
-    },
-    {
-      "id": 34,
-      "model": "산초피묻음",
-      "content": "... though to some, I may only appear to be playing a character..."
-    },
-    {
-      "id": 35,
-      "model": "산초피묻음",
-      "content": "... though I may never truly reach my destination..."
-    },
-    {
-      "id": 36,
-      "content": "She was incandescent, like a brilliant star twinkling in the night sky."
-    },
-    {
-      "id": 37,
-      "model": "산초피묻음",
-      "content": "... should I persevere to walk the journey of my own choosing..."
-    },
-    {
-      "id": 38,
-      "model": "산초피묻음",
-      "content": "... and continue this tale..."
-    },
-    {
-      "id": 39,
-      "content": "That very brilliance compelled me to reach out and hope."
-    },
-    {
-      "id": 40,
-      "model": "산초피묻음",
-      "content": "Then that shall be my... your dream."
-    },
-    {
-      "id": 41,
-      "content": "Let that star..."
-    },
-    {
-      "id": 42,
-      "content": "... shine ever brighter..."
-    },
-    {
-      "id": 43
-    },
-    {
-      "id": 44,
-      "model": "단테",
-      "content": "<I will light your path.>"
-    },
-    {
-      "id": 45,
-      "model": "단테",
-      "content": "<So don't hesitate. Go—walk the journey of your own choosing.>"
-    },
-    {
-      "id": 46,
-      "model": "산초피묻음",
-      "content": "... I shan't be long."
+        "dataList":[
+            {
+                "id":1,
+                "content":"Dòng máu dồn dập chém xuyên các Tội Nhân như cắt qua mấy tờ giấy vậy.",
+                "model":null
+            },
+            {
+                "id":2,
+                "content":"…….",
+                "model":"산초"
+            },
+            {
+                "id":3,
+                "content":null,
+                "model":null
+            },
+            {
+                "id":4,
+                "content":"Đáng tiếc thật.",
+                "model":"키호테"
+            },
+            {
+                "id":5,
+                "content":"Cây thương mà con từng làm cho ta tinh tế hơn thế này nhiều.",
+                "model":"키호테"
+            },
+            {
+                "id":6,
+                "content":"Nhưng... nhiêu đây cũng đủ sức để đập nát chiếc đồng hồ mỏng manh kia của con.",
+                "model":"키호테"
+            },
+            {
+                "id":7,
+                "content":null,
+                "model":null
+            },
+            {
+                "id":8,
+                "content":"Ông ấy phóng mũi thương máu với uy lực siêu phàm vào tôi.",
+                "model":null
+            },
+            {
+                "id":9,
+                "content":"Tôi lập tức nhận ra mũi thương đó chính là hồi kết của mình.",
+                "model":null
+            },
+            {
+                "id":10,
+                "content":"Và... tôi đành quay mặt đi lảng tránh cái kết đang cận kề.",
+                "model":null
+            },
+            {
+                "id":11,
+                "content":"Có lẽ... ngay từ ban đầu chúng tôi đã chẳng có cơ hội chiến thắng rồi...",
+                "model":null
+            },
+            {
+                "id":12,
+                "content":"<…!>",
+                "model":"단테"
+            },
+            {
+                "id":13,
+                "content":"Chẳng phải người đã nói là...",
+                "model":"산초"
+            },
+            {
+                "id":14,
+                "content":"Tôi ngẩng đầu nhìn nơi phát ra giọng nói đầy huyên náo vui tươi đó.",
+                "model":null
+            },
+            {
+                "id":15,
+                "content":"Sancho hiện ra trước khung cảnh ấy, hiên ngang đứng đó dẫu cho cơ thể bị mũi thương máu đẫm tàn phá cả cơ thể mình.",
+                "model":null
+            },
+            {
+                "id":16,
+                "content":"Kiên cường và bất khuất, không hề chùn bước trước sức mạnh không thể sáng bằng của Thân Quyến Đầu Tiên.",
+                "model":null
+            },
+            {
+                "id":17,
+                "content":"...chính người sẽ quyết định lúc nào con phải thức tỉnh sao?",
+                "model":"산초"
+            },
+            {
+                "id":18,
+                "content":"Chính là tấm lưng luôn xông pha vào những rắc rối không thể tránh khỏi mỗi khi có chuyện thú vị xảy ra.",
+                "model":null
+            },
+            {
+                "id":19,
+                "content":"Hình bóng của kẻ gây rối bé nhỏ mà tôi luôn nhìn thấy.",
+                "model":null
+            },
+            {
+                "id":20,
+                "content":"Thế nhưng ngay khoảnh khắc này đây, bóng lưng dịu dàng và thân quen ấy thật to lớn biết bao—lớn hơn vạn lần tôi đã từng chứng kiến.",
+                "model":null
+            },
+            {
+                "id":21,
+                "content":"Nên tôi mở miệng gọi to cái tên tôi nghĩ rằng bản thân sẽ không bao giờ còn có thể lặp lại được nữa.",
+                "model":null
+            },
+            {
+                "id":22,
+                "content":"<Don... Quixote.>",
+                "model":"단테"
+            },
+            {
+                "id":23,
+                "content":"Thật đáng buồn khi nay con lại che chở cho lũ người kia bằng tấm lưng mà con từng dùng để bảo vệ ta.",
+                "model":"키호테빛"
+            },
+            {
+                "id":24,
+                "content":"... Nhưng ta rất tự hào vì con đã cản ngọn thương của ta lại.",
+                "model":"키호테빛"
+            },
+            {
+                "id":25,
+                "content":"Thế nhưng... giờ đây con sẽ làm gì tiếp, hỡi Sancho?",
+                "model":"키호테빛"
+            },
+            {
+                "id":26,
+                "content":"Con hẳn đã tiêu tốn toàn bộ sức lực cho đòn đánh kiên cường đó.",
+                "model":"키호테빛"
+            },
+            {
+                "id":27,
+                "content":"Con sẽ tiếp tục chiến đấu. Đây chưa phải kết thúc.",
+                "model":"산초피묻음"
+            },
+            {
+                "id":28,
+                "content":"... Dù cho không phải là ngày hôm nay, do chính tay ta mà hành trình của con đi đến hồi kết...",
+                "model":"키호테빛"
+            },
+            {
+                "id":29,
+                "content":"... thì cũng sẽ đến lúc căn bệnh này kéo con rơi khỏi yên ngựa của mình.",
+                "model":"키호테빛"
+            },
+            {
+                "id":30,
+                "content":"Từ vị trí của tôi không thể nào nhìn được biểu cảm của Don Quixote...",
+                "model":null
+            },
+            {
+                "id":31,
+                "content":"Nhưng dẫu vậy...",
+                "model":null
+            },
+            {
+                "id":32,
+                "content":"Con biết chứ.",
+                "model":"산초피묻음"
+            },
+            {
+                "id":33,
+                "content":"Dẫu vậy.",
+                "model":"산초피묻음"
+            },
+            {
+                "id":34,
+                "content":"...dù với một số người, con chỉ đang đóng kịch..",
+                "model":"산초피묻음"
+            },
+            {
+                "id":35,
+                "content":"...dù con có thể sẽ chẳng bao giờ tiến được tới đích...",
+                "model":"산초피묻음"
+            },
+            {
+                "id":36,
+                "content":"Cô ấy thật sáng chói, như ngôi sao rạng rỡ toả sáng khắp bầu trời đêm.",
+                "model":null
+            },
+            {
+                "id":37,
+                "content":"...nếu con quật cường bước đi trên con đường của mình...",
+                "model":"산초피묻음"
+            },
+            {
+                "id":38,
+                "content":"...và tiếp tục câu chuyện này...",
+                "model":"산초피묻음"
+            },
+            {
+                "id":39,
+                "content":"Ánh sáng rực rỡ ấy thôi thúc tôi tiến về phía trước và hy vọng.",
+                "model":null
+            },
+            {
+                "id":40,
+                "content":"Thì đó sẽ là giấc mơ của con...giấc mơ của người.",
+                "model":"산초피묻음"
+            },
+            {
+                "id":41,
+                "content":"Làm ơn hãy cho ngôi sao ấy...",
+                "model":null
+            },
+            {
+                "id":42,
+                "content":"... chiếu sáng rạng ngời hơn đi...",
+                "model":null
+            },
+            {
+                "id":43,
+                "content":null,
+                "model":null
+            },
+            {
+                "id":44,
+                "content":"<Tôi sẽ thắp sáng con đường của cô.>",
+                "model":"단테"
+            },
+            {
+                "id":45,
+                "content":"<Thế nên đừng chần chừ nữa. Tiến lên—bước tiếp con đường tạo nên hành trình của riêng cô đi.>",
+                "model":"단테"
+            },
+            {
+                "id":46,
+                "content":"...Ta sẽ không mất quá lâu đâu.",
+                "model":"산초피묻음"
+            }
+        ]
     }
-  ]
-}
+

@@ -1,347 +1,426 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Aboard Mephistopheles",
-            "model": "싱클레어",
-            "content": "A mysterious case of missing persons in a street shrouded in thick, heavy fog..."
-        },
-        {
-            "id": 1,
-            "model": "싱클레어",
-            "content": "It's... almost as if we're in the middle of some scary urban legend. Not that I’m scared... Not at all. Ha. Ha. Ha. Ha. Ha."
-        },
-        {
-            "id": 2,
-            "model": "그레고르",
-            "content": "Don’t force yourself to laugh, Sinclair."
-        },
-        {
-            "id": 3,
-            "model": "로쟈",
-            "content": "I don't like this at all~ We're this scared so soon after entering the nest?"
-        },
-        {
-            "id": 4,
-            "content": "Everyone seems to be on edge, thanks to the unsettling story we heard earlier."
-        },
-        {
-            "id": 5,
-            "content": "... I know what to do."
-        },
-        {
-            "id": 6,
-            "model": "단테",
-            "content": "<Hey, Heathcliff. That invitation… can you read it out loud for us again?>"
-        },
-        {
-            "id": 7,
-            "content": "It'll be a good idea to remind ourselves of our current mission. Besides, I could use a refresher myself."
-        },
-        {
-            "id": 8,
-            "model": "히스클리프",
-            "content": "Hmph… It’s just an invitation. There ain't anything special about it."
-        },
-        {
-            "id": 9,
-            "content": "The neatly folded invitation Heathcliff produced from his pockets completely betrayed his attempt at appearing aloof. It was folded with such tender care that it almost resembled a neat paper craft. He cleared his throat."
-        },
-        {
-            "id": 10,
-            "model": "히스클리프",
-            "content": "Ahem."
-        },
-        {
-            "id": 11,
-            "content": "Some time later..."
-        },
-        {
-            "id": 12,
-            "model": "히스클리프",
-            "content": "\"... Please, honour this occasion with your presence.\""
-        },
-        {
-            "id": 13,
-            "model": "히스클리프",
-            "content": "\"… With great respect, Nelly.\""
-        },
-        {
-            "id": 14,
-            "model": "로쟈",
-            "content": "And…? And…?"
-        },
-        {
-            "id": 15,
-            "model": "히스클리프",
-            "content": "… Bollocks."
-        },
-        {
-            "id": 16,
-            "model": "히스클리프",
-            "content": "\"Y-you have to be here, Heath. I’ll be waiting. - Cathy\"."
-        },
-        {
-            "id": 17,
-            "model": "그레고르",
-            "content": "Daaamn..."
-        },
-        {
-            "id": 18,
-            "model": "로쟈",
-            "content": "Oho~!"
-        },
-        {
-            "id": 19,
-            "content": "… This wasn’t exactly what I had in mind when I asked him to read that letter."
-        },
-        {
-            "id": 20,
-            "model": "이스마엘",
-            "content": "Ugh... What are we, a party crowd at some dive bar?"
-        },
-        {
-            "id": 21,
-            "model": "로쟈",
-            "content": "Oh, that wasn't what we were going for?"
-        },
-        {
-            "id": 22,
-            "model": "히스클리프",
-            "content": "I knew that this would happen… I ain't even mad."
-        },
-        {
-            "id": 23,
-            "model": "히스클리프",
-            "content": "Besides… all she said is that she’d be waiting. She never said she missed me or 'wanted' to see me."
-        },
-        {
-            "id": 24,
-            "model": "그레고르",
-            "content": "C’mon, bud. Just look at the way she wrote it. Here..."
-        },
-        {
-            "id": 25,
-            "model": "로쟈",
-            "content": "Lemme see, lemme see~"
-        },
-        {
-            "id": 26,
-            "content": "Some Sinners gather in a circle like they’re doing a literary analysis of the invitation letter. Maybe I was worrying too much."
-        },
-        {
-            "id": 27,
-            "model": "싱클레어",
-            "content": "Haha… they’re like school kids opening their first love letters."
-        },
-        {
-            "id": 28,
-            "model": "로쟈",
-            "content": "What, were ya never ever interested in those things, Sinclair?"
-        },
-        {
-            "id": 29,
-            "model": "싱클레어",
-            "content": "I was…! I was… a good, diligent student. The only things I ever cared about were my textbooks and the school lectures!"
-        },
-        {
-            "id": 30,
-            "model": "돈키호테",
-            "content": "Sinclair, thy countenance appeareth to be turning rosy agai—"
-        },
-        {
-            "id": 31,
-            "model": "싱클레어",
-            "content": "For the last time, I said! It’s! Genetics!!!"
-        },
-        {
-            "id": 32,
-            "model": "로쟈",
-            "content": "What about you, Dante?!"
-        },
-        {
-            "id": 33,
-            "model": "로쟈",
-            "content": "O-oh, nevermind..."
-        },
-        {
-            "id": 34,
-            "model": "단테",
-            "content": "<Hey, what’s with that oddly sorry look on your face…?>"
-        },
-        {
-            "id": 35,
-            "model": "뫼르소",
-            "content": "The manager has no need for your sympathy. I am certain that there are those who appreciate their unique appearance."
-        },
-        {
-            "id": 36,
-            "model": "단테",
-            "content": "<…….>"
-        },
-        {
-            "id": 37,
-            "model": "이상",
-            "content": "Is it not… odd?"
-        },
-        {
-            "id": 38,
-            "model": "이스마엘",
-            "content": "What, that someone actually wrote Heathcliff a love letter?"
-        },
-        {
-            "id": 39,
-            "model": "홍루",
-            "content": "Oh my, Yi Sang… that is such a rude thing to say..."
-        },
-        {
-            "id": 40,
-            "model": "이상",
-            "content": "N-no, I had no intention of relaying such crass sentiments to... I—"
-        },
-        {
-            "id": 41,
-            "model": "이스마엘",
-            "content": "Just kidding, Yi Sang. Just kidding. I was actually thinking the same thing."
-        },
-        {
-            "id": 42,
-            "model": "이스마엘",
-            "content": "Since we’re not looking for a Lobotomy Corp. branch of T Corp., since we’re heading to this 'Wuthering Heights' manor instead..."
-        },
-        {
-            "id": 43,
-            "model": "이스마엘",
-            "content": "… I suppose that that’s where we’ll find the Golden Bough."
-        },
-        {
-            "id": 44,
-            "model": "이상",
-            "content": "That was precisely what I had intended to convey, Miss Ishmael."
-        },
-        {
-            "id": 45,
-            "model": "베르길리우스",
-            "content": "Thank you for bringing that up. I was starting to get tired of being the bringer of unpleasant news."
-        },
-        {
-            "id": 46,
-            "model": "베르길리우스",
-            "content": "Hopefully, none of you are under the impression that we're headed to Wuthering Heights just because of some invitation Heathcliff received. Because if you are... you'll be sorely disappointed."
-        },
-        {
-            "id": 47,
-            "model": "히스클리프",
-            "content": "Right, so if we're lookin' at the context she wrote this in, what she's really tryin' to say here is..."
-        },
-        {
-            "id": 48,
-            "model": "그레고르",
-            "content": "No, no. Bud, you gotta look at the tone she used here."
-        },
-        {
-            "id": 49,
-            "model": "이스마엘",
-            "content": "… Sure. Moving on."
-        },
-        {
-            "id": 50,
-            "model": "파우스트",
-            "content": "There was a report from the LCCB that a Golden Bough has been observed."
-        },
-        {
-            "id": 51,
-            "model": "파우스트",
-            "content": "They narrowed its location down to somewhere within the Wuthering Heights manor..."
-        },
-        {
-            "id": 52,
-            "model": "파우스트",
-            "content": "But there was a significant risk, on account of the manor's unique security system, that prevented the Before Team from conducting their on-site preliminary survey. The exact location of the Bough is yet to be identified."
-        },
-        {
-            "id": 53,
-            "model": "히스클리프",
-            "content": "Unique… security measures? Not sure if I remember anything like that."
-        },
-        {
-            "id": 54,
-            "model": "이스마엘",
-            "content": "Right, then it’s even more… odd. No other ways to put it."
-        },
-        {
-            "id": 55,
-            "model": "이상",
-            "content": "Indeed. Though I remain ignorant of the monetary value and the public perception of its worth..."
-        },
-        {
-            "id": 56,
-            "model": "이상",
-            "content": "… I do know that the Golden Bough is not an item so easily obtainable that it may be housed in a normal, private manor."
-        },
-        {
-            "id": 57,
-            "model": "파우스트",
-            "content": "It can be shared that the Golden Bough wasn’t… always located inside the manor."
-        },
-        {
-            "id": 58,
-            "model": "이상",
-            "content": "I see. Then, the Golden Bough, its previous location in an unknown area within the T Corp.’s Lobotomy Corp. branch, has been transferred to the manor for a reason we are yet to be aware of."
-        },
-        {
-            "id": 59,
-            "model": "이스마엘",
-            "content": "Right. Then... this ‘Catherine’ person will be a major part of this operation."
-        },
-        {
-            "id": 60,
-            "model": "이스마엘",
-            "content": "To have a Golden Bough all to herself in that manor..."
-        },
-        {
-            "id": 61,
-            "model": "이스마엘",
-            "content": "And she’s gotta be one confident woman, too. Confident enough to believe that Heathcliff will come to the manor just to see her face, even if it wasn’t for the Golden Bough."
-        },
-        {
-            "id": 62,
-            "content": "None of this conversation seemed to even register to Heathcliff, however."
-        },
-        {
-            "id": 63,
-            "model": "히스클리프",
-            "content": "Oi, lemme know if you see a barbershop or a boutique nearby."
-        },
-        {
-            "id": 64,
-            "model": "베르길리우스",
-            "content": "... This isn't a tour bus, Heathcliff. We will not make unnecessary stops like the ones you suggest."
-        },
-        {
-            "id": 65,
-            "model": "히스클리프",
-            "content": "Right, I get it. Then why don’t you just leave me behind and go on ahead? I’ll catch up..."
-        },
-        {
-            "id": 66,
-            "model": "홍루",
-            "content": "So Heathcliff… I’ve been watching the shops very closely..."
-        },
-        {
-            "id": 67,
-            "model": "홍루",
-            "content": "… but I haven't noticed a single open shop. It might be because of the rumors from earlier, and the fog..."
-        },
-        {
-            "id": 68,
-            "model": "홍루",
-            "content": "Why don’t you just leave it to us? Rodya and I..."
-        },
-        {
-            "id": 69,
-            "model": "히스클리프",
-            "content": "What the hell are you... Wait, WAIT!"
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Ở trên chiếc Mephistopheles",
+                "model":"싱클레어",
+                "content":"Một vụ án bí ẩn về những người mất tích trên con phố phủ trong sương mù dày đặc..."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Cứ như... chúng ta đang ở trong một cái truyền thuyết đô thị đáng sợ nào đó vậy. Nói thế thôi chứ tôi hoàn toàn không có sợ chút nào đâu... Ha. Ha. Ha."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"그레고르",
+                "content":"Nhóc không cần phải cười gượng gạo vậy đâu, Sinclair."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"로쟈",
+                "content":"Không thích thế đâu nha~ Vừa mới bước vào Tổ thôi mà lại run cầm cập vậy à?"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "content":"Chỉ tại câu chuyện rùng rợn ban nãy mà giờ ai nấy cũng đều căng như dây đàn."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"... Tôi biết nên làm gì rồi."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"단테",
+                "content":"<Này, Heathcliff. Hay là anh... đọc to tấm thiệp mời ấy cho chúng tôi nghe thêm lần nữa được không?>"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":null,
+                "content":"Tốt hơn hết là nên nhắc nhở mọi người tập trung vào nhiệm vụ trước mắt. Tôi cũng có thể nhân dịp này ôn lại thông tin luôn."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Hừm... Chỉ là một tấm thiệp ấy mà. Có gì to tát đâu."
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":null,
+                "content":"Mặc cho nỗ lực tỏ vẻ xa cách của anh, Heathcliff rút ra từ trong túi quần mình tấm thư mời được gấp nếp gọn gàng, tỉ mỉ tựa như một món đồ thủ công mĩ nghệ. Anh ấy hắng giọng."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"히스클리프",
+                "content":"E hèm."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":null,
+                "content":"Một lúc sau..."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"히스클리프",
+                "content":"\"... Sự có mặt của anh tại sự kiện là vinh dự của chúng tôi.\""
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"히스클리프",
+                "content":"\"... Trân trọng, Nelly.\""
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"로쟈",
+                "content":"Và...? Và...?"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"히스클리프",
+                "content":"... Đụ má."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"히스클리프",
+                "content":"\"A-anh phải có mặt đó, Heath. Em sẽ chờ. - Cathy\"."
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"그레고르",
+                "content":"Uầyyyy..."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"로쟈",
+                "content":"Ồ hố~!"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":null,
+                "content":"... Tôi không lường trước được tình huống này khi bảo anh ấy đọc lá thư đó."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Eo ơi... Làm ba cái trò gì không, bộ đây là quán nhậu hay gì?"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"로쟈",
+                "content":"Úi, thế không phải là đang định bàn cái đó à?"
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Tao biết kiểu gì cũng thế này mà... Giận làm gì."
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Và... ẻm chỉ viết là ẻm sẽ chờ. Chưa hề viết là nhớ tao hay \"muốn\" gặp tao gì cả."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"그레고르",
+                "content":"Thôi nào, bạn hiền. Cứ nhìn vào văn phong của cô ấy là hiểu mà. Nhất là đoạn này nè..."
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":"로쟈",
+                "content":"Để xem, để xem nào~"
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "content":"Vài Tội Nhân tụ tập lại thành vòng tròn như thể đang phân tích ý nghĩa văn chương của tấm thiệp mời. Có lẽ tôi lo lắng thái quá rồi."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Ha ha... trông họ chẳng khác gì mấy đứa học sinh đang mở lá thư tình đầu đời ra."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":"로쟈",
+                "content":"Hở, nhóc chưa quan tâm mấy thứ này bao giờ à, Sinclair?"
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi...! Tôi là... một học sinh gương mẫu mà. Tôi chỉ quan tâm đến sách vở và bài giảng của thầy cô thôi!"
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Này Sinclair, dường như mặt cậu lại ửng một sắc hồng phơn phớt nữa rồi—"
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Tôi đã nói bao nhiêu lần rồi! Là do! Di truyền!!!"
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"로쟈",
+                "content":"Còn ngài thì sao, Dante?!"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"로쟈",
+                "content":"À ha, thôi bỏ đi..."
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":"단테",
+                "content":"<Này, cái vẻ mặt thương hại đó là sao hả...?>"
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"뫼르소",
+                "content":"Quản lý không cần sự thương cảm của cô. Tôi chắc chắn rằng sẽ có người quý trọng ngoại hình độc đáo của ngài ấy thôi."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":"단테",
+                "content":"<…….>"
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":"이상",
+                "content":"Điều này chẳng phải rất... lạ sao?"
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Hả, lạ gì cơ? Rằng thực sự có người viết thư tình cho Heathcliff á?"
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"홍루",
+                "content":"Anh Yi Sang... Lời vừa rồi có chút không khéo đấy ạ..."
+            },
+            {
+                "id":40,
+                "place":null,
+                "model":"이상",
+                "content":"Kh- không, tôi không có ý nói điều khó nghe như thế với... Tôi—"
+            },
+            {
+                "id":41,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Ấy, đùa tí thôi mà. Thực ra tôi cũng đang có nghi vấn giống anh đấy."
+            },
+            {
+                "id":42,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tới dinh thự Đồi Gió Hú thay vì đi tìm Chi Nhánh Tập Đoàn Lobotomy tại Tập Đoàn T..."
+            },
+            {
+                "id":43,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... thì dám cam đoan là ở đó có Cành Vàng rồi."
+            },
+            {
+                "id":44,
+                "place":null,
+                "model":"이상",
+                "content":"Đó chính xác là điều tôi muốn truyền tải, cô Ishmael."
+            },
+            {
+                "id":45,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Cảm ơn các cô cậu nói đỡ. Ta cũng bắt đầu chán công việc giao tin dữ rồi."
+            },
+            {
+                "id":46,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"Tuy nhiên, ta mong các cô cậu đừng có tự suy diễn cả đoàn ta tới Đồi Gió Hú vì thư mời của Heathcliff. Đừng có mong chờ quá rồi tự mình thất vọng."
+            },
+            {
+                "id":47,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Và, nếu xét về ngữ cảnh em ấy viết dòng này, ý của ẻm là..."
+            },
+            {
+                "id":48,
+                "place":null,
+                "model":"그레고르",
+                "content":"Không, không. Anh bạn à, cậu phải để ý tông giọng của cô ấy cơ."
+            },
+            {
+                "id":49,
+                "place":null,
+                "model":"이스마엘",
+                "content":"... Rồi. Còn tin gì nữa nào?"
+            },
+            {
+                "id":50,
+                "place":null,
+                "model":"파우스트",
+                "content":"Có báo cáo từ đội LCCB rằng họ đã phát hiện ra Cành Vàng."
+            },
+            {
+                "id":51,
+                "place":null,
+                "model":"파우스트",
+                "content":"Đội LCCB cũng đã thu hẹp được phạm vi tìm kiếm về khuôn viên dinh thự Đồi Gió Hú..."
+            },
+            {
+                "id":52,
+                "place":null,
+                "model":"파우스트",
+                "content":"Tuy nhiên, hệ thống phòng vệ đặc biệt của dinh thự đã gây cản trở cho Đội Tiền Tuyến, họ không thể tiến hành khảo sát sơ bộ hiện trưởng do có quá nhiều rủi ro. Thế nên vị trí chính xác của Cành Vàng vẫn còn là ẩn số."
+            },
+            {
+                "id":53,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Hệ thống phòng vệ... đặc biệt? Tao nhớ là ở đó làm gì có mấy thứ như thế đâu."
+            },
+            {
+                "id":54,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Rồi, thế thì tình hình ngày càng... nói sao nhỉ? Ngày càng quái lạ hơn đấy..."
+            },
+            {
+                "id":55,
+                "place":null,
+                "model":"이상",
+                "content":"Đúng vậy. Dù cho tôi không rõ về giá trị tài chính cũng như ý thức của công chúng về độ quý báu của nó..."
+            },
+            {
+                "id":56,
+                "place":null,
+                "model":"이상",
+                "content":"... nhưng tôi dám chắc rằng không ai có thể dễ dàng sở hữu Cành Vàng trong một dinh thự bình thường thế này cả."
+            },
+            {
+                "id":57,
+                "place":null,
+                "model":"파우스트",
+                "content":"Cũng nên lưu ý rằng... Cành Vàng không hề cố định vị trí ở dinh thự ngay từ đầu."
+            },
+            {
+                "id":58,
+                "place":null,
+                "model":"이상",
+                "content":"Hiểu rồi. Vậy là Cành Vàng đã từng nằm trong Chi Nhánh Tập Đoàn Lobotomy của Tập Đoàn T, sau này lại được chuyển tới dinh thự vì một lý do nào đó."
+            },
+            {
+                "id":59,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Thế thì... cái cô \"Catherine\" này sẽ là thành phần quan trọng trong chiến dịch đây."
+            },
+            {
+                "id":60,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tự mình sở hữu được Cành Vàng cơ mà..."
+            },
+            {
+                "id":61,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Và cô ta cũng tự tin ra phết đấy. Đủ tự tin để biết chắc rằng Heathcliff sẽ trở về dinh thự chỉ để nhìn thấy mặt cô ta, chứ đừng nói tới Cành Vàng."
+            },
+            {
+                "id":62,
+                "place":null,
+                "model":null,
+                "content":"Trong khi đó, Heathcliff chẳng có vẻ gì là bận tâm tới cuộc thảo luận này cả."
+            },
+            {
+                "id":63,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Này, nếu chúng mày có thấy tiệm hớt tóc hay cửa hàng quần áo nào gần đây thì cho tao hay."
+            },
+            {
+                "id":64,
+                "place":null,
+                "model":"베르길리우스",
+                "content":"... Đây không phải là xe du lịch để cậu muốn dừng đâu là đậu đó, Heathcliff à."
+            },
+            {
+                "id":65,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Rồi, hiểu. Hay là bọn mày cứ thả tao xuống rồi đi trước đi? Xong xuôi rồi tao đuổi theo sau..."
+            },
+            {
+                "id":66,
+                "place":null,
+                "model":"홍루",
+                "content":"Tôi đã mở hai mắt thật là to để quan sát xung quanh rồi đó, anh Heathcliff."
+            },
+            {
+                "id":67,
+                "place":null,
+                "model":"홍루",
+                "content":"Chắc hẳn vì lời đồn bắt cóc đó nên chẳng thấy hàng quán nào trên phố chịu mở cửa cả. Mà cũng có khi là do sương mù bao quanh nữa..."
+            },
+            {
+                "id":68,
+                "place":null,
+                "model":"홍루",
+                "content":"Nói rồi mà, anh cứ tin vào tôi và chị Rodya là được..."
+            },
+            {
+                "id":69,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Mày đang làm cái đéo... Chờ, CHỜ ĐÃ!"
+            }
+        ]
+    }
+

@@ -1,1049 +1,1526 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Rooftop",
-            "content": "Erlking Heathcliff awaits us on the rooftop. Just as Faust expected, the powerful and oppressive energy that surrounded him had only grown more ferocious since our last encounter."
-        },
-        {
-            "id": 1,
-            "content": "This must be because of the Golden Bough and the 'pure' form of humanity."
-        },
-        {
-            "id": 2,
-            "content": "Heathcliff watches us stumbling up the stairs through our exhaustion. He lowers Catherine's coffin to the rooftop floor."
-        },
-        {
-            "id": 3,
-            "model": "마왕히스클리프3",
-            "teller": "Erlking Heathcliff",
-            "title": "A Distant World",
-            "content": "What a sorry ending to this tale, is it not?"
-        },
-        {
-            "id": 4,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "You have no idea of the lengths I've gone to destroy both Hindley and Linton. How much I have pushed myself to the brink again and again."
-        },
-        {
-            "id": 5,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "This is my own heaven. It is finally within my reach."
-        },
-        {
-            "id": 6,
-            "model": "히스클리프",
-            "content": "... Heaven? This shite is your idea of a heaven?"
-        },
-        {
-            "id": 7,
-            "model": "히스클리프",
-            "content": "Look again. You're in hell. Right in the middle of it."
-        },
-        {
-            "id": 8,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "When I heard the news of Catherine's passing, I... began to see her face in all things."
-        },
-        {
-            "id": 9,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "Even my very own face brought back her memories. Everything in the world became an unending reminder of who Catherine once was."
-        },
-        {
-            "id": 10,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "A reminder of the fact that she once existed, only to be forever lost because of me..."
-        },
-        {
-            "id": 11,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "So... to breathe, to let my heart beat... I had to think of nothing but that singular wish."
-        },
-        {
-            "id": 12,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "That burning, unchanging desire. My wish."
-        },
-        {
-            "id": 13,
-            "model": "히스클리프",
-            "content": "……."
-        },
-        {
-            "id": 14,
-            "model": "히스클리프",
-            "content": "To kill every Heathcliff in every world."
-        },
-        {
-            "id": 15,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "Yes. That singular wish is the ultimate proof of my love."
-        },
-        {
-            "id": 16,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "Through my campaign, I have seen so many versions of Heathcliff. Some grew wrathful. Some begged for mercy, for their lives..."
-        },
-        {
-            "id": 17,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "But in the end... they all admitted that they all had to perish for the good of Catherine, and willingly forfeited their lives."
-        },
-        {
-            "id": 18,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "I found no pleasure in my work."
-        },
-        {
-            "id": 19,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "How could I, when I made it my mission to slay those poor, wretched souls? When all of them died so alone, unloved by all that is living, by the world?"
-        },
-        {
-            "id": 20,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "Did you know that no one ever weeps for Heathcliff's death? So, the task falls to me to bury them. To shed my tears for them. Yet, only silence shall attend my own demise."
-        },
-        {
-            "id": 21,
-            "model": "히스클리프",
-            "content": "No. Your method's all wrong."
-        },
-        {
-            "id": 22,
-            "model": "히스클리프",
-            "content": "Of course, I would have given anything to make Catherine happy. Anything. But..."
-        },
-        {
-            "id": 23,
-            "model": "히스클리프",
-            "content": "... even you, who saw the possibilities of every world... missed something."
-        },
-        {
-            "id": 24,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "What do you mean?"
-        },
-        {
-            "id": 25,
-            "model": "히스클리프",
-            "content": "You said that in every world... Catherine and Heathcliff were destined to be miserable, didn't you?"
-        },
-        {
-            "id": 26,
-            "model": "히스클리프",
-            "content": "But we could have been happy. We just missed that smallest key to happiness."
-        },
-        {
-            "id": 27,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "No. No such world exists."
-        },
-        {
-            "id": 28,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "Because of me— No, us! Because of our existence, Catherine will...!"
-        },
-        {
-            "id": 29,
-            "model": "히스클리프",
-            "content": "Haaah... Bloody hell. I'm telling you that it's got nothing to do with our existence. The problem was that I wanted to believe that it was."
-        },
-        {
-            "id": 30,
-            "model": "히스클리프",
-            "content": "All I had to do..."
-        },
-        {
-            "id": 31,
-            "model": "히스클리프",
-            "content": "All I had to do was to get over my embarrassment. That little fear. I just had to scrounge up the smallest morsel of courage to open the door... and talk to her."
-        },
-        {
-            "id": 32,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "……."
-        },
-        {
-            "id": 33,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "... But how will you prove your theory when we have nothing left to prove it with?"
-        },
-        {
-            "id": 34,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "When my Catherine is long gone?!"
-        },
-        {
-            "id": 35,
-            "model": "히스클리프",
-            "content": "Right."
-        },
-        {
-            "id": 36,
-            "model": "히스클리프",
-            "content": "I can't change the past, like you said. I can't prove it to you, either. Maybe none of this matters in the end, and Catherine might never wake up again no matter what I do. But..."
-        },
-        {
-            "id": 37,
-            "model": "히스클리프",
-            "content": "... I'm here anyway. On this rooftop."
-        },
-        {
-            "id": 38,
-            "model": "히스클리프",
-            "content": "Do... you understand what that means?"
-        },
-        {
-            "id": 39,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "……."
-        },
-        {
-            "id": 40,
-            "model": "히스클리프",
-            "content": "You, me... we're both wretches. I understand that..."
-        },
-        {
-            "id": 41,
-            "model": "히스클리프",
-            "content": "But... I refuse to break like you did. Leaping from world to world, seeking to kill everyone that you deemed to be the cause of that misery..."
-        },
-        {
-            "id": 42,
-            "model": "히스클리프",
-            "content": "... No matter how broken my heart has become."
-        },
-        {
-            "id": 43,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "Your speech rings hollow, Heathcliff, for the outcome is already decided. I will end your life and leap over to the next world to do the same."
-        },
-        {
-            "id": 44,
-            "model": "히스클리프",
-            "content": "Then what the hell are you waiting for?"
-        },
-        {
-            "id": 45,
-            "content": "Heathcliff pulled the Golden Bough from the roof of the manor, where it was installed as a lightning rod."
-        },
-        {
-            "id": 46,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "Haah... your struggle is meaningless. You cannot destroy the Golden Bough."
-        },
-        {
-            "id": 47,
-            "model": "히스클리프",
-            "content": "I can't destroy it, no... but I can stop it from working."
-        },
-        {
-            "id": 48,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "You mean to kill me? You?"
-        },
-        {
-            "id": 49,
-            "model": "히스클리프",
-            "content": "No. I will stab myself, just as you wished."
-        },
-        {
-            "id": 50,
-            "model": "마왕히스클리프3",
-            "title": "A Distant World",
-            "content": "... You're... what?"
-        },
-        {
-            "id": 51,
-            "model": "히스클리프",
-            "content": "I see."
-        },
-        {
-            "id": 52,
-            "model": "히스클리프",
-            "content": "I don't exactly understand why, but this Golden Bough bein' imbued with lightning is a necessary part of your plan, innit?"
-        },
-        {
-            "id": 53,
-            "model": "히스클리프",
-            "content": "What if I just... drained its powers? That'd cock up your grand scheme, won't it?"
-        },
-        {
-            "id": 54,
-            "model": "단테",
-            "content": "<Wait... how do you even know that, Heathcliff?>"
-        },
-        {
-            "id": 55,
-            "model": "히스클리프",
-            "content": "I ain't educated, but you know I'm good at sniffing these things out."
-        },
-        {
-            "id": 56,
-            "model": "단테",
-            "content": "<Heathcliff!>"
-        },
-        {
-            "id": 57,
-            "model": "히스클리프",
-            "content": "Catherine..."
-        },
-        {
-            "id": 58,
-            "model": "히스클리프",
-            "content": "I'm back."
-        },
-        {
-            "id": 59,
-            "model": "히스클리프",
-            "content": "Please, open the door."
-        },
-        {
-            "id": 60,
-            "model": "이스마엘",
-            "content": "Why... why did you stab yourself? Is this how you wanted this to end?"
-        },
-        {
-            "id": 61,
-            "model": "히스클리프",
-            "content": "Because I need Cathy in every corner of this manor to hear my call."
-        },
-        {
-            "id": 62,
-            "model": "히스클리프",
-            "content": "From what I've seen, the Golden Bough..."
-        },
-        {
-            "id": 63,
-            "model": "히스클리프",
-            "content": "... connects the hearts... together. Look, I'm flying by the seat of my trousers here."
-        },
-        {
-            "id": 64,
-            "model": "싱클레어",
-            "content": "What are you..."
-        },
-        {
-            "id": 65,
-            "model": "히스클리프",
-            "content": "Catherine... has become Wuthering Heights itself."
-        },
-        {
-            "id": 66,
-            "model": "히스클리프",
-            "content": "I don't understand how that happened."
-        },
-        {
-            "id": 67,
-            "model": "히스클리프",
-            "content": "But if Cathy... if she saw the same mirror that Nelly and this git peered into..."
-        },
-        {
-            "id": 68,
-            "model": "히스클리프",
-            "content": "And if her heart was the same as mine all along..."
-        },
-        {
-            "id": 69,
-            "model": "히스클리프",
-            "content": "... I feel like I'd know what kind of choice she made."
-        },
-        {
-            "id": 70,
-            "model": "히스클리프",
-            "content": "Now that I think back on it... from the moment we set our foot upon this manor, Wuthering Heights kept pushing me away while the diary continued to soothe me."
-        },
-        {
-            "id": 71,
-            "model": "히스클리프",
-            "content": "We were never honest. Cathy, I... both of us."
-        },
-        {
-            "id": 72,
-            "model": "싱클레어",
-            "content": "Heathcliff, what are you talking about...?"
-        },
-        {
-            "id": 73,
-            "content": "The diary flips through its pages until it comes to a stop on the last page."
-        },
-        {
-            "id": 74,
-            "model": "캐서린",
-            "content": "Would you like to hear a story, Heathcliff?"
-        },
-        {
-            "id": 75,
-            "model": "캐서린",
-            "content": "Long, long time ago, Josephine told me a little tale."
-        },
-        {
-            "id": 76,
-            "model": "캐서린",
-            "content": "She said that there is a deep, ancient river flowing beneath this manor."
-        },
-        {
-            "id": 77,
-            "model": "캐서린",
-            "content": "Every architect said that this was not a good place to build anything, let alone a house. That nothing should ever be built atop this hill."
-        },
-        {
-            "id": 78,
-            "model": "캐서린",
-            "content": "Wuthering Heights was built here nonetheless. Over the unseen, hypogean river."
-        },
-        {
-            "id": 79,
-            "model": "캐서린",
-            "content": "Ever since I was a child, I saw... the ghost of my late mother, wandering the halls of this manor."
-        },
-        {
-            "id": 80
-        },
-        {
-            "id": 81,
-            "place": "Catherine's Room",
-            "model": "어린캐서린",
-            "content": "Nelly... can't you see that ghost?"
-        },
-        {
-            "id": 82,
-            "model": "넬리",
-            "content": "I told you, Miss! There are no such things as ghosts!"
-        },
-        {
-            "id": 83,
-            "model": "넬리",
-            "content": "Why didn't you take your nap like I asked you to?!"
-        },
-        {
-            "id": 84,
-            "model": "어린캐서린",
-            "content": "……."
-        },
-        {
-            "id": 85,
-            "place": "Wuthering Heights Fireplace",
-            "model": "조세핀",
-            "content": "Ooh... Mistress..."
-        },
-        {
-            "id": 86,
-            "model": "캐서린",
-            "content": "Thankfully, I wasn't the only one who was seeing ghosts."
-        },
-        {
-            "id": 87,
-            "model": "조세핀",
-            "content": "I, Josephine, knew that you would one day return to our side."
-        },
-        {
-            "id": 88,
-            "model": "조세핀",
-            "content": "That the river flowing beneath these lands would bring your grace back to this manor..."
-        },
-        {
-            "id": 89,
-            "model": "조세핀",
-            "content": "That, should my duties at this manor be complete, you would allow me to drink the river's waters..."
-        },
-        {
-            "id": 90,
-            "model": "캐서린",
-            "content": "And I've repeatedly seen that vision as I grew up."
-        },
-        {
-            "id": 91,
-            "model": "캐서린",
-            "content": "After Heathcliff left me, after I'd lost every will to live..."
-        },
-        {
-            "id": 92,
-            "model": "캐서린",
-            "content": "... Nelly brought me a mirror."
-        },
-        {
-            "id": 93,
-            "place": "Catherine's Room",
-            "model": "넬리",
-            "content": "Miss, I... found an interesting mirror."
-        },
-        {
-            "id": 94,
-            "model": "넬리",
-            "content": "It shows you some fascinating things; I suppose it is a magic mirror of sorts?"
-        },
-        {
-            "id": 95,
-            "model": "넬리",
-            "content": "I thought you might enjoy such an invention."
-        },
-        {
-            "id": 96,
-            "model": "캐서린",
-            "content": "…!"
-        },
-        {
-            "id": 97,
-            "model": "캐서린",
-            "content": "In that mirror, I saw the infinite variations of Heathcliff and I."
-        },
-        {
-            "id": 98,
-            "model": "캐서린",
-            "content": "I pulled Heathcliff to the utter abyss of desolation. He grew cold and unhappy... mired in an endless cycle of misfortune."
-        },
-        {
-            "id": 99,
-            "model": "캐서린",
-            "content": "It was as though his fate was already written to be miserable. No matter what he did, he would always meet a wretched end."
-        },
-        {
-            "id": 100,
-            "model": "캐서린",
-            "content": "Do you see that? I see... another ghost."
-        },
-        {
-            "id": 101,
-            "model": "넬리",
-            "content": "Miss, you are still very ill. Please do not let the chill winds sicken you further."
-        },
-        {
-            "id": 102,
-            "model": "캐서린",
-            "content": "Why does that ghost weep so tragically? And why does she appear so... familiar?"
-        },
-        {
-            "id": 103,
-            "model": "캐서린",
-            "content": "I... I must gaze into the mirror again, Nelly..."
-        },
-        {
-            "id": 104,
-            "model": "캐서린",
-            "content": "I wished to find that single strand of possibility where Heathcliff can be happy..."
-        },
-        {
-            "id": 105,
-            "model": "캐서린",
-            "content": "So I gazed into that mirror night after night, night after night..."
-        },
-        {
-            "id": 106,
-            "model": "캐서린",
-            "content": "Until blood began to stream down my cheeks in place of tears..."
-        },
-        {
-            "id": 107,
-            "model": "캐서린",
-            "content": "At the end of the ceaseless wailings..."
-        },
-        {
-            "id": 108,
-            "model": "캐서린",
-            "content": "I found the Catherines who tasted the deepest despair."
-        },
-        {
-            "id": 109,
-            "model": "캐서린",
-            "content": "You are... No other Catherine weeps as terribly as you do. Not in any of the worlds I have seen."
-        },
-        {
-            "id": 110,
-            "model": "마왕캐서린",
-            "teller": "Every Catherine",
-            "title": "A Certain Every World",
-            "content": "Because in this world... I am Heathcliff's murderer...!"
-        },
-        {
-            "id": 111,
-            "model": "마왕캐서린",
-            "teller": "Every Catherine",
-            "title": "A Certain Every World",
-            "content": "We were just like you... desperately searching through every world we peered past the mirror..."
-        },
-        {
-            "id": 112,
-            "model": "마왕캐서린",
-            "teller": "Every Catherine",
-            "title": "A Certain Every World",
-            "content": "But in no world are Heathcliff and I together in happiness. Our tale always ends in tragedy."
-        },
-        {
-            "id": 113,
-            "model": "마왕캐서린",
-            "teller": "Every Catherine",
-            "title": "A Certain Every World",
-            "content": "Thus suffering is all that remains! I have nothing to live for alone. I have no reason to go on. Ahhh..."
-        },
-        {
-            "id": 114,
-            "model": "캐서린",
-            "content": "Why can't Heathcliff be happy? Why can't *any* Heathcliff be allowed even an ounce of happiness?"
-        },
-        {
-            "id": 115,
-            "model": "마왕캐서린",
-            "teller": "Every Catherine",
-            "title": "A Certain Every World",
-            "content": "There is but one answer."
-        },
-        {
-            "id": 116,
-            "model": "마왕캐서린",
-            "teller": "Every Catherine",
-            "title": "A Certain Every World",
-            "content": "That we are the cause of his misery. Because Catherine's existence is what brings misfortune to Heathcliff...!"
-        },
-        {
-            "id": 117,
-            "model": "캐서린",
-            "content": "……."
-        },
-        {
-            "id": 118,
-            "model": "캐서린",
-            "content": "Every Heathcliff is miserable... because of me..."
-        },
-        {
-            "id": 119,
-            "model": "캐서린",
-            "content": "If I were to no longer exist in any world..."
-        },
-        {
-            "id": 120,
-            "model": "캐서린",
-            "content": "... will every Heathcliff in every world find happiness?"
-        },
-        {
-            "id": 121,
-            "model": "마왕캐서린",
-            "teller": "Every Catherine",
-            "title": "A Certain Every World",
-            "content": "Yes, he will. So... it's not too late. For the sake of every remaining Heathcliff in every world..."
-        },
-        {
-            "id": 122,
-            "model": "마왕캐서린",
-            "teller": "Every Catherine",
-            "title": "A Certain Every World",
-            "content": "Please, invite us to your world beyond."
-        },
-        {
-            "id": 123,
-            "model": "마왕캐서린",
-            "teller": "Every Catherine",
-            "title": "A Certain Every World",
-            "content": "So that we may kill you first..."
-        },
-        {
-            "id": 124,
-            "model": "마왕캐서린",
-            "teller": "Every Catherine",
-            "title": "A Certain Every World",
-            "content": "... and move on to the next, to kill the Catherine of a different world. Again, and again..."
-        },
-        {
-            "id": 125,
-            "model": "캐서린",
-            "content": "Then..."
-        },
-        {
-            "id": 126,
-            "model": "캐서린",
-            "content": "... only then can every Heathcliff reach his own heaven. The heaven where I no longer exist..."
-        },
-        {
-            "id": 127,
-            "model": "캐서린",
-            "content": "It felt as though I was freed from a heavy yoke."
-        },
-        {
-            "id": 128,
-            "model": "캐서린",
-            "content": "It felt as though this was precisely what I was meant to do."
-        },
-        {
-            "id": 129,
-            "model": "캐서린",
-            "content": "Because I love every Heathcliff."
-        },
-        {
-            "id": 130,
-            "model": "캐서린",
-            "content": "Because he deserves to be happy."
-        },
-        {
-            "id": 131,
-            "place": "Catherine's Room",
-            "model": "넬리",
-            "content": "I have done as you ordered. I have used some of my... connections in the Backstreets..."
-        },
-        {
-            "id": 132,
-            "model": "넬리",
-            "content": "... to bankrupt Mister Hindley. Last I heard, he gambled everything he had away."
-        },
-        {
-            "id": 133,
-            "model": "캐서린",
-            "content": "I used Nelly, who asked her acquaintance to bankrupt my brother. Then I took the ownership of Wuthering Heights from him..."
-        },
-        {
-            "id": 134,
-            "place": "Wuthering Heights Basement",
-            "model": "N사연구원검은색",
-            "teller": "Former Ring Researcher",
-            "title": "N Corp.",
-            "content": "Don't worry about the results. We've done similar experiments in the past."
-        },
-        {
-            "id": 135,
-            "model": "N사연구원검은색",
-            "teller": "Former Ring Researcher",
-            "title": "N Corp.",
-            "content": "It'll all work out as long as the laboratory is ready."
-        },
-        {
-            "id": 136,
-            "model": "캐서린",
-            "content": "Certainly. The laboratory will be completed as you have requested. The price is not a matter of concern."
-        },
-        {
-            "id": 137,
-            "model": "N사연구원검은색",
-            "teller": "Former Ring Researcher",
-            "title": "N Corp.",
-            "content": "And... like I've told you repeatedly..."
-        },
-        {
-            "id": 138,
-            "model": "N사연구원검은색",
-            "teller": "Former Ring Researcher",
-            "title": "N Corp.",
-            "content": "This method will overwrite your identity with that of another."
-        },
-        {
-            "id": 139,
-            "model": "N사연구원검은색",
-            "teller": "Former Ring Researcher",
-            "title": "N Corp.",
-            "content": "Which is to say that your body should be free of consciousness."
-        },
-        {
-            "id": 140,
-            "model": "N사연구원검은색",
-            "teller": "Former Ring Researcher",
-            "title": "N Corp.",
-            "content": "We've learned from one of our previous experiments that full, complete Identities can be summoned only when the body is empty."
-        },
-        {
-            "id": 141,
-            "model": "캐서린",
-            "content": "I installed a massive laboratory in our basement to invite Catherine to our world."
-        },
-        {
-            "id": 142,
-            "model": "캐서린",
-            "content": "I acquired the Golden Bough with Linton's help. However..."
-        },
-        {
-            "id": 143,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "To summon a fully intact Identity... is an incredibly power-consuming procedure."
-        },
-        {
-            "id": 144,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "A single Golden Bough won't be enough to power it."
-        },
-        {
-            "id": 145,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "Lucky for you, we have recently procured ourselves a Golden Bough."
-        },
-        {
-            "id": 146,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "This Golden Bough, once installed on the roof of your manor, will collect all the necessary energy and relay it to the Golden Bough installed in the laboratory."
-        },
-        {
-            "id": 147,
-            "model": "캐서린",
-            "content": "You are so kind."
-        },
-        {
-            "id": 148,
-            "model": "캐서린",
-            "content": "What kind of payment do you ask in return?"
-        },
-        {
-            "id": 149,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "Not monetary, that's for certain. Instead..."
-        },
-        {
-            "id": 150,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "... allow us to make a 'dough'. That is all I ask."
-        },
-        {
-            "id": 151,
-            "model": "캐서린",
-            "content": "A 'dough'?"
-        },
-        {
-            "id": 152,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "Yes. A pure, uncontaminated dough."
-        },
-        {
-            "id": 153,
-            "model": "마왕캐서린",
-            "teller": "Every Catherine",
-            "title": "A Certain Every World",
-            "content": "Invite me, please... please..."
-        },
-        {
-            "id": 154,
-            "model": "캐서린",
-            "content": "Mmhm. The experiment should be complete soon."
-        },
-        {
-            "id": 155,
-            "model": "캐서린",
-            "content": "Nelly."
-        },
-        {
-            "id": 156,
-            "model": "캐서린",
-            "content": "I no longer fear the ghosts."
-        },
-        {
-            "id": 157,
-            "model": "캐서린",
-            "content": "Because all fear stems from the ignorance of its origin."
-        },
-        {
-            "id": 158,
-            "model": "캐서린",
-            "content": "Maybe that is why I was so afraid of talking to Heathcliff."
-        },
-        {
-            "id": 159,
-            "model": "캐서린",
-            "content": "Because I could not know, nor could I understand his ever-distant heart."
-        },
-        {
-            "id": 160,
-            "model": "캐서린",
-            "content": "What I had thought to be ghosts... were just us from the other worlds."
-        },
-        {
-            "id": 161,
-            "model": "캐서린",
-            "content": "Suffering, in wretched pain, yet wandering the manor still, determined to end my life."
-        },
-        {
-            "id": 162,
-            "place": "Wuthering Heights Basement",
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "Now, after the lightning strikes seven times upon your coffin..."
-        },
-        {
-            "id": 163,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "... the path to the other world will open, summoning the Catherine you want from the other world here."
-        },
-        {
-            "id": 164,
-            "model": "캐서린",
-            "content": "I am certain that Linton will be happy."
-        },
-        {
-            "id": 165,
-            "model": "캐서린",
-            "content": "Because you are doing this for me, whom you love so much."
-        },
-        {
-            "id": 166,
-            "model": "린튼",
-            "content": "Once this coffin closes, that is it. You won't ever open your eyes again."
-        },
-        {
-            "id": 167,
-            "model": "캐서린",
-            "content": "I know."
-        },
-        {
-            "id": 168,
-            "model": "캐서린",
-            "content": "But this is not the end. I will always be watching over you, wherever you may be."
-        },
-        {
-            "id": 169,
-            "model": "린튼",
-            "content": "... Your word is my command. Everything shall be as you willed."
-        },
-        {
-            "id": 170,
-            "model": "린튼",
-            "content": "Sweet dreams, my love..."
-        },
-        {
-            "id": 171,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "Oh, a 'dough' of such high purity can become pretty much anything."
-        },
-        {
-            "id": 172,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "What I seek lies beyond that dough, however. It's something more primordial, something at the far beginning of all things..."
-        },
-        {
-            "id": 173,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "But for you, I present a different Heathcliff..."
-        },
-        {
-            "id": 174,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "Not your Heathcliff who left you without a word, and doesn't even care to return. A Heathcliff who exists for Catherine... and only Catherine."
-        },
-        {
-            "id": 175,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "And the river that flows beneath your manor... will be of great help to the both of us."
-        },
-        {
-            "id": 176,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "It may be that your consciousness isn't lost forever. Because the deepest river... arrests them from moving on."
-        },
-        {
-            "id": 177,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "Perhaps you would have a front seat to everything that is to transpire."
-        },
-        {
-            "id": 178,
-            "model": "캐서린",
-            "content": "Heathcliff who exists just for me...? What are you talking about?"
-        },
-        {
-            "id": 179,
-            "model": "캐서린",
-            "content": "And... why am I watching all this happen?"
-        },
-        {
-            "id": 180,
-            "model": "캐서린",
-            "content": "Where am I?"
-        },
-        {
-            "id": 181,
-            "model": "캐서린",
-            "content": "Can anyone hear me?"
-        },
-        {
-            "id": 182,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "Don't you worry. We will make sure that this summoning ritual is a resounding success."
-        },
-        {
-            "id": 183,
-            "model": "헤르만",
-            "teller": "Hermann",
-            "title": "N Corp.",
-            "content": "And just in case you forget... remember to hold steadfast. Remember that all of this is for the good of Heathcliff whom you love so much."
-        },
-        {
-            "id": 184,
-            "place": "Wuthering Heights Rooftop",
-            "model": "마왕캐서린",
-            "teller": "Every Catherine",
-            "title": "A Certain Every World",
-            "content": "……."
-        },
-        {
-            "id": 185,
-            "content": "... The clock turns to revive Heathcliff, who stabbed himself with the Golden Bough..."
-        },
-        {
-            "id": 186,
-            "model": "히스클리프",
-            "content": "... Catherine."
-        },
-        {
-            "id": 187,
-            "content": "Eventually... Catherine from a distant world is slowly pulled from the Coffin the other Heathcliff is carrying."
-        },
-        {
-            "id": 188,
-            "content": "The Golden Bough that impaled Heathcliff began to return to whence it came..."
-        },
-        {
-            "id": 189,
-            "content": "... Back to where Heathcliff first tore it from, like it was meant to be."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Tầng Thượng Đồi Gió Hú",
+                "content":"Lâm Vương Heathcliff chờ đợi chúng tôi trên sân thượng. Đúng như Faust đã dự đoán, luồng năng lượng mãnh liệt và áp đảo bao trùm hắn ta trở nên ngày càng dữ dội hơn kể từ lần chạm trán trước đó của chúng tôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "content":"Đây chắc chắn do Cành Vàng và hình thái \"thuần khiết\" nhất của nhân loại.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":2,
+                "place":null,
+                "content":"Heathcliff quan sát chúng tôi vật vã trèo lên cầu thang đầy kiệt sức. Hắn hạ quan tài của Catherine xuống nền sàn sân thượng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "content":"Quả là kết cục bi thảm cho câu chuyện này nhỉ?",
+                "model":"마왕히스클리프3",
+                "teller":"Lâm Vương Heathcliff",
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":4,
+                "place":null,
+                "content":"Ngươi không hề biết rằng ta đã phải đi xa đến mức nào để huỷ diệt cả hai Hindley và Linton. Rằng ta đã dồn ép bản thân đến bờ vực cái chết không biết bao nhiêu lần.",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":5,
+                "place":null,
+                "content":"Đây là thiên đàng của ta. Cuối cùng ta đã với tới được nó.",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":6,
+                "place":null,
+                "content":"... Thiên đàng? Mày phê cỡ nào mà nhìn ra thiên đàng vậy.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":null,
+                "content":"Nhìn lại đi. Mày đang ở địa ngục. Ngay tâm địa ngục luôn.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":8,
+                "place":null,
+                "content":"Khi ta nghe tin Catherine đã ra đi, ta... nhìn đâu cũng thấy mặt của nàng.",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":9,
+                "place":null,
+                "content":"Kể cả mặt của ta cũng mang về ký ức về nàng. Tất cả những gì trong thế giới này đã trở thành vô tận những lời nhắc nhở rằng Catherine từng là một người như thế nào.",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":10,
+                "place":null,
+                "content":"Một lời nhắc nhở rằng nàng đã từng tồn tại, chỉ để mãi mãi mất đi do ta...",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":11,
+                "place":null,
+                "content":"Thế nên... để thở, để cho tim ta đập... ta chỉ được phép nghĩ đến một ước nguyện duy nhất.",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":12,
+                "place":null,
+                "content":"Một mong ước bùng cháy, bất diệt đó. Mong ước của ta.",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":13,
+                "place":null,
+                "content":"…….",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":14,
+                "place":null,
+                "content":"Là giết tất cả Heathcliff trong tất cả thế giới.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":15,
+                "place":null,
+                "content":"Đúng vậy. Chính mong ước duy nhất đó là bằng chứng tối thượng cho tình yêu của ta.",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":16,
+                "place":null,
+                "content":"Trong suốt hành trình của ta, ta đã gặp được rất nhiều bản thể khác nhau của Heathcliff. Có những tên trở nên phẫn nộ. Có những tên quỳ lạy van xin tha mạng...",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":17,
+                "place":null,
+                "content":"Nhưng sau cùng... chúng cũng đều tự nhận rằng chúng đều phải chết đi vì lợi ích của Catherine, và tự nguyện dâng hiến mạng sống của mình.",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":18,
+                "place":null,
+                "content":"Ta không có vui vẻ gì trong việc này.",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":19,
+                "place":null,
+                "content":"Vui thế nào được, khi ta đã tự cho mình nhiệm vụ phải tiêu diệt những tên bần cùng, khốn khổ đó? Khi tất cả bọn chúng đều chết một mình, cả thế giới không một ai thương?",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":20,
+                "place":null,
+                "content":"Ngươi có biết rằng không bao giờ có ai khóc cho cái chết của Heathcliff không? Vì thế, chính một tay ta đã chôn chúng, đã rơi nước mắt cho chúng. Vậy mà, đến khi tấm thân này cũng tàn lụi, sẽ không còn gì ngoài sự tĩnh lặng để bầu bạn.",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":21,
+                "place":null,
+                "content":"Không. Phương pháp của mày sai hết rồi.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":22,
+                "place":null,
+                "content":"Tất nhiên. Tao sẽ làm tất cả để Catherine được hạnh phúc. Tất cả luôn. Nhưng...",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":23,
+                "place":null,
+                "content":"... kể cả mày, người đã thấy được tất cả viễn cảnh của tất cả thế giới... mà vẫn bỏ qua được điều này.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":24,
+                "place":null,
+                "content":"Ý ngươi là gì?",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":25,
+                "place":null,
+                "content":"Ngươi nói rằng trong tất cả thế giới... Catherine và Heathcliff đã định phận là sẽ đau khổ, đúng không?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":26,
+                "place":null,
+                "content":"Nhưng chúng ta đã có thể hạnh phúc. Chúng ta đã bỏ lỡ mất cái chìa khoá nhỏ nhất đến hạnh phúc ấy.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":27,
+                "place":null,
+                "content":"Không. Không có thế giới nào như vậy cả.",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":28,
+                "place":null,
+                "content":"Bởi vì ta- Không, vì chúng ta! Bởi vì sự tồn tại của chúng ta, Catherine sẽ...!",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":29,
+                "place":null,
+                "content":"Haaa... Con mẹ nó. Tao đang nói cho mày hiểu rằng nó đéo liên quan gì đến sự tồn tại của chúng ta cả. Cái vấn đề là ta đã từng muốn tin như thế.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":30,
+                "place":null,
+                "content":"Tất cả những gì tao chỉ cần làm...",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":31,
+                "place":null,
+                "content":"Tất cả những gì tao đã cần làm... là vượt qua cái nỗi nhục của bản thân. Cái nỗi sợ tí hon đó. Tao chỉ cần gom lại tí bản lĩnh để cánh cửa ra... và nói chuyện với ẻm.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":32,
+                "place":null,
+                "content":"…….",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":33,
+                "place":null,
+                "content":"... Rồi ngươi định chứng minh cái giả thiết của ngươi bằng thứ gì?",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":34,
+                "place":null,
+                "content":"Khi mà Catherine của ta đã ra đi từ lâu?",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":35,
+                "place":null,
+                "content":"Ừ.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":36,
+                "place":null,
+                "content":"Tao không thay đổi được quá khứ, như mày nói. Tao cũng không chứng minh được với mày. Có khi sau cùng mấy thứ này đéo có tí ý nghĩa gì cả, và Catherine sẽ không bao giờ mở mắt nữa bất kể tao làm gì. Nhưng...",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":37,
+                "place":null,
+                "content":"... Tao vẫn ở đây. Trên sân thượng này.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":38,
+                "place":null,
+                "content":"Mày... Mày hiểu mà phải không?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":39,
+                "place":null,
+                "content":"…….",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":40,
+                "place":null,
+                "content":"Mày, rồi tao... cả hai ta đều là chó rách. Tao hiểu điều đó...",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":41,
+                "place":null,
+                "content":"Nhưng... tao từ chối việc tức nước vỡ bờ như mày. Nhảy từ thế giới này sang thế giới khác, tìm cách giết tất cả những người mà mày nghĩ rằng là nguyên nhân của sự khốn khổ đó...",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":42,
+                "place":null,
+                "content":"... Dù con tim tao có bể cỡ nào đi nữa.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":43,
+                "place":null,
+                "content":"Lời nói của ngươi không có một tí trọng lượng, Heathcliff, khi mà kết cục đã được định sẵn rồi. Ta sẽ kết liễu ngươi và tiếp tục làm thế trong thế giới kế tiếp.",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":44,
+                "place":null,
+                "content":"Thế thì mày còn đợi gì nữa?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":45,
+                "place":null,
+                "content":"Heathcliff rút Cành Vàng khỏi sân thượng của dinh thự, nơi nó được cắm vào sử dụng như cột thu lôi.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":46,
+                "place":null,
+                "content":"Ha... sự chống cự của ngươi thật vô nghĩa. Ngươi không thể huỷ diệt được Cành Vàng.",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":47,
+                "place":null,
+                "content":"Tao không huỷ diệt nói được, ừ đúng... nhưng tao có thể ngăn không cho nó hoạt động.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":48,
+                "place":null,
+                "content":"Ngươi định giết ta? Ngươi?",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":49,
+                "place":null,
+                "content":"Không. Tao sẽ tự đâm chính mình, cho vừa ý mày.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":50,
+                "place":null,
+                "content":"... Ngươi sẽ... gì cơ?",
+                "model":"마왕히스클리프3",
+                "teller":null,
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":51,
+                "place":null,
+                "content":"Tao hiểu rồi.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":52,
+                "place":null,
+                "content":"Tao không hiểu chính xác tại sao, nhưng cái Cành Vàng này được cường hoá bằng sấm sét là một phần quan trọng trong kế hoạch của mày, đúng không?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":53,
+                "place":null,
+                "content":"Thế thì nếu tao... rút cạn sức mạnh của nó thì sao? Thế thì âm mưu của mày ăn lồn, nhỉ?",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":54,
+                "place":null,
+                "content":"<Đợi đã... làm sao anh biết được chuyện đó, Heathcliff?>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":55,
+                "place":null,
+                "content":"Tao không đi học, nhưng tao khôn mấy vụ này lắm.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":56,
+                "place":null,
+                "content":"<Heathcliff!>",
+                "model":"단테",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":57,
+                "place":null,
+                "content":"Catherine...",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":58,
+                "place":null,
+                "content":"Anh về rồi.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":59,
+                "place":null,
+                "content":"Làm ơn, mở cửa đi.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":60,
+                "place":null,
+                "content":"Anh... anh đang tự đâm chính mình đấy à? Anh muốn mọi chuyện kết thúc thế này sao?",
+                "model":"이스마엘",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":61,
+                "place":null,
+                "content":"Bởi vì tao cần Cathy ở mọi ngóc ngách trong dinh thự này nghe tiếng gọi của tao.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":62,
+                "place":null,
+                "content":"Từ những thứ tao đã thấy, cái Cành Vàng...",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":63,
+                "place":null,
+                "content":"... kết nối con tim... lại với nhau. Nghe này, tao đang tuỳ cơ ứng biến thôi.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":64,
+                "place":null,
+                "content":"Anh đang...",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":65,
+                "place":null,
+                "content":"Catherine... bản thân đã trở thành Đồi Gió Hú.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":66,
+                "place":null,
+                "content":"Tao không biết chuyện đó đã xảy ra như thế nào.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":67,
+                "place":null,
+                "content":"Nhưng nếu Cathy... nếu ẻm thấy được cùng cái gương mà Nelly và thằng chó này nhìn vào...",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":68,
+                "place":null,
+                "content":"Và nếu từ đầu trái tim ẻm và trái tim tao đã là một...",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":69,
+                "place":null,
+                "content":"... Thì tao cảm thấy tao biết được ẻm sẽ lựa chọn gì.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":70,
+                "place":null,
+                "content":"Giờ khi tao nhìn lại... từ khoảnh khắc chúng ta đặt chân vào dinh thự này, Đồi Gió Hú đã luôn tìm cách đẩy tao đi trong khi cuốn nhật ký lại tiếp tục xoa dịu tao.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":71,
+                "place":null,
+                "content":"Hai ta đã chưa từng thành thật. Cả Cathy... cả tao.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":72,
+                "place":null,
+                "content":"Anh Heathcliff, anh đang nói về cái gì vậy...?",
+                "model":"싱클레어",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":73,
+                "place":null,
+                "content":"Cuốn nhận ký lật từng trang giấy của nó đến khi nó dừng lại ở trang cuối cùng.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":74,
+                "place":null,
+                "content":"Anh có muốn nghe một câu chuyện không, Heathcliff?",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":75,
+                "place":null,
+                "content":"Đã lâu, lâu lắm rồi, Josephine kể cho em một giai thoại.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":76,
+                "place":null,
+                "content":"Bà ta nói rằng có một dòng sông cổ xưa chảy sâu bên dưới dinh thự này.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":77,
+                "place":null,
+                "content":"Mọi kiến trúc sư đều bảo rằng chỗ này xây cái gì cũng chẳng được, huống hồ chi là một ngôi nhà. Đừng ai hòng dựng lên bất kỳ thứ gì trên đỉnh đồi này.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":78,
+                "place":null,
+                "content":"Nhưng rốt cuộc Đồi Gió Hú vẫn được xây đấy. Ngay phía trên dòng sông ngầm vô hình dưới lòng đất.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":79,
+                "place":null,
+                "content":"Kể từ khi em còn nhỏ, em đã nhìn thấy... hồn ma của người mẹ quá cố, lảng vảng trên các hành lang của dinh thự này.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":80,
+                "place":null,
+                "content":null,
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":81,
+                "place":"Phòng của Catherine",
+                "content":"Nelly... chị không thể nhìn thấy bóng ma đó sao?",
+                "model":"어린캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":82,
+                "place":null,
+                "content":"Cô Chủ à, tôi đã bảo bao lần rồi! Ma quỷ không hề tồn tại!",
+                "model":"넬리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":83,
+                "place":null,
+                "content":"Hay giờ cô cứ đi ngủ đi, được chứ?!",
+                "model":"넬리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":84,
+                "place":null,
+                "content":"…….",
+                "model":"어린캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":85,
+                "place":"Lò Sưởi Đồi Gió Hú",
+                "content":"Ôi... Phu Nhân...",
+                "model":"조세핀",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":86,
+                "place":null,
+                "content":"May thay, tôi không phải là người duy nhất nhìn thấy ma.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":87,
+                "place":null,
+                "content":"Josephine ta biết rằng, ngày nào đó phu nhân sẽ quay về chốn dinh thự này, quay về bên chúng ta.",
+                "model":"조세핀",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":88,
+                "place":null,
+                "content":"Và dòng sông chảy dưới vùng đất này sẽ đưa bà ấy trở lại...",
+                "model":"조세핀",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":89,
+                "place":null,
+                "content":"Vì thế, sau khi ta hoàn thành hết nghĩa vụ của mình, phu nhân sẽ cho phép ta uống dòng nước của con sông ấy...",
+                "model":"조세핀",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":90,
+                "place":null,
+                "content":"Và cái viễn cảnh đó cứ lặp đi lặp lại theo cùng sự trưởng thành của tôi.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":91,
+                "place":null,
+                "content":"Sau khi Heathcliff rời bỏ tôi, khi tôi đã mất đi toàn bộ lẽ sống...",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":92,
+                "place":null,
+                "content":"... Nelly đã mang tới cho tôi một cái gương.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":93,
+                "place":"Phòng của Catherine",
+                "content":"Cô Chủ, tôi... nghĩ cô sẽ có hứng thú với cái gương này.",
+                "model":"넬리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":94,
+                "place":null,
+                "content":"Tôi không rõ đây có phải là gương ma thuật không nhưng nó sẽ cho cô xem nhiều thứ khá là thú vị, chắc vậy?",
+                "model":"넬리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":95,
+                "place":null,
+                "content":"Tôi đã nghĩ cô sẽ thích mấy thứ đồ công nghệ như này.",
+                "model":"넬리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":96,
+                "place":null,
+                "content":"…!",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":97,
+                "place":null,
+                "content":"Trong tấm gương đấy, tôi đã nhìn thấy vô số phiên bản về Heathcliff và tôi.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":98,
+                "place":null,
+                "content":"Tôi đã kéo Heathcliff xuống tận cùng vực thẳm của sự cô quạnh. Anh ấy trở nên lạnh lùng và bất hạnh... chìm đắm trong một vòng lặp bất tận của khổ đau.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":99,
+                "place":null,
+                "content":"Cứ như thể là số phận anh ấy bị định đoạt là phải khổ đau vậy. Cho dù anh ấy có làm thế nào đi nữa, thì kết cục cũng đều bi thảm cả.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":100,
+                "place":null,
+                "content":"Chị có thấy không? Tôi lại nhìn thấy... một bóng ma khác.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":101,
+                "place":null,
+                "content":"Cô Chủ, cô vẫn còn đang bệnh rất nặng. Làm ơn đừng đứng ngoài gió lâu và khiến bệnh tình thêm xấu nữa.",
+                "model":"넬리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":102,
+                "place":null,
+                "content":"Tại sao tiếng ai oán của bóng ma ấy thảm thương đến vậy? Và tại sao cô ấy trông... thân thuộc thế?",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":103,
+                "place":null,
+                "content":"Tôi... Tôi phải nhìn vào tấm gương đó lần nữa, chị Nelly...",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":104,
+                "place":null,
+                "content":"Tôi mong mỏi tìm thấy một viễn cảnh mà Heathcliff được hạnh phúc...",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":105,
+                "place":null,
+                "content":"Và thế là tôi cứ nhìn chằm chằm vào tấm gương ấy, đêm này qua đêm khác, đêm này qua đêm khác...",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":106,
+                "place":null,
+                "content":"Cho đến khi thay vì là nước mắt thì máu đã tuôn ướt má tôi.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":107,
+                "place":null,
+                "content":"Ở tận cùng của tiếng ai oán không dứt đấy...",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":108,
+                "place":null,
+                "content":"Tôi đã tìm thấy những Catherine đã nếm trải nỗi thống khổ tột cùng nhất.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":109,
+                "place":null,
+                "content":"Cô là... Không một Catherine nào than khóc thảm thiết như cô cả. Chí ít là trong những thế giới mà tôi đã nhìn qua.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":110,
+                "place":null,
+                "content":"Bởi vì trong thể giới này... Tôi chính là kẻ đã giết Heathcliff....!",
+                "model":"마왕캐서린",
+                "teller":"Tất Cả Catherine",
+                "title":"Một Thế Giới Tất Cả Nào Đó"
+            },
+            {
+                "id":111,
+                "place":null,
+                "content":"Chúng tôi cũng giống như cô vậy... khốn đốn lục tung mọi thế giới thông qua gương...",
+                "model":"마왕캐서린",
+                "teller":"Tất Cả Catherine",
+                "title":"Một Thế Giới Tất Cả Nào Đó"
+            },
+            {
+                "id":112,
+                "place":null,
+                "content":"Nhưng không có một thế giới nào tôi và Heathcliff hạnh phúc bên nhau cả. Cái kết cho câu chuyện của chúng tôi lúc nào cũng là bi kịch.",
+                "model":"마왕캐서린",
+                "teller":"Tất Cả Catherine",
+                "title":"Một Thế Giới Tất Cả Nào Đó"
+            },
+            {
+                "id":113,
+                "place":null,
+                "content":"Vì thế sự khổ đau này là thứ duy nhất còn sót lại! Tôi còn sống vì thứ gì được chứ. Tôi không có lý do gì để bước tiếp nữa. Aaaa...",
+                "model":"마왕캐서린",
+                "teller":"Tất Cả Catherine",
+                "title":"Một Thế Giới Tất Cả Nào Đó"
+            },
+            {
+                "id":114,
+                "place":null,
+                "content":"Vì sao Heathcliff không thể hạnh phúc? Vì sao *mọi* Heathcliff không được phép hạnh phúc một tí nào vậy?",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":115,
+                "place":null,
+                "content":"Câu trả lời chỉ có một.",
+                "model":"마왕캐서린",
+                "teller":"Tất Cả Catherine",
+                "title":"Một Thế Giới Tất Cả Nào Đó"
+            },
+            {
+                "id":116,
+                "place":null,
+                "content":"Rằng chúng ta là nguyên nhân của sự bất hạnh ấy. Bởi vì sự tồn tại của Catherine là thứ đã khiến Heathcliff khốn khổ thế...!",
+                "model":"마왕캐서린",
+                "teller":"Tất Cả Catherine",
+                "title":"Một Thế Giới Tất Cả Nào Đó"
+            },
+            {
+                "id":117,
+                "place":null,
+                "content":"…….",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":118,
+                "place":null,
+                "content":"Mọi Heathcliff đều khốn khổ... tất cả là do tôi...",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":119,
+                "place":null,
+                "content":"Giả như tôi không còn tồn tại trong mọi thế giới này...",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":120,
+                "place":null,
+                "content":"... liệu mọi Heathcliff trong mọi thế giới cũng sẽ hạnh phúc?",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":121,
+                "place":null,
+                "content":"Phải, chắc chắn là như thế. Vậy nên... vẫn chưa quá muộn đâu. Hãy vì những Heathcliff còn lại của mọi thế giới...",
+                "model":"마왕캐서린",
+                "teller":"Tất Cả Catherine",
+                "title":"Một Thế Giới Tất Cả Nào Đó"
+            },
+            {
+                "id":122,
+                "place":null,
+                "content":"Làm ơn, hãy mời chúng tôi đến với thế giới của cô trước hết.",
+                "model":"마왕캐서린",
+                "teller":"Tất Cả Catherine",
+                "title":"Một Thế Giới Tất Cả Nào Đó"
+            },
+            {
+                "id":123,
+                "place":null,
+                "content":"Để chúng tôi có thể giết cô đầu tiên...",
+                "model":"마왕캐서린",
+                "teller":"Tất Cả Catherine",
+                "title":"Một Thế Giới Tất Cả Nào Đó"
+            },
+            {
+                "id":124,
+                "place":null,
+                "content":"... và rồi di chuyển đến một nơi khác, để giết tiếp Catherine của một thế giới khác. Cứ lặp lại như thế...",
+                "model":"마왕캐서린",
+                "teller":"Tất Cả Catherine",
+                "title":"Một Thế Giới Tất Cả Nào Đó"
+            },
+            {
+                "id":125,
+                "place":null,
+                "content":"Vậy...",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":126,
+                "place":null,
+                "content":"... chỉ khi mọi Heathcliff chạm đến ngưỡng thiên đàng của anh ấy... Một thiên đàng mà không còn sự tồn tại của tôi.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":127,
+                "place":null,
+                "content":"Trông cứ như tôi vừa thoát khỏi một gánh nặng vậy.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":128,
+                "place":null,
+                "content":"Nó trông như điều mà tôi buộc phải làm.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":129,
+                "place":null,
+                "content":"Bởi vì tôi yêu mọi Heathcliff.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":130,
+                "place":null,
+                "content":"Bởi vì anh ấy xứng đáng được hạnh phúc.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":131,
+                "place":"Phòng của Catherine",
+                "content":"Tôi đã hoàn thành mọi việc theo lời cô căn dặn và sử dụng tới các... mối quan hệ ở Phố Sau...",
+                "model":"넬리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":132,
+                "place":null,
+                "content":"... để khiến Ngài Hindley phá sản. Lần cuối nghe được, ngài ấy đã đánh cược hết toàn bộ tài sản còn lại của mình vào bài bạc.",
+                "model":"넬리",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":133,
+                "place":null,
+                "content":"Nelly đã nhờ người quen của mình vắt kiệt tài sản của anh trai tôi. Và rồi tôi đã chiếm đoạt quyền sở hữu Đồi Gió Hú từ anh ấy.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":134,
+                "place":"Tầng Hầm Đồi Gió Hú",
+                "content":"Đừng lo lắng thêm về kết quả. Chúng tôi đã thực hiện nhiều cuộc nghiên cứu như này trước đây rồi.",
+                "model":"N사연구원검은색",
+                "teller":"Cựu Nghiên Cứu Viên B.Đảng Ring",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":135,
+                "place":null,
+                "content":"Mọi thứ sẽ hoạt động miễn là phòng thí nghiệm đã sẵn sàng.",
+                "model":"N사연구원검은색",
+                "teller":"Cựu Nghiên Cứu Viên B.Đảng Ring",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":136,
+                "place":null,
+                "content":"Dĩ nhiên rồi. Phòng thí nghiệm sẽ được hoàn thành theo như yêu cầu của các vị. Giá cả không thành vấn đề.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":137,
+                "place":null,
+                "content":"Và... dù tôi đã nói đi nói lại việc này nhiều lần rồi...",
+                "model":"N사연구원검은색",
+                "teller":"Cựu Nghiên Cứu Viên B.Đảng Ring",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":138,
+                "place":null,
+                "content":"Nhưng, phương pháp này sẽ ghi đè lên danh tính hiện tại với một danh tính khác.",
+                "model":"N사연구원검은색",
+                "teller":"Cựu Nghiên Cứu Viên B.Đảng Ring",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":139,
+                "place":null,
+                "content":"Nên để cẩn thận nói trước là cơ thể của cô sẽ hoàn toàn bị mất nhận thức.",
+                "model":"N사연구원검은색",
+                "teller":"Cựu Nghiên Cứu Viên B.Đảng Ring",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":140,
+                "place":null,
+                "content":"Theo như một nghiên cứu trước đây của chúng tôi thì chỉ có cơ thể hoàn toàn trống rỗng và không còn sở hữu danh tính nữa, thì một danh tính khác mới có thể hoàn toàn được triệu hồi sang được.",
+                "model":"N사연구원검은색",
+                "teller":"Cựu Nghiên Cứu Viên B.Đảng Ring",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":141,
+                "place":null,
+                "content":"Tôi đã lắp đặt một phòng thí nghiệm khổng lồ trong tầng hầm để mời Catherine tới thế giới này.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":142,
+                "place":null,
+                "content":"Tôi cũng thu thập được Cành Vàng với sự trợ giúp của Linton. Tuy nhiên...",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":143,
+                "place":null,
+                "content":"Để có thể gọi ra được một danh tính hoàn chỉnh... thì nó phải tiêu tốn một lượng năng lượng khổng lồ.",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":144,
+                "place":null,
+                "content":"Một Cành Vàng đơn thuần không thể nào cấp đủ năng lượng được.",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":145,
+                "place":null,
+                "content":"Thật may cho cô, chúng tôi đã kiếm được cho mình Cành Vàng rồi.",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":146,
+                "place":null,
+                "content":"Cành Vàng này, một khi được lắp trên đỉnh dinh thự, nó sẽ thu thập toàn bộ năng lượng cần thiết và truyền đến Cành Vàng còn lại trong phòng thí nghiệm.",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":147,
+                "place":null,
+                "content":"Quý bà thật tốt bụng.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":148,
+                "place":null,
+                "content":"Cái giá tôi phải trả cho bà đây là gì?",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":149,
+                "place":null,
+                "content":"Đương nhiên không phải là vấn đề tiền nong gì. Thay vào đó...",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":150,
+                "place":null,
+                "content":"...cô có thể cho chúng tôi làm \"bột ủ\". Chỉ vậy thôi.",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":151,
+                "place":null,
+                "content":"Bột ủ\"?",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":152,
+                "place":null,
+                "content":"Đúng. Một thứ bột ủ nguyên chất, không pha tạp.",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":153,
+                "place":null,
+                "content":"Mời tôi đi, làm ơn... làm ơn...",
+                "model":"마왕캐서린",
+                "teller":"Tất Cả Catherine",
+                "title":"Một Thế Giới Tất Cả Nào Đó"
+            },
+            {
+                "id":154,
+                "place":null,
+                "content":"Ừm. Cuộc thí nghiệm này sẽ sớm hoàn tất thôi.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":155,
+                "place":null,
+                "content":"Nelly.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":156,
+                "place":null,
+                "content":"Tôi đã không còn kinh sợ những bóng ma nữa.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":157,
+                "place":null,
+                "content":"Bởi vì mọi nỗi sợ đều xuất phát từ sự thiếu hiểu biết về nguồn gốc của nó.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":158,
+                "place":null,
+                "content":"Có lẽ đó là vì sao tôi rất sợ hãi việc nói chuyện với Heathcliff.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":159,
+                "place":null,
+                "content":"Bởi vì em không thể biết, cũng chẳng thể hiểu được trái tim của anh, luôn xa cách và khó nắm bắt.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":160,
+                "place":null,
+                "content":"Những thứ em đã luôn ngỡ rằng là những bóng ma... thực chất chính là tụi em từ những thế giới khác.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":161,
+                "place":null,
+                "content":"Dày vò trong cơn đau xé lòng, nhưng vẫn lờn vờn trong dinh thự, quyết tâm kết liễu cuộc đời em.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":162,
+                "place":"Tầng Hầm Đồi Gió Hú",
+                "content":"Giờ, khi mà ngọn sét thứ bảy đánh thẳng vào quan tài của cô...",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":163,
+                "place":null,
+                "content":"...thì con đường dẫn tới thế giới khác sẽ xuất hiện, triệu hồi Catherine mà cô mong muốn từ thế giới khác đến đây.",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":164,
+                "place":null,
+                "content":"Tôi chắc chắn rằng Linton sẽ rất vui đây.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":165,
+                "place":null,
+                "content":"Bởi vì anh ấy làm điều này vì tôi, người mà anh yêu rất nhiều.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":166,
+                "place":null,
+                "content":"Một khi quan tài này đóng lại, mọi chuyện sẽ coi như chấm hết. Em sẽ không còn có thể mở mắt được nữa.",
+                "model":"린튼",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":167,
+                "place":null,
+                "content":"Tôi biết.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":168,
+                "place":null,
+                "content":"Nhưng đây không phải là chấm hết. Em sẽ luôn dõi theo anh, dù cho anh có ở đâu đi chăng nữa.",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":169,
+                "place":null,
+                "content":"... Lời của em là chân lý. Mọi thứ đều sẽ được sắp đặt theo ý của em.",
+                "model":"린튼",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":170,
+                "place":null,
+                "content":"Hãy ngon giấc, tình yêu của anh...",
+                "model":"린튼",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":171,
+                "place":null,
+                "content":"Ồ, \"bột ủ\" mà có độ tinh khiết cao như vậy thì có thể trở thành bất cứ thứ gì.",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":172,
+                "place":null,
+                "content":"Tuy nhiên, điều mà tôi tìm kiếm thì lại nằm ngoài khối bột ủ đó. Đó là thứ gì đó nguyên thủy hơn, thứ gì đó ở khởi đầu xa nhất của mọi thứ...",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":173,
+                "place":null,
+                "content":"Nhưng với cô thì, để tôi cho cô thấy một Heathcliff khác...",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":174,
+                "place":null,
+                "content":"Không phải Heathcliff này, người đã đã bỏ đi không một lời từ biệt. Mà là một Heathcliff tồn tại vì Catherine... và chỉ Catherine.",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":175,
+                "place":null,
+                "content":"Và dòng sông đang chảy ngay dưới dinh thự này của cô... sẽ giúp ích rất nhiều cho cả hai chúng ta.",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":176,
+                "place":null,
+                "content":"Có thể ý thức của cô sẽ không bị biến mất mãi mãi. Bởi vì dòng sông sâu nhất... sẽ ngăn không cho nó trôi mất đi.",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":177,
+                "place":null,
+                "content":"Có lẽ cô sẽ có một vị trí đẹp để có thể chứng kiến hết tất thảy những gì sắp xảy đến.",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":178,
+                "place":null,
+                "content":"Một Heathcliff chỉ tồn tại vì tôi...? Bà đang nói gì vậy?",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":179,
+                "place":null,
+                "content":"Và... tại sao tôi lại đứng xem mọi thứ này diễn ra?",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":180,
+                "place":null,
+                "content":"Tôi đang ở đâu đây?",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":181,
+                "place":null,
+                "content":"Có ai đó nghe thấy tiếng tôi không?",
+                "model":"캐서린",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":182,
+                "place":null,
+                "content":"Đừng lo lắng. Chúng tôi sẽ đảm bảo quá trình sẽ thành công rực rỡ.",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":183,
+                "place":null,
+                "content":"Và trong trường hợp cô quên... hãy nhớ việc này cho kỹ. Nhớ rằng tất cả những điều này là vì lợi ích của Heathcliff, người mà cô yêu thương rất nhiều.",
+                "model":"헤르만",
+                "teller":"Hermann",
+                "title":"Tập Đoàn N."
+            },
+            {
+                "id":184,
+                "place":"Tầng Thượng Đồi Gió Hú",
+                "content":"…….",
+                "model":"마왕캐서린",
+                "teller":"Tất Cả Catherine",
+                "title":"Một Thế Giới Tất Cả Nào Đó"
+            },
+            {
+                "id":185,
+                "place":null,
+                "content":"... Kim đồng hồ xoay chiều để hổi sinh Heathcliff, người tự đâm chính mình bằng Cành Vàng...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":186,
+                "place":null,
+                "content":"... Catherine.",
+                "model":"히스클리프",
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":187,
+                "place":null,
+                "content":"Sau cùng... Catherine từ một thế giới xa xôi chầm chậm được kéo ra khỏi Quan Tài mà Heathcliff kia đang vác theo.",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":188,
+                "place":null,
+                "content":"Cành Vàng đâm xuyên người Heathcliff bắt đầu quay trở về vị trí nơi nó xuất hiện...",
+                "model":null,
+                "teller":null,
+                "title":null
+            },
+            {
+                "id":189,
+                "place":null,
+                "content":"... Về lại nơi Heathcliff lần đầu tiên tước đoạt nó, như nó vốn đã luôn ở đó.",
+                "model":null,
+                "teller":null,
+                "title":null
+            }
+        ]
+    }
+

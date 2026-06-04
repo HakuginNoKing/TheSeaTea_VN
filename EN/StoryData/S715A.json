@@ -1,103 +1,134 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Fantasy Blood-shooting",
-      "model": "라만차내레이션",
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "But ooh, oh my! Do you see that one thing that's missing from the perfect La Manchaland?"
-    },
-    {
-      "id": 1,
-      "model": "단테",
-      "content": "<…….>"
-    },
-    {
-      "id": 2,
-      "model": "히스클리프",
-      "content": "Blimey, how long is she going to yammer on for?"
-    },
-    {
-      "id": 3,
-      "model": "오티스",
-      "content": "How unpleasant. It's like she's underestimating us... Talking our ears off with some nonsense drivel before sending in her minions."
-    },
-    {
-      "id": 4,
-      "model": "히스클리프",
-      "content": "Oi! You're listenin', ain't ya? Don't think I forgot you replyin' to us earlier!"
-    },
-    {
-      "id": 5,
-      "model": "라만차내레이션",
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "Oh really? Do you really not see what's missing?"
-    },
-    {
-      "id": 6,
-      "model": "라만차내레이션",
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "Once you're in La Manchaland, shouldn't one rightly... wear something that befits the occasion?"
-    },
-    {
-      "id": 7,
-      "model": "라만차내레이션",
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "And ah, how could I forget those elegant yet tastefully flamboyant masks?!"
-    },
-    {
-      "id": 8,
-      "model": "라만차내레이션",
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "Just like this! This feels much more like a festival now, doesn't it?"
-    },
-    {
-      "id": 9,
-      "model": "홍루",
-      "content": "Now we know who really did those pretty makeovers for our Bloodbag friends who escaped La Manchaland~"
-    },
-    {
-      "id": 10,
-      "model": "이상",
-      "content": "Quite the luridly repugnant habit she has."
-    },
-    {
-      "id": 11,
-      "model": "료슈",
-      "content": "Hackneyed and boring sense of beauty. Hardly worth my time."
-    },
-    {
-      "id": 12,
-      "model": "라만차내레이션",
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "And thanks to all of you, La Manchaland found perfection."
-    },
-    {
-      "id": 13,
-      "model": "라만차내레이션",
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "With this quarrel quelled, Bloodfiends and humans can now live together in harmony, living in everlasting festivities."
-    },
-    {
-      "id": 14,
-      "model": "라만차내레이션",
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "The final tally of the bad, evil Bloodfiends our kindly adventurer has slain is..."
-    },
-    {
-      "id": 15,
-      "model": "라만차내레이션",
-      "teller": "Narrator",
-      "title": "La Manchaland",
-      "content": "Eh, forgot the count somewhere in the middle. Anyways, you sure killed a *lot* of those big, bad Bloodfiends."
+        "dataList":[
+            {
+                "id":0,
+                "place":"Trường Bắn Máu Huyễn Tưởng",
+                "model":"라만차내레이션",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland",
+                "content":"Nhưng chao ôi! Mọi người có nhận thấy La Manchaland hoàn hảo này thiếu vắng điều gì không?"
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"단테",
+                "teller":null,
+                "title":null,
+                "content":"<.......>"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Chó má, con ả này tính lảm nhảm tới khi nào đây?"
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"오티스",
+                "teller":null,
+                "title":null,
+                "content":"Khó chịu thật. Cứ như con ả đang coi thường chúng ta vậy... Thao thao mấy lời vô nghĩa làm ta đau đầu rồi cử tụi tay sai vào."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"히스클리프",
+                "teller":null,
+                "title":null,
+                "content":"Này! Mày đang dỏng cái tai lên đúng không? Đừng nghĩ là tao không biết chuyện mày đối đáp với tụi tao ban nãy!"
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"라만차내레이션",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland",
+                "content":"Thật sao? Thật sự không thấy thiếu sót gì ư?"
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"라만차내레이션",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland",
+                "content":"Khi đã đặt chân vào La Manchaland, thì chẳng phải... nên mặc một cái gì đó phù hợp với bối cảnh sao?"
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"라만차내레이션",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland",
+                "content":"Trước tiên, vẫn cứ phải diện chiếc mặt nạ xinh xắn mà lộng lẫy vô ngần này lên đi đã!"
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"라만차내레이션",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland",
+                "content":"Như thế này nà! Đúng cái không khí hội hè này rồi đó!"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"홍루",
+                "teller":null,
+                "title":null,
+                "content":"Cuối cùng thì, ta cũng biết thực hư chuyện ai đã trang hoàng tô điểm cho những Túi Máu chạy sổng khỏi La Manchaland rồi nhỉ~"
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"이상",
+                "teller":null,
+                "title":null,
+                "content":"Thật là một sở thích lòe loẹt đến chói mắt."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"료슈",
+                "teller":null,
+                "title":null,
+                "content":"Thứ vẻ đẹp tầm thường và nhàm chán. Chẳng đáng để ta bận tâm."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"라만차내레이션",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland",
+                "content":"Và nhờ có tất cả mọi người, La Manchaland cũng đã trở nên hoàn hảo, hổng chê vào đâu được."
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":"라만차내레이션",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland",
+                "content":"Từ đó, Huyết Quỷ và con người có thể chung sống hòa thuận với nhau. Mỗi ngày đều được cùng nhau mở tiệc linh đình, thật quá tuyệt vời."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"라만차내레이션",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland",
+                "content":"Lần này, tổng số các Huyết Quỷ xấu xa mà những nhà mạo hiểm của chúng ta đã diệt trừ chính là..."
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"라만차내레이션",
+                "teller":"Người Dẫn Chuyện",
+                "title":"La Manchaland",
+                "content":"Ối chết, đếm đến nửa chừng thì quên béng mất rùi. Mà thôi kệ nhé, chốt lại là, mọi người đã tiêu diệt được *rất là nhiều* Huyết Quỷ xấu xa đó."
+            }
+        ]
     }
-  ]
-}
+

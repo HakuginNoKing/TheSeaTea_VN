@@ -1,194 +1,246 @@
-{
-  "dataList": [
+
     {
-      "id": 0,
-      "place": "Fantasy Blood-shooting",
-      "model": "로쟈",
-      "content": "W-what just happened? I... I just started saying the lines like I've known them by heart..."
-    },
-    {
-      "id": 1,
-      "model": "그레고르",
-      "content": "Y-yeah... it's like... we were almost hypnotized by something. And it felt so real, as though we were really there."
-    },
-    {
-      "id": 2,
-      "model": "그레고르",
-      "content": "I know this sounds absurd, but I clearly remember transforming into a horse. Then, a pair of running shoes, somehow. But I was still myself up here. Strange..."
-    },
-    {
-      "id": 3,
-      "model": "산손",
-      "content": "Ah, how wonderful was that story, hm? I like this one much more than the juvenile, naive story of peace and happiness between humans and Bloodfiends that this place has to tell."
-    },
-    {
-      "id": 4,
-      "model": "산손",
-      "content": "So, where did you place that precious helm? If I had such a priceless artifact myself, I would be wearing it on my head every single day."
-    },
-    {
-      "id": 5,
-      "model": "돈키호테",
-      "content": "……."
-    },
-    {
-      "id": 6,
-      "model": "돈키호테",
-      "content": "... Tragically, the helm ill fit my head. I had no choice but to leave it in mine warehouse."
-    },
-    {
-      "id": 7,
-      "model": "돈키호테",
-      "content": "Most likely..."
-    },
-    {
-      "id": 8,
-      "model": "산손",
-      "content": "Shame, shame. Why did you not keep a close eye on something so important, something you had to go through so much to claim?"
-    },
-    {
-      "id": 9,
-      "model": "산손",
-      "content": "You might regret the want of it someday."
-    },
-    {
-      "id": 10,
-      "model": "산손",
-      "content": "As much as I would like to hear what comes next... this seems to be where I bid you all adieu."
-    },
-    {
-      "id": 11,
-      "model": "산손",
-      "content": "I will open the entrance to Area 2, as promised. I'm sure there aren't any other Bloodfiends who are as honest about their promises as I am."
-    },
-    {
-      "id": 12,
-      "model": "돈키호테",
-      "content": "Wicked... Bloodfiend, how dare—!"
-    },
-    {
-      "id": 13,
-      "content": "Don Quixote's rage resumed just as the story ended, but she was still stuck in place as though the tale hadn't left her body just yet."
-    },
-    {
-      "id": 14,
-      "model": "산손",
-      "content": "How exciting. What new tales shall greet you in the next Area, I wonder?"
-    },
-    {
-      "id": 15,
-      "model": "산손",
-      "content": "Well, then... I hope you enjoy La Manchaland's next Area, O righteous adventurer of justice... Don Quixote."
-    },
-    {
-      "id": 16,
-      "model": "단테",
-      "content": "<What... was that...? That wasn't a Golden Bough resonance, was it? It felt... slightly different.>"
-    },
-    {
-      "id": 17,
-      "model": "이스마엘",
-      "content": "I have no idea what he did to us, but we all helplessly froze in place. As though we were all collectively hypnotized..."
-    },
-    {
-      "id": 18,
-      "model": "싱클레어",
-      "content": "It wasn't like this when we entered Yi Sang's fathoms, right?"
-    },
-    {
-      "id": 19,
-      "model": "이상",
-      "content": "Mm. Quite. We could then well tell that it was merely a reenactment of a tale with a pre-written script we read of our own volition."
-    },
-    {
-      "id": 20,
-      "model": "그레고르",
-      "content": "Maybe it has something to do with that Bloodfiend's... special ability?"
-    },
-    {
-      "id": 21,
-      "model": "파우스트",
-      "content": "It may be that he took advantage of La Manchaland's Golden Bough resonating with a certain Sinner among us... and inserted his own power there to cause this phenomenon."
-    },
-    {
-      "id": 22,
-      "model": "단테",
-      "content": "<We should... probably steer clear of that Bloodfiend...>"
-    },
-    {
-      "id": 23,
-      "model": "파우스트",
-      "content": "……."
-    },
-    {
-      "id": 24,
-      "model": "단테",
-      "content": "<Faust...>"
-    },
-    {
-      "id": 25,
-      "content": "We can't continue this story. We shouldn't."
-    },
-    {
-      "id": 26,
-      "content": "I didn't have the courage to tell them what I've been thinking this whole time."
-    },
-    {
-      "id": 27,
-      "content": "That Don Quixote, the hero of the story in which she vanquished the bandits and protected an innocent village..."
-    },
-    {
-      "id": 28,
-      "content": "That Don Quixote, whose eyes twinkled with sheer excitement at the thought of taking down La Manchaland..."
-    },
-    {
-      "id": 29,
-      "content": "... will eventually be forced to spill before every Sinner..."
-    },
-    {
-      "id": 30,
-      "content": "... That she is a Second Kindred, Bloodfiend."
-    },
-    {
-      "id": 31,
-      "model": "파우스트",
-      "content": "However, Dante..."
-    },
-    {
-      "id": 32,
-      "model": "돈키호테",
-      "content": "Agh... the Bloodfiend hath given us the slip...!"
-    },
-    {
-      "id": 33,
-      "model": "돈키호테",
-      "content": "Alas! We have dealt a fatal blow against one of them, and managed to activate the device we had intended to access! 'Tis a very successful mission thus far, I say!"
-    },
-    {
-      "id": 34,
-      "content": "She was back to her usual, energetic self..."
-    },
-    {
-      "id": 35,
-      "model": "파우스트",
-      "content": "... there comes a time when one must awaken from their dream."
-    },
-    {
-      "id": 36,
-      "content": "... but Faust's answer seemed to be pointing toward something else."
-    },
-    {
-      "id": 37,
-      "content": "Once the button was pressed, a low rumble emanated from around us..."
-    },
-    {
-      "id": 38,
-      "content": "And a large passageway slowly emerged before us, like gargantuan parts of a great machine ponderously clicking into place."
-    },
-    {
-      "id": 39,
-      "model": "돈키호테",
-      "content": "Ho! Let us hasten to the subsequent canto of this epic!"
+        "dataList":[
+            {
+                "id":0,
+                "place":"Trường Bắn Máu Huyễn Tưởng",
+                "model":"로쟈",
+                "content":"C-cái gì vừa nãy vậy? Tôi... tôi vừa đọc lời thoại như thể mình trong thân xác họ ấy..."
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"그레고르",
+                "content":"P-phải... cứ như kiểu... chúng ta vừa suýt bị thứ gì đó thôi miên vậy. Cảm giác chân thực như thể ta có mặt ở đó ấy."
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"그레고르",
+                "content":"Tôi biết nói thế này nghe hơi điêu, nhưng mà tôi nhớ rõ là mình đã biến thành một con ngựa. Rồi chẳng hiểu sao lại biến thành một đôi giày. Nhưng mà giờ thì người tôi còn y nguyên. Lạ thật..."
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"산손",
+                "content":"Ôi, quả là một câu chuyện tuyệt vời nhỉ? Tôi thích những câu chuyện thế này hơn là cái thứ cổ tích ngây thơ về hòa bình và niềm vui giữa nhân loại và Huyết Quỷ mà nơi này cứ đem ra kể mãi."
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":"산손",
+                "content":"Thế cái mũ quý giá của quý vị đâu rồi? Phải tôi mà tìm được một thánh vật vô giá như vậy, tôi sẽ đội nó mỗi ngày."
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":"돈키호테",
+                "content":"……."
+            },
+            {
+                "id":6,
+                "place":null,
+                "model":"돈키호테",
+                "content":"... Đáng buồn thay, chiếc mũ không vừa với đầu ta. Không còn cách nào khác, ta đành để nó vào trong kho chứa."
+            },
+            {
+                "id":7,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Khả năng cao là vậy..."
+            },
+            {
+                "id":8,
+                "place":null,
+                "model":"산손",
+                "content":"Đáng tiếc thật đấy. Tại sao một thứ quan trọng, mất công mất sức để lấy được như vậy mà quý vị lại chẳng để tâm đến nó chút nào vậy?"
+            },
+            {
+                "id":9,
+                "place":null,
+                "model":"산손",
+                "content":"Rồi sẽ đến một ngày quý vị hối hận vì không có nó trong tay đấy."
+            },
+            {
+                "id":10,
+                "place":null,
+                "model":"산손",
+                "content":"Mặc dù tôi rất muốn xem tiếp câu chuyện sẽ diễn biến như thế nào... nhưng có vẻ chúng ta phải tạm chia tay tại đây rồi."
+            },
+            {
+                "id":11,
+                "place":null,
+                "model":"산손",
+                "content":"Tôi sẽ mở đường đến Khu Vực số 2 như đã hứa. Đảm bảo với các vị là sẽ không có Huyết Quỷ nào biết giữ lời như tôi đâu."
+            },
+            {
+                "id":12,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Đồ quỷ quyệt... Tên Huyết Quỷ kia, ngươi dám—!"
+            },
+            {
+                "id":13,
+                "place":null,
+                "model":null,
+                "content":"Mặt Don Quixote hiện rõ cơn phẫn nộ ngay khi câu chuyện vừa kết thúc, nhưng cô ấy vẫn không cử động như thể sự tích về bản thân vẫn chưa chịu buông tha cô."
+            },
+            {
+                "id":14,
+                "place":null,
+                "model":"산손",
+                "content":"Thật háo hức làm sao. Không biết ở Khu Vực tiếp theo quý vị sẽ được chào đón bởi những câu chuyện thế nào đây nhỉ?"
+            },
+            {
+                "id":15,
+                "place":null,
+                "model":"산손",
+                "content":"Được rồi... Tôi hy vọng quý vị sẽ tận hưởng Khu Vực tiếp theo của La Manchaland, hỡi mạo hiểm giả anh dũng và chính trực... Don Quixote."
+            },
+            {
+                "id":16,
+                "place":null,
+                "model":"단테",
+                "content":"<Cái... gì vậy trời...? Đó không phải là cộng hưởng Cành Vàng đâu đúng không? Cảm giác... hơi khác biệt.>"
+            },
+            {
+                "id":17,
+                "place":null,
+                "model":"이스마엘",
+                "content":"Tôi không biết tên đó đã giở trò gì nhưng tất cả đều bị đông cứng lại một chỗ không nhúc nhích nổi. Cứ như là, bị thôi miên tập thể ấy..."
+            },
+            {
+                "id":18,
+                "place":null,
+                "model":"싱클레어",
+                "content":"Lúc chúng ta vào Góc Khuất của Bản Ngã của anh Yi Sang thì đâu có bị như thế này đâu, đúng không?"
+            },
+            {
+                "id":19,
+                "place":null,
+                "model":"이상",
+                "content":"Thật vậy. Ở đó, ta hoàn toàn nhận thức được ấy chỉ là một màn tái hiện dựa trên kịch bản viết sẵn."
+            },
+            {
+                "id":20,
+                "place":null,
+                "model":"그레고르",
+                "content":"Chắc là có liên quan tới... khả năng của tên Huyết Quỷ đó?"
+            },
+            {
+                "id":21,
+                "place":null,
+                "model":"파우스트",
+                "content":"Có thể là anh ta đã tận dụng cơ hội khi Cành Vàng của La Manchaland cộng hưởng với một Tội Nhân cụ thể trong số chúng ta... và chèn năng lực của mình vào để gây ra hiện tượng này."
+            },
+            {
+                "id":22,
+                "place":null,
+                "model":"단테",
+                "content":"<Chúng ta... nên tránh xa khỏi tên Huyết Quỷ đó...>"
+            },
+            {
+                "id":23,
+                "place":null,
+                "model":"파우스트",
+                "content":"……."
+            },
+            {
+                "id":24,
+                "place":null,
+                "model":"단테",
+                "content":"<Faust...>"
+            },
+            {
+                "id":25,
+                "place":null,
+                "model":null,
+                "content":"Chúng ta không nên tiếp tục câu chuyện này. Không thể được."
+            },
+            {
+                "id":26,
+                "place":null,
+                "model":null,
+                "content":"Tôi không có dũng khí để nói với họ những gì tôi đã nghĩ suốt nãy giờ."
+            },
+            {
+                "id":27,
+                "place":null,
+                "model":null,
+                "content":"Rằng Don Quixote, người hùng trong câu chuyện mà cô ấy đánh đuổi đám trộm cướp và bảo vệ một ngôi làng vô tội..."
+            },
+            {
+                "id":28,
+                "place":null,
+                "model":null,
+                "content":"Rằng Don Quixote, với cặp mắt lấp lánh sáng ngời đầy vui thú khi nghĩ đến cảnh dẹp tan La Manchaland..."
+            },
+            {
+                "id":29,
+                "place":null,
+                "model":null,
+                "content":"... sẽ buộc phải nói ra bí mật sâu thẳm nhất trước tất cả Tội Nhân..."
+            },
+            {
+                "id":30,
+                "place":null,
+                "model":null,
+                "content":"... Rằng cô ấy là Thân Quyến Đời Hai, một Huyết Quỷ."
+            },
+            {
+                "id":31,
+                "place":null,
+                "model":"파우스트",
+                "content":"Tuy nhiên, Dante à..."
+            },
+            {
+                "id":32,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Ặc... Tên Huyết Quỷ đánh bài chuồn rồi...!"
+            },
+            {
+                "id":33,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Hỡi ôi! Chúng ta đã giáng một đòn chí tử vào một trong số chúng, và đã kích hoạt được thiết bị mà chúng ta cần! Nhiệm vụ đang diễn ra khá là suôn sẻ đó!"
+            },
+            {
+                "id":34,
+                "place":null,
+                "model":null,
+                "content":"Cô ấy trở lại vẻ năng động thường ngày rồi..."
+            },
+            {
+                "id":35,
+                "place":null,
+                "model":"파우스트",
+                "content":"... sẽ đến lúc mà người ta phải tỉnh dậy từ giấc mộng của mình."
+            },
+            {
+                "id":36,
+                "place":null,
+                "model":null,
+                "content":"... nhưng câu trả lời của Faust lại đang ám chỉ đến điều gì khác."
+            },
+            {
+                "id":37,
+                "place":null,
+                "model":null,
+                "content":"Khi đã nhấn nút, một rung chấn nhỏ phát ra từ đâu đó quanh chỗ chúng tôi..."
+            },
+            {
+                "id":38,
+                "place":null,
+                "model":null,
+                "content":"Rồi sau đó một lối đi lớn từ từ xuất hiện trước mắt chúng tôi, giống như những bộ phận khổng lồ của một cỗ máy tầm cỡ khớp vào nhau vậy."
+            },
+            {
+                "id":39,
+                "place":null,
+                "model":"돈키호테",
+                "content":"Lên nào! Hãy cùng đẩy nhanh chương mới cho cuốn sử thi này nào!"
+            }
+        ]
     }
-  ]
-}
+

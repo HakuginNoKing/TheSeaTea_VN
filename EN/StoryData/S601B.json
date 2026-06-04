@@ -1,408 +1,570 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "content": "<color=#4e3076>Come back, Heath.</color>"
-        },
-        {
-            "id": 1,
-            "content": "<color=#4e3076>To the manor where the last vestiges of its beauty remain in its violet flowers.</color>"
-        },
-        {
-            "id": 2,
-            "content": "<color=#4e3076>To the manor where its storm-broken breach\nhas siphoned all that was once warm.</color>"
-        },
-        {
-            "id": 3,
-            "content": "<color=#4e3076>To the manor that gave you not only life...\nbut also scorn and desolation.</color>"
-        },
-        {
-            "id": 4,
-            "content": "<color=#4e3076>To the manor where your place was the frozen corner\nthat couldn't be further from the hearth.</color>"
-        },
-        {
-            "id": 5,
-            "content": "<color=#4e3076>Return from the moors.</color>"
-        },
-        {
-            "id": 6,
-            "content": "<color=#4e3076>It’s time for you to come home.</color>"
-        },
-        {
-            "id": 7,
-            "place": "Aboard Mephistopheles",
-            "model": "단테",
-            "content": "<So this is what T Corp.’s Nest looks like...>"
-        },
-        {
-            "id": 8,
-            "content": "We had surprisingly little trouble making it past the Nest’s borders. I guess my concerns were unfounded."
-        },
-        {
-            "id": 9,
-            "model": "이스마엘",
-            "content": "Well... Somehow, we made it through this Nest checkpoint without any trouble."
-        },
-        {
-            "id": 10,
-            "model": "돈키호테",
-            "content": "Ahem, ahem...! 'Tis nothing! Forsooth, such wild compliments are unnecessary, says I~"
-        },
-        {
-            "id": 11,
-            "model": "그레고르",
-            "content": "But... we... didn't say anything...?"
-        },
-        {
-            "id": 12,
-            "model": "로쟈",
-            "content": "She's grown so much..."
-        },
-        {
-            "id": 13,
-            "content": "Everyone seems awfully relaxed for having just entered a different Nest."
-        },
-        {
-            "id": 14,
-            "content": "I guess everyone's gotten used to this by now. Humdrum, routine... I guess they'd be the words to describe the general sentiment among the Sinners."
-        },
-        {
-            "id": 15,
-            "content": "Except for one, that is."
-        },
-        {
-            "id": 16,
-            "model": "히스클리프",
-            "content": "……."
-        },
-        {
-            "id": 17,
-            "model": "단테",
-            "content": "<We’re headed to this place called ‘Wuthering Heights’ next, right?>"
-        },
-        {
-            "id": 18,
-            "content": "I could tell from Heathcliff's glum expression that his mind was weighed down by all kinds of complicated concerns."
-        },
-        {
-            "id": 19,
-            "model": "히스클리프",
-            "content": "Huh? Uh… yeah."
-        },
-        {
-            "id": 20,
-            "content": "Though his eyes were staring at the moving scenery past the windows, his mind was affixed on something that his eyes couldn't see. Something that lay beyond the building walls."
-        },
-        {
-            "id": 21,
-            "model": "이스마엘",
-            "content": "'Wuthering' Heights..."
-        },
-        {
-            "id": 22,
-            "model": "이스마엘",
-            "content": "That manor must’ve been built on one windy hill, huh?"
-        },
-        {
-            "id": 23,
-            "model": "히스클리프",
-            "content": "Yeah. Bloody 'wuthering', like its namesake."
-        },
-        {
-            "id": 24,
-            "model": "히스클리프",
-            "content": "... Not a single corner of that place gave any comfort."
-        },
-        {
-            "id": 25,
-            "content": "Heathcliff’s voice carried an unusually dark tone. The other Sinners on the bus noticed this and began chatting him up."
-        },
-        {
-            "id": 26,
-            "model": "이상",
-            "content": "A return to one’s homeland must bring forth quite the tangled mass of emotions."
-        },
-        {
-            "id": 27,
-            "model": "히스클리프",
-            "content": "Homeland? Well..."
-        },
-        {
-            "id": 28,
-            "model": "히스클리프",
-            "content": "I wasn’t born here, I was raised here… I suppose that could still count as a ‘homeland’, in a way."
-        },
-        {
-            "id": 29,
-            "model": "히스클리프",
-            "content": "But it doesn’t conjure in me the same feeling that a ‘homeland’ is supposed to."
-        },
-        {
-            "id": 30,
-            "model": "이상",
-            "content": "... That is to say...?"
-        },
-        {
-            "id": 31,
-            "model": "히스클리프",
-            "content": "You’ve no idea how many times I imagined it, played it out in my head. Returning to that bloody manor, smashing every little thing in that place to bits until there is nothing left..."
-        },
-        {
-            "id": 32,
-            "model": "이스마엘",
-            "content": "Okay, so you’ll smash everything to bits. Then what?"
-        },
-        {
-            "id": 33,
-            "model": "이스마엘",
-            "content": "Did you really learn nothing from watching what I went through at the Lake?"
-        },
-        {
-            "id": 34,
-            "model": "히스클리프",
-            "content": "... I did learn something."
-        },
-        {
-            "id": 35,
-            "model": "히스클리프",
-            "content": "If I ever lose the plot and push myself to the brink of no return, I trust that one of you louts will pull me right out of it."
-        },
-        {
-            "id": 36,
-            "model": "이스마엘",
-            "content": "... Are you giving us permission to beat the sense back into you?"
-        },
-        {
-            "id": 37,
-            "model": "히스클리프",
-            "content": "Yeah. If that’s what it takes. "
-        },
-        {
-            "id": 38,
-            "model": "료슈",
-            "content": "Interesting. How far are we allowed to go with bodily harm? Amputation? Nerve mutilation?"
-        },
-        {
-            "id": 39,
-            "model": "싱클레어",
-            "content": "Maybe we can at least smack his head really hard?"
-        },
-        {
-            "id": 40,
-            "model": "히스클리프",
-            "content": "All right, you cheeky bastards..."
-        },
-        {
-            "id": 41,
-            "model": "히스클리프",
-            "content": "Seriously, this ain't an invitation to use me as your emotional punching bag. I’m not in the mood to—"
-        },
-        {
-            "id": 42,
-            "model": "홍루",
-            "content": "Still, I think your present self can do this, Heathcliff."
-        },
-        {
-            "id": 43,
-            "model": "히스클리프",
-            "content": "Huh? What do you mean my ‘present self’?"
-        },
-        {
-            "id": 44,
-            "model": "홍루",
-            "content": "Heathcliff, your present self is… deprived. You're poor, and you don’t have anything left..."
-        },
-        {
-            "id": 45,
-            "model": "히스클리프",
-            "content": "What? ‘Poor’…?"
-        },
-        {
-            "id": 46,
-            "model": "히스클리프",
-            "content": "Right, now you’re skipping past the pleasantries and going straight into personal insults, yeah? I’m—"
-        },
-        {
-            "id": 47,
-            "model": "홍루",
-            "content": "Oh, ha ha… I think you took my words the wrong way."
-        },
-        {
-            "id": 48,
-            "content": "Hong Lu is far from the most talkative Sinner, but when he does speak… he usually has something insightful to say."
-        },
-        {
-            "id": 49,
-            "content": "Though since he never says it in a way that’s immediately obvious, his words are very prone to misunderstandings…"
-        },
-        {
-            "id": 50,
-            "model": "홍루",
-            "content": "In a way, we’re all ‘deprived’... and that can change a lot of things. Maybe there are things that we can understand only when we’re left with nothing."
-        },
-        {
-            "id": 51,
-            "model": "돈키호테",
-            "content": "Doth that poverty explain our current unsightly lack of colorfulness…?"
-        },
-        {
-            "id": 52,
-            "content": "Don Quixote looked mournfully at everything around her, then at herself. She sounded like she was about to cry."
-        },
-        {
-            "id": 53,
-            "content": "Everything had been drained of color since the moment we entered T Corp. through the Backstreets."
-        },
-        {
-            "id": 54,
-            "content": "It feels like even more of our colors have been taken away since then."
-        },
-        {
-            "id": 55,
-            "model": "로쟈",
-            "content": "I was wondering when we’d bring that up~"
-        },
-        {
-            "id": 56,
-            "model": "로쟈",
-            "content": "Haah, maybe we’ll get our colors back soon..."
-        },
-        {
-            "id": 57,
-            "model": "로쟈",
-            "content": "… or so I thought, like ten hours ago..."
-        },
-        {
-            "id": 58,
-            "model": "로쟈",
-            "content": "Are we gonna be colorless forever? Are we gonna be stuck in this gloomy hue for the rest of our lives? Seriously, nothing looks tasty in this sepia hue… I'm starting to lose even my will to live..."
-        },
-        {
-            "id": 59,
-            "model": "로쟈",
-            "content": "Everything’s in that sickly brown hue! Guys, even meat looks downright rotten in this color!"
-        },
-        {
-            "id": 60,
-            "model": "그레고르",
-            "content": "... That's a bit of an overreaction, isn't it?"
-        },
-        {
-            "id": 61,
-            "model": "로쟈",
-            "content": "Oh, and what about those guys? They’ve got color in their clothes!"
-        },
-        {
-            "id": 62,
-            "content": "With an annoyed look, Rodya gestured toward the people outside the bus."
-        },
-        {
-            "id": 63,
-            "model": "파우스트",
-            "content": "A sufficient amount of payment must be made in order to retrieve your colors. It must be emphasized that this question has been repeatedly answered on twenty-three separate occasions."
-        },
-        {
-            "id": 64,
-            "model": "히스클리프",
-            "content": "Well, let me have a gander. His coat, his trousers..."
-        },
-        {
-            "id": 65,
-            "model": "히스클리프",
-            "content": "Hah, That bloke’s not even that loaded. He’s only trying to come off as though he is. Real toffs spare no cash to get every single colour back, even to their trivial trinkets like the rims of their glasses."
-        },
-        {
-            "id": 66,
-            "model": "홍루",
-            "content": "Did you also have to live without color when you lived here, Heathcliff?"
-        },
-        {
-            "id": 67,
-            "model": "히스클리프",
-            "content": "No. The manor had some colour, yeah. … Though it was still far from vibrant."
-        },
-        {
-            "id": 68,
-            "model": "료슈",
-            "content": "Agreed. This is the color of shit. Blood should've remained red."
-        },
-        {
-            "id": 69,
-            "model": "히스클리프",
-            "content": "That poor sod’s going to get himself jumped wanderin’ about with that look. That's just enough colour to invite the bandits, but not enough to keep ‘em away."
-        },
-        {
-            "id": 70,
-            "content": "Heathcliff’s predictions came true soon enough; several thieves surrounded the ‘bloke who’s only trying to come off as though he’s loaded’ and bashed him on the back of his head."
-        },
-        {
-            "id": 71,
-            "model": "돈키호테",
-            "content": "Fie, a bunch of shameless villains they are!"
-        },
-        {
-            "id": 72,
-            "model": "돈키호테",
-            "content": "Preying on a weak civilian like a pack of hyenas...!"
-        },
-        {
-            "id": 73,
-            "model": "홍루",
-            "content": "Are they... what you would call a 'gang'?"
-        },
-        {
-            "id": 74,
-            "model": "히스클리프",
-            "content": "Tsk, the gangs of T Corp. have certainly seen better days. I wouldn’t even call ‘em a gang… they’re just lowlives running out of ‘time’."
-        },
-        {
-            "id": 75,
-            "model": "히스클리프",
-            "content": "The last time I was here, scum like ‘em couldn't even dare to infest the streets so brazenly."
-        },
-        {
-            "id": 76,
-            "model": "단테",
-            "content": "<… There are gangs that aren’t scummy?>"
-        },
-        {
-            "id": 77,
-            "model": "히스클리프",
-            "content": "‘Course! The gang I was in would never dogpile on some poor, unarmed bloke like that."
-        },
-        {
-            "id": 78,
-            "model": "카론",
-            "content": "Charon wants to vroom-vroom. Can’t vroom-vroom with a roadblock."
-        },
-        {
-            "id": 79,
-            "model": "베르길리우스",
-            "content": "Well, there isn’t much point in waiting for the situation to resolve itself."
-        },
-        {
-            "id": 80,
-            "content": "Vergilius finally spoke up after quietly listening in on our discussion for the last few minutes."
-        },
-        {
-            "id": 81,
-            "model": "베르길리우스",
-            "content": "Take care of them before Don Quixote starts making a fuss about it."
-        },
-        {
-            "id": 82,
-            "model": "돈키호테",
-            "content": "Ooh! An enactment of justice! I thank thee!"
-        },
-        {
-            "id": 83,
-            "model": "로쟈",
-            "content": "He’s really starting to get the hang of this, huh..."
-        },
-        {
-            "id": 84,
-            "model": "베르길리우스",
-            "content": "... Haah."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0.0,
+                "content":"<color=#4e3076>Hãy trở về đây, Heath.<\/color>",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":1.0,
+                "content":"<color=#4e3076>Hãy trở về dinh thự, nơi lưu giữ tàn dư của vẻ đẹp xưa kia trong những đóa hoa tím.<\/color>",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":2.0,
+                "content":"<color=#4e3076>Về với dinh thự, nơi bão tố rút cạn mọi hơi ấm vấn vương. <\/color>",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":3.0,
+                "content":"<color=#4e3076>Về với dinh thự, nơi không chỉ mang đến cho anh sự sống mà còn là khinh rẻ và cô lập.<\/color>",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":4.0,
+                "content":"<color=#4e3076>Về với dinh thự, nơi anh thuộc về góc giá băng, xa vời lò sưởi nồng ấm hơn bao giờ hết.<\/color>",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":5.0,
+                "content":"<color=#4e3076>Trở về từ đồng hoang đi.<\/color>",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":6.0,
+                "content":"<color=#4e3076>Đã đến lúc anh phải về nhà rồi.<\/color>",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":7.0,
+                "content":"<Ra là Tổ của Tập Đoàn T trông như thế này...>",
+                "place":"Ở trên chiếc Mephistopheles",
+                "model":"단테"
+            },
+            {
+                "id":8.0,
+                "content":"Chúng tôi không hề gặp bất kỳ rắc rối nào khi băng qua biên giới của Tổ. Có vẻ tôi đã lo lắng thừa thãi rồi.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":9.0,
+                "content":"Phù... May mà lần này phỏng vấn nhập cảnh trót lọt.",
+                "place":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":10.0,
+                "content":"E hèm, e hèm...! Bấy nhiêu vậy thì nhằm nhò gì! Những lời khen có cánh như vậy thật làm ta đây ngại quá đi~",
+                "place":null,
+                "model":"돈키호테"
+            },
+            {
+                "id":11.0,
+                "content":"Nhưng mà... chúng tôi... đã nói gì đâu...?",
+                "place":null,
+                "model":"그레고르"
+            },
+            {
+                "id":12.0,
+                "content":"Con bé đã trưởng thành rồi...",
+                "place":null,
+                "model":"로쟈"
+            },
+            {
+                "id":13.0,
+                "content":"Vừa mới qua biên giới một Tổ chưa lâu mà trông ai cũng thong thả như đi dạo thế này.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":14.0,
+                "content":"Chắc là mọi người đã quen đến phát nhàm rồi. Trong mắt các Tội Nhân thì có lẽ tất cả những quy trình này chỉ là chuyện bình thường như đánh răng buổi sáng mà thôi.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":15.0,
+                "content":"Ngoại trừ một người.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":16.0,
+                "content":"…….",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":17.0,
+                "content":"<Tiếp theo chúng ta sẽ đến một nơi được gọi là \"Đồi Gió Hú\" đúng không?>",
+                "place":null,
+                "model":"단테"
+            },
+            {
+                "id":18.0,
+                "content":"Nhìn vẻ mặt nhăn nhó ấy, tôi dám chắc trong tâm trí Heathcliff đang trĩu nặng một mớ rối ren chẳng dễ tháo dời.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":19.0,
+                "content":"Hửm? À... ừ.",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":20.0,
+                "content":"Tuy ánh mắt dõi theo những ngôi nhà nối nhau lướt qua ngoài cửa sổ, tâm trí anh lại đang tha thẩn tới một vùng đất khác. Một vùng đất xa xăm, xa hơn cả những bức tường xám xịt đằng chân trời kia.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":21.0,
+                "content":"Đồi Gió Hú...",
+                "place":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":22.0,
+                "content":"Chắc là dinh thự đó nằm trên một ngọn đồi lộng gió lắm nhỉ?",
+                "place":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":23.0,
+                "content":"Ừ. Gió hú to bỏ mẹ, như tên nó vậy.",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":24.0,
+                "content":"... Chả một ngóc ngách nào ở đó mà bình yên cả.",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":25.0,
+                "content":"Giọng điệu của Heathcliff ảm đạm hẳn đi. Để ý thấy sự bất thường này, các Tội Nhân khác liền bắt chuyện với anh ấy.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":26.0,
+                "content":"Trở lại cố hương hẳn phải gợi lại cho người ta nhiều cảm xúc rối bời.",
+                "place":null,
+                "model":"이상"
+            },
+            {
+                "id":27.0,
+                "content":"Quê nhà? À thì...",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":28.0,
+                "content":"Tuy không được đẻ ra ở đây nhưng đó là nơi đã nuôi tao lớn... Chắc gọi là \"quê nhà\" cũng đúng phần nào.",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":29.0,
+                "content":"Nhưng như thế không có nghĩa tao coi nó như một mái ấm thực sự.",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":30.0,
+                "content":"... Ý anh là...?",
+                "place":null,
+                "model":"이상"
+            },
+            {
+                "id":31.0,
+                "content":"Mày không biết là tao đã vẽ cái viễn cảnh đó ra trong đầu bao nhiêu lần đâu. Rằng tao sẽ quay lại cái dinh thự chó má đó, đập tanh bành mọi thứ thành đống đổ nát...",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":32.0,
+                "content":"Rồi, anh sẽ đập tanh bành mọi thứ. Gì nữa?",
+                "place":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":33.0,
+                "content":"Anh thực sự không rút ra được bài học nào từ hành trình của tôi trên Hồ Lớn sao?",
+                "place":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":34.0,
+                "content":"... Tao cũng ngộ ra điều gì đó.",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":35.0,
+                "content":"Tao tin vào chúng mày, lỡ tao hóa điên thì sẽ có đứa nào đó lôi tao về thôi.",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":36.0,
+                "content":"... Anh đang cho phép chúng tôi đánh đến khi nào anh tỉnh lại thì thôi à?",
+                "place":null,
+                "model":"이스마엘"
+            },
+            {
+                "id":37.0,
+                "content":"Ừ. Nếu buộc phải thế.",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":38.0,
+                "content":"Hấp dẫn đấy. Thế bọn ta được phép gây tổn thương thể xác tới mức nào? Cắt cụt chi? Hay được cắt cả dây thần kinh?",
+                "place":null,
+                "model":"료슈"
+            },
+            {
+                "id":39.0,
+                "content":"Ít nhất thì chúng mình cũng phải gõ được một cú thật mạnh vào đầu anh ấy chứ nhỉ?",
+                "place":null,
+                "model":"싱클레어"
+            },
+            {
+                "id":40.0,
+                "content":"Này, đủ rồi lũ cơ hội kia...",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":41.0,
+                "content":"Tụi mày đừng có mà thừa cơ dùng tao như bao cát. Tao không hề có ý định—",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":42.0,
+                "content":"Cơ mà, nếu là anh Heathcliff của hiện tại thì chắc sẽ làm được thôi ấy.",
+                "place":null,
+                "model":"홍루"
+            },
+            {
+                "id":43.0,
+                "content":"Hả? \"Tao của hiện tại\" là sao?",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":44.0,
+                "content":"Anh Heathcliff của hiện tại... vừa nghèo, vừa chẳng còn gì trong tay nữa mà.",
+                "place":null,
+                "model":"홍루"
+            },
+            {
+                "id":45.0,
+                "content":"Cái gì? \"Nghèo\"...?",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":46.0,
+                "content":"Vậy là bây giờ mày chả cần vòng vo tử tế gì mà đi thẳng vào chọc ngoáy tao đấy à? Mày—",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":47.0,
+                "content":"À, ha ha... Không phải thế, chắc anh hiểu nhầm ý tôi rồi.",
+                "place":null,
+                "model":"홍루"
+            },
+            {
+                "id":48.0,
+                "content":"Hong Lu không phải là Tội Nhân hoạt ngôn nhất, nhưng mỗi khi anh ấy cất lời... thì trong câu từ luôn ẩn chứa hàm ý sâu sắc.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":49.0,
+                "content":"Nhưng vì chẳng bao giờ nói thẳng ra nên lời lẽ của anh ấy rất hay bị hiểu nhầm...",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":50.0,
+                "content":"Tất cả chúng ta đều \"nghèo túng\"... Và cái túng thiếu ấy có thể thay đổi nhiều thứ lắm. Có lẽ phải đến khi trắng tay, ta mới nhìn ra được những điều mà trước nay ta chưa từng để ý tới.",
+                "place":null,
+                "model":"홍루"
+            },
+            {
+                "id":51.0,
+                "content":"Phải chăng cái nghèo túng ấy... là nguyên cớ khiến đoàn ta phải khoác lên mình sắc màu ảm đạm này?",
+                "place":null,
+                "model":"돈키호테"
+            },
+            {
+                "id":52.0,
+                "content":"Don Quixote buồn bã nhìn mọi thứ xung quanh rồi nhìn lại bản thân. Cô ấy trông như sắp khóc đến nơi rồi.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":53.0,
+                "content":"Tất cả mọi thứ đã bị rút cạn sắc màu kể từ lúc chúng tôi rời khỏi Phố Sau và đặt chân vào Tập Đoàn T.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":54.0,
+                "content":"Cứ như thể càng ngày càng thêm nhiều màu sắc bị tước đi vậy.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":55.0,
+                "content":"May là giờ mới có người nhắc tới vụ này đây~",
+                "place":null,
+                "model":"로쟈"
+            },
+            {
+                "id":56.0,
+                "content":"Ôi dào, kiểu gì mình cũng lấy lại màu sắc nhanh thôi ấy mà...",
+                "place":null,
+                "model":"로쟈"
+            },
+            {
+                "id":57.0,
+                "content":"... đấy là mới mười tiếng trước tôi còn nghĩ thế...",
+                "place":null,
+                "model":"로쟈"
+            },
+            {
+                "id":58.0,
+                "content":"Chúng ta sẽ mất màu luôn sao? Sẽ mắc kẹt với cái bộ dạng u ám này suốt đời suốt kiếp sao? Đồ ăn thức uống mà chỉ độc một màu bùn đất như vậy thì ai nuốt cho nổi... Cứ cái đà này thì tôi còn chẳng thiết tha sống gì nữa...",
+                "place":null,
+                "model":"로쟈"
+            },
+            {
+                "id":59.0,
+                "content":"Cái gì cũng màu nâu, đến phát gớm! Rồi nhìn xem, đến cả thịt tươi trông cũng có khác gì thịt thối không?!",
+                "place":null,
+                "model":"로쟈"
+            },
+            {
+                "id":60.0,
+                "content":"... Phản ứng thế có hơi thái quá đó.",
+                "place":null,
+                "model":"그레고르"
+            },
+            {
+                "id":61.0,
+                "content":"Ồ, còn mấy người ở đằng kia thì sao? Hình như quần áo của họ có màu kìa!",
+                "place":null,
+                "model":"로쟈"
+            },
+            {
+                "id":62.0,
+                "content":"Với vẻ mặt khó chịu, Rodya chỉ thẳng về dòng người bên ngoài xe buýt.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":63.0,
+                "content":"Cô sẽ phải trả một khoản tiền nhất định để lấy lại màu sắc trên người mình. Và tôi phải nhấn mạnh thêm rằng, thông tin này đã được lặp lại suốt hai mươi ba lần trước đó rồi.",
+                "place":null,
+                "model":"파우스트"
+            },
+            {
+                "id":64.0,
+                "content":"Đâu, để coi nào... Áo khoác, quần tây của hắn...",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":65.0,
+                "content":"Ha, tên khốn đó chả rủng rỉnh gì đâu. Hắn đang giả vờ đấy. Mấy thằng giàu thật sẽ vung tiền để lấy lại từng sắc màu một, kể cả mấy thứ cỏn con như gọng kính.",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":66.0,
+                "content":"Anh Heathcliff cũng không nhìn thấy màu sắc gì trong suốt thời gian sống ở đây sao?",
+                "place":null,
+                "model":"홍루"
+            },
+            {
+                "id":67.0,
+                "content":"Không. Mặc dù dinh thự cũng có màu... Nhưng nó chả sặc sỡ gì cho cam.",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":68.0,
+                "content":"Đồng ý. Màu này xấu như cứt. Máu nên giữ nguyên sắc đỏ của nó.",
+                "place":null,
+                "model":"료슈"
+            },
+            {
+                "id":69.0,
+                "content":"Tên ngu này cứ lờn vờn như thế thể nào cũng bị úp sọt cho mà xem. Từng đó màu trên người chỉ tổ mời gọi đám du côn tới xơi chứ chả thị uy được ai đâu.",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":70.0,
+                "content":"Dự đoán của Heathcliff sớm trở thành sự thật, vài tên trộm bao vây \"cái gã đang tỏ ra rủng rỉnh\" và đập vào phía sau đầu ông ấy.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":71.0,
+                "content":"Chao ôi, lũ phản diện vô liêm sỉ kia!",
+                "place":null,
+                "model":"돈키호테"
+            },
+            {
+                "id":72.0,
+                "content":"Bu vào xâu xé thường dân vô tội, hệt như bầy linh cẩu háu đói...!",
+                "place":null,
+                "model":"돈키호테"
+            },
+            {
+                "id":73.0,
+                "content":"Mấy người đó... gọi là \"băng nhóm\" nhỉ?",
+                "place":null,
+                "model":"홍루"
+            },
+            {
+                "id":74.0,
+                "content":"Chậc, bọn băng nhóm của Tập Đoàn T giờ trông hèn đi hẳn. Chúng nó không đáng với cái danh băng nhóm... Toàn là mấy con mạt rệp đang cạn kiệt \"thời gian\".",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":75.0,
+                "content":"Cái thời tao còn ở đây, mấy tên khốn đó chả dám hoành hành trên phố thế này đâu.",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":76.0,
+                "content":"<... Có những băng đảng không hề cặn bã sao?>",
+                "place":null,
+                "model":"단테"
+            },
+            {
+                "id":77.0,
+                "content":"Tất nhiên! Cái băng mà tao từng ở chẳng bao giờ hội đồng một kẻ tay không tấc sắt như thế.",
+                "place":null,
+                "model":"히스클리프"
+            },
+            {
+                "id":78.0,
+                "content":"Charon muốn vờ-rùm vờ-rùm. Mà có thứ chắn đường hổng có vờ-rùm vờ-rùm được.",
+                "place":null,
+                "model":"카론"
+            },
+            {
+                "id":79.0,
+                "content":"Hừm, xem ra ngồi không cũng chả làm được gì.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":80.0,
+                "content":"Chờ đến khi chúng tôi đã thảo luận chán chê rồi, Vergilius mới lên tiếng.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":81.0,
+                "content":"Các cô cậu xử lý chúng nhanh gọn giùm trước khi chị Don Quixote lại bắt đầu la làng nữa.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":82.0,
+                "content":"Ôi! Cơ hội thực thi công lý chính là đây! Vô cùng cảm tạ ngài!",
+                "place":null,
+                "model":"돈키호테"
+            },
+            {
+                "id":83.0,
+                "content":"Ông ta cũng dần quen với mấy vụ này rồi sao...",
+                "place":null,
+                "model":"로쟈"
+            },
+            {
+                "id":84.0,
+                "content":"... Hàa.",
+                "place":null,
+                "model":"베르길리우스"
+            },
+            {
+                "id":null,
+                "content":null,
+                "place":null,
+                "model":null
+            },
+            {
+                "id":null,
+                "content":"Mẹ mày, cút! Thằng này tụi tao lia trước!",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":null,
+                "content":"Chó thật chứ... Bọn chết dẫm này đéo dư giả thời gian gì! Còn đúng mỗi ba mươi phút thôi đấy lũ ngu!",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":null,
+                "content":"Ê này, có khi bọn này là Dead Rabbits cũng nên.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":null,
+                "content":"Ba mươi phút á? Ba mươi phút để làm gì cơ?",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":null,
+                "content":"Mày xàm chó gì vậy? Lũ Dead Rabbits hết chơi trò anh hùng đường phố lâu rồi. Bọn nó giờ chỉ biết đeo dăm ba cái mặt nạ rách rưới rồi đứng trơ người như trời trồng vậy thôi.",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":null,
+                "content":"Mặt nạ? Là sao? Mày đang nói—",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":null,
+                "content":"Đĩ mẹ, sắp hết thời gian tới nơi rồi... xử lẹ đi!",
+                "place":null,
+                "model":null
+            },
+            {
+                "id":null,
+                "content":"Bọn chúng đằng đằng sát khí lao tới, không để cho Heathcliff kịp nói hết câu.",
+                "place":null,
+                "model":null
+            }
+        ]
+    }
+

@@ -98,7 +98,7 @@
     },
     {
       "id": "character_list_title_friend_support",
-      "content": "Danh Tính Hỗ Trợ: {0}"
+      "content": "[font=bebas]Danh Tính Hỗ Trợ: {0}"
     },
     {
       "id": "character_list_collect_rate",
@@ -126,7 +126,7 @@
     },
     {
       "id": "formation_ui_announcer",
-      "content": "Bình Luận Viên"
+      "content": "[font=bebas]Bình Luận Viên"
     },
     {
       "id": "formation_ui_announcer_detail",

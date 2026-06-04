@@ -1,45 +1,62 @@
-{
-    "dataList": [
-        {
-            "id": 0,
-            "place": "Wuthering Heights Hall",
-            "model": "히스클리프",
-            "content": "Give Catherine... back."
-        },
-        {
-            "id": 1,
-            "model": "마왕히스클리프2",
-            "title": "A Distant World",
-            "content": "... She is forever lost. Her consciousness is broken, scattered to a thousand places."
-        },
-        {
-            "id": 2,
-            "model": "히스클리프",
-            "content": "Shut up! You'll have to do much worse to make me give up!"
-        },
-        {
-            "id": 3,
-            "model": "마왕히스클리프2",
-            "title": "A Distant World",
-            "content": "Gah...!"
-        },
-        {
-            "id": 4,
-            "content": "Heathcliff the Erlking falls to his knees."
-        },
-        {
-            "id": 5,
-            "content": "We were less than ten paces from the rooftop; we had to stop him from going up the stairs no matter what."
-        },
-        {
-            "id": 6,
-            "place": "Wuthering Heights Hall"
-        },
-        {
-            "id": 7,
-            "place": "Wuthering Heights Hall",
-            "model": "뫼르소",
-            "content": "He is bound. I cannot hold him with these chains for much longer; neutralize the target as soon as possible."
-        }
-    ]
-}
+
+    {
+        "dataList":[
+            {
+                "id":0,
+                "place":"Đại Sảnh Đồi Gió Hú",
+                "model":"히스클리프",
+                "content":"Trả Catherine... lại đây.",
+                "title":null
+            },
+            {
+                "id":1,
+                "place":null,
+                "model":"마왕히스클리프2",
+                "content":"... Nàng đã một đi không trở lại. Ý thức của nàng đã đổ nát, tan tác thành một nghìn mảnh.",
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":2,
+                "place":null,
+                "model":"히스클리프",
+                "content":"Câm mồm! Mày nghĩ nói có vậy mà đòi tao bỏ cuộc à!",
+                "title":null
+            },
+            {
+                "id":3,
+                "place":null,
+                "model":"마왕히스클리프2",
+                "content":"Ặc...!",
+                "title":"Một Thế Giới Xa Vời"
+            },
+            {
+                "id":4,
+                "place":null,
+                "model":null,
+                "content":"Heathcliff Lâm Vương ngã khuỵu xuống.",
+                "title":null
+            },
+            {
+                "id":5,
+                "place":null,
+                "model":null,
+                "content":"Chúng tôi chỉ còn cách sân thượng chưa đầy mười bước; chúng tôi phải ngăn hắn đi lên chỗ cầu thang đó bằng mọi giá.",
+                "title":null
+            },
+            {
+                "id":6,
+                "place":"Đại Sảnh Đồi Gió Hú",
+                "model":null,
+                "content":null,
+                "title":null
+            },
+            {
+                "id":7,
+                "place":"Đại Sảnh Đồi Gió Hú",
+                "model":"뫼르소",
+                "content":"Hắn đã bị trói lại. Những sợi xích này khó có thể cầm chân hắn lâu hơn nữa; hãy vô hiệu hóa mục tiêu càng nhanh càng tốt.",
+                "title":null
+            }
+        ]
+    }
+

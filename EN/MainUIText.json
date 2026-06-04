@@ -46,7 +46,7 @@
     },
     {
       "id": "mainui_stageinfo_recommendlevel",
-      "content": "Difficulty"
+      "content": "Độ Khó"
     },
     {
       "id": "mainui_stageinfo_enemyinfo",
@@ -74,7 +74,7 @@
     },
     {
       "id": "mainui_sinners_battleannouncer",
-      "content": "Bình Luận Viên"
+      "content": "[font=bebas]Bình Luận Viên"
     },
     {
       "id": "mainui_sinners_dante",
@@ -1410,11 +1410,11 @@
     },
     {
       "id": "formation_force_participation_on",
-      "content": "Bắt Buộc Tham Chiến"
+      "content": "[font=bebas]Bắt Buộc"
     },
     {
       "id": "formation_force_participation_off",
-      "content": "Fixed Member Needed"
+      "content": "[font=bebas]Cần Thành Viên Chỉ Định"
     },
     {
       "id": "formation_must_participate_specific_character",
@@ -1462,7 +1462,7 @@
     },
     {
       "id": "user_level_maximum_notice",
-      "content": "Reached Max Level."
+      "content": "Đạt Cấp Tối Đa."
     },
     {
       "id": "user_level_limit_increase_notice",
@@ -1478,15 +1478,15 @@
     },
     {
       "id": "abnormality_part_skill",
-      "content": "Part Skills"
+      "content": "Kỹ Năng Bộ Phận"
     },
     {
       "id": "awaken",
-      "content": "Awakening"
+      "content": "Thức Tỉnh"
     },
     {
       "id": "erosion",
-      "content": "Corrosion"
+      "content": "Ăn Mòn"
     },
     {
       "id": "formation_panel_detail",
@@ -1494,7 +1494,7 @@
     },
     {
       "id": "ego_cost",
-      "content": "E.G.O Resources"
+      "content": "Tài Nguyên E.G.O."
     },
     {
       "id": "enable_count_for_battle",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "formation_force_abstain",
-      "content": "Không Thể Triển Khai"
+      "content": "[font=bebas]Không Thể Tham Chiến"
     },
     {
       "id": "formation_view_detail",
@@ -1590,11 +1590,11 @@
     },
     {
       "id": "first_time",
-      "content": "First-time"
+      "content": "Lần Đầu"
     },
     {
       "id": "formation_Announcer_fixed",
-      "content": "Fixed"
+      "content": "Cố Định"
     },
     {
       "id": "gacha_rate_info_wa1",
@@ -1802,7 +1802,7 @@
     },
     {
       "id": "caution",
-      "content": "WARNING"
+      "content": "CẢNH BÁO"
     },
     {
       "id": "announcer_spoiler_caution",
@@ -1898,15 +1898,15 @@
     },
     {
       "id": "ego_gift_combine_explain_label_keyword",
-      "content": "Keywords"
+      "content": "Từ Khóa"
     },
     {
       "id": "ego_gift_combine_explain_label_attack_type",
-      "content": "Attack Type"
+      "content": "Loại Tấn Công"
     },
     {
       "id": "ego_gift_combine_explain_label_etc",
-      "content": "Other"
+      "content": "Khác"
     },
     {
       "id": "ego_gift_combine_explain_button_label",
@@ -2014,7 +2014,7 @@
     },
     {
       "id": "assistant_level",
-      "content": "Character Level"
+      "content": "Cấp Nhân Vật"
     },
     {
       "id": "mainui_ego_gift_keyword",
@@ -2022,7 +2022,7 @@
     },
     {
       "id": "mainui_ego_gift_grade",
-      "content": "Tier"
+      "content": "Bậc"
     },
     {
       "id": "mainui_use_random_piece_package",
